@@ -1,0 +1,938 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-08-30 12:58:23
+Student First Name:SCOTT
+Student Middle Initial:A
+Student Last Name:LEWIS
+Student Street Address 1:225 RED CEDAR CT, APT 3A
+Student Street Address 2:APT 3A
+Student City:CHESAPEAKE
+Student State Code:VA
+Student Country Code:US
+Student Zip Code:23320
+Student Email Address:VBEMT52@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:7579186460
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7579186460
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:12/13/2019
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:C
+Undergraduate Award Year:2020
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$15,155.00
+Undergraduate Aggregate Unsubsidized Total:$11,044.00
+Undergraduate Aggregate Combined Total:$26,199.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$15,155.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$11,044.00
+Aggregate Combined Total (Undergraduate and Graduate):$26,199.00
+Student Total All Loans Outstanding Principal:$27,655.00
+Student Total All Loans Outstanding Interest:$1,308.00
+Student Pell Lifetime Eligibility Used:137.497%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$8,098.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$15,155.00
+Total <D0> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$12,500.00
+Total <D2> Outstanding Interest:$1,308.00
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****0043S20G03728001
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:09/23/2019
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/24/2019
+Loan Period End Date:12/13/2019
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,733.00
+Loan Outstanding Principal Balance as of Date:08/22/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/22/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$7.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.3
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$7.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,733.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/23/2019
+Loan Disbursement Date:09/23/2019
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****0043S19G03728001
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:08/16/2018
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/25/2018
+Loan Period End Date:05/08/2019
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,466.00
+Loan Outstanding Principal Balance as of Date:08/22/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/22/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$15.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$15.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,466.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2018
+Loan Disbursement Date:01/03/2019
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/16/2018
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0043U19G03728001
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:08/16/2018
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/25/2018
+Loan Period End Date:05/08/2019
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,000.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$32.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$6.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$7.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$139.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,861.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2018
+Loan Disbursement Date:01/03/2019
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/16/2018
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0043U18G03728002
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:08/18/2017
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/26/2017
+Loan Period End Date:05/02/2018
+Loan Amount:$3,966.00
+Loan Disbursed Amount:$3,966.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,966.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$405.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$12.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$12.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$420.00
+Net Loan Amount:$3,966.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,546.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2017
+Loan Disbursement Date:01/02/2018
+Loan Disbursement Amount:$1,983.00
+Loan Disbursement Date:08/18/2017
+Loan Disbursement Amount:$1,983.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0043U18G03728001
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:08/18/2017
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/26/2017
+Loan Period End Date:05/02/2018
+Loan Amount:$2,534.00
+Loan Disbursed Amount:$2,534.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,534.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$258.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$8.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$8.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$268.00
+Net Loan Amount:$2,534.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,266.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2017
+Loan Disbursement Date:01/02/2018
+Loan Disbursement Amount:$1,267.00
+Loan Disbursement Date:08/18/2017
+Loan Disbursement Amount:$1,267.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****0043S17G03728001
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:08/22/2016
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/27/2016
+Loan Period End Date:04/24/2017
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,478.00
+Loan Outstanding Principal Balance as of Date:08/22/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/22/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$9.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$9.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,478.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2016
+Loan Disbursement Date:01/03/2017
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/22/2016
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0043U17G03728001
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:08/17/2016
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/27/2016
+Loan Period End Date:04/24/2017
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,000.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$246.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$6.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$6.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$254.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,746.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2016
+Loan Disbursement Date:01/03/2017
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/17/2016
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****0043S16G03728001
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:08/18/2015
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/22/2015
+Loan Period End Date:04/25/2016
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,478.00
+Loan Outstanding Principal Balance as of Date:08/22/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/22/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$9.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$9.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,478.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2015
+Loan Disbursement Date:01/04/2016
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/18/2015
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0043U16G03728001
+Loan Attending School Name:Old Dominion University
+Loan Attending School OPEID:00372800
+Loan Date:08/18/2015
+Loan Repayment Begin Date:06/14/2020
+Loan Period Begin Date:08/22/2015
+Loan Period End Date:04/25/2016
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,000.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$367.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/06/2020
+Loan Repayment Plan Scheduled Amount:$6.00
+Loan Repayment Plan IDR Plan Anniversary Date:07/13/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/18/2022
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$6.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$375.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,625.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/30/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/11/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/14/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2015
+Loan Disbursement Date:01/04/2016
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/18/2015
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Old Dominion University
+Grant Attending School OPEID:00372800
+Grant Award Year:2019 - 2020
+Grant Scheduled Amount:$6,195.00
+Grant Award Amount:$5,421.00
+Grant Disbursed Amount:$2,323.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.498%
+Aid Recipient's Total Percent Eligibility Used (TEU):37.498%
+Grant Contact Type:Attending School
+Grant Contact Code:00372800
+Grant Contact Name:Old Dominion University
+Grant Contact Street Address 1:2000 ROLLINS HALL
+Grant Contact Street Address 2:OLD DOMINION UNIVERSITY
+Grant Contact City:NORFOLK
+Grant Contact State Code:VA
+Grant Contact Zip Code:23529
+Phone Number:757-683-4786
+Phone Extension:
+Email Address:vriddick@odu.edu
+Web Site Address:https://www.odu.edu/finaidoffice.html
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Old Dominion University
+Grant Attending School OPEID:00372800
+Grant Award Year:2015 - 2016
+Grant Scheduled Amount:$5,775.00
+Grant Award Amount:$5,775.00
+Grant Disbursed Amount:$5,775.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00372800
+Grant Contact Name:Old Dominion University
+Grant Contact Street Address 1:2000 ROLLINS HALL
+Grant Contact Street Address 2:OLD DOMINION UNIVERSITY
+Grant Contact City:NORFOLK
+Grant Contact State Code:VA
+Grant Contact Zip Code:23529
+Phone Number:757-683-4786
+Phone Extension:
+Email Address:vriddick@odu.edu
+Web Site Address:https://www.odu.edu/finaidoffice.html
+Program School Name:Old Dominion University
+Program School OPEID:00372800
+Program Cip Year:2010
+Program Cip Code:420101
+Program CIP Title:Psychology, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/27/2016
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:08/26/2017
+Program School Name:Old Dominion University
+Program School OPEID:00372800
+Program Cip Year:2010
+Program Cip Code:450401
+Program CIP Title:Criminology.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:01/09/2016
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:12/13/2019
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:09/05/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/26/2017
+Program School Name:Old Dominion University
+Program School OPEID:00372800
+Program Cip Year:2010
+Program Cip Code:141001
+Program CIP Title:Electrical and Electronics Engineering
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/22/2015
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:08/22/2015
+Program School Name:Old Dominion University
+Program School OPEID:00372800
+Program Cip Year:2010
+Program Cip Code:141901
+Program CIP Title:Mechanical Engineering.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/22/2015
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:01/09/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/22/2015
+Program School Name:Old Dominion University
+Program School OPEID:00372800
+Program Cip Year:2010
+Program Cip Code:240102
+Program CIP Title:General Studies.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/22/2015
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:01/09/2016
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:09/23/2019
+Award Loan Period Begin Date:08/24/2019
+Award Loan Period End Date:12/13/2019
+Award Subsidized Usage:0.3
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/16/2018
+Award Loan Period Begin Date:08/25/2018
+Award Loan Period End Date:05/08/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/16/2018
+Award Loan Period Begin Date:08/25/2018
+Award Loan Period End Date:05/08/2019
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/16/2017
+Award Loan Period Begin Date:01/06/2018
+Award Loan Period End Date:05/02/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/18/2017
+Award Loan Period Begin Date:08/26/2017
+Award Loan Period End Date:05/02/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/18/2017
+Award Loan Period Begin Date:08/26/2017
+Award Loan Period End Date:05/02/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/22/2016
+Award Loan Period Begin Date:08/27/2016
+Award Loan Period End Date:04/24/2017
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/17/2016
+Award Loan Period Begin Date:08/27/2016
+Award Loan Period End Date:04/24/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/18/2015
+Award Loan Period Begin Date:08/22/2015
+Award Loan Period End Date:04/25/2016
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Old Dominion University
+Award School OPEID:00372800
+Award Earliest Disbursement Date:08/18/2015
+Award Loan Period Begin Date:08/22/2015
+Award Loan Period End Date:04/25/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Old Dominion University
+Enrolled School OPEID:00372800
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/13/2019

@@ -1,0 +1,2353 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-03-01 13:06:04
+Student First Name:JAMES
+Student Middle Initial:P
+Student Last Name:PUCCINO
+Student Street Address 1:30 GRACE ST
+Student Street Address 2:
+Student City:TORRINGTON
+Student State Code:CT
+Student Country Code:US
+Student Zip Code:06790
+Student Email Address:JAMESPUCCINOJR@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2038237300
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2038237300
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:H
+Student Enrollment Status Code Description:HALF TIME
+Student Enrollment Status Effective Date:01/18/2023
+Undergraduate Subsidized Loan Limit Flag:E
+Undergraduate Combined Loan Limit Flag:E
+Undergraduate Award Year:2023
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$23,891.00
+Undergraduate Aggregate Unsubsidized Total:$35,955.00
+Undergraduate Aggregate Combined Total:$59,846.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$23,891.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$35,955.00
+Aggregate Combined Total (Undergraduate and Graduate):$59,846.00
+Student Total All Loans Outstanding Principal:$65,722.00
+Student Total All Loans Outstanding Interest:$0.00
+Student Pell Lifetime Eligibility Used:137.519%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$3,690.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$11,168.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$20,185.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$21,646.00
+Total <D5> Outstanding Interest:$0.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$12,723.00
+Total <D6> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S23G01378001
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:02/13/2023
+Loan Repayment Begin Date:07/19/2025
+Loan Period Begin Date:01/18/2023
+Loan Period End Date:05/14/2023
+Loan Amount:$891.00
+Loan Disbursed Amount:$891.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$891.00
+Loan Outstanding Principal Balance as of Date:02/15/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/15/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.99%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:08/26/2025
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2023
+Capitalized Interest:$0.00
+Net Loan Amount:$891.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$891.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/16/2023
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/13/2023
+Loan Disbursement Date:02/13/2023
+Loan Disbursement Amount:$891.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U23G01378001
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:02/13/2023
+Loan Repayment Begin Date:07/19/2025
+Loan Period Begin Date:01/18/2023
+Loan Period End Date:05/14/2023
+Loan Amount:$3,012.00
+Loan Disbursed Amount:$3,012.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,012.00
+Loan Outstanding Principal Balance as of Date:02/15/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/15/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.99%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:08/26/2025
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2023
+Capitalized Interest:$0.00
+Net Loan Amount:$3,012.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,012.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/16/2023
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/13/2023
+Loan Disbursement Date:02/13/2023
+Loan Disbursement Amount:$3,012.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S22G01378001
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:02/11/2022
+Loan Repayment Begin Date:07/01/2023
+Loan Period Begin Date:01/19/2022
+Loan Period End Date:05/15/2022
+Loan Amount:$1,783.00
+Loan Disbursed Amount:$1,783.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,783.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.73%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$1,783.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,783.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/10/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/31/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/11/2022
+Loan Disbursement Date:02/11/2022
+Loan Disbursement Amount:$1,783.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U22G01378001
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:02/11/2022
+Loan Repayment Begin Date:07/01/2023
+Loan Period Begin Date:01/19/2022
+Loan Period End Date:05/15/2022
+Loan Amount:$4,467.00
+Loan Disbursed Amount:$4,467.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,467.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.73%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$4,467.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,467.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/10/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/31/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/11/2022
+Loan Disbursement Date:02/11/2022
+Loan Disbursement Amount:$4,467.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S21G01378002
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:09/18/2020
+Loan Repayment Begin Date:07/01/2023
+Loan Period Begin Date:08/26/2020
+Loan Period End Date:05/16/2021
+Loan Amount:$277.00
+Loan Disbursed Amount:$277.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$277.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$277.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$277.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/10/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/31/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/18/2020
+Loan Disbursement Date:02/10/2021
+Loan Disbursement Amount:$138.00
+Loan Disbursement Date:09/18/2020
+Loan Disbursement Amount:$139.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S21G01378001
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:09/18/2020
+Loan Repayment Begin Date:07/01/2023
+Loan Period Begin Date:08/26/2020
+Loan Period End Date:05/16/2021
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,500.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/10/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/31/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/18/2020
+Loan Disbursement Date:02/10/2021
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:09/18/2020
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U21G01378001
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:09/18/2020
+Loan Repayment Begin Date:07/01/2023
+Loan Period Begin Date:08/26/2020
+Loan Period End Date:05/16/2021
+Loan Amount:$5,723.00
+Loan Disbursed Amount:$5,723.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,723.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$5,723.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,723.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/10/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/31/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/18/2020
+Loan Disbursement Date:02/10/2021
+Loan Disbursement Amount:$2,862.00
+Loan Disbursement Date:09/18/2020
+Loan Disbursement Amount:$2,861.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S20G01378001
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:09/19/2019
+Loan Repayment Begin Date:07/01/2023
+Loan Period Begin Date:08/27/2019
+Loan Period End Date:05/17/2020
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,717.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:10/08/2019
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$1,783.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,717.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/10/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/31/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/19/2019
+Loan Disbursement Date:02/18/2020
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/19/2019
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U20G01378001
+Loan Attending School Name:Central Connecticut State University
+Loan Attending School OPEID:00137800
+Loan Date:09/19/2019
+Loan Repayment Begin Date:07/01/2023
+Loan Period Begin Date:08/27/2019
+Loan Period End Date:05/17/2020
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,983.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/02/2020
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$105.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,983.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/10/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/31/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/19/2019
+Loan Disbursement Date:02/18/2020
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:09/19/2019
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S14G10727021
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:01/09/2014
+Loan Repayment Begin Date:09/04/2014
+Loan Period Begin Date:10/28/2013
+Loan Period End Date:06/29/2014
+Loan Amount:$2,655.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$2,655.00
+Loan Canceled Date:08/29/2014
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/31/2014
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2014
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/10/2014
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:09/04/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/09/2014
+Loan Disbursement Date:01/09/2014
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U14G10727021
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:01/09/2014
+Loan Repayment Begin Date:09/04/2014
+Loan Period Begin Date:10/28/2013
+Loan Period End Date:06/29/2014
+Loan Amount:$6,962.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$6,962.00
+Loan Canceled Date:08/29/2014
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/31/2014
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2014
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/10/2014
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:09/04/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/09/2014
+Loan Disbursement Date:01/09/2014
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S14G10727011
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:07/16/2013
+Loan Repayment Begin Date:04/29/2018
+Loan Period Begin Date:07/08/2013
+Loan Period End Date:10/27/2013
+Loan Amount:$887.00
+Loan Disbursed Amount:$887.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/29/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/29/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:01/28/2018
+Loan Repayment Plan Scheduled Amount:$9.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/24/2018
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$902.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$887.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/01/2018
+DelinqDate:08/20/2018
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:08/24/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/28/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/16/2013
+Loan Disbursement Date:09/07/2013
+Loan Disbursement Amount:$443.00
+Loan Disbursement Date:07/16/2013
+Loan Disbursement Amount:$444.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U14G10727011
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:07/16/2013
+Loan Repayment Begin Date:04/29/2018
+Loan Period Begin Date:07/08/2013
+Loan Period End Date:10/27/2013
+Loan Amount:$3,531.00
+Loan Disbursed Amount:$3,531.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:01/28/2018
+Loan Repayment Plan Scheduled Amount:$42.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$642.00
+Net Loan Amount:$3,531.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/28/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/16/2013
+Loan Disbursement Date:09/07/2013
+Loan Disbursement Amount:$1,759.00
+Loan Disbursement Date:07/16/2013
+Loan Disbursement Amount:$1,772.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S13G10727021
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:03/08/2013
+Loan Repayment Begin Date:04/29/2018
+Loan Period Begin Date:03/04/2013
+Loan Period End Date:06/30/2013
+Loan Amount:$1,590.00
+Loan Disbursed Amount:$1,590.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.40%
+Loan Actual Interest Rate:3.40%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/18/2018
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$27.00
+Net Loan Amount:$1,590.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/28/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/08/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:01/25/2013
+Loan Disbursement Date:05/11/2013
+Loan Disbursement Amount:$795.00
+Loan Disbursement Date:03/08/2013
+Loan Disbursement Amount:$795.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U13G10727021
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:03/08/2013
+Loan Repayment Begin Date:04/29/2018
+Loan Period Begin Date:03/04/2013
+Loan Period End Date:06/30/2013
+Loan Amount:$3,646.00
+Loan Disbursed Amount:$3,646.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/18/2018
+Loan Repayment Plan Scheduled Amount:$57.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$1,253.00
+Net Loan Amount:$3,646.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/28/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/08/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:01/25/2013
+Loan Disbursement Date:05/11/2013
+Loan Disbursement Amount:$1,816.00
+Loan Disbursement Date:03/08/2013
+Loan Disbursement Amount:$1,830.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S13G10727012
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:09/19/2012
+Loan Repayment Begin Date:04/29/2018
+Loan Period Begin Date:07/09/2012
+Loan Period End Date:03/03/2013
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.40%
+Loan Actual Interest Rate:3.40%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/18/2018
+Loan Repayment Plan Scheduled Amount:$10.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$17.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/28/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/19/2012
+Loan Disbursement Date:01/12/2013
+Loan Disbursement Amount:$250.00
+Loan Disbursement Date:11/09/2012
+Loan Disbursement Amount:$250.00
+Loan Disbursement Date:09/19/2012
+Loan Disbursement Amount:$500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S13G10727011
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:09/10/2012
+Loan Repayment Begin Date:04/29/2018
+Loan Period Begin Date:07/09/2012
+Loan Period End Date:03/03/2013
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.40%
+Loan Actual Interest Rate:3.40%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/18/2018
+Loan Repayment Plan Scheduled Amount:$35.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$60.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/28/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/10/2012
+Loan Disbursement Date:01/12/2013
+Loan Disbursement Amount:$875.00
+Loan Disbursement Date:11/09/2012
+Loan Disbursement Amount:$875.00
+Loan Disbursement Date:09/10/2012
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U13G10727011
+Loan Attending School Name:DeVry University
+Loan Attending School OPEID:01072700
+Loan Date:09/10/2012
+Loan Repayment Begin Date:04/29/2018
+Loan Period Begin Date:07/09/2012
+Loan Period End Date:03/03/2013
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/18/2018
+Loan Repayment Plan Scheduled Amount:$95.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$2,246.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/28/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/10/2012
+Loan Disbursement Date:01/12/2013
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:11/09/2012
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:09/10/2012
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S08G10779002
+Loan Attending School Name:Porter and Chester Institute
+Loan Attending School OPEID:01077900
+Loan Date:01/07/2008
+Loan Repayment Begin Date:01/04/2009
+Loan Period Begin Date:01/14/2008
+Loan Period End Date:07/03/2008
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/23/2018
+Loan Repayment Plan Scheduled Amount:$13.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$70.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/29/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/28/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/03/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/07/2008
+Loan Disbursement Date:04/04/2008
+Loan Disbursement Amount:$500.00
+Loan Disbursement Date:01/07/2008
+Loan Disbursement Amount:$500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S08G10779001
+Loan Attending School Name:Porter and Chester Institute
+Loan Attending School OPEID:01077900
+Loan Date:10/05/2007
+Loan Repayment Begin Date:01/04/2009
+Loan Period Begin Date:10/15/2007
+Loan Period End Date:07/03/2008
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/23/2018
+Loan Repayment Plan Scheduled Amount:$45.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$245.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/29/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/28/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/03/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/05/2007
+Loan Disbursement Date:04/04/2008
+Loan Disbursement Amount:$1,190.00
+Loan Disbursement Date:01/07/2008
+Loan Disbursement Amount:$1,155.00
+Loan Disbursement Date:10/05/2007
+Loan Disbursement Amount:$1,155.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U08G10779001
+Loan Attending School Name:Porter and Chester Institute
+Loan Attending School OPEID:01077900
+Loan Date:10/05/2007
+Loan Repayment Begin Date:01/04/2009
+Loan Period Begin Date:10/15/2007
+Loan Period End Date:07/03/2008
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/23/2018
+Loan Repayment Plan Scheduled Amount:$77.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$2,193.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/29/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/28/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/03/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/05/2007
+Loan Disbursement Date:04/04/2008
+Loan Disbursement Amount:$1,360.00
+Loan Disbursement Date:01/07/2008
+Loan Disbursement Amount:$1,320.00
+Loan Disbursement Date:10/05/2007
+Loan Disbursement Amount:$1,320.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****1935S07G10779001
+Loan Attending School Name:Porter and Chester Institute
+Loan Attending School OPEID:01077900
+Loan Date:04/06/2007
+Loan Repayment Begin Date:01/04/2009
+Loan Period Begin Date:01/15/2007
+Loan Period End Date:10/05/2007
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/23/2018
+Loan Repayment Plan Scheduled Amount:$34.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$184.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/29/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/28/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/03/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/06/2007
+Loan Disbursement Date:07/06/2007
+Loan Disbursement Amount:$893.00
+Loan Disbursement Date:04/06/2007
+Loan Disbursement Amount:$1,732.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1935U07G10779001
+Loan Attending School Name:Porter and Chester Institute
+Loan Attending School OPEID:01077900
+Loan Date:04/06/2007
+Loan Repayment Begin Date:01/04/2009
+Loan Period Begin Date:01/15/2007
+Loan Period End Date:10/05/2007
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/11/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/11/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/23/2018
+Loan Repayment Plan Scheduled Amount:$80.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/19/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$2,456.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/14/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/29/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/28/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/03/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/06/2007
+Loan Disbursement Date:07/06/2007
+Loan Disbursement Amount:$1,360.00
+Loan Disbursement Date:04/06/2007
+Loan Disbursement Amount:$2,640.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****1935U18G77778202
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:07/11/2018
+Loan Repayment Begin Date:07/11/2018
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$29,068.00
+Loan Disbursed Amount:$29,068.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$21,646.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.13%
+Loan Repayment Plan Type Code:CS
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:07/12/2018
+Loan Repayment Plan Scheduled Amount:$191.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/14/2021
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$10,276.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$29,068.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$15,770.00
+Calculated Combined Aggregate OPB:$15,770.00
+UpdtDt:02/10/2023
+DelinqDate:10/20/2018
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/01/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/27/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/11/2018
+Loan Disbursement Date:07/11/2018
+Loan Disbursement Amount:$29,068.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****1935S18G77778202
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:07/11/2018
+Loan Repayment Begin Date:07/11/2018
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$12,942.00
+Loan Disbursed Amount:$12,942.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,723.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.13%
+Loan Repayment Plan Type Code:CS
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:07/12/2018
+Loan Repayment Plan Scheduled Amount:$85.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:10/08/2019
+Loan Next Payment Due Date:06/28/2026
+Loan Cumulative Payment Amount:$1,107.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$12,942.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$12,723.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$12,723.00
+UpdtDt:02/10/2023
+DelinqDate:10/20/2018
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/18/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/01/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/27/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/11/2018
+Loan Disbursement Date:07/11/2018
+Loan Disbursement Amount:$12,942.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Central Connecticut State University
+Grant Attending School OPEID:00137800
+Grant Award Year:2019 - 2020
+Grant Scheduled Amount:$3,245.00
+Grant Award Amount:$2,840.00
+Grant Disbursed Amount:$2,840.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):87.519%
+Aid Recipient's Total Percent Eligibility Used (TEU):87.519%
+Grant Contact Type:Attending School
+Grant Contact Code:00137800
+Grant Contact Name:Central Connecticut State University
+Grant Contact Street Address 1:1615 STANLEY STREET
+Grant Contact Street Address 2:
+Grant Contact City:NEW BRITAIN
+Grant Contact State Code:CT
+Grant Contact Zip Code:06050(2490)
+Phone Number:860-832-2200
+Phone Extension:
+Email Address:lupachinok@ccsu.edu
+Web Site Address:http://www.ccsu.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Gateway Community College
+Grant Attending School OPEID:00803700
+Grant Award Year:2005 - 2006
+Grant Scheduled Amount:$1,700.00
+Grant Award Amount:$1,700.00
+Grant Disbursed Amount:$850.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00803700
+Grant Contact Name:Gateway Community College
+Grant Contact Street Address 1:20 CHURCH STREET
+Grant Contact Street Address 2:
+Grant Contact City:NEW HAVEN
+Grant Contact State Code:CT
+Grant Contact Zip Code:06510(0000)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Program School Name:Tunxis Community College
+Program School OPEID:00976400
+Program Cip Year:2020
+Program Cip Code:240102
+Program CIP Title:General Studies.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:08/26/2021
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:08/29/2022
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/15/2021
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:08/30/2021
+Program School Name:Central Connecticut State University
+Program School OPEID:00137800
+Program Cip Year:2020
+Program Cip Code:150405
+Program CIP Title:Robotics Technology/Technician.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/27/2019
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/18/2023
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:06/22/2022
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:01/19/2022
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:08/25/2021
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:08/26/2020
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:02/13/2023
+Award Loan Period Begin Date:01/18/2023
+Award Loan Period End Date:05/14/2023
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:02/13/2023
+Award Loan Period Begin Date:01/18/2023
+Award Loan Period End Date:05/14/2023
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:02/11/2022
+Award Loan Period Begin Date:01/19/2022
+Award Loan Period End Date:05/15/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:02/11/2022
+Award Loan Period Begin Date:01/19/2022
+Award Loan Period End Date:05/15/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:09/18/2020
+Award Loan Period Begin Date:08/26/2020
+Award Loan Period End Date:05/16/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:09/18/2020
+Award Loan Period Begin Date:08/26/2020
+Award Loan Period End Date:05/16/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:09/18/2020
+Award Loan Period Begin Date:08/26/2020
+Award Loan Period End Date:05/16/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:09/19/2019
+Award Loan Period Begin Date:08/27/2019
+Award Loan Period End Date:05/17/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Central Connecticut State University
+Award School OPEID:00137800
+Award Earliest Disbursement Date:09/19/2019
+Award Loan Period Begin Date:08/27/2019
+Award Loan Period End Date:05/17/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:01/09/2014
+Award Loan Period Begin Date:10/28/2013
+Award Loan Period End Date:06/29/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:01/09/2014
+Award Loan Period Begin Date:10/28/2013
+Award Loan Period End Date:06/29/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:07/16/2013
+Award Loan Period Begin Date:07/08/2013
+Award Loan Period End Date:10/27/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:07/16/2013
+Award Loan Period Begin Date:07/08/2013
+Award Loan Period End Date:10/27/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:03/08/2013
+Award Loan Period Begin Date:03/04/2013
+Award Loan Period End Date:06/30/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:03/08/2013
+Award Loan Period Begin Date:03/04/2013
+Award Loan Period End Date:06/30/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:09/10/2012
+Award Loan Period Begin Date:07/09/2012
+Award Loan Period End Date:03/03/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:09/19/2012
+Award Loan Period Begin Date:07/09/2012
+Award Loan Period End Date:03/03/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:DeVry University
+Award School OPEID:01072700
+Award Earliest Disbursement Date:09/10/2012
+Award Loan Period Begin Date:07/09/2012
+Award Loan Period End Date:03/03/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Central Connecticut State University
+Enrolled School OPEID:00137800
+Enrolled Status Code:H
+Enrolled Status Code Description:HALF TIME
+Enrolled Status Date:01/18/2023
+Enrolled School Name:Tunxis Community College
+Enrolled School OPEID:00976400
+Enrolled Status Code:L
+Enrolled Status Code Description:LESS THAN HALF TIME
+Enrolled Status Date:08/29/2022
+Enrolled School Name:DeVry University
+Enrolled School OPEID:01072700
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:10/27/2013
+Enrolled School Name:Gateway Community College
+Enrolled School OPEID:00803700
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/20/2012
+Enrolled School Name:Porter and Chester Institute
+Enrolled School OPEID:01077900
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:07/03/2008

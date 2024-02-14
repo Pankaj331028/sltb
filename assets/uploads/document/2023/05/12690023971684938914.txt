@@ -1,0 +1,1669 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-05-24 10:12:09
+Student First Name:THOMAS
+Student Middle Initial:J
+Student Last Name:VERDELL
+Student Street Address 1:340 PINE COBBLE RD
+Student Street Address 2:
+Student City:WILLIAMSTOWN
+Student State Code:MA
+Student Country Code:US
+Student Zip Code:012672324
+Student Email Address:COACHTOMMYV@HOTMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4136279900
+Student Home Phone Preferred:Yes
+Student Cell Phone Country Code:1
+Student Cell Phone Number:4136279900
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:1
+Student Work Phone Number:4132591404
+Student Work Phone Preferred:No
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:10/19/2018
+Undergraduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Award Year:2001
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$15,206.00
+Undergraduate Aggregate Unsubsidized Total:$9,787.00
+Undergraduate Aggregate Combined Total:$24,993.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$15,206.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$9,787.00
+Aggregate Combined Total (Undergraduate and Graduate):$24,993.00
+Student Total All Loans Outstanding Principal:$47,775.00
+Student Total All Loans Outstanding Interest:$0.00
+Student Pell Lifetime Eligibility Used:300.008%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$7,519.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$0.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$27,108.00
+Total <D5> Outstanding Interest:$0.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$20,667.00
+Total <D6> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SL
+Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Total <SL> Outstanding Principal:$0.00
+Total <SL> Outstanding Interest:$0.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8393S01G02221001
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:08/31/2000
+Loan Repayment Begin Date:08/02/2001
+Loan Period Begin Date:09/06/2000
+Loan Period End Date:05/26/2001
+Loan Amount:$1,609.00
+Loan Disbursed Amount:$1,609.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.43%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$1,609.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:03/30/2020
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/23/2000
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/31/2000
+Loan Disbursement Date:08/31/2000
+Loan Disbursement Amount:$1,609.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8393U01G02221001
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:10/05/2000
+Loan Repayment Begin Date:08/02/2001
+Loan Period Begin Date:09/06/2000
+Loan Period End Date:12/22/2000
+Loan Amount:$2,141.00
+Loan Disbursed Amount:$2,141.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.43%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$25.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$2,141.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:03/31/2020
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/23/2000
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/05/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/06/2000
+Loan Disbursement Date:10/05/2000
+Loan Disbursement Amount:$2,141.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8393S01G02221098
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:06/08/2000
+Loan Repayment Begin Date:08/02/2001
+Loan Period Begin Date:06/06/2000
+Loan Period End Date:08/28/2000
+Loan Amount:$1,500.00
+Loan Disbursed Amount:$1,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.43%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$15.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$1,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:03/30/2020
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/23/2000
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/08/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:06/06/2000
+Loan Disbursement Date:06/08/2000
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8393S00G02221001
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:08/30/1999
+Loan Repayment Begin Date:08/02/2001
+Loan Period Begin Date:09/08/1999
+Loan Period End Date:05/23/2000
+Loan Amount:$3,994.00
+Loan Disbursed Amount:$3,994.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.43%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$41.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$3,994.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:03/31/2020
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/23/2000
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/30/1999
+Loan Disbursement Date:01/20/2000
+Loan Disbursement Amount:$1,997.00
+Loan Disbursement Date:08/30/1999
+Loan Disbursement Amount:$1,997.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8393S99G02221101
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:09/03/1998
+Loan Repayment Begin Date:08/02/2001
+Loan Period Begin Date:09/09/1998
+Loan Period End Date:05/21/1999
+Loan Amount:$3,876.00
+Loan Disbursed Amount:$3,876.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.43%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$40.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$3,876.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:03/30/2020
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/23/2000
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/1998
+Loan Disbursement Date:01/20/1999
+Loan Disbursement Amount:$1,938.00
+Loan Disbursement Date:09/03/1998
+Loan Disbursement Amount:$1,938.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8393S98G02221101
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:09/02/1997
+Loan Repayment Begin Date:08/02/2001
+Loan Period Begin Date:09/03/1997
+Loan Period End Date:05/22/1998
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.23%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$37.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:03/30/2020
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/23/2000
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/02/1997
+Loan Disbursement Date:01/20/1998
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:09/02/1997
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8393S97G02221101
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:11/26/1996
+Loan Repayment Begin Date:08/02/2001
+Loan Period Begin Date:09/04/1996
+Loan Period End Date:12/23/1996
+Loan Amount:$729.00
+Loan Disbursed Amount:$727.00
+Loan Canceled Amount:$2.00
+Loan Canceled Date:08/22/2013
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.23%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$8.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$727.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:03/31/2020
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/23/2000
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:11/26/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/04/1996
+Loan Disbursement Date:01/28/1997
+Loan Disbursement Amount:$362.00
+Loan Disbursement Date:11/26/1996
+Loan Disbursement Amount:$365.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8393U97G02221102
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:01/11/1997
+Loan Repayment Begin Date:08/02/2001
+Loan Period Begin Date:09/04/1996
+Loan Period End Date:05/23/1997
+Loan Amount:$2,771.00
+Loan Disbursed Amount:$1,021.00
+Loan Canceled Amount:$1,750.00
+Loan Canceled Date:07/23/1997
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.23%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$1,021.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:03/30/2020
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/23/2000
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/11/1997
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/04/1996
+Loan Disbursement Date:01/28/1997
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:01/11/1997
+Loan Disbursement Amount:$1,021.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:08/27/1994
+Loan Repayment Begin Date:08/02/1995
+Loan Period Begin Date:09/12/1994
+Loan Period End Date:05/26/1995
+Loan Amount:$6,625.00
+Loan Disbursed Amount:$6,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/26/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/26/2005
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$6,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/16/2016
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:01/26/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/06/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/31/1995
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/31/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/12/1994
+Loan Disbursement Date:01/03/1995
+Loan Disbursement Amount:$3,312.00
+Loan Disbursement Date:08/29/1994
+Loan Disbursement Amount:$3,313.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:826878
+Loan Contact Name:CITIBANK ELT STUDENT LOAN CORP
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:800-967-2400
+Loan Contact Phone Extension:
+Loan Contact Email Address:student.loans@citicorp.com
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****66788393001
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:12/01/1993
+Loan Repayment Begin Date:12/01/1997
+Loan Period Begin Date:09/08/1993
+Loan Period End Date:05/20/1994
+Loan Amount:$159.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$159.00
+Loan Canceled Date:12/21/1993
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/21/1993
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/01/1993
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:12/21/1993
+Loan Disbursement Date:01/18/1994
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:725
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:830310
+Loan Contact Name:BONY MELLON ELT COLLEGE BOARD
+Loan Contact Street Address 1:11911 FREEDOM DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20190(0000)
+Loan Contact Phone Number:5712625934
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****66788393001
+Loan Attending School Name:University of Massachusetts - Amherst
+Loan Attending School OPEID:00222100
+Loan Date:09/28/1993
+Loan Repayment Begin Date:01/19/1994
+Loan Period Begin Date:09/08/1993
+Loan Period End Date:05/20/1994
+Loan Amount:$3,255.00
+Loan Disbursed Amount:$3,255.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/16/1998
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/16/1998
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$3,255.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DP
+Current Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:01/26/1998
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:11/19/1997
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/1994
+Loan Disbursement Date:01/19/1994
+Loan Disbursement Amount:$3,255.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:725
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:829988
+Loan Contact Name:BONY MELLON ELT NELLIE MAE
+Loan Contact Street Address 1:12061 BLUEMONT WAY
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20190(0000)
+Loan Contact Phone Number:7039845864
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****8393U20G77778102
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:09/02/2020
+Loan Repayment Begin Date:09/02/2020
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$27,108.00
+Loan Disbursed Amount:$27,108.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$27,108.00
+Loan Outstanding Principal Balance as of Date:04/30/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/30/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.50%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:09/08/2020
+Loan Repayment Plan Scheduled Amount:$176.00
+Loan Repayment Plan IDR Plan Anniversary Date:05/23/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:34
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$27,108.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$9,787.00
+Calculated Combined Aggregate OPB:$9,787.00
+UpdtDt:05/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/02/2020
+Loan Disbursement Date:09/02/2020
+Loan Disbursement Amount:$27,108.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****8393U05G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:01/17/2005
+Loan Repayment Begin Date:01/17/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$14,968.00
+Loan Disbursed Amount:$14,968.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/04/2020
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/04/2020
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.25%
+Loan Repayment Plan Type Code:FE
+Loan Repayment Plan Type Code Description:EXTENDED REPAYMENT
+Loan Repayment Plan Begin Date:02/26/2011
+Loan Repayment Plan Scheduled Amount:$157.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$14,968.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2020
+DelinqDate:09/29/2013
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:09/04/2020
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:07/22/2019
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:03/22/2019
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/13/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/17/2005
+Loan Disbursement Date:01/17/2005
+Loan Disbursement Amount:$14,968.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****8393S20G77778102
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:09/02/2020
+Loan Repayment Begin Date:09/02/2020
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$20,667.00
+Loan Disbursed Amount:$20,667.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,667.00
+Loan Outstanding Principal Balance as of Date:04/30/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/30/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.50%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:09/08/2020
+Loan Repayment Plan Scheduled Amount:$134.00
+Loan Repayment Plan IDR Plan Anniversary Date:05/23/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:34
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$20,667.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$15,206.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$15,206.00
+UpdtDt:05/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/02/2020
+Loan Disbursement Date:09/02/2020
+Loan Disbursement Amount:$20,667.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Massachusetts - Amherst
+Grant Attending School OPEID:00222100
+Grant Award Year:2000 - 2001
+Grant Scheduled Amount:$3,300.00
+Grant Award Amount:$1,650.00
+Grant Disbursed Amount:$1,650.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00222100
+Grant Contact Name:University of Massachusetts - Amherst
+Grant Contact Street Address 1:374 WHITMORE BUILDING
+Grant Contact Street Address 2:181 PRESIDENTS
+Grant Contact City:AMHERST
+Grant Contact State Code:MA
+Grant Contact Zip Code:01003(0000)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Massachusetts - Amherst
+Grant Attending School OPEID:00222100
+Grant Award Year:1999 - 2000
+Grant Scheduled Amount:$3,125.00
+Grant Award Amount:$2,344.00
+Grant Disbursed Amount:$2,344.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.010%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.010%
+Grant Contact Type:Attending School
+Grant Contact Code:00222100
+Grant Contact Name:University of Massachusetts - Amherst
+Grant Contact Street Address 1:374 WHITMORE BUILDING
+Grant Contact Street Address 2:181 PRESIDENTS
+Grant Contact City:AMHERST
+Grant Contact State Code:MA
+Grant Contact Zip Code:01003(0000)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Massachusetts - Amherst
+Grant Attending School OPEID:00222100
+Grant Award Year:1998 - 1999
+Grant Scheduled Amount:$3,000.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,500.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00222100
+Grant Contact Name:University of Massachusetts - Amherst
+Grant Contact Street Address 1:374 WHITMORE BUILDING
+Grant Contact Street Address 2:181 PRESIDENTS
+Grant Contact City:AMHERST
+Grant Contact State Code:MA
+Grant Contact Zip Code:01003(0000)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Massachusetts - Amherst
+Grant Attending School OPEID:00222100
+Grant Award Year:1997 - 1998
+Grant Scheduled Amount:$2,700.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$2,025.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00222100
+Grant Contact Name:University of Massachusetts - Amherst
+Grant Contact Street Address 1:374 WHITMORE BUILDING
+Grant Contact Street Address 2:181 PRESIDENTS
+Grant Contact City:AMHERST
+Grant Contact State Code:MA
+Grant Contact Zip Code:01003(0000)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Program School Name:Concordia University
+Program School OPEID:02070500
+Program Cip Year:2010
+Program Cip Code:310504
+Program CIP Title:Sport and Fitness Administration/Management.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:11/16/2015
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:10/19/2018
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/09/2017
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:08/05/2016
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/07/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:11/16/2015
+Program School Name:Concordia University -
+Program School OPEID:02070580
+Program Cip Year:2010
+Program Cip Code:310504
+Program CIP Title:Sport and Fitness Administration/Management.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:11/16/2015
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:08/27/2018
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/09/2017
+Enrolled School Name:Concordia University
+Enrolled School OPEID:02070500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:10/19/2018
+Enrolled School Name:Concordia University -
+Enrolled School OPEID:02070580
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:10/19/2018
+Enrolled School Name:Northern Vermont University
+Enrolled School OPEID:00368800
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:08/21/2015
+Enrolled School Name:University of Massachusetts - Amherst
+Enrolled School OPEID:00222100
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:02/01/2001

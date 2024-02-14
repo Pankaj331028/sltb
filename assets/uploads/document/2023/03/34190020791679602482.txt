@@ -1,0 +1,841 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-03-23 16:14:18
+Student First Name:ERICA
+Student Middle Initial:H
+Student Last Name:KOCHIS
+Student Street Address 1:1181 MIDVALE AVE
+Student Street Address 2:
+Student City:CHARLESTON
+Student State Code:SC
+Student Country Code:US
+Student Zip Code:29412
+Student Email Address:ELHITCHCOCK@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:8436706135
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:8436706135
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:8434142341
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:12/17/2008
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2009
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$6,709.00
+Undergraduate Aggregate Unsubsidized Total:$2,903.00
+Undergraduate Aggregate Combined Total:$9,612.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$6,709.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$2,903.00
+Aggregate Combined Total (Undergraduate and Graduate):$9,612.00
+Student Total All Loans Outstanding Principal:$10,166.00
+Student Total All Loans Outstanding Interest:$0.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$0.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$3,448.00
+Total <D5> Outstanding Interest:$0.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$6,718.00
+Total <D6> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0414S09G03428101
+Loan Attending School Name:College of Charleston
+Loan Attending School OPEID:00342800
+Loan Date:08/25/2008
+Loan Repayment Begin Date:06/18/2009
+Loan Period Begin Date:08/26/2008
+Loan Period End Date:05/06/2009
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/22/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/22/2010
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.00%
+Loan Actual Interest Rate:6.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:02/05/2010
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/08/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2008
+Loan Disbursement Date:08/25/2008
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0414U09G03428101
+Loan Attending School Name:College of Charleston
+Loan Attending School OPEID:00342800
+Loan Date:08/25/2008
+Loan Repayment Begin Date:06/18/2009
+Loan Period Begin Date:08/26/2008
+Loan Period End Date:05/06/2009
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/22/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/22/2010
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:02/05/2010
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$55.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/08/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2008
+Loan Disbursement Date:08/25/2008
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0414S08G03428101
+Loan Attending School Name:College of Charleston
+Loan Attending School OPEID:00342800
+Loan Date:08/20/2007
+Loan Repayment Begin Date:06/18/2009
+Loan Period Begin Date:08/21/2007
+Loan Period End Date:05/02/2008
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/22/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/22/2010
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:02/05/2010
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/08/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2007
+Loan Disbursement Date:01/02/2008
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/20/2007
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0414U07G03428101
+Loan Attending School Name:College of Charleston
+Loan Attending School OPEID:00342800
+Loan Date:08/14/2006
+Loan Repayment Begin Date:06/18/2009
+Loan Period Begin Date:08/22/2006
+Loan Period End Date:05/02/2007
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/22/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/22/2010
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:02/05/2010
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$990.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/08/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2006
+Loan Disbursement Date:01/04/2007
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/14/2006
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0414S06G03428101
+Loan Attending School Name:College of Charleston
+Loan Attending School OPEID:00342800
+Loan Date:08/16/2005
+Loan Repayment Begin Date:06/18/2009
+Loan Period Begin Date:08/23/2005
+Loan Period End Date:05/03/2006
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/22/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/22/2010
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:02/05/2010
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2005
+Loan Disbursement Date:01/03/2006
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/16/2005
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0414S05G03428101
+Loan Attending School Name:College of Charleston
+Loan Attending School OPEID:00342800
+Loan Date:08/16/2004
+Loan Repayment Begin Date:11/09/2004
+Loan Period Begin Date:08/24/2004
+Loan Period End Date:05/06/2005
+Loan Amount:$1,750.00
+Loan Disbursed Amount:$1,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/22/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/22/2010
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:02/05/2010
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$12.00
+Net Loan Amount:$1,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/22/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/18/2008
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2005
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:08/16/2004
+Loan Disbursement Date:08/04/2005
+Loan Disbursement Amount:$875.00
+Loan Disbursement Date:03/08/2005
+Loan Disbursement Amount:$875.00
+Loan Disbursement Date:08/16/2004
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0414S04G03428101
+Loan Attending School Name:College of Charleston
+Loan Attending School OPEID:00342800
+Loan Date:10/01/2003
+Loan Repayment Begin Date:11/09/2004
+Loan Period Begin Date:08/26/2003
+Loan Period End Date:05/08/2004
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/22/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/22/2010
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:02/05/2010
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2004
+Capitalized Interest:$34.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/22/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/18/2008
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/21/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/09/2004
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/08/2004
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/01/2003
+Loan Disbursement Date:01/05/2004
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:10/01/2003
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****0414U10G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:02/19/2010
+Loan Repayment Begin Date:02/19/2010
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$7,719.00
+Loan Disbursed Amount:$7,719.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,448.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.38%
+Loan Repayment Plan Type Code:CG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:01/12/2016
+Loan Repayment Plan Scheduled Amount:$87.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/21/2023
+Loan Next Payment Due Date:03/21/2023
+Loan Cumulative Payment Amount:$1,368.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$659.00
+Net Loan Amount:$7,719.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,903.00
+Calculated Combined Aggregate OPB:$2,903.00
+UpdtDt:03/07/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/18/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/21/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/21/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/21/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/21/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/21/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/21/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/22/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/28/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/19/2010
+Loan Disbursement Date:02/19/2010
+Loan Disbursement Amount:$7,719.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****0414S10G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:02/19/2010
+Loan Repayment Begin Date:02/19/2010
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$16,146.00
+Loan Disbursed Amount:$16,146.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,718.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.38%
+Loan Repayment Plan Type Code:CG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:01/12/2016
+Loan Repayment Plan Scheduled Amount:$170.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/21/2023
+Loan Next Payment Due Date:03/21/2023
+Loan Cumulative Payment Amount:$2,676.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$318.00
+Net Loan Amount:$16,146.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$6,709.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$6,709.00
+UpdtDt:03/07/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/18/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/21/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/21/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/21/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/21/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/21/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/21/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/22/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/28/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/19/2010
+Loan Disbursement Date:02/19/2010
+Loan Disbursement Amount:$16,146.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Enrolled School Name:College of Charleston
+Enrolled School OPEID:00342800
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/17/2008

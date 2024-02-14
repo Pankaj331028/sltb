@@ -1,0 +1,2440 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-04-28 10:23:24
+Student First Name:MARTIN
+Student Middle Initial:M
+Student Last Name:MORENO
+Student Street Address 1:6109 INMAN VW
+Student Street Address 2:
+Student City:COLORADO SPRINGS
+Student State Code:CO
+Student Country Code:US
+Student Zip Code:80924
+Student Email Address:martin.m.moreno@ICLOUD.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:8052014505
+Student Home Phone Preferred:Yes
+Student Cell Phone Country Code:1
+Student Cell Phone Number:8057549971
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:12/16/2006
+Undergraduate Subsidized Loan Limit Flag:Exceeds Subsidized Limit
+Undergraduate Combined Loan Limit Flag:Exceeds Subsidized Limit
+Undergraduate Award Year:2005
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$49,156.00
+Undergraduate Aggregate Unsubsidized Total:$32,186.00
+Undergraduate Aggregate Combined Total:$81,342.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$49,156.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$32,186.00
+Aggregate Combined Total (Undergraduate and Graduate):$81,342.00
+Student Total All Loans Outstanding Principal:$132,790.00
+Student Total All Loans Outstanding Interest:$22,269.00
+Student Pell Lifetime Eligibility Used:802.043%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$14,777.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$30,445.00
+Total <CL> Outstanding Interest:$1,125.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$51,439.00
+Total <D1> Outstanding Interest:$10,492.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$50,906.00
+Total <D2> Outstanding Interest:$10,652.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SL
+Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Total <SL> Outstanding Principal:$0.00
+Total <SL> Outstanding Interest:$0.00
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****5469 00000000
+Loan Attending School Name:BNS Technical Institute
+Loan Attending School OPEID:02559900
+Loan Date:08/29/1991
+Loan Repayment Begin Date:08/29/1991
+Loan Period Begin Date:07/29/1991
+Loan Period End Date:09/15/1991
+Loan Amount:$500.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$500.00
+Loan Canceled Date:12/09/1991
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/09/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/09/1991
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:12/09/1991
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824421
+Loan Contact Name:BANK OF AMERICA, NA
+Loan Contact Street Address 1:P.O. BOX 419038
+Loan Contact Street Address 2:
+Loan Contact City:KANSAS CITY
+Loan Contact State Code:MO
+Loan Contact Zip Code:64183(0000)
+Loan Contact Phone Number:8169796840
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0913S19940731
+Loan Attending School Name:BNS Technical Institute
+Loan Attending School OPEID:02559900
+Loan Date:05/30/1991
+Loan Repayment Begin Date:03/14/1992
+Loan Period Begin Date:04/29/1991
+Loan Period End Date:06/13/1991
+Loan Amount:$1,428.00
+Loan Disbursed Amount:$1,428.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/29/1995
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/29/1995
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1991
+Capitalized Interest:$0.00
+Net Loan Amount:$1,428.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DP
+Current Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:09/29/1995
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/31/1994
+Loan Disbursement Date:06/13/1991
+Loan Disbursement Amount:$1,428.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899996
+Loan Contact Name:NAVIENT CREDIT FINANCE CORP.
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****5468 19940731
+Loan Attending School Name:BNS Technical Institute
+Loan Attending School OPEID:02559900
+Loan Date:07/03/1991
+Loan Repayment Begin Date:09/13/1991
+Loan Period Begin Date:04/29/1991
+Loan Period End Date:07/28/1991
+Loan Amount:$2,102.00
+Loan Disbursed Amount:$2,102.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/29/1995
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/29/1995
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1991
+Capitalized Interest:$0.00
+Net Loan Amount:$2,102.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DP
+Current Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:09/29/1995
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/31/1994
+Loan Disbursement Date:07/10/1991
+Loan Disbursement Amount:$2,102.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899996
+Loan Contact Name:NAVIENT CREDIT FINANCE CORP.
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0229S19940731
+Loan Attending School Name:Northrop University
+Loan Attending School OPEID:00124800
+Loan Date:08/21/1989
+Loan Repayment Begin Date:03/14/1992
+Loan Period Begin Date:10/02/1989
+Loan Period End Date:06/30/1990
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$875.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/29/1995
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/29/1995
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1990
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DP
+Current Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:09/29/1995
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/31/1994
+Loan Disbursement Date:09/25/1989
+Loan Disbursement Amount:$875.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899996
+Loan Contact Name:NAVIENT CREDIT FINANCE CORP.
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****5603C01
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:09/14/1995
+Loan Repayment Begin Date:11/08/1995
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,809.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$5,809.00
+Loan Canceled Date:11/08/1995
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/1995
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/1995
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:10.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:10.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:11/08/1995
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833100
+Loan Contact Name:WELLS FARGO BANK OF ARIZONA
+Loan Contact Street Address 1:PO BOX 41090 - STACY GENGER AELMAC
+Loan Contact Street Address 2:
+Loan Contact City:MESA
+Loan Contact State Code:AZ
+Loan Contact Zip Code:85210(2014)
+Loan Contact Phone Number:6024619830
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****560391
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:09/04/1995
+Loan Repayment Begin Date:09/14/1995
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,809.00
+Loan Disbursed Amount:$5,809.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$30,445.00
+Loan Outstanding Principal Balance as of Date:03/31/2023
+Loan Outstanding Interest Balance:$1,125.00
+Loan Outstanding Interest Balance as of Date:03/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:10.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:10.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$5,744.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,744.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$5,744.00
+UpdtDt:04/10/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/11/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/07/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/26/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/20/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/04/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/05/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/24/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/29/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/29/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/29/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/05/2007
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/23/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/12/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/21/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/14/1995
+Loan Disbursement Date:09/14/1995
+Loan Disbursement Amount:$5,809.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:829077
+Loan Contact Name:WELLS FARGO ELT NAVIENT STU LN TRST
+Loan Contact Street Address 1:600 S. 4TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:MINNEAPOLIS
+Loan Contact State Code:MN
+Loan Contact Zip Code:55479(0000)
+Loan Contact Phone Number:8882725543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S99G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:09/16/1998
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$756.00
+Loan Disbursed Amount:$756.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$902.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$166.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$3.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$756.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$756.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/24/1998
+Loan Disbursement Date:03/27/1999
+Loan Disbursement Amount:$252.00
+Loan Disbursement Date:01/04/1999
+Loan Disbursement Amount:$252.00
+Loan Disbursement Date:09/16/1998
+Loan Disbursement Amount:$252.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S98G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:09/19/1997
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,985.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$1,618.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$24.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/23/1997
+Loan Disbursement Date:04/22/1998
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:01/12/1998
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:09/19/1997
+Loan Disbursement Amount:$1,834.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S97G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:09/17/1996
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,985.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$1,618.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$24.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/24/1996
+Loan Disbursement Date:03/21/1997
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:12/27/1996
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:09/17/1996
+Loan Disbursement Amount:$1,834.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S96G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:10/24/1995
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,985.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$1,618.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$24.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/25/1995
+Loan Disbursement Date:03/27/1996
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:01/03/1996
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:10/24/1995
+Loan Disbursement Amount:$1,834.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S05G01142201
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:03/30/2005
+Loan Repayment Begin Date:12/19/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$3,495.00
+Loan Disbursed Amount:$3,495.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,891.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$718.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/19/2005
+Loan Repayment Plan Scheduled Amount:$14.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$3,495.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,495.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/30/2005
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/11/2004
+Loan Disbursement Date:03/30/2005
+Loan Disbursement Amount:$3,495.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S05G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:10/26/2004
+Loan Repayment Begin Date:12/19/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$2,833.00
+Loan Disbursed Amount:$2,833.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,154.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$582.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/19/2005
+Loan Repayment Plan Scheduled Amount:$12.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$2,833.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,833.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/26/2004
+Loan Disbursement Date:10/26/2004
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S04G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:09/23/2003
+Loan Repayment Begin Date:12/19/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,462.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$1,747.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/19/2005
+Loan Repayment Plan Scheduled Amount:$36.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/23/2003
+Loan Disbursement Date:03/19/2004
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:12/26/2003
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:09/23/2003
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S03G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:02/17/2003
+Loan Repayment Begin Date:12/19/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,667.00
+Loan Disbursed Amount:$5,667.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,308.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$1,164.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/19/2005
+Loan Repayment Plan Scheduled Amount:$24.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$5,667.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,667.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/17/2003
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/07/2002
+Loan Disbursement Date:03/24/2003
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:02/17/2003
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S01G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:09/12/2000
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$161.00
+Loan Disbursed Amount:$161.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$204.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$50.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2011
+Loan Repayment Plan Scheduled Amount:$1.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$161.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$161.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/21/2000
+Loan Disbursement Date:09/12/2000
+Loan Disbursement Amount:$161.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5603S00G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:09/18/1999
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,563.00
+Loan Outstanding Principal Balance as of Date:10/02/2014
+Loan Outstanding Interest Balance:$1,211.00
+Loan Outstanding Interest Balance as of Date:10/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$23.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/23/1999
+Loan Disbursement Date:03/24/2000
+Loan Disbursement Amount:$1,834.00
+Loan Disbursement Date:01/03/2000
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:09/18/1999
+Loan Disbursement Amount:$1,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U99G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:09/16/1998
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$4,845.00
+Loan Disbursed Amount:$4,845.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,413.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$1,368.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$26.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$4,845.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,845.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/24/1998
+Loan Disbursement Date:03/27/1999
+Loan Disbursement Amount:$1,615.00
+Loan Disbursement Date:01/04/1999
+Loan Disbursement Amount:$1,615.00
+Loan Disbursement Date:09/16/1998
+Loan Disbursement Amount:$1,615.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U98G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:09/19/1997
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$3,999.00
+Loan Disbursed Amount:$3,999.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,143.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$1,655.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$25.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$3,999.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,999.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/23/1997
+Loan Disbursement Date:04/22/1998
+Loan Disbursement Amount:$1,333.00
+Loan Disbursement Date:01/12/1998
+Loan Disbursement Amount:$1,333.00
+Loan Disbursement Date:09/19/1997
+Loan Disbursement Amount:$1,333.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U97G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:09/17/1996
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,497.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$2,200.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$33.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/24/1996
+Loan Disbursement Date:03/21/1997
+Loan Disbursement Amount:$1,666.00
+Loan Disbursement Date:12/27/1996
+Loan Disbursement Amount:$1,666.00
+Loan Disbursement Date:09/17/1996
+Loan Disbursement Amount:$1,668.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U96G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:10/24/1995
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$5,390.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$10,040.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$2,326.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$35.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$5,390.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/25/1995
+Loan Disbursement Date:03/27/1996
+Loan Disbursement Amount:$1,601.00
+Loan Disbursement Date:01/03/1996
+Loan Disbursement Amount:$1,601.00
+Loan Disbursement Date:10/24/1995
+Loan Disbursement Amount:$1,798.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U05G01142201
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:03/30/2005
+Loan Repayment Begin Date:12/19/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$753.00
+Loan Disbursed Amount:$753.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$902.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$167.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/19/2005
+Loan Repayment Plan Scheduled Amount:$3.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$753.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$753.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/30/2005
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/11/2004
+Loan Disbursement Date:03/30/2005
+Loan Disbursement Amount:$753.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U05G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:10/26/2004
+Loan Repayment Begin Date:12/19/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$1,365.00
+Loan Disbursed Amount:$1,365.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,654.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$305.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/19/2005
+Loan Repayment Plan Scheduled Amount:$6.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$1,365.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,365.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/26/2004
+Loan Disbursement Date:10/26/2004
+Loan Disbursement Amount:$1,365.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U04G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:09/23/2003
+Loan Repayment Begin Date:12/19/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$6,089.00
+Loan Disbursed Amount:$6,089.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,548.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$1,393.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/19/2005
+Loan Repayment Plan Scheduled Amount:$28.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$6,089.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,089.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/23/2003
+Loan Disbursement Date:03/19/2004
+Loan Disbursement Amount:$2,029.00
+Loan Disbursement Date:12/26/2003
+Loan Disbursement Amount:$2,030.00
+Loan Disbursement Date:09/23/2003
+Loan Disbursement Amount:$2,030.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U03G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:02/17/2003
+Loan Repayment Begin Date:12/19/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$4,013.00
+Loan Disbursed Amount:$4,013.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,089.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$939.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/19/2005
+Loan Repayment Plan Scheduled Amount:$19.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$4,013.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,013.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/17/2003
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/07/2002
+Loan Disbursement Date:03/24/2003
+Loan Disbursement Amount:$2,006.00
+Loan Disbursement Date:02/17/2003
+Loan Disbursement Amount:$2,007.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5603U00G01142101
+Loan Attending School Name:California State University, San Bernardino
+Loan Attending School OPEID:00114200
+Loan Date:09/18/1999
+Loan Repayment Begin Date:06/10/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$1,122.00
+Loan Disbursed Amount:$1,122.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,620.00
+Loan Outstanding Principal Balance as of Date:05/02/2014
+Loan Outstanding Interest Balance:$299.00
+Loan Outstanding Interest Balance as of Date:05/02/2014
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:GR
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/10/2001
+Loan Repayment Plan Scheduled Amount:$5.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$1,122.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,122.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/05/2023
+DelinqDate:05/29/2011
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/31/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/09/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/23/1999
+Loan Disbursement Date:03/24/2000
+Loan Disbursement Amount:$374.00
+Loan Disbursement Date:01/03/2000
+Loan Disbursement Amount:$374.00
+Loan Disbursement Date:09/18/1999
+Loan Disbursement Amount:$374.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:California State University, San Bernardino
+Grant Attending School OPEID:00114200
+Grant Award Year:2000 - 2001
+Grant Scheduled Amount:$3,300.00
+Grant Award Amount:$2,200.00
+Grant Disbursed Amount:$1,100.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):33.330%
+Aid Recipient's Total Percent Eligibility Used (TEU):33.330%
+Grant Contact Type:Attending School
+Grant Contact Code:00114200
+Grant Contact Name:California State University, San Bernardino
+Grant Contact Street Address 1:5500 UNIVERSITY PARKWAY
+Grant Contact Street Address 2:
+Grant Contact City:SAN BERNARDINO
+Grant Contact State Code:CA
+Grant Contact Zip Code:92407(2397)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:California State University, San Bernardino
+Grant Attending School OPEID:00114200
+Grant Award Year:1999 - 2000
+Grant Scheduled Amount:$3,125.00
+Grant Award Amount:$3,125.00
+Grant Disbursed Amount:$3,125.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00114200
+Grant Contact Name:California State University, San Bernardino
+Grant Contact Street Address 1:5500 UNIVERSITY PARKWAY
+Grant Contact Street Address 2:
+Grant Contact City:SAN BERNARDINO
+Grant Contact State Code:CA
+Grant Contact Zip Code:92407(2397)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:California State University, San Bernardino
+Grant Attending School OPEID:00114200
+Grant Award Year:1998 - 1999
+Grant Scheduled Amount:$3,000.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$3,000.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00114200
+Grant Contact Name:California State University, San Bernardino
+Grant Contact Street Address 1:5500 UNIVERSITY PARKWAY
+Grant Contact Street Address 2:
+Grant Contact City:SAN BERNARDINO
+Grant Contact State Code:CA
+Grant Contact Zip Code:92407(2397)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of California, Riverside
+Grant Attending School OPEID:00131600
+Grant Award Year:1997 - 1998
+Grant Scheduled Amount:$2,700.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,800.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):66.670%
+Aid Recipient's Total Percent Eligibility Used (TEU):66.670%
+Grant Contact Type:Attending School
+Grant Contact Code:00131600
+Grant Contact Name:University of California, Riverside
+Grant Contact Street Address 1:FINANCIAL AID OFFICE
+Grant Contact Street Address 2:900 UNIVERSITY AVE
+Grant Contact City:RIVERSIDE
+Grant Contact State Code:CA
+Grant Contact Zip Code:92521(0209)
+Phone Number:951-827-3878
+Phone Extension:
+Email Address:finaid@ucr.edu
+Web Site Address:http://financialaid.ucr.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of California, Riverside
+Grant Attending School OPEID:00131600
+Grant Award Year:1996 - 1997
+Grant Scheduled Amount:$2,470.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$824.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00131600
+Grant Contact Name:University of California, Riverside
+Grant Contact Street Address 1:FINANCIAL AID OFFICE
+Grant Contact Street Address 2:900 UNIVERSITY AVE
+Grant Contact City:RIVERSIDE
+Grant Contact State Code:CA
+Grant Contact Zip Code:92521(0209)
+Phone Number:951-827-3878
+Phone Extension:
+Email Address:finaid@ucr.edu
+Web Site Address:http://financialaid.ucr.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of California, Riverside
+Grant Attending School OPEID:00131600
+Grant Award Year:1995 - 1996
+Grant Scheduled Amount:$2,340.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$2,340.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00131600
+Grant Contact Name:University of California, Riverside
+Grant Contact Street Address 1:FINANCIAL AID OFFICE
+Grant Contact Street Address 2:900 UNIVERSITY AVE
+Grant Contact City:RIVERSIDE
+Grant Contact State Code:CA
+Grant Contact Zip Code:92521(0209)
+Phone Number:951-827-3878
+Phone Extension:
+Email Address:finaid@ucr.edu
+Web Site Address:http://financialaid.ucr.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Antelope Valley College
+Grant Attending School OPEID:00111300
+Grant Award Year:1994 - 1995
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,150.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):83.520%
+Grant Contact Type:Attending School
+Grant Contact Code:00111300
+Grant Contact Name:Antelope Valley College
+Grant Contact Street Address 1:3041 WEST AVENUE K
+Grant Contact Street Address 2:
+Grant Contact City:LANCASTER
+Grant Contact State Code:CA
+Grant Contact Zip Code:93536
+Phone Number:661-722-6300
+Phone Extension:6141
+Email Address:nwilliams@avc.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Riverside City College
+Grant Attending School OPEID:00127000
+Grant Award Year:1994 - 1995
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$575.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):33.520%
+Aid Recipient's Total Percent Eligibility Used (TEU):83.520%
+Grant Contact Type:Attending School
+Grant Contact Code:00127000
+Grant Contact Name:Riverside City College
+Grant Contact Street Address 1:4800 MAGNOLIA AVENUE
+Grant Contact Street Address 2:
+Grant Contact City:RIVERSIDE
+Grant Contact State Code:CA
+Grant Contact Zip Code:92506
+Phone Number:951-222-8712
+Phone Extension:
+Email Address:elizabeth.hilton@rcc.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Riverside City College
+Grant Attending School OPEID:00127000
+Grant Award Year:1993 - 1994
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$863.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.520%
+Aid Recipient's Total Percent Eligibility Used (TEU):37.520%
+Grant Contact Type:Attending School
+Grant Contact Code:00127000
+Grant Contact Name:Riverside City College
+Grant Contact Street Address 1:4800 MAGNOLIA AVENUE
+Grant Contact Street Address 2:
+Grant Contact City:RIVERSIDE
+Grant Contact State Code:CA
+Grant Contact Zip Code:92506
+Phone Number:951-222-8712
+Phone Extension:
+Email Address:elizabeth.hilton@rcc.edu
+Web Site Address:
+Enrolled School Name:Santa Barbara City College
+Enrolled School OPEID:00128500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/16/2006
+Enrolled School Name:California State University, San Bernardino
+Enrolled School OPEID:00114200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:06/18/2005
+Enrolled School Name:University of California, Riverside
+Enrolled School OPEID:00131600
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:06/20/1998

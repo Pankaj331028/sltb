@@ -1,0 +1,2043 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-03-01 14:33:00
+Student First Name:DEBORAH
+Student Middle Initial:
+Student Last Name:STENCEL
+Student Street Address 1:3407 S 11TH ST
+Student Street Address 2:
+Student City:MILWAUKEE
+Student State Code:WI
+Student Country Code:US
+Student Zip Code:53215
+Student Email Address:DASTENCEL@GMAIL.COM
+Student Home Phone Country Code:
+Student Home Phone Number:
+Student Home Phone Preferred:
+Student Cell Phone Country Code:1
+Student Cell Phone Number:3129091020
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/20/2001
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1997
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$11,013.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$11,013.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2001
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$24,434.00
+Graduate Aggregate Unsubsidized Total:$25,614.00
+Graduate Aggregate Combined Total:$50,048.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$35,447.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$25,614.00
+Aggregate Combined Total (Undergraduate and Graduate):$61,061.00
+Student Total All Loans Outstanding Principal:$62,357.00
+Student Total All Loans Outstanding Interest:$429.00
+Student Pell Lifetime Eligibility Used:294.841%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$1,235.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$62,357.00
+Total <CL> Outstanding Interest:$429.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$0.00
+Total <D5> Outstanding Interest:$0.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$0.00
+Total <D6> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:14
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:08/31/2000
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/22/2000
+Loan Period End Date:05/12/2001
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:C
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/31/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/22/2000
+Loan Disbursement Date:01/03/2001
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:09/13/2000
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:16
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:12/19/2000
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/22/2000
+Loan Period End Date:05/12/2001
+Loan Amount:$836.00
+Loan Disbursed Amount:$836.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:C
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$836.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/19/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/22/2000
+Loan Disbursement Date:01/10/2001
+Loan Disbursement Amount:$418.00
+Loan Disbursement Date:12/29/2000
+Loan Disbursement Amount:$418.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:15
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:08/31/2000
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/22/2000
+Loan Period End Date:05/12/2001
+Loan Amount:$8,093.00
+Loan Disbursed Amount:$8,093.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:C
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$8,093.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/31/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/22/2000
+Loan Disbursement Date:01/03/2001
+Loan Disbursement Amount:$4,047.00
+Loan Disbursement Date:09/13/2000
+Loan Disbursement Amount:$4,046.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:11
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:06/08/1999
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/18/1999
+Loan Period End Date:05/13/2000
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/08/1999
+Loan Disbursement Date:01/07/2000
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:08/11/1999
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:13
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:12/08/1999
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/18/1999
+Loan Period End Date:05/13/2000
+Loan Amount:$3,356.00
+Loan Disbursed Amount:$3,356.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$3,356.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/08/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/18/1999
+Loan Disbursement Date:01/07/2000
+Loan Disbursement Amount:$3,356.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:12
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:06/08/1999
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/18/1999
+Loan Period End Date:05/13/2000
+Loan Amount:$6,245.00
+Loan Disbursed Amount:$6,245.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$6,245.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/08/1999
+Loan Disbursement Date:01/07/2000
+Loan Disbursement Amount:$3,123.00
+Loan Disbursement Date:08/11/1999
+Loan Disbursement Amount:$3,122.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:08
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:05/06/1998
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/19/1998
+Loan Period End Date:05/12/1999
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/06/1998
+Loan Disbursement Date:01/01/1999
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:08/07/1998
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:10
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:03/18/1999
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/19/1998
+Loan Period End Date:05/12/1999
+Loan Amount:$2,510.00
+Loan Disbursed Amount:$2,510.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$2,510.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/18/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/19/1998
+Loan Disbursement Date:03/26/1999
+Loan Disbursement Amount:$2,510.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:09
+Loan Attending School Name:University of North Carolina - Chapel Hill
+Loan Attending School OPEID:00297400
+Loan Date:05/06/1998
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/19/1998
+Loan Period End Date:05/12/1999
+Loan Amount:$5,691.00
+Loan Disbursed Amount:$5,691.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$5,691.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/06/1998
+Loan Disbursement Date:01/01/1999
+Loan Disbursement Amount:$2,846.00
+Loan Disbursement Date:08/07/1998
+Loan Disbursement Amount:$2,845.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:07
+Loan Attending School Name:North Carolina State University
+Loan Attending School OPEID:00297200
+Loan Date:09/10/1996
+Loan Repayment Begin Date:11/07/1997
+Loan Period Begin Date:08/21/1996
+Loan Period End Date:05/06/1997
+Loan Amount:$2,900.00
+Loan Disbursed Amount:$2,900.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$2,900.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/10/2001
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/14/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/1998
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/10/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/07/1997
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/21/1996
+Loan Disbursement Date:12/27/1996
+Loan Disbursement Amount:$1,450.00
+Loan Disbursement Date:09/17/1996
+Loan Disbursement Amount:$1,450.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:06
+Loan Attending School Name:North Carolina State University
+Loan Attending School OPEID:00297200
+Loan Date:12/27/1995
+Loan Repayment Begin Date:11/07/1997
+Loan Period Begin Date:01/10/1996
+Loan Period End Date:05/07/1996
+Loan Amount:$2,745.00
+Loan Disbursed Amount:$2,745.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$2,745.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/10/2001
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/14/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/1998
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/10/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/07/1997
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/10/1996
+Loan Disbursement Date:03/12/1996
+Loan Disbursement Amount:$1,373.00
+Loan Disbursement Date:01/02/1996
+Loan Disbursement Amount:$1,372.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:05
+Loan Attending School Name:North Carolina State University
+Loan Attending School OPEID:00297200
+Loan Date:08/12/1992
+Loan Repayment Begin Date:07/01/1993
+Loan Period Begin Date:08/19/1992
+Loan Period End Date:05/08/1993
+Loan Amount:$1,196.00
+Loan Disbursed Amount:$598.00
+Loan Canceled Amount:$598.00
+Loan Canceled Date:02/09/1993
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$598.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/10/2001
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/14/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/1998
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/10/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/1997
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/1993
+Loan Disbursement Date:08/19/1992
+Loan Disbursement Amount:$598.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:04
+Loan Attending School Name:Earlham College
+Loan Attending School OPEID:00179300
+Loan Date:12/03/1990
+Loan Repayment Begin Date:01/30/1993
+Loan Period Begin Date:01/03/1991
+Loan Period End Date:06/06/1991
+Loan Amount:$3,352.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$3,352.00
+Loan Canceled Date:01/03/1991
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/03/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/03/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1991
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:01/03/1991
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:03
+Loan Attending School Name:Earlham College
+Loan Attending School OPEID:00179300
+Loan Date:06/12/1989
+Loan Repayment Begin Date:04/01/1991
+Loan Period Begin Date:09/07/1989
+Loan Period End Date:06/07/1990
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1990
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/10/2001
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/14/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/1998
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/10/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/1997
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/01/1991
+Loan Disbursement Date:02/28/1990
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:02
+Loan Attending School Name:Earlham College
+Loan Attending School OPEID:00179300
+Loan Date:08/22/1988
+Loan Repayment Begin Date:04/01/1991
+Loan Period Begin Date:09/07/1988
+Loan Period End Date:06/08/1989
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:1989
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/28/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/10/2001
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/14/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/10/1998
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/10/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/10/1997
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/01/1991
+Loan Disbursement Date:02/22/1989
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:737
+Loan Contact Name:NORTH CAROLINA STATE EDUC. ASST. AUTH.
+Loan Contact Street Address 1:P O BOX 14002
+Loan Contact Street Address 2:
+Loan Contact City:RTP
+Loan Contact State Code:NC
+Loan Contact Zip Code:27709
+Loan Contact Phone Number:800-544-1644
+Loan Contact Phone Extension:
+Loan Contact Email Address:information@ncseaa.edu
+Loan Contact Web Site Address:http://www.ncseaa.edu
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:807037
+Loan Contact Name:COLLEGE FOUNDATION ELT SEAA
+Loan Contact Street Address 1:2917 HIGHWOODS BLVD
+Loan Contact Street Address 2:
+Loan Contact City:RALEIGH
+Loan Contact State Code:NC
+Loan Contact Zip Code:27604
+Loan Contact Phone Number:800-532-2832
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****20000MF5337201
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/23/2006
+Loan Repayment Begin Date:03/23/2006
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$34,426.00
+Loan Disbursed Amount:$34,426.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$33,393.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$230.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.13%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.13%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$34,426.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$18,982.00
+Calculated Unsubsidized Aggregate OPB:$13,716.00
+Calculated Combined Aggregate OPB:$32,699.00
+UpdtDt:02/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2023
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/01/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/01/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/25/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/27/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/20/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/20/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/20/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/20/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/23/2006
+Loan Disbursement Date:03/23/2006
+Loan Disbursement Amount:$34,426.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700141
+Loan Contact Name:AMERICAN EDUCATION SERVICES
+Loan Contact Street Address 1:PO BOX 2461
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17105(2461)
+Loan Contact Phone Number:800-233-0557
+Loan Contact Phone Extension:
+Loan Contact Email Address:WEBMASTER@PHEAA.ORG
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:742
+Loan Contact Name:PENNSYLVANIA HIGHER EDUC. ASST. AGENCY
+Loan Contact Street Address 1:1200 N.  7TH STREET
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17102(0000)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824573
+Loan Contact Name:US BANK ELT EFS FINANCE CO & AFFIL.
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****20000MF5337101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/23/2006
+Loan Repayment Begin Date:03/23/2006
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$30,651.00
+Loan Disbursed Amount:$30,651.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$28,964.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$199.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.13%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.13%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$30,651.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$16,465.00
+Calculated Unsubsidized Aggregate OPB:$11,897.00
+Calculated Combined Aggregate OPB:$28,362.00
+UpdtDt:02/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2023
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/01/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/01/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/25/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/27/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/20/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/20/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/20/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/20/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/23/2006
+Loan Disbursement Date:03/23/2006
+Loan Disbursement Amount:$30,651.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700141
+Loan Contact Name:AMERICAN EDUCATION SERVICES
+Loan Contact Street Address 1:PO BOX 2461
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17105(2461)
+Loan Contact Phone Number:800-233-0557
+Loan Contact Phone Extension:
+Loan Contact Email Address:WEBMASTER@PHEAA.ORG
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:742
+Loan Contact Name:PENNSYLVANIA HIGHER EDUC. ASST. AGENCY
+Loan Contact Street Address 1:1200 N.  7TH STREET
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17102(0000)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824573
+Loan Contact Name:US BANK ELT EFS FINANCE CO & AFFIL.
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****9908U02G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/22/2002
+Loan Repayment Begin Date:04/01/2002
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$29,076.00
+Loan Disbursed Amount:$29,076.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/29/2006
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/29/2006
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.13%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2002
+Capitalized Interest:$1,898.00
+Net Loan Amount:$29,076.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:04/09/2006
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/29/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/04/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/01/2002
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/22/2002
+Loan Disbursement Date:03/22/2002
+Loan Disbursement Amount:$29,076.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****9908S02G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/22/2002
+Loan Repayment Begin Date:04/01/2002
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$34,578.00
+Loan Disbursed Amount:$34,557.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/29/2006
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/29/2006
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.13%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2002
+Capitalized Interest:$231.00
+Net Loan Amount:$34,578.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:04/09/2006
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/29/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/04/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/01/2002
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/22/2002
+Loan Disbursement Date:03/22/2002
+Loan Disbursement Amount:$34,557.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:North Carolina State University
+Grant Attending School OPEID:00297200
+Grant Award Year:1996 - 1997
+Grant Scheduled Amount:$2,470.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,235.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00297200
+Grant Contact Name:North Carolina State University
+Grant Contact Street Address 1:20 WATAUGA CLUB DRIVE
+Grant Contact Street Address 2:CAMPUS BOX 7001
+Grant Contact City:RALEIGH
+Grant Contact State Code:NC
+Grant Contact Zip Code:27695(7001)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Enrolled School Name:University of North Carolina - Chapel Hill
+Enrolled School OPEID:00297400
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/20/2001
+Enrolled School Name:North Carolina State University
+Enrolled School OPEID:00297200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/07/1997

@@ -1,0 +1,5 @@
+0 0 * * * curl --silent https://studentloantoolbox.net/reminder |tee -a /opt/bitnami/apache/htdocs/cronlogs/reminder_index.log
+0 0 * * * curl --silent https://studentloantoolbox.net/reminder/check_billing_card |tee -a /opt/bitnami/apache/htdocs/cronlogs/reminder_billing_card.log
+0 0 * * * curl --silent https://studentloantoolbox.net/reminder/check_billing_payment |tee -a /opt/bitnami/apache/htdocs/cronlogs/reminder_billing_payment.log
+0 0 * * * curl --silent https://studentloantoolbox.net/reminder/reminder_rule_digest_vl |tee -a /opt/bitnami/apache/htdocs/cronlogs/reminder_digest.log
+0 0 * * * curl --silent https://studentloantoolbox.net/reminder/check_company_smtp |tee -a /opt/bitnami/apache/htdocs/cronlogs/reminder_smtp.log

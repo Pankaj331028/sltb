@@ -1,0 +1,3206 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-05-24 14:08:06
+Student First Name:TINA
+Student Middle Initial:
+Student Last Name:FARRIS
+Student Street Address 1:4210 PALMERO BLVD
+Student Street Address 2:
+Student City:VIEW PARK
+Student State Code:CA
+Student Country Code:US
+Student Zip Code:900084422
+Student Email Address:TINA@TFTOURS.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2138202237
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2138202237
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:1
+Student Work Phone Number:2138202237
+Student Work Phone Preferred:No
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:06/15/1998
+Undergraduate Subsidized Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Award Year:1995
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$19,886.00
+Undergraduate Aggregate Unsubsidized Total:$12,831.00
+Undergraduate Aggregate Combined Total:$32,717.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:1998
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$17,000.00
+Graduate Aggregate Unsubsidized Total:$17,208.00
+Graduate Aggregate Combined Total:$34,208.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$36,886.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$30,039.00
+Aggregate Combined Total (Undergraduate and Graduate):$66,925.00
+Student Total All Loans Outstanding Principal:$257,488.00
+Student Total All Loans Outstanding Interest:$7,533.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$0.00
+Total <CL> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$211,908.00
+Total <D5> Outstanding Interest:$7,243.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$45,580.00
+Total <D6> Outstanding Interest:$290.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SL
+Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Total <SL> Outstanding Principal:$0.00
+Total <SL> Outstanding Interest:$0.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0524S00000000
+Loan Attending School Name:Antioch University - Midwest
+Loan Attending School OPEID:00301001
+Loan Date:07/11/1997
+Loan Repayment Begin Date:03/29/1999
+Loan Period Begin Date:07/07/1997
+Loan Period End Date:03/16/1998
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/30/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2005
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2006
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/30/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/19/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/28/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:07/07/1997
+Loan Disbursement Date:01/05/1998
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:10/01/1997
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:07/21/1997
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3424U00000000
+Loan Attending School Name:Antioch University - Midwest
+Loan Attending School OPEID:00301001
+Loan Date:03/23/1998
+Loan Repayment Begin Date:03/29/1999
+Loan Period Begin Date:07/07/1997
+Loan Period End Date:06/15/1998
+Loan Amount:$800.00
+Loan Disbursed Amount:$800.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/30/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2005
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$800.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2006
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/30/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/19/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/28/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:07/07/1997
+Loan Disbursement Date:04/02/1998
+Loan Disbursement Amount:$800.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0525U00000000
+Loan Attending School Name:Antioch University - Midwest
+Loan Attending School OPEID:00301001
+Loan Date:07/11/1997
+Loan Repayment Begin Date:03/29/1999
+Loan Period Begin Date:07/07/1997
+Loan Period End Date:03/16/1998
+Loan Amount:$6,408.00
+Loan Disbursed Amount:$6,408.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/30/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2005
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$6,408.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2006
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/30/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/19/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/28/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:07/07/1997
+Loan Disbursement Date:01/05/1998
+Loan Disbursement Amount:$2,136.00
+Loan Disbursement Date:10/01/1997
+Loan Disbursement Amount:$2,136.00
+Loan Disbursement Date:07/21/1997
+Loan Disbursement Amount:$2,136.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****57095535121
+Loan Attending School Name:Antioch University
+Loan Attending School OPEID:00301000
+Loan Date:04/07/1997
+Loan Repayment Begin Date:11/02/2000
+Loan Period Begin Date:04/01/1997
+Loan Period End Date:06/15/1998
+Loan Amount:$3,845.00
+Loan Disbursed Amount:$3,845.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/16/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$3,845.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/07/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:08/15/2005
+Loan Status:XD
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:06/02/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/02/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/02/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:04/08/1997
+Loan Disbursement Date:04/06/1998
+Loan Disbursement Amount:$3,345.00
+Loan Disbursement Date:04/07/1997
+Loan Disbursement Amount:$500.00
+Loan Contact Type:Attending School
+Loan Contact Code:00301000
+Loan Contact Name:Antioch University
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:SEATTLE
+Loan Contact State Code:WA
+Loan Contact Zip Code:
+Loan Contact Phone Number:206-268-4004
+Loan Contact Phone Extension:
+Loan Contact Email Address:kstahl@antioch.edu
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****4022S00000000
+Loan Attending School Name:Antioch University - Midwest
+Loan Attending School OPEID:00301001
+Loan Date:09/19/1996
+Loan Repayment Begin Date:03/29/1999
+Loan Period Begin Date:09/30/1996
+Loan Period End Date:06/10/1997
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/30/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2005
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2006
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/30/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/19/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/28/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/30/1996
+Loan Disbursement Date:04/01/1997
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:01/06/1997
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:09/24/1996
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4022U00000000
+Loan Attending School Name:Antioch University - Midwest
+Loan Attending School OPEID:00301001
+Loan Date:09/19/1996
+Loan Repayment Begin Date:03/29/1999
+Loan Period Begin Date:09/30/1996
+Loan Period End Date:06/10/1997
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/30/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2005
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2006
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/30/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/19/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/28/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/30/1996
+Loan Disbursement Date:04/01/1997
+Loan Disbursement Amount:$3,334.00
+Loan Disbursement Date:11/18/1996
+Loan Disbursement Amount:$3,333.00
+Loan Disbursement Date:09/24/1996
+Loan Disbursement Amount:$3,333.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****2057S00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:07/17/1995
+Loan Repayment Begin Date:02/05/1996
+Loan Period Begin Date:06/26/1995
+Loan Period End Date:08/04/1995
+Loan Amount:$1,011.00
+Loan Disbursed Amount:$1,011.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/01/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/01/1996
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$1,011.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:10/01/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/01/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:06/26/1995
+Loan Disbursement Date:07/20/1995
+Loan Disbursement Amount:$1,011.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700079
+Loan Contact Name:STUDENT LOAN MARKETING ASSOCI/TEXAS
+Loan Contact Street Address 1:220 LASLEY AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831474
+Loan Contact Name:SLM ECFC
+Loan Contact Street Address 1:220 LASLEY AVE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9498U00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:07/12/1995
+Loan Repayment Begin Date:02/05/1996
+Loan Period Begin Date:06/26/1995
+Loan Period End Date:08/04/1995
+Loan Amount:$1,111.00
+Loan Disbursed Amount:$1,111.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/01/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/01/1996
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$1,111.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:10/01/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/01/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:06/26/1995
+Loan Disbursement Date:07/17/1995
+Loan Disbursement Amount:$1,111.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700079
+Loan Contact Name:STUDENT LOAN MARKETING ASSOCI/TEXAS
+Loan Contact Street Address 1:220 LASLEY AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831474
+Loan Contact Name:SLM ECFC
+Loan Contact Street Address 1:220 LASLEY AVE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0905S00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:09/03/1994
+Loan Repayment Begin Date:12/18/1995
+Loan Period Begin Date:09/29/1994
+Loan Period End Date:06/16/1995
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/01/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/01/1996
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:10/01/1996
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/04/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/29/1994
+Loan Disbursement Date:03/14/1995
+Loan Disbursement Amount:$1,834.00
+Loan Disbursement Date:12/20/1994
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:09/13/1994
+Loan Disbursement Amount:$1,833.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700079
+Loan Contact Name:STUDENT LOAN MARKETING ASSOCI/TEXAS
+Loan Contact Street Address 1:220 LASLEY AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831474
+Loan Contact Name:SLM ECFC
+Loan Contact Street Address 1:220 LASLEY AVE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7179U00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:03/27/1995
+Loan Repayment Begin Date:12/18/1995
+Loan Period Begin Date:09/29/1994
+Loan Period End Date:06/16/1995
+Loan Amount:$2,500.00
+Loan Disbursed Amount:$2,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/15/2001
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/15/2001
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$2,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:01/15/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/29/1994
+Loan Disbursement Date:04/05/1995
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:820164
+Loan Contact Name:UNION BK CA ELT CEFI
+Loan Contact Street Address 1:350 CALIFORNIA ST.
+Loan Contact Street Address 2:
+Loan Contact City:SAN FRANCISCO
+Loan Contact State Code:CA
+Loan Contact Zip Code:94104(0000)
+Loan Contact Phone Number:4152732518
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****3532S00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:01/10/1994
+Loan Repayment Begin Date:12/18/1995
+Loan Period Begin Date:09/30/1993
+Loan Period End Date:06/17/1994
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/01/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/01/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:10/01/1996
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/30/1993
+Loan Disbursement Date:03/04/1994
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831474
+Loan Contact Name:SLM ECFC
+Loan Contact Street Address 1:220 LASLEY AVE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****1022S00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:09/30/1993
+Loan Repayment Begin Date:12/18/1995
+Loan Period Begin Date:09/30/1993
+Loan Period End Date:06/17/1994
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/01/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/01/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:10/01/1996
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/30/1993
+Loan Disbursement Date:03/01/1994
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831474
+Loan Contact Name:SLM ECFC
+Loan Contact Street Address 1:220 LASLEY AVE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****7581 00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:12/22/1993
+Loan Repayment Begin Date:06/18/1995
+Loan Period Begin Date:09/30/1993
+Loan Period End Date:06/17/1994
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/20/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/20/1996
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/20/1996
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/14/1994
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/30/1993
+Loan Disbursement Date:03/01/1994
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:820164
+Loan Contact Name:UNION BK CA ELT CEFI
+Loan Contact Street Address 1:350 CALIFORNIA ST.
+Loan Contact Street Address 2:
+Loan Contact City:SAN FRANCISCO
+Loan Contact State Code:CA
+Loan Contact Zip Code:94104(0000)
+Loan Contact Phone Number:4152732518
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****57095535101
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:03/12/1993
+Loan Repayment Begin Date:06/02/1996
+Loan Period Begin Date:01/02/1993
+Loan Period End Date:06/30/1993
+Loan Amount:$2,100.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/04/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/22/2006
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:07/04/2005
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:04/30/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/13/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:03/13/1993
+Loan Contact Type:Attending School
+Loan Contact Code:00131500
+Loan Contact Name:University of California, Los Angeles
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:310-825-4595
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****9741S00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:12/11/1992
+Loan Repayment Begin Date:12/18/1995
+Loan Period Begin Date:09/24/1992
+Loan Period End Date:06/18/1993
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/01/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/01/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:10/01/1996
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/24/1992
+Loan Disbursement Date:12/17/1992
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831474
+Loan Contact Name:SLM ECFC
+Loan Contact Street Address 1:220 LASLEY AVE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****2757 00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:04/28/1993
+Loan Repayment Begin Date:04/28/1993
+Loan Period Begin Date:09/24/1992
+Loan Period End Date:06/18/1993
+Loan Amount:$1,290.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$1,290.00
+Loan Canceled Date:05/03/1993
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:05/03/1993
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/03/1993
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:05/03/1993
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824421
+Loan Contact Name:BANK OF AMERICA, NA
+Loan Contact Street Address 1:P.O. BOX 419038
+Loan Contact Street Address 2:
+Loan Contact City:KANSAS CITY
+Loan Contact State Code:MO
+Loan Contact Zip Code:64183(0000)
+Loan Contact Phone Number:8169796840
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****3838 00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:05/04/1993
+Loan Repayment Begin Date:06/18/1995
+Loan Period Begin Date:09/24/1992
+Loan Period End Date:06/18/1993
+Loan Amount:$1,290.00
+Loan Disbursed Amount:$1,290.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/20/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/20/1996
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$1,290.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/20/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/1994
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/24/1992
+Loan Disbursement Date:05/07/1993
+Loan Disbursement Amount:$1,290.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:820164
+Loan Contact Name:UNION BK CA ELT CEFI
+Loan Contact Street Address 1:350 CALIFORNIA ST.
+Loan Contact Street Address 2:
+Loan Contact City:SAN FRANCISCO
+Loan Contact State Code:CA
+Loan Contact Zip Code:94104(0000)
+Loan Contact Phone Number:4152732518
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****2930 00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:12/11/1992
+Loan Repayment Begin Date:06/18/1995
+Loan Period Begin Date:09/24/1992
+Loan Period End Date:06/18/1993
+Loan Amount:$2,710.00
+Loan Disbursed Amount:$2,710.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/20/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/20/1996
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$2,710.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/20/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/29/1996
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/09/1994
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/24/1992
+Loan Disbursement Date:12/16/1992
+Loan Disbursement Amount:$2,710.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:820164
+Loan Contact Name:UNION BK CA ELT CEFI
+Loan Contact Street Address 1:350 CALIFORNIA ST.
+Loan Contact Street Address 2:
+Loan Contact City:SAN FRANCISCO
+Loan Contact State Code:CA
+Loan Contact Zip Code:94104(0000)
+Loan Contact Phone Number:4152732518
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****5685S00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:11/07/1991
+Loan Repayment Begin Date:12/18/1995
+Loan Period Begin Date:09/26/1991
+Loan Period End Date:06/12/1992
+Loan Amount:$396.00
+Loan Disbursed Amount:$396.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/20/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/20/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$396.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/20/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/26/1991
+Loan Disbursement Date:12/02/1991
+Loan Disbursement Amount:$396.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:820164
+Loan Contact Name:UNION BK CA ELT CEFI
+Loan Contact Street Address 1:350 CALIFORNIA ST.
+Loan Contact Street Address 2:
+Loan Contact City:SAN FRANCISCO
+Loan Contact State Code:CA
+Loan Contact Zip Code:94104(0000)
+Loan Contact Phone Number:4152732518
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****5684S00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:08/05/1991
+Loan Repayment Begin Date:12/18/1995
+Loan Period Begin Date:09/26/1991
+Loan Period End Date:06/12/1992
+Loan Amount:$2,229.00
+Loan Disbursed Amount:$2,229.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/24/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/24/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$2,229.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/24/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/26/1991
+Loan Disbursement Date:12/02/1991
+Loan Disbursement Amount:$2,229.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:820164
+Loan Contact Name:UNION BK CA ELT CEFI
+Loan Contact Street Address 1:350 CALIFORNIA ST.
+Loan Contact Street Address 2:
+Loan Contact City:SAN FRANCISCO
+Loan Contact State Code:CA
+Loan Contact Zip Code:94104(0000)
+Loan Contact Phone Number:4152732518
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****4627 00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:12/02/1991
+Loan Repayment Begin Date:06/18/1995
+Loan Period Begin Date:09/26/1991
+Loan Period End Date:06/12/1992
+Loan Amount:$2,720.00
+Loan Disbursed Amount:$2,720.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/20/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/20/1996
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$2,720.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/20/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/21/1995
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/1995
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/26/1991
+Loan Disbursement Date:12/05/1991
+Loan Disbursement Amount:$2,720.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:820164
+Loan Contact Name:UNION BK CA ELT CEFI
+Loan Contact Street Address 1:350 CALIFORNIA ST.
+Loan Contact Street Address 2:
+Loan Contact City:SAN FRANCISCO
+Loan Contact State Code:CA
+Loan Contact Zip Code:94104(0000)
+Loan Contact Phone Number:4152732518
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****57095535101
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:08/30/1991
+Loan Repayment Begin Date:06/01/1996
+Loan Period Begin Date:07/01/1991
+Loan Period End Date:06/30/1993
+Loan Amount:$2,100.00
+Loan Disbursed Amount:$2,100.00
+Loan Canceled Amount:$630.00
+Loan Canceled Date:04/01/2003
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/30/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$1,470.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:04/30/2003
+Loan Disbursement Date:03/12/1993
+Loan Disbursement Amount:$2,100.00
+Loan Contact Type:Attending School
+Loan Contact Code:00131500
+Loan Contact Name:University of California, Los Angeles
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:310-825-4595
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****4618S00000000
+Loan Attending School Name:University of California, Los Angeles
+Loan Attending School OPEID:00131500
+Loan Date:10/01/1990
+Loan Repayment Begin Date:12/18/1995
+Loan Period Begin Date:09/27/1990
+Loan Period End Date:06/14/1991
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/24/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/24/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1991
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/24/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/27/1990
+Loan Disbursement Date:12/14/1990
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:820164
+Loan Contact Name:UNION BK CA ELT CEFI
+Loan Contact Street Address 1:350 CALIFORNIA ST.
+Loan Contact Street Address 2:
+Loan Contact City:SAN FRANCISCO
+Loan Contact State Code:CA
+Loan Contact Zip Code:94104(0000)
+Loan Contact Phone Number:4152732518
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****535212 000
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:12/08/2005
+Loan Repayment Begin Date:12/09/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$92,000.00
+Loan Disbursed Amount:$90,994.00
+Loan Canceled Amount:$1,006.00
+Loan Canceled Date:12/09/2005
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/18/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/18/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.88%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.88%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$90,994.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/25/2019
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/18/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/03/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/04/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/15/2017
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:08/10/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/25/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/25/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/21/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/20/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/15/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/15/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/06/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/05/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/26/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/24/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/09/2005
+Loan Disbursement Date:12/09/2005
+Loan Disbursement Amount:$90,994.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:811304
+Loan Contact Name:TRUIST BANK
+Loan Contact Street Address 1:1001 SEMMES AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:RICHMOND
+Loan Contact State Code:VA
+Loan Contact Zip Code:23224(0000)
+Loan Contact Phone Number:8043194848
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****535211 000
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:12/08/2005
+Loan Repayment Begin Date:12/09/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$21,190.00
+Loan Disbursed Amount:$21,190.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/18/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/18/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.88%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.88%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$21,190.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/25/2019
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/18/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/03/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/04/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/15/2017
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:08/10/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/25/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/25/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/21/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/20/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/15/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/15/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/06/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/05/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/26/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/24/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/09/2005
+Loan Disbursement Date:12/09/2005
+Loan Disbursement Amount:$21,190.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:811304
+Loan Contact Name:TRUIST BANK
+Loan Contact Street Address 1:1001 SEMMES AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:RICHMOND
+Loan Contact State Code:VA
+Loan Contact Zip Code:23224(0000)
+Loan Contact Phone Number:8043194848
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****1146 00000000
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:07/19/1996
+Loan Repayment Begin Date:07/19/1996
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$39,622.00
+Loan Disbursed Amount:$39,622.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/30/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2005
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:9.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:9.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$39,622.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2006
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/30/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/02/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/28/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/29/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/31/1998
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/30/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/19/1996
+Loan Disbursement Date:07/19/1996
+Loan Disbursement Amount:$39,622.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833934
+Loan Contact Name:WELLS FARGO BANK ELT NELNET TRUST
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:STE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****5351U19G77778202
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/18/2019
+Loan Repayment Begin Date:03/18/2019
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$208,625.00
+Loan Disbursed Amount:$208,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$211,908.00
+Loan Outstanding Principal Balance as of Date:04/30/2023
+Loan Outstanding Interest Balance:$7,243.00
+Loan Outstanding Interest Balance as of Date:04/30/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.88%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:05/31/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/01/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:03/28/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2019
+Capitalized Interest:$3,284.00
+Net Loan Amount:$208,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$30,356.00
+Calculated Unsubsidized Aggregate OPB:$24,721.00
+Calculated Combined Aggregate OPB:$55,078.00
+UpdtDt:05/06/2023
+DelinqDate:05/29/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/31/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/28/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/30/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/29/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/18/2019
+Loan Disbursement Date:03/18/2019
+Loan Disbursement Amount:$208,625.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****5351U05G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:10/21/2005
+Loan Repayment Begin Date:11/01/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$90,937.00
+Loan Disbursed Amount:$90,937.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/14/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/14/2005
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.88%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$90,937.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/18/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/14/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/21/2005
+Loan Disbursement Date:10/21/2005
+Loan Disbursement Amount:$90,937.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****5351S19G77778202
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/18/2019
+Loan Repayment Begin Date:03/18/2019
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$44,873.00
+Loan Disbursed Amount:$44,873.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$45,580.00
+Loan Outstanding Principal Balance as of Date:04/30/2023
+Loan Outstanding Interest Balance:$290.00
+Loan Outstanding Interest Balance as of Date:04/30/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.88%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:05/31/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/01/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:03/28/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2019
+Capitalized Interest:$706.00
+Net Loan Amount:$44,873.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$6,529.00
+Calculated Unsubsidized Aggregate OPB:$5,317.00
+Calculated Combined Aggregate OPB:$11,847.00
+UpdtDt:05/06/2023
+DelinqDate:05/29/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/31/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/28/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/30/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/29/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/18/2019
+Loan Disbursement Date:03/18/2019
+Loan Disbursement Amount:$44,873.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****5351S05G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:10/21/2005
+Loan Repayment Begin Date:11/01/2005
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$20,945.00
+Loan Disbursed Amount:$19,955.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/14/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/14/2005
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.88%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$20,945.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/18/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/14/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/21/2005
+Loan Disbursement Date:10/21/2005
+Loan Disbursement Amount:$19,955.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Enrolled School Name:Antioch University - Midwest
+Enrolled School OPEID:00301001
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:09/14/1998
+Enrolled School Name:Antioch University
+Enrolled School OPEID:00301000
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:06/15/1998
+Enrolled School Name:University of California, Los Angeles
+Enrolled School OPEID:00131500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:06/17/1995

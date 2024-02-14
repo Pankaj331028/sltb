@@ -1,0 +1,5 @@
+1. smtp outgoing server name
+2. outgoing Port (typically 465 or 587
+3. Encryption method: (typically SSL or TLS)
+4. The email address you want email to come from when sending to your clients
+5. The password for this email account

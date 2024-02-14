@@ -1,0 +1,1008 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-02-28-10.37.56.474
+Student First Name:ROBERT
+Student Middle Initial:E
+Student Last Name:TESTER
+Student Street Address 1:1234 MAIN STREET
+Student Street Address 2:
+Student City:ANYTOWN
+Student State Code:NY
+Student Country Code:US
+Student Zip Code:12345
+Student Email Address:ROBERTTESTER@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:1234567890
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:9876543210
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:1
+Student Work Phone Number:1234569870
+Student Work Phone Preferred:No
+Student SULA Maximum Eligibility Period:0.0
+Student SULA Subsidized Usage Period:0.0
+Student SULA Remaining Eligibility Period:0.0
+Student Enrollment Status:GRADUATED
+Student Enrollment Status Effective Date:05/05/2011
+Student Total All Loans Outstanding Principal:$43,436
+Student Total All Loans Outstanding Interest:$1,029
+Student Pell Lifetime Eligibility Used:300.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$3,791
+Total DIRECT CONSOLIDATED UNSUBSIDIZED Outstanding Principal:$21,903
+Total DIRECT CONSOLIDATED UNSUBSIDIZED Outstanding Interest:$519
+Total DIRECT CONSOLIDATED SUBSIDIZED Outstanding Principal:$21,533
+Total DIRECT CONSOLIDATED SUBSIDIZED Outstanding Interest:$510
+Total DIRECT STAFFORD SUBSIDIZED Outstanding Principal:$0
+Total DIRECT STAFFORD SUBSIDIZED Outstanding Interest:$0
+Total DIRECT STAFFORD UNSUBSIDIZED Outstanding Principal:$0
+Total DIRECT STAFFORD UNSUBSIDIZED Outstanding Interest:$0
+Total FEDERAL PERKINS Outstanding Principal:$0
+Total FEDERAL PERKINS Outstanding Interest:$0
+Total FFEL STAFFORD UNSUBSIDIZED Outstanding Principal:$0
+Total FFEL STAFFORD UNSUBSIDIZED Outstanding Interest:$0
+Total FFEL STAFFORD SUBSIDIZED Outstanding Principal:$0
+Total FFEL STAFFORD SUBSIDIZED Outstanding Interest:$0
+Loan Type:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****0742U15G77778102
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:10/17/2014
+Loan Repayment Begin Date:10/17/2014
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$20,620
+Loan Disbursed Amount:$20,620
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$21,903
+Loan Outstanding Principal Balance as of Date:01/31/2022
+Loan Outstanding Interest Balance:$519
+Loan Outstanding Interest Balance as of Date:01/31/2022
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:0.00%
+Loan Repayment Plan Type:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:12/03/2017
+Loan Repayment Plan Scheduled Amount:$157
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/10/2020
+Loan Next Payment Due Date:05/31/2022
+Loan Cumulative Payment Amount:$5,083
+Loan PSLF Cumulative Matched Months:0
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/18/2017
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:05/26/2017
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/27/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/05/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/05/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/17/2014
+Loan Disbursement Date:10/17/2014
+Loan Disbursement Amount:$20,620
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:631790321
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Loan Type:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****0742S15G77778102
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:10/17/2014
+Loan Repayment Begin Date:10/17/2014
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$21,480
+Loan Disbursed Amount:$21,480
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$21,533
+Loan Outstanding Principal Balance as of Date:01/31/2022
+Loan Outstanding Interest Balance:$510
+Loan Outstanding Interest Balance as of Date:01/31/2022
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:0.00%
+Loan Repayment Plan Type:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:12/03/2017
+Loan Repayment Plan Scheduled Amount:$155
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/10/2020
+Loan Next Payment Due Date:05/31/2022
+Loan Cumulative Payment Amount:$5,013
+Loan PSLF Cumulative Matched Months:0
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/18/2017
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:05/26/2017
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/27/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/05/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/05/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/17/2014
+Loan Disbursement Date:10/17/2014
+Loan Disbursement Amount:$21,480
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:631790321
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Loan Type:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0742S11G02144001
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:10/15/2010
+Loan Repayment Begin Date:11/06/2011
+Loan Period Begin Date:09/07/2010
+Loan Period End Date:05/06/2011
+Loan Amount:$5,500
+Loan Disbursed Amount:$5,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:10/21/2021
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:10/21/2021
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:0.00%
+Loan Repayment Plan Type:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/06/2011
+Loan Repayment Plan Scheduled Amount:$59
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:10/23/2014
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:09/08/2014
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:08/25/2014
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/10/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/06/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2010
+Loan Disbursement Date:02/09/2011
+Loan Disbursement Amount:$2,750
+Loan Disbursement Date:10/15/2010
+Loan Disbursement Amount:$2,750
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Loan Type:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0742U11G02144001
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:10/15/2010
+Loan Repayment Begin Date:11/06/2011
+Loan Period Begin Date:09/07/2010
+Loan Period End Date:05/06/2011
+Loan Amount:$2,000
+Loan Disbursed Amount:$2,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:10/21/2021
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:10/21/2021
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:0.00%
+Loan Repayment Plan Type:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/06/2011
+Loan Repayment Plan Scheduled Amount:$23
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:10/23/2014
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:09/08/2014
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:08/25/2014
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/10/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/06/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2010
+Loan Disbursement Date:02/09/2011
+Loan Disbursement Amount:$1,000
+Loan Disbursement Date:10/15/2010
+Loan Disbursement Amount:$1,000
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Loan Type:FEDERAL PERKINS
+Loan Award ID:
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:10/15/2010
+Loan Repayment Begin Date:03/01/2012
+Loan Period Begin Date:07/01/2010
+Loan Period End Date:06/30/2011
+Loan Amount:$1,500
+Loan Disbursed Amount:$1,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:11/13/2014
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type:
+Loan Interest Rate:5.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/13/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/01/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2011
+Loan Disbursement Date:10/15/2010
+Loan Disbursement Amount:$1,500
+Loan Contact Type:Current Servicer
+Loan Contact Name:UVM
+Loan Contact Street Address 1:99 MAIN ST
+Loan Contact Street Address 2:
+Loan Contact City:ANYTOWN
+Loan Contact State Code:NY
+Loan Contact Zip Code:12345
+Loan Contact Phone Number:1234567890
+Loan Contact Phone Extension:
+Loan Contact Email Address:TESTER@GMAIL.COM
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0742210002144300
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:09/21/2009
+Loan Repayment Begin Date:11/06/2011
+Loan Period Begin Date:09/08/2009
+Loan Period End Date:05/06/2010
+Loan Amount:$2,000
+Loan Disbursed Amount:$2,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:10/21/2021
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:10/21/2021
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:0.00%
+Loan Repayment Plan Type:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/06/2011
+Loan Repayment Plan Scheduled Amount:$25
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:10/23/2014
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:09/08/2014
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:08/25/2014
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/10/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/06/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/21/2009
+Loan Disbursement Date:02/10/2010
+Loan Disbursement Amount:$1,000
+Loan Disbursement Date:09/28/2009
+Loan Disbursement Amount:$1,000
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0742110002144300
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:09/21/2009
+Loan Repayment Begin Date:11/06/2011
+Loan Period Begin Date:09/08/2009
+Loan Period End Date:05/06/2010
+Loan Amount:$5,500
+Loan Disbursed Amount:$5,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:10/21/2021
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:10/21/2021
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:0.00%
+Loan Repayment Plan Type:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/06/2011
+Loan Repayment Plan Scheduled Amount:$61
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:10/23/2014
+Loan Status:DZ
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS, THEN MISSED PAYMENT(S)
+Loan Status Effective Date:09/08/2014
+Loan Status:DX
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:08/25/2014
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/10/2012
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/06/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/21/2009
+Loan Disbursement Date:02/10/2010
+Loan Disbursement Amount:$2,750
+Loan Disbursement Date:09/28/2009
+Loan Disbursement Amount:$2,750
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Loan Type:FEDERAL PERKINS
+Loan Award ID:
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:10/15/2009
+Loan Repayment Begin Date:03/01/2012
+Loan Period Begin Date:07/01/2009
+Loan Period End Date:06/30/2010
+Loan Amount:$1,000
+Loan Disbursed Amount:$1,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:11/13/2014
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type:
+Loan Interest Rate:5.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/13/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/01/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2009
+Loan Disbursement Date:10/15/2009
+Loan Disbursement Amount:$1,000
+Loan Contact Type:Current Servicer
+Loan Contact Name:UVM
+Loan Contact Street Address 1:99 MAIN ST
+Loan Contact Street Address 2:
+Loan Contact City:ANYTOWN
+Loan Contact State Code:NY
+Loan Contact Zip Code:12345
+Loan Contact Phone Number:1234567890
+Loan Contact Phone Extension:
+Loan Contact Email Address:TESTER@GMAIL.COM
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:10/03/2008
+Loan Repayment Begin Date:11/06/2011
+Loan Period Begin Date:09/08/2008
+Loan Period End Date:05/07/2009
+Loan Amount:$2,000
+Loan Disbursed Amount:$2,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:10/20/2014
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:10/20/2014
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:6.80%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:10/20/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/17/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/06/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/03/2008
+Loan Disbursement Date:02/11/2009
+Loan Disbursement Amount:$2,000
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Loan Contact Type:Current Servicer
+Loan Contact Name:GREAT LAKES EDUCATIONAL LOAN SERVICES, I
+Loan Contact Street Address 1:PO BOX 7860
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:537077860
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Loan Contact Type:Current Lender
+Loan Contact Name:BANK OF AMERICA, NA
+Loan Contact Street Address 1:P.O. BOX 419038
+Loan Contact Street Address 2:
+Loan Contact City:KANSAS CITY
+Loan Contact State Code:MO
+Loan Contact Zip Code:641830000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:10/03/2008
+Loan Repayment Begin Date:11/06/2011
+Loan Period Begin Date:09/08/2008
+Loan Period End Date:05/07/2009
+Loan Amount:$3,500
+Loan Disbursed Amount:$3,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:10/20/2014
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:10/20/2014
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:6.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:10/20/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/17/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/06/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/03/2008
+Loan Disbursement Date:02/11/2009
+Loan Disbursement Amount:$3,500
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Loan Contact Type:Current Servicer
+Loan Contact Name:GREAT LAKES EDUCATIONAL LOAN SERVICES, I
+Loan Contact Street Address 1:PO BOX 7860
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:537077860
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Loan Contact Type:Current Lender
+Loan Contact Name:BANK OF AMERICA, NA
+Loan Contact Street Address 1:P.O. BOX 419038
+Loan Contact Street Address 2:
+Loan Contact City:KANSAS CITY
+Loan Contact State Code:MO
+Loan Contact Zip Code:641830000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FEDERAL PERKINS
+Loan Award ID:
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:10/15/2008
+Loan Repayment Begin Date:03/01/2012
+Loan Period Begin Date:07/01/2008
+Loan Period End Date:06/30/2009
+Loan Amount:$1,000
+Loan Disbursed Amount:$1,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:11/13/2014
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type:
+Loan Interest Rate:5.00%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/13/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/01/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2008
+Loan Disbursement Date:10/15/2008
+Loan Disbursement Amount:$1,000
+Loan Contact Type:Current Servicer
+Loan Contact Name:UVM
+Loan Contact Street Address 1:99 MAIN ST
+Loan Contact Street Address 2:
+Loan Contact City:ANYTOWN
+Loan Contact State Code:NY
+Loan Contact Zip Code:12345
+Loan Contact Phone Number:1234567890
+Loan Contact Phone Extension:
+Loan Contact Email Address:TESTER@GMAIL.COM
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:07/20/2007
+Loan Repayment Begin Date:11/06/2011
+Loan Period Begin Date:09/04/2007
+Loan Period End Date:05/10/2008
+Loan Amount:$4,000
+Loan Disbursed Amount:$4,000
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:10/20/2014
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:10/20/2014
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:6.80%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:10/20/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/26/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/06/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/20/2007
+Loan Disbursement Date:02/11/2008
+Loan Disbursement Amount:$2,000
+Loan Disbursement Date:10/05/2007
+Loan Disbursement Amount:$2,000
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Loan Contact Type:Current Servicer
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:135047051
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Loan Contact Type:Current Lender
+Loan Contact Name:BANK OF AMERICA, NA
+Loan Contact Street Address 1:P.O. BOX 419038
+Loan Contact Street Address 2:
+Loan Contact City:KANSAS CITY
+Loan Contact State Code:MO
+Loan Contact Zip Code:641830000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Loan Type:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:UVM
+Loan Attending School OPEID:00214400
+Loan Date:07/20/2007
+Loan Repayment Begin Date:11/06/2011
+Loan Period Begin Date:09/04/2007
+Loan Period End Date:05/10/2008
+Loan Amount:$3,500
+Loan Disbursed Amount:$3,500
+Loan Canceled Amount:$0
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:10/20/2014
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:10/20/2014
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:6.80%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0
+Loan PSLF Cumulative Matched Months:0
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:10/20/2014
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/26/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/06/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/20/2007
+Loan Disbursement Date:02/11/2008
+Loan Disbursement Amount:$1,750
+Loan Disbursement Date:10/05/2007
+Loan Disbursement Amount:$1,750
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Loan Contact Type:Current Servicer
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:135047051
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Loan Contact Type:Current Lender
+Loan Contact Name:BANK OF AMERICA, NA
+Loan Contact Street Address 1:P.O. BOX 419038
+Loan Contact Street Address 2:
+Loan Contact City:KANSAS CITY
+Loan Contact State Code:MO
+Loan Contact Zip Code:641830000
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Grant Type:ACADEMIC COMPETITIVENESS GRANT
+Grant Attending School Name:UVM
+Grant Attending School OPEID:00214400
+Grant Award Year:2007 - 2008
+Grant Scheduled Amount:$750
+Grant Award Amount:$750
+Grant Disbursed Amount:$750
+Grant Remaining Amount to be Paid:$0
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Grant Contact Type:Attending School
+Grant Contact Name:UVM
+Grant Contact Street Address 1:99 MAIN ST
+Grant Contact Street Address 2:
+Grant Contact City:ANYTOWN
+Grant Contact State Code:NY
+Grant Contact Zip Code:12345
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:UVM
+Grant Attending School OPEID:00214400
+Grant Award Year:2009 - 2010
+Grant Scheduled Amount:$1,500
+Grant Award Amount:$1,500
+Grant Disbursed Amount:$1,500
+Grant Remaining Amount to be Paid:$0
+Grant First Time:No
+Grant Additional Eligibility:No
+Grant Contact Type:Attending School
+Grant Contact Name:UVM
+Grant Contact Street Address 1:99 MAIN ST
+Grant Contact Street Address 2:
+Grant Contact City:ANYTOWN
+Grant Contact State Code:NY
+Grant Contact Zip Code:12345
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:UVM
+Grant Attending School OPEID:00214400
+Grant Award Year:2008 - 2009
+Grant Scheduled Amount:$981
+Grant Award Amount:$981
+Grant Disbursed Amount:$981
+Grant Remaining Amount to be Paid:$0
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Grant Contact Type:Attending School
+Grant Contact Name:UVM
+Grant Contact Street Address 1:99 MAIN ST
+Grant Contact Street Address 2:
+Grant Contact City:ANYTOWN
+Grant Contact State Code:NY
+Grant Contact Zip Code:12345
+Grant Type:FEDERAL PELL GRANT
+Grant Attending School Name:UVM
+Grant Attending School OPEID:00214400
+Grant Award Year:2007 - 2008
+Grant Scheduled Amount:$560
+Grant Award Amount:$560
+Grant Disbursed Amount:$560
+Grant Remaining Amount to be Paid:$0
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Grant Contact Type:Attending School
+Grant Contact Name:UVM
+Grant Contact Street Address 1:99 MAIN ST
+Grant Contact Street Address 2:
+Grant Contact City:ANYTOWN
+Grant Contact State Code:NY
+Grant Contact Zip Code:12345

@@ -1,0 +1,557 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-09-28 22:31:50
+Student First Name:MATTHEW
+Student Middle Initial:B
+Student Last Name:BRAVER
+Student Street Address 1:5627 S OUTRIGGER RD
+Student Street Address 2:
+Student City:TEMPE
+Student State Code:AZ
+Student Country Code:US
+Student Zip Code:852832129
+Student Email Address:MATTHEW.BRAVER@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4806506443
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:4806506443
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:H
+Student Enrollment Status Code Description:HALF TIME
+Student Enrollment Status Effective Date:09/08/2021
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2009
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$12,408.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$12,408.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$12,408.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Combined Total (Undergraduate and Graduate):$12,408.00
+Student Total All Loans Outstanding Principal:$14,031.00
+Student Total All Loans Outstanding Interest:$248.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$14,031.00
+Total <SF> Outstanding Interest:$248.00
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8713108001349201
+Loan Attending School Name:University of Northern Colorado
+Loan Attending School OPEID:00134900
+Loan Date:07/29/2008
+Loan Repayment Begin Date:11/09/2009
+Loan Period Begin Date:08/25/2008
+Loan Period End Date:05/08/2009
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,918.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:11/29/2018
+Loan Repayment Plan Scheduled Amount:$56.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/18/2020
+Loan Next Payment Due Date:08/28/2024
+Loan Cumulative Payment Amount:$1,821.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$1,158.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,760.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/09/2022
+DelinqDate:03/15/2020
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/08/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/14/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/15/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/01/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/01/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/15/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/15/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/09/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/08/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/29/2008
+Loan Disbursement Date:01/07/2009
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/19/2008
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****90000B01766001
+Loan Attending School Name:University of Northern Colorado
+Loan Attending School OPEID:00134900
+Loan Date:07/30/2007
+Loan Repayment Begin Date:11/09/2009
+Loan Period Begin Date:08/27/2007
+Loan Period End Date:05/09/2008
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,965.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$221.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/27/2022
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/08/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/18/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/20/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/14/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/15/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/29/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/15/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/16/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/09/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/30/2007
+Loan Disbursement Date:01/10/2008
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/22/2007
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:708
+Loan Contact Name:COLLEGE ASSIST
+Loan Contact Street Address 1:PO BOX 16408
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:866-264-8566
+Loan Contact Phone Extension:
+Loan Contact Email Address:collegeassistcustomerservice@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824573
+Loan Contact Name:US BANK ELT EFS FINANCE CO & AFFIL.
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****900000GFT02R01
+Loan Attending School Name:University of Northern Colorado
+Loan Attending School OPEID:00134900
+Loan Date:08/22/2005
+Loan Repayment Begin Date:11/09/2009
+Loan Period Begin Date:08/22/2005
+Loan Period End Date:05/05/2006
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,148.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$27.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,148.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/27/2022
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/08/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/18/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/20/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/14/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/15/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/29/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/15/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/16/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/09/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2005
+Loan Disbursement Date:01/04/2006
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:09/20/2005
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:708
+Loan Contact Name:COLLEGE ASSIST
+Loan Contact Street Address 1:PO BOX 16408
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:866-264-8566
+Loan Contact Phone Extension:
+Loan Contact Email Address:collegeassistcustomerservice@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824573
+Loan Contact Name:US BANK ELT EFS FINANCE CO & AFFIL.
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:University of Wisconsin - Stout
+Program School OPEID:00391500
+Program Cip Year:2020
+Program Cip Code:512310
+Program CIP Title:Vocational Rehabilitation Counseling/Counselor.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:09/08/2021
+Program Published Length in Years:3.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:05/31/2022
+Enrolled School Name:University of Wisconsin - Stout
+Enrolled School OPEID:00391500
+Enrolled Status Code:H
+Enrolled Status Code Description:HALF TIME
+Enrolled Status Date:09/08/2021
+Enrolled School Name:University of Northern Colorado
+Enrolled School OPEID:00134900
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/08/2009

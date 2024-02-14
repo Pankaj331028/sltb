@@ -1,0 +1,680 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-15 15:43:36
+Student First Name:ERIC
+Student Middle Initial:M
+Student Last Name:COLLODEL
+Student Street Address 1:17 LOMBARD DRIVE
+Student Street Address 2:
+Student City:PROSPECT
+Student State Code:CT
+Student Country Code:US
+Student Zip Code:06712
+Student Email Address:COLLODEL@ATT.NET
+Student Home Phone Country Code:1
+Student Home Phone Number:2035582535
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2032060690
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:2037361001
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:05/13/2018
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:C
+Undergraduate Award Year:2018
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$10,571.00
+Undergraduate Aggregate Unsubsidized Total:$19,128.00
+Undergraduate Aggregate Combined Total:$29,699.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$10,571.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$19,128.00
+Aggregate Combined Total (Undergraduate and Graduate):$29,699.00
+Student Total All Loans Outstanding Principal:$32,789.00
+Student Total All Loans Outstanding Interest:$0.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$10,571.00
+Total <D0> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$22,218.00
+Total <D2> Outstanding Interest:$0.00
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4376S18G01380001
+Loan Attending School Name:Western Connecticut State University
+Loan Attending School OPEID:00138000
+Loan Date:08/23/2017
+Loan Repayment Begin Date:11/14/2018
+Loan Period Begin Date:08/29/2017
+Loan Period End Date:05/13/2018
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,300.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/05/2018
+Loan Repayment Plan Scheduled Amount:$33.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.8
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/20/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$520.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,300.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/23/2017
+Loan Disbursement Date:01/11/2018
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/23/2017
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4376U18G01380001
+Loan Attending School Name:Western Connecticut State University
+Loan Attending School OPEID:00138000
+Loan Date:08/23/2017
+Loan Repayment Begin Date:11/14/2018
+Loan Period Begin Date:08/29/2017
+Loan Period End Date:05/13/2018
+Loan Amount:$500.00
+Loan Disbursed Amount:$500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$504.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/05/2018
+Loan Repayment Plan Scheduled Amount:$3.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/20/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$49.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$23.00
+Net Loan Amount:$500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$481.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/23/2017
+Loan Disbursement Date:01/11/2018
+Loan Disbursement Amount:$250.00
+Loan Disbursement Date:08/23/2017
+Loan Disbursement Amount:$250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4376S17G01380001
+Loan Attending School Name:Western Connecticut State University
+Loan Attending School OPEID:00138000
+Loan Date:08/24/2016
+Loan Repayment Begin Date:11/14/2018
+Loan Period Begin Date:08/29/2016
+Loan Period End Date:05/12/2017
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,271.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/05/2018
+Loan Repayment Plan Scheduled Amount:$31.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/20/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$498.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,271.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2016
+Loan Disbursement Date:01/12/2017
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/24/2016
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4376U17G01380001
+Loan Attending School Name:Western Connecticut State University
+Loan Attending School OPEID:00138000
+Loan Date:08/24/2016
+Loan Repayment Begin Date:11/14/2018
+Loan Period Begin Date:08/29/2016
+Loan Period End Date:05/12/2017
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,063.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/05/2018
+Loan Repayment Plan Scheduled Amount:$12.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/20/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$195.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$153.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,910.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2016
+Loan Disbursement Date:01/12/2017
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/24/2016
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4376U16G01380001
+Loan Attending School Name:Western Connecticut State University
+Loan Attending School OPEID:00138000
+Loan Date:08/27/2015
+Loan Repayment Begin Date:11/14/2018
+Loan Period Begin Date:08/31/2015
+Loan Period End Date:05/13/2016
+Loan Amount:$6,500.00
+Loan Disbursed Amount:$6,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,069.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/05/2018
+Loan Repayment Plan Scheduled Amount:$43.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/20/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$686.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$843.00
+Net Loan Amount:$6,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,226.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/2015
+Loan Disbursement Date:01/14/2016
+Loan Disbursement Amount:$3,250.00
+Loan Disbursement Date:08/27/2015
+Loan Disbursement Amount:$3,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4376U15G01380001
+Loan Attending School Name:Western Connecticut State University
+Loan Attending School OPEID:00138000
+Loan Date:08/25/2014
+Loan Repayment Begin Date:11/14/2018
+Loan Period Begin Date:08/28/2014
+Loan Period End Date:05/09/2015
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,305.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/05/2018
+Loan Repayment Plan Scheduled Amount:$39.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/20/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$622.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$1,029.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,276.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2014
+Loan Disbursement Date:01/22/2015
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/25/2014
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4376U14G01380001
+Loan Attending School Name:Western Connecticut State University
+Loan Attending School OPEID:00138000
+Loan Date:10/22/2013
+Loan Repayment Begin Date:11/14/2018
+Loan Period Begin Date:08/28/2013
+Loan Period End Date:05/10/2014
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,277.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/05/2018
+Loan Repayment Plan Scheduled Amount:$37.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/20/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$594.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$1,042.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,235.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/22/2013
+Loan Disbursement Date:02/12/2014
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:10/22/2013
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:Western Connecticut State University
+Program School OPEID:00138000
+Program Cip Year:2010
+Program Cip Code:430103
+Program CIP Title:Criminal Justice/Law Enforcement Administration.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/28/2013
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/13/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:02/01/2018
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/17/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/28/2013
+Award School Name:Western Connecticut State University
+Award School OPEID:00138000
+Award Earliest Disbursement Date:08/23/2017
+Award Loan Period Begin Date:08/29/2017
+Award Loan Period End Date:05/13/2018
+Award Subsidized Usage:0.8
+Award Subsidy Status:
+Award School Name:Western Connecticut State University
+Award School OPEID:00138000
+Award Earliest Disbursement Date:08/23/2017
+Award Loan Period Begin Date:08/29/2017
+Award Loan Period End Date:05/13/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Western Connecticut State University
+Award School OPEID:00138000
+Award Earliest Disbursement Date:08/24/2016
+Award Loan Period Begin Date:08/29/2016
+Award Loan Period End Date:05/12/2017
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Western Connecticut State University
+Award School OPEID:00138000
+Award Earliest Disbursement Date:08/24/2016
+Award Loan Period Begin Date:08/29/2016
+Award Loan Period End Date:05/12/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Western Connecticut State University
+Award School OPEID:00138000
+Award Earliest Disbursement Date:08/27/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:05/13/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Western Connecticut State University
+Award School OPEID:00138000
+Award Earliest Disbursement Date:08/25/2014
+Award Loan Period Begin Date:08/28/2014
+Award Loan Period End Date:05/09/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Western Connecticut State University
+Award School OPEID:00138000
+Award Earliest Disbursement Date:10/22/2013
+Award Loan Period Begin Date:08/28/2013
+Award Loan Period End Date:05/10/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Western Connecticut State University
+Enrolled School OPEID:00138000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/13/2018

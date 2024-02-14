@@ -1,0 +1,1260 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-04-04 12:00:06
+Student First Name:LISA
+Student Middle Initial:A
+Student Last Name:GIBSON
+Student Street Address 1:76 SCARLETT DRIVE
+Student Street Address 2:
+Student City:HUNTINGTOWN
+Student State Code:MD
+Student Country Code:US
+Student Zip Code:20639
+Student Email Address:LGIBSONLAW2@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4432924712
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:3019220142
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:
+Student Work Phone Number:4432924712
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/20/1997
+Undergraduate Subsidized Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Combined Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Award Year:2007
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$23,000.00
+Undergraduate Aggregate Unsubsidized Total:$23,000.00
+Undergraduate Aggregate Combined Total:$46,000.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$23,000.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$23,000.00
+Aggregate Combined Total (Undergraduate and Graduate):$46,000.00
+Student Total All Loans Outstanding Principal:$61,463.00
+Student Total All Loans Outstanding Interest:$14,851.00
+Student Pell Lifetime Eligibility Used:225.030%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$6,695.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$0.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$32,837.00
+Total <D5> Outstanding Interest:$10,096.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$28,626.00
+Total <D6> Outstanding Interest:$4,755.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2769S07G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:08/28/2006
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:09/05/2006
+Loan Period End Date:05/10/2007
+Loan Amount:$3,875.00
+Loan Disbursed Amount:$3,875.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$3,875.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/26/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/28/2006
+Loan Disbursement Date:01/15/2007
+Loan Disbursement Amount:$1,937.00
+Loan Disbursement Date:08/28/2006
+Loan Disbursement Amount:$1,938.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2769U07G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:08/28/2006
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:09/05/2006
+Loan Period End Date:05/10/2007
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2007
+Capitalized Interest:$413.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/26/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/28/2006
+Loan Disbursement Date:01/15/2007
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:08/28/2006
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2769S06G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:10/28/2005
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:08/22/2005
+Loan Period End Date:05/28/2006
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/28/2005
+Loan Disbursement Date:03/22/2006
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:10/28/2005
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2769U06G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:10/28/2005
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:08/22/2005
+Loan Period End Date:05/28/2006
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2006
+Capitalized Interest:$558.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/28/2005
+Loan Disbursement Date:03/22/2006
+Loan Disbursement Amount:$2,500.00
+Loan Disbursement Date:10/28/2005
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2769S05G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:10/18/2004
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:09/08/2004
+Loan Period End Date:05/12/2005
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/18/2004
+Loan Disbursement Date:03/18/2005
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:10/18/2004
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2769U05G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:10/18/2004
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:09/08/2004
+Loan Period End Date:05/12/2005
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2005
+Capitalized Interest:$714.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/18/2004
+Loan Disbursement Date:03/18/2005
+Loan Disbursement Amount:$2,500.00
+Loan Disbursement Date:10/18/2004
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2769S04G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:10/15/2003
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:09/03/2003
+Loan Period End Date:05/14/2004
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2004
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2003
+Loan Disbursement Date:01/16/2004
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:10/15/2003
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2769U04G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:10/15/2003
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:09/03/2003
+Loan Period End Date:05/14/2004
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2004
+Capitalized Interest:$718.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2003
+Loan Disbursement Date:01/16/2004
+Loan Disbursement Amount:$2,500.00
+Loan Disbursement Date:10/15/2003
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2769S03G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:12/02/2002
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:09/04/2002
+Loan Period End Date:05/19/2003
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2003
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/02/2002
+Loan Disbursement Date:03/26/2003
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:12/02/2002
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2769U03G11644001
+Loan Attending School Name:University of Maryland Global Campus
+Loan Attending School OPEID:01164400
+Loan Date:12/03/2002
+Loan Repayment Begin Date:11/11/2007
+Loan Period Begin Date:09/04/2002
+Loan Period End Date:12/19/2002
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/10/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/10/2008
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/11/2007
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2003
+Capitalized Interest:$287.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/17/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:09/10/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/03/2002
+Loan Disbursement Date:12/03/2002
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SN
+Loan Type Description:FFEL STAFFORD NON-SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:Prince George's Community College
+Loan Attending School OPEID:00208900
+Loan Date:08/31/1983
+Loan Repayment Begin Date:08/31/1986
+Loan Period Begin Date:08/31/1983
+Loan Period End Date:05/31/1984
+Loan Amount:$1,250.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1983
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1984
+Capitalized Interest:$0.00
+Net Loan Amount:$1,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1983
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:724
+Loan Contact Name:MARYLAND HIGHER EDUCATION LOAN CORP.
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:815558
+Loan Contact Name:EQUITABLE BANK, N.A.
+Loan Contact Street Address 1:100 S. CHARLES ST., TUITION LOAN DE
+Loan Contact Street Address 2:
+Loan Contact City:BALTIMORE
+Loan Contact State Code:MD
+Loan Contact Zip Code:21201(0000)
+Loan Contact Phone Number:3016258032
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****2769U08G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:09/09/2008
+Loan Repayment Begin Date:09/09/2008
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$27,103.00
+Loan Disbursed Amount:$26,760.00
+Loan Canceled Amount:$343.00
+Loan Canceled Date:09/13/2008
+Loan Outstanding Principal Balance:$32,837.00
+Loan Outstanding Principal Balance as of Date:03/26/2023
+Loan Outstanding Interest Balance:$10,096.00
+Loan Outstanding Interest Balance as of Date:03/26/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.88%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/29/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:11/10/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/09/2023
+Loan Next Payment Due Date:06/09/2018
+Loan Cumulative Payment Amount:$1,212.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$5,740.00
+Net Loan Amount:$26,760.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$23,000.00
+Calculated Combined Aggregate OPB:$23,000.00
+UpdtDt:04/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/29/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/15/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/09/2008
+Loan Disbursement Date:09/09/2008
+Loan Disbursement Amount:$26,760.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****2769S08G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:09/09/2008
+Loan Repayment Begin Date:09/09/2008
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$24,258.00
+Loan Disbursed Amount:$23,919.00
+Loan Canceled Amount:$339.00
+Loan Canceled Date:09/13/2008
+Loan Outstanding Principal Balance:$28,626.00
+Loan Outstanding Principal Balance as of Date:03/26/2023
+Loan Outstanding Interest Balance:$4,755.00
+Loan Outstanding Interest Balance as of Date:03/26/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.88%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/29/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:11/10/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/09/2023
+Loan Next Payment Due Date:06/09/2018
+Loan Cumulative Payment Amount:$927.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$4,373.00
+Net Loan Amount:$23,919.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$23,000.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$23,000.00
+UpdtDt:04/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/29/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/15/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/09/2008
+Loan Disbursement Date:09/09/2008
+Loan Disbursement Amount:$23,919.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland Global Campus
+Grant Attending School OPEID:01164400
+Grant Award Year:2006 - 2007
+Grant Scheduled Amount:$4,050.00
+Grant Award Amount:$4,050.00
+Grant Disbursed Amount:$1,520.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.531%
+Aid Recipient's Total Percent Eligibility Used (TEU):37.531%
+Grant Contact Type:Attending School
+Grant Contact Code:01164400
+Grant Contact Name:University of Maryland Global Campus
+Grant Contact Street Address 1:3501 UNIVERSITY BLVD. EAST
+Grant Contact Street Address 2:
+Grant Contact City:ADELPHI
+Grant Contact State Code:MD
+Grant Contact Zip Code:20783(8078)
+Phone Number:240-684-2148
+Phone Extension:
+Email Address:dareth.wallace@umgc.edu
+Web Site Address:http://www.umgc.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland Global Campus
+Grant Attending School OPEID:01164400
+Grant Award Year:2005 - 2006
+Grant Scheduled Amount:$3,100.00
+Grant Award Amount:$3,100.00
+Grant Disbursed Amount:$2,325.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.000%
+Grant Contact Type:Attending School
+Grant Contact Code:01164400
+Grant Contact Name:University of Maryland Global Campus
+Grant Contact Street Address 1:3501 UNIVERSITY BLVD. EAST
+Grant Contact Street Address 2:
+Grant Contact City:ADELPHI
+Grant Contact State Code:MD
+Grant Contact Zip Code:20783(8078)
+Phone Number:240-684-2148
+Phone Extension:
+Email Address:dareth.wallace@umgc.edu
+Web Site Address:http://www.umgc.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland Global Campus
+Grant Attending School OPEID:01164400
+Grant Award Year:2004 - 2005
+Grant Scheduled Amount:$4,050.00
+Grant Award Amount:$3,038.00
+Grant Disbursed Amount:$2,025.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:01164400
+Grant Contact Name:University of Maryland Global Campus
+Grant Contact Street Address 1:3501 UNIVERSITY BLVD. EAST
+Grant Contact Street Address 2:
+Grant Contact City:ADELPHI
+Grant Contact State Code:MD
+Grant Contact Zip Code:20783(8078)
+Phone Number:240-684-2148
+Phone Extension:
+Email Address:dareth.wallace@umgc.edu
+Web Site Address:http://www.umgc.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland Global Campus
+Grant Attending School OPEID:01164400
+Grant Award Year:2003 - 2004
+Grant Scheduled Amount:$800.00
+Grant Award Amount:$400.00
+Grant Disbursed Amount:$400.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:01164400
+Grant Contact Name:University of Maryland Global Campus
+Grant Contact Street Address 1:3501 UNIVERSITY BLVD. EAST
+Grant Contact Street Address 2:
+Grant Contact City:ADELPHI
+Grant Contact State Code:MD
+Grant Contact Zip Code:20783(8078)
+Phone Number:240-684-2148
+Phone Extension:
+Email Address:dareth.wallace@umgc.edu
+Web Site Address:http://www.umgc.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland Global Campus
+Grant Attending School OPEID:01164400
+Grant Award Year:2001 - 2002
+Grant Scheduled Amount:$3,400.00
+Grant Award Amount:$1,700.00
+Grant Disbursed Amount:$425.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):12.500%
+Aid Recipient's Total Percent Eligibility Used (TEU):12.500%
+Grant Contact Type:Attending School
+Grant Contact Code:01164400
+Grant Contact Name:University of Maryland Global Campus
+Grant Contact Street Address 1:3501 UNIVERSITY BLVD. EAST
+Grant Contact Street Address 2:
+Grant Contact City:ADELPHI
+Grant Contact State Code:MD
+Grant Contact Zip Code:20783(8078)
+Phone Number:240-684-2148
+Phone Extension:
+Email Address:dareth.wallace@umgc.edu
+Web Site Address:http://www.umgc.edu
+Enrolled School Name:University of Maryland Global Campus
+Enrolled School OPEID:01164400
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/10/2007
+Enrolled School Name:Prince George's Community College
+Enrolled School OPEID:00208900
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/20/1997

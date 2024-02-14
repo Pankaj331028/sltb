@@ -1,0 +1,2987 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-01-14 11:42:48
+Student First Name:HOLLY
+Student Middle Initial:P
+Student Last Name:DANIELS
+Student Street Address 1:5310 RUSSELL ROAD
+Student Street Address 2:
+Student City:DURHAM
+Student State Code:NC
+Student Country Code:US
+Student Zip Code:27712
+Student Email Address:HOLLYHDANIELS@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:8189958773
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:3234285009
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:3104573209
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:03/14/2016
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1995
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:C
+Graduate Award Year:2016
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$36,831.00
+Graduate Aggregate Unsubsidized Total:$99,502.00
+Graduate Aggregate Combined Total:$136,333.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$36,831.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$99,502.00
+Aggregate Combined Total (Undergraduate and Graduate):$136,333.00
+Student Total All Loans Outstanding Principal:$233,262.00
+Student Total All Loans Outstanding Interest:$56,949.00
+Student Pell Lifetime Eligibility Used:100.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$225.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$17,000.00
+Total <D1> Outstanding Interest:$1,266.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$80,227.00
+Total <D2> Outstanding Interest:$16,100.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$83,218.00
+Total <D3> Outstanding Interest:$29,770.00
+Type Code:GB
+Type Description:FFEL PLUS GRADUATE
+Total <GB> Outstanding Principal:$0.00
+Total <GB> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$19,833.00
+Total <SF> Outstanding Interest:$1,422.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$32,984.00
+Total <SU> Outstanding Interest:$8,391.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754U16G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:07/01/2015
+Loan Repayment Begin Date:09/15/2016
+Loan Period Begin Date:07/06/2015
+Loan Period End Date:03/18/2016
+Loan Amount:$6,502.00
+Loan Disbursed Amount:$6,502.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,862.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$861.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.84%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$25.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$494.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$360.00
+Net Loan Amount:$6,502.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,502.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/15/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/15/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/01/2015
+Loan Disbursement Date:01/08/2016
+Loan Disbursement Amount:$2,167.00
+Loan Disbursement Date:09/30/2015
+Loan Disbursement Amount:$2,167.00
+Loan Disbursement Date:07/06/2015
+Loan Disbursement Amount:$2,168.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4754P16G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:12/09/2015
+Loan Repayment Begin Date:01/08/2016
+Loan Period Begin Date:07/06/2015
+Loan Period End Date:03/18/2016
+Loan Amount:$7,500.00
+Loan Disbursed Amount:$7,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,500.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$1,376.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.84%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$32.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/23/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$743.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$7,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/08/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/09/2015
+Loan Disbursement Date:01/08/2016
+Loan Disbursement Amount:$2,500.00
+Loan Disbursement Date:12/09/2015
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754U15G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:07/07/2014
+Loan Repayment Begin Date:09/15/2016
+Loan Period Begin Date:06/30/2014
+Loan Period End Date:05/29/2015
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$22,853.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$3,155.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$85.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,643.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$2,353.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/15/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/15/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/07/2014
+Loan Disbursement Date:03/25/2015
+Loan Disbursement Amount:$5,125.00
+Loan Disbursement Date:01/05/2015
+Loan Disbursement Amount:$5,125.00
+Loan Disbursement Date:09/05/2014
+Loan Disbursement Amount:$5,125.00
+Loan Disbursement Date:07/07/2014
+Loan Disbursement Amount:$5,125.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4754P15G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:09/01/2014
+Loan Repayment Begin Date:03/25/2015
+Loan Period Begin Date:06/30/2014
+Loan Period End Date:05/29/2015
+Loan Amount:$16,733.00
+Loan Disbursed Amount:$16,733.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$16,733.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$5,023.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.21%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$71.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,375.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$16,733.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/25/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/01/2014
+Loan Disbursement Date:03/25/2015
+Loan Disbursement Amount:$2,141.00
+Loan Disbursement Date:01/05/2015
+Loan Disbursement Amount:$2,141.00
+Loan Disbursement Date:09/05/2014
+Loan Disbursement Amount:$12,451.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754U14G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:09/10/2013
+Loan Repayment Begin Date:09/15/2016
+Loan Period Begin Date:09/15/2013
+Loan Period End Date:05/30/2014
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$23,522.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$2,609.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.41%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$87.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,676.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$3,022.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/15/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/15/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/10/2013
+Loan Disbursement Date:03/18/2014
+Loan Disbursement Amount:$6,833.00
+Loan Disbursement Date:01/06/2014
+Loan Disbursement Amount:$6,833.00
+Loan Disbursement Date:09/20/2013
+Loan Disbursement Amount:$6,834.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4754P14G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:09/10/2013
+Loan Repayment Begin Date:03/18/2014
+Loan Period Begin Date:09/15/2013
+Loan Period End Date:05/30/2014
+Loan Amount:$12,069.00
+Loan Disbursed Amount:$12,069.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,069.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$3,668.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.41%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$51.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/23/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,212.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$12,069.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/18/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/10/2013
+Loan Disbursement Date:03/18/2014
+Loan Disbursement Amount:$746.00
+Loan Disbursement Date:01/06/2014
+Loan Disbursement Amount:$1,637.00
+Loan Disbursement Date:09/17/2013
+Loan Disbursement Amount:$9,686.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754U13G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:08/30/2012
+Loan Repayment Begin Date:09/28/2012
+Loan Period Begin Date:09/09/2012
+Loan Period End Date:08/02/2013
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/28/2012
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/28/2012
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/01/2012
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:09/28/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/30/2012
+Loan Disbursement Date:08/30/2012
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4754S12G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:09/02/2011
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:09/12/2011
+Loan Period End Date:05/18/2012
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,500.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$633.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$31.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/23/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$986.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/02/2011
+Loan Disbursement Date:03/23/2012
+Loan Disbursement Amount:$2,125.00
+Loan Disbursement Date:01/13/2012
+Loan Disbursement Amount:$2,125.00
+Loan Disbursement Date:10/21/2011
+Loan Disbursement Amount:$2,125.00
+Loan Disbursement Date:09/02/2011
+Loan Disbursement Amount:$2,125.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754U12G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:09/02/2011
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:09/12/2011
+Loan Period End Date:05/18/2012
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$13,086.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$4,594.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$48.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,469.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$1,086.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/02/2011
+Loan Disbursement Date:03/23/2012
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:01/13/2012
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:10/21/2011
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:09/02/2011
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4754P12G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:09/02/2011
+Loan Repayment Begin Date:03/23/2012
+Loan Period Begin Date:09/12/2011
+Loan Period End Date:05/18/2012
+Loan Amount:$24,000.00
+Loan Disbursed Amount:$24,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$24,047.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$10,099.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$103.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$5,362.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$174.00
+Net Loan Amount:$24,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/23/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/02/2011
+Loan Disbursement Date:03/23/2012
+Loan Disbursement Amount:$6,000.00
+Loan Disbursement Date:01/13/2012
+Loan Disbursement Amount:$6,000.00
+Loan Disbursement Date:10/21/2011
+Loan Disbursement Amount:$6,000.00
+Loan Disbursement Date:09/02/2011
+Loan Disbursement Amount:$6,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4754S11G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:08/20/2010
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:08/30/2010
+Loan Period End Date:05/27/2011
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,500.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$633.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$31.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/23/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$986.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2010
+Loan Disbursement Date:04/01/2011
+Loan Disbursement Amount:$2,125.00
+Loan Disbursement Date:01/21/2011
+Loan Disbursement Amount:$2,125.00
+Loan Disbursement Date:10/15/2010
+Loan Disbursement Amount:$2,125.00
+Loan Disbursement Date:08/20/2010
+Loan Disbursement Amount:$2,125.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754U11G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:08/20/2010
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:08/30/2010
+Loan Period End Date:05/27/2011
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$13,904.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$4,881.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$52.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,575.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$1,904.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2010
+Loan Disbursement Date:04/01/2011
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:01/21/2011
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:10/15/2010
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:08/20/2010
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4754P11G22676001
+Loan Attending School Name:Sofia University
+Loan Attending School OPEID:02267600
+Loan Date:08/20/2010
+Loan Repayment Begin Date:04/01/2011
+Loan Period Begin Date:08/30/2010
+Loan Period End Date:05/27/2011
+Loan Amount:$23,000.00
+Loan Disbursed Amount:$22,795.00
+Loan Canceled Amount:$205.00
+Loan Canceled Date:06/06/2011
+Loan Outstanding Principal Balance:$22,869.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$9,604.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$98.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$6,877.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$195.00
+Net Loan Amount:$22,795.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/07/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/01/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2010
+Loan Disbursement Date:04/01/2011
+Loan Disbursement Amount:$5,545.00
+Loan Disbursement Date:01/21/2011
+Loan Disbursement Amount:$5,750.00
+Loan Disbursement Date:10/15/2010
+Loan Disbursement Amount:$5,750.00
+Loan Disbursement Date:08/20/2010
+Loan Disbursement Amount:$5,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****4754110003010202
+Loan Attending School Name:Antioch University - Los Angeles
+Loan Attending School OPEID:00301002
+Loan Date:02/11/2010
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:04/05/2010
+Loan Period End Date:06/12/2010
+Loan Amount:$2,833.00
+Loan Disbursed Amount:$2,833.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,833.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$151.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/23/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$475.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$2,833.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,833.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/07/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/11/2010
+Loan Disbursement Date:04/05/2010
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754210003010201
+Loan Attending School Name:Antioch University - Los Angeles
+Loan Attending School OPEID:00301002
+Loan Date:02/11/2010
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:04/05/2010
+Loan Period End Date:06/12/2010
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,780.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$1,227.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$27.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,017.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$780.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/07/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/11/2010
+Loan Disbursement Date:04/05/2010
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****4754110003010300
+Loan Attending School Name:Antioch University - Los Angeles
+Loan Attending School OPEID:00301002
+Loan Date:06/29/2009
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:07/06/2009
+Loan Period End Date:03/13/2010
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,499.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,500.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$625.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$48.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/23/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,263.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,499.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/07/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/29/2009
+Loan Disbursement Date:01/04/2010
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:10/05/2009
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:07/06/2009
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754210003010300
+Loan Attending School Name:Antioch University - Los Angeles
+Loan Attending School OPEID:00301002
+Loan Date:06/29/2009
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:07/06/2009
+Loan Period End Date:03/13/2010
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$14,697.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$3,773.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$82.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/22/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$3,180.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$2,697.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/07/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/29/2009
+Loan Disbursement Date:01/04/2010
+Loan Disbursement Amount:$4,000.00
+Loan Disbursement Date:10/05/2009
+Loan Disbursement Amount:$4,000.00
+Loan Disbursement Date:07/06/2009
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:GB
+Loan Type Description:FFEL PLUS GRADUATE
+Loan Award ID:*****4754509003010300
+Loan Attending School Name:Antioch University - Los Angeles
+Loan Attending School OPEID:00301002
+Loan Date:10/14/2008
+Loan Repayment Begin Date:04/06/2009
+Loan Period Begin Date:10/06/2008
+Loan Period End Date:06/13/2009
+Loan Amount:$9,000.00
+Loan Disbursed Amount:$9,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/12/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/12/2013
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.50%
+Loan Actual Interest Rate:8.50%
+Loan Statutory Interest Rate:8.50%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$9,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/18/2013
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:03/12/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/07/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/14/2008
+Loan Disbursement Date:04/06/2009
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:01/05/2009
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:10/14/2008
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****4754109003010300
+Loan Attending School Name:Antioch University - Los Angeles
+Loan Attending School OPEID:00301002
+Loan Date:10/09/2008
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:10/06/2008
+Loan Period End Date:06/13/2009
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,499.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,500.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$646.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$48.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/23/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,243.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,499.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/07/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/09/2008
+Loan Disbursement Date:04/06/2009
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:01/05/2009
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:10/14/2008
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754209003010300
+Loan Attending School Name:Antioch University - Los Angeles
+Loan Attending School OPEID:00301002
+Loan Date:10/09/2008
+Loan Repayment Begin Date:04/07/2013
+Loan Period Begin Date:10/06/2008
+Loan Period End Date:06/13/2009
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$13,507.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$3,391.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/29/2020
+Loan Repayment Plan Scheduled Amount:$76.00
+Loan Repayment Plan IDR Plan Anniversary Date:12/05/2022
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/23/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$4,816.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$1,507.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/25/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/25/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/07/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/07/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/09/2008
+Loan Disbursement Date:04/06/2009
+Loan Disbursement Amount:$4,000.00
+Loan Disbursement Date:01/05/2009
+Loan Disbursement Amount:$4,000.00
+Loan Disbursement Date:10/14/2008
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****3358S00000000
+Loan Attending School Name:University of Southern California
+Loan Attending School OPEID:00132800
+Loan Date:07/12/2002
+Loan Repayment Begin Date:06/19/2003
+Loan Period Begin Date:08/26/2002
+Loan Period End Date:12/18/2002
+Loan Amount:$7,750.00
+Loan Disbursed Amount:$4,250.00
+Loan Canceled Amount:$3,500.00
+Loan Canceled Date:01/03/2003
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/25/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/25/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2003
+Capitalized Interest:$0.00
+Net Loan Amount:$4,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:11/25/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/19/2003
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/19/2002
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/12/2002
+Loan Disbursement Date:08/19/2002
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4754U98G02099001
+Loan Attending School Name:Towson University
+Loan Attending School OPEID:00209900
+Loan Date:09/17/1997
+Loan Repayment Begin Date:11/23/1998
+Loan Period Begin Date:09/02/1997
+Loan Period End Date:05/22/1998
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/31/2006
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/31/2006
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$1,012.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:04/09/2006
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:03/31/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/07/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/02/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/08/2003
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/07/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/06/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/23/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/02/1997
+Loan Disbursement Date:03/30/1998
+Loan Disbursement Amount:$5,000.00
+Loan Disbursement Date:09/17/1997
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****2A094O53007001
+Loan Attending School Name:Pennsylvania State University (The)
+Loan Attending School OPEID:00332900
+Loan Date:07/25/1994
+Loan Repayment Begin Date:12/01/1995
+Loan Period Begin Date:08/24/1994
+Loan Period End Date:05/06/1995
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:06/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:06/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:06/28/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/07/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/24/1994
+Loan Disbursement Date:12/09/1994
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/01/1994
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700041
+Loan Contact Name:NELNET (EFS)
+Loan Contact Street Address 1:8425 WOODFIELD CROSSING BLVD
+Loan Contact Street Address 2:STE 401
+Loan Contact City:INDIANAPOLIS
+Loan Contact State Code:IN
+Loan Contact Zip Code:46240
+Loan Contact Phone Number:800-635-1867
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:742
+Loan Contact Name:PENNSYLVANIA HIGHER EDUC. ASST. AGENCY
+Loan Contact Street Address 1:1200 N.  7TH STREET
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17102(0000)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:828141
+Loan Contact Name:NORTHWEST BANK
+Loan Contact Street Address 1:1301 LIBERTY STREET
+Loan Contact Street Address 2:
+Loan Contact City:WARREN
+Loan Contact State Code:PA
+Loan Contact Zip Code:16323(0000)
+Loan Contact Phone Number:8007992044
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****2A093O53053001
+Loan Attending School Name:Pennsylvania State University (The)
+Loan Attending School OPEID:00332900
+Loan Date:07/12/1993
+Loan Repayment Begin Date:12/01/1995
+Loan Period Begin Date:08/25/1993
+Loan Period End Date:05/07/1994
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:06/28/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:06/28/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:06/28/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/07/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/25/1993
+Loan Disbursement Date:12/10/1993
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700041
+Loan Contact Name:NELNET (EFS)
+Loan Contact Street Address 1:8425 WOODFIELD CROSSING BLVD
+Loan Contact Street Address 2:STE 401
+Loan Contact City:INDIANAPOLIS
+Loan Contact State Code:IN
+Loan Contact Zip Code:46240
+Loan Contact Phone Number:800-635-1867
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:742
+Loan Contact Name:PENNSYLVANIA HIGHER EDUC. ASST. AGENCY
+Loan Contact Street Address 1:1200 N.  7TH STREET
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17102(0000)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:828141
+Loan Contact Name:NORTHWEST BANK
+Loan Contact Street Address 1:1301 LIBERTY STREET
+Loan Contact Street Address 2:
+Loan Contact City:WARREN
+Loan Contact State Code:PA
+Loan Contact Zip Code:16323(0000)
+Loan Contact Phone Number:8007992044
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****2A092O09385301
+Loan Attending School Name:Pennsylvania State University (The)
+Loan Attending School OPEID:00332900
+Loan Date:07/24/1992
+Loan Repayment Begin Date:12/01/1995
+Loan Period Begin Date:08/26/1992
+Loan Period End Date:05/08/1993
+Loan Amount:$1,990.00
+Loan Disbursed Amount:$1,990.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/01/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/01/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$1,990.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:07/01/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/07/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/26/1992
+Loan Disbursement Date:12/11/1992
+Loan Disbursement Amount:$1,990.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700041
+Loan Contact Name:NELNET (EFS)
+Loan Contact Street Address 1:8425 WOODFIELD CROSSING BLVD
+Loan Contact Street Address 2:STE 401
+Loan Contact City:INDIANAPOLIS
+Loan Contact State Code:IN
+Loan Contact Zip Code:46240
+Loan Contact Phone Number:800-635-1867
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:742
+Loan Contact Name:PENNSYLVANIA HIGHER EDUC. ASST. AGENCY
+Loan Contact Street Address 1:1200 N.  7TH STREET
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17102(0000)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:828141
+Loan Contact Name:NORTHWEST BANK
+Loan Contact Street Address 1:1301 LIBERTY STREET
+Loan Contact Street Address 2:
+Loan Contact City:WARREN
+Loan Contact State Code:PA
+Loan Contact Zip Code:16323(0000)
+Loan Contact Phone Number:8007992044
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SN
+Loan Type Description:FFEL STAFFORD NON-SUBSIDIZED
+Loan Award ID:*****2A092O09385302
+Loan Attending School Name:Pennsylvania State University (The)
+Loan Attending School OPEID:00332900
+Loan Date:07/27/1992
+Loan Repayment Begin Date:12/01/1995
+Loan Period Begin Date:08/26/1992
+Loan Period End Date:05/08/1993
+Loan Amount:$635.00
+Loan Disbursed Amount:$635.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/02/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/02/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$635.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:12/02/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/01/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/26/1992
+Loan Disbursement Date:12/12/1992
+Loan Disbursement Amount:$635.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700141
+Loan Contact Name:AMERICAN EDUCATION SERVICES
+Loan Contact Street Address 1:PO BOX 2461
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17105(2461)
+Loan Contact Phone Number:800-233-0557
+Loan Contact Phone Extension:
+Loan Contact Email Address:WEBMASTER@PHEAA.ORG
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:742
+Loan Contact Name:PENNSYLVANIA HIGHER EDUC. ASST. AGENCY
+Loan Contact Street Address 1:1200 N.  7TH STREET
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17102(0000)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:809729
+Loan Contact Name:MELLON BANK NORTHERN REGION
+Loan Contact Street Address 1:2 MELLON CENTER
+Loan Contact Street Address 2:
+Loan Contact City:PITTSBURGH
+Loan Contact State Code:PA
+Loan Contact Zip Code:15259(0001)
+Loan Contact Phone Number:4122340305
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Pennsylvania State University (The)
+Grant Attending School OPEID:00332900
+Grant Award Year:1993 - 1994
+Grant Scheduled Amount:$450.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$225.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00332900
+Grant Contact Name:Pennsylvania State University (The)
+Grant Contact Street Address 1:STUDENT FINANCIAL SERVICES
+Grant Contact Street Address 2:108 SHIELDS BUILDING
+Grant Contact City:UNIVERSITY PARK
+Grant Contact State Code:PA
+Grant Contact Zip Code:16802
+Phone Number:814-865-6528
+Phone Extension:
+Email Address:
+Web Site Address:http://www.bursar.psu.edu
+Program School Name:Sofia University
+Program School OPEID:02267600
+Program Cip Year:2010
+Program Cip Code:429999
+Program CIP Title:Psychology, Other.
+Program Credential Level Code:06
+Program Credential Level Code Description:DOCTORAL DEGREE
+Program Begin Date:09/01/2013
+Program Published Length in Years:6.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:03/13/2015
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:12/09/2015
+Award Loan Period Begin Date:07/06/2015
+Award Loan Period End Date:03/18/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:07/06/2015
+Award Loan Period Begin Date:07/06/2015
+Award Loan Period End Date:03/18/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:09/05/2014
+Award Loan Period Begin Date:06/30/2014
+Award Loan Period End Date:05/29/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:07/07/2014
+Award Loan Period Begin Date:06/30/2014
+Award Loan Period End Date:05/29/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:09/20/2013
+Award Loan Period Begin Date:09/15/2013
+Award Loan Period End Date:05/30/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:09/17/2013
+Award Loan Period Begin Date:09/15/2013
+Award Loan Period End Date:05/30/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:08/30/2012
+Award Loan Period Begin Date:09/09/2012
+Award Loan Period End Date:08/02/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:08/30/2012
+Award Loan Period Begin Date:09/09/2012
+Award Loan Period End Date:08/02/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:09/02/2011
+Award Loan Period Begin Date:09/12/2011
+Award Loan Period End Date:05/18/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:09/02/2011
+Award Loan Period Begin Date:09/12/2011
+Award Loan Period End Date:05/18/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Sofia University
+Award School OPEID:02267600
+Award Earliest Disbursement Date:09/02/2011
+Award Loan Period Begin Date:09/12/2011
+Award Loan Period End Date:05/18/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of California, Los Angeles - UCLA Extension
+Enrolled School OPEID:00131501
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:03/27/2016
+Enrolled School Name:Sofia University
+Enrolled School OPEID:02267600
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:03/14/2016
+Enrolled School Name:Antioch University
+Enrolled School OPEID:00301000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:06/14/2010
+Enrolled School Name:Antioch University - Los Angeles
+Enrolled School OPEID:00301002
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:06/14/2010
+Enrolled School Name:George Washington University - Columbian College of Arts and Sciences
+Enrolled School OPEID:00144401
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:01/12/2004
+Enrolled School Name:University of Southern California
+Enrolled School OPEID:00132800
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/18/2002
+Enrolled School Name:Pepperdine University
+Enrolled School OPEID:01014900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:07/13/2002
+Enrolled School Name:Towson University
+Enrolled School OPEID:00209900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/22/1998

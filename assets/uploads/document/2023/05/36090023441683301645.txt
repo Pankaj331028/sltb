@@ -1,0 +1,2351 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-05-05 11:42:50
+Student First Name:LISA
+Student Middle Initial:A
+Student Last Name:TAYLOR-AUSTIN
+Student Street Address 1:8 FAIRVIEW STREET
+Student Street Address 2:
+Student City:ANSONIA
+Student State Code:CT
+Student Country Code:US
+Student Zip Code:06401
+Student Email Address:LISATAYLORAUSTIN@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2035226164
+Student Home Phone Preferred:Yes
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2035226164
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:1
+Student Work Phone Number:2035226164
+Student Work Phone Preferred:No
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:05/03/2005
+Undergraduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Award Year:1985
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$11,816.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$11,816.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:1988
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$16,146.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$16,146.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$27,962.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Combined Total (Undergraduate and Graduate):$27,962.00
+Student Total All Loans Outstanding Principal:$202,629.00
+Student Total All Loans Outstanding Interest:$26,038.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$0.00
+Total <CL> Outstanding Interest:$0.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$202,629.00
+Total <D6> Outstanding Interest:$26,038.00
+Type Code:NU
+Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Total <NU> Outstanding Principal:$0.00
+Total <NU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SL
+Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Total <SL> Outstanding Principal:$0.00
+Total <SL> Outstanding Interest:$0.00
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****2857 00000000
+Loan Attending School Name:California State University, Dominguez Hills
+Loan Attending School OPEID:00114100
+Loan Date:09/20/1990
+Loan Repayment Begin Date:09/20/1990
+Loan Period Begin Date:08/26/1990
+Loan Period End Date:05/28/1991
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$4,000.00
+Loan Canceled Date:11/15/1990
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/15/1990
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/15/1990
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1991
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:11/15/1990
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824421
+Loan Contact Name:BANK OF AMERICA, NA
+Loan Contact Street Address 1:P.O. BOX 419038
+Loan Contact Street Address 2:
+Loan Contact City:KANSAS CITY
+Loan Contact State Code:MO
+Loan Contact Zip Code:64183(0000)
+Loan Contact Phone Number:8169796840
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:NU
+Loan Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Loan Award ID:*****09542316PER16A
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:04/17/1988
+Loan Repayment Begin Date:11/01/1988
+Loan Period Begin Date:01/01/1988
+Loan Period End Date:06/30/1988
+Loan Amount:$1,600.00
+Loan Disbursed Amount:$1,600.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/23/2009
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1988
+Capitalized Interest:$0.00
+Net Loan Amount:$1,600.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/23/2009
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:10/04/1991
+Loan Disbursement Date:04/17/1988
+Loan Disbursement Amount:$1,600.00
+Loan Contact Type:Attending School
+Loan Contact Code:00284100
+Loan Contact Name:SUNY College at Brockport
+Loan Contact Street Address 1:350 NEW CAMPUS DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BROCKPORT
+Loan Contact State Code:NY
+Loan Contact Zip Code:14420(2914)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:03/29/1988
+Loan Repayment Begin Date:06/01/1988
+Loan Period Begin Date:09/01/1987
+Loan Period End Date:12/31/1987
+Loan Amount:$1,686.00
+Loan Disbursed Amount:$1,686.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1988
+Capitalized Interest:$0.00
+Net Loan Amount:$1,686.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:04/08/1988
+Loan Disbursement Amount:$1,686.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:12/09/1987
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:07/01/1987
+Loan Period End Date:05/31/1988
+Loan Amount:$3,657.00
+Loan Disbursed Amount:$3,657.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1988
+Capitalized Interest:$0.00
+Net Loan Amount:$3,657.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:12/16/1987
+Loan Disbursement Amount:$3,657.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:07/18/1987
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:06/01/1987
+Loan Period End Date:07/31/1987
+Loan Amount:$3,078.00
+Loan Disbursed Amount:$3,078.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1987
+Capitalized Interest:$0.00
+Net Loan Amount:$3,078.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:08/03/1987
+Loan Disbursement Amount:$3,078.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:05/06/1987
+Loan Repayment Begin Date:06/01/1988
+Loan Period Begin Date:06/01/1987
+Loan Period End Date:07/31/1987
+Loan Amount:$965.00
+Loan Disbursed Amount:$965.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:12.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:12.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1987
+Capitalized Interest:$0.00
+Net Loan Amount:$965.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:05/11/1987
+Loan Disbursement Amount:$965.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:08/19/1986
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:09/01/1986
+Loan Period End Date:05/31/1987
+Loan Amount:$3,653.00
+Loan Disbursed Amount:$3,653.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1987
+Capitalized Interest:$0.00
+Net Loan Amount:$3,653.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:12/01/1986
+Loan Disbursement Amount:$3,653.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:05/06/1986
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:06/01/1986
+Loan Period End Date:08/31/1986
+Loan Amount:$758.00
+Loan Disbursed Amount:$758.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1986
+Capitalized Interest:$0.00
+Net Loan Amount:$758.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:05/19/1986
+Loan Disbursement Amount:$758.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:12/18/1985
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:01/01/1986
+Loan Period End Date:05/31/1986
+Loan Amount:$1,614.00
+Loan Disbursed Amount:$1,614.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1986
+Capitalized Interest:$0.00
+Net Loan Amount:$1,614.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:12/30/1985
+Loan Disbursement Amount:$1,614.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:09/13/1985
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:09/01/1985
+Loan Period End Date:12/31/1985
+Loan Amount:$1,886.00
+Loan Disbursed Amount:$1,886.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1986
+Capitalized Interest:$0.00
+Net Loan Amount:$1,886.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:09/23/1985
+Loan Disbursement Amount:$1,886.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:07/23/1985
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:09/01/1985
+Loan Period End Date:12/31/1985
+Loan Amount:$1,500.00
+Loan Disbursed Amount:$1,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1986
+Capitalized Interest:$0.00
+Net Loan Amount:$1,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:08/05/1985
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:08/17/1984
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:09/01/1984
+Loan Period End Date:05/31/1985
+Loan Amount:$2,500.00
+Loan Disbursed Amount:$2,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1985
+Capitalized Interest:$0.00
+Net Loan Amount:$2,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:12/10/1984
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:01/24/1984
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:01/01/1984
+Loan Period End Date:05/31/1984
+Loan Amount:$1,394.00
+Loan Disbursed Amount:$1,394.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1984
+Capitalized Interest:$0.00
+Net Loan Amount:$1,394.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:02/21/1984
+Loan Disbursement Amount:$1,394.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:09/03/1982
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:09/01/1982
+Loan Period End Date:05/31/1983
+Loan Amount:$996.00
+Loan Disbursed Amount:$996.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1983
+Capitalized Interest:$0.00
+Net Loan Amount:$996.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:10/14/1982
+Loan Disbursement Amount:$996.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:NU
+Loan Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Loan Award ID:*****09542316PER15B
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:01/01/1983
+Loan Repayment Begin Date:06/01/1986
+Loan Period Begin Date:08/01/1982
+Loan Period End Date:06/30/1983
+Loan Amount:$1,035.00
+Loan Disbursed Amount:$1,035.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/23/2009
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1983
+Capitalized Interest:$0.00
+Net Loan Amount:$1,035.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/23/2009
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:06/30/1998
+Loan Disbursement Date:01/01/1983
+Loan Disbursement Amount:$1,035.00
+Loan Contact Type:Attending School
+Loan Contact Code:00284100
+Loan Contact Name:SUNY College at Brockport
+Loan Contact Street Address 1:350 NEW CAMPUS DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BROCKPORT
+Loan Contact State Code:NY
+Loan Contact Zip Code:14420(2914)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:NU
+Loan Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Loan Award ID:*****09542316PER15A
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:09/01/1982
+Loan Repayment Begin Date:11/01/1983
+Loan Period Begin Date:08/01/1982
+Loan Period End Date:12/31/1982
+Loan Amount:$949.00
+Loan Disbursed Amount:$949.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/23/2009
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1983
+Capitalized Interest:$0.00
+Net Loan Amount:$949.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/23/2009
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:06/30/1998
+Loan Disbursement Date:09/01/1982
+Loan Disbursement Amount:$949.00
+Loan Contact Type:Attending School
+Loan Contact Code:00284100
+Loan Contact Name:SUNY College at Brockport
+Loan Contact Street Address 1:350 NEW CAMPUS DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BROCKPORT
+Loan Contact State Code:NY
+Loan Contact Zip Code:14420(2914)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:State University of New York at Buffalo
+Loan Attending School OPEID:00283700
+Loan Date:08/30/1982
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:06/01/1982
+Loan Period End Date:08/31/1982
+Loan Amount:$500.00
+Loan Disbursed Amount:$500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1982
+Capitalized Interest:$0.00
+Net Loan Amount:$500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:09/28/1982
+Loan Disbursement Amount:$500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:09/18/1981
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:09/01/1981
+Loan Period End Date:05/31/1982
+Loan Amount:$926.00
+Loan Disbursed Amount:$926.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1982
+Capitalized Interest:$0.00
+Net Loan Amount:$926.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:09/25/1981
+Loan Disbursement Amount:$926.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:NU
+Loan Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Loan Award ID:*****09542316PER12A
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:09/01/1981
+Loan Repayment Begin Date:02/01/1984
+Loan Period Begin Date:08/01/1981
+Loan Period End Date:12/31/1981
+Loan Amount:$600.00
+Loan Disbursed Amount:$600.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/23/2009
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:3.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:3.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1982
+Capitalized Interest:$0.00
+Net Loan Amount:$600.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/23/2009
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:06/30/1998
+Loan Disbursement Date:09/01/1981
+Loan Disbursement Amount:$600.00
+Loan Contact Type:Attending School
+Loan Contact Code:00284100
+Loan Contact Name:SUNY College at Brockport
+Loan Contact Street Address 1:350 NEW CAMPUS DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BROCKPORT
+Loan Contact State Code:NY
+Loan Contact Zip Code:14420(2914)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:06/15/1981
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:06/01/1981
+Loan Period End Date:07/31/1981
+Loan Amount:$500.00
+Loan Disbursed Amount:$500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1981
+Capitalized Interest:$0.00
+Net Loan Amount:$500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:07/03/1981
+Loan Disbursement Amount:$500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:NU
+Loan Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:01/04/1900
+Loan Repayment Begin Date:05/15/1988
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:05/15/1988
+Loan Amount:$1,600.00
+Loan Disbursed Amount:$1,600.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/04/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1900
+Capitalized Interest:$0.00
+Net Loan Amount:$1,600.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:10/04/1991
+Loan Disbursement Date:01/01/1900
+Loan Disbursement Amount:$1,600.00
+Loan Contact Type:Attending School
+Loan Contact Code:00284100
+Loan Contact Name:SUNY College at Brockport
+Loan Contact Street Address 1:350 NEW CAMPUS DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BROCKPORT
+Loan Contact State Code:NY
+Loan Contact Zip Code:14420(2914)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:NU
+Loan Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:01/03/1900
+Loan Repayment Begin Date:12/15/1985
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:12/15/1985
+Loan Amount:$1,035.00
+Loan Disbursed Amount:$1,035.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/04/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1900
+Capitalized Interest:$0.00
+Net Loan Amount:$1,035.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:10/04/1991
+Loan Disbursement Date:01/01/1900
+Loan Disbursement Amount:$1,035.00
+Loan Contact Type:Attending School
+Loan Contact Code:00284100
+Loan Contact Name:SUNY College at Brockport
+Loan Contact Street Address 1:350 NEW CAMPUS DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BROCKPORT
+Loan Contact State Code:NY
+Loan Contact Zip Code:14420(2914)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:NU
+Loan Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:01/02/1900
+Loan Repayment Begin Date:05/15/1983
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:05/15/1983
+Loan Amount:$600.00
+Loan Disbursed Amount:$600.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/04/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:3.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:3.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1900
+Capitalized Interest:$0.00
+Net Loan Amount:$600.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:10/04/1991
+Loan Disbursement Date:01/01/1900
+Loan Disbursement Amount:$600.00
+Loan Contact Type:Attending School
+Loan Contact Code:00284100
+Loan Contact Name:SUNY College at Brockport
+Loan Contact Street Address 1:350 NEW CAMPUS DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BROCKPORT
+Loan Contact State Code:NY
+Loan Contact Zip Code:14420(2914)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:NU
+Loan Type Description:NATIONAL DIRECT STUDENT LOAN (PERKINS)
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:01/01/1900
+Loan Repayment Begin Date:05/15/1983
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:05/15/1983
+Loan Amount:$949.00
+Loan Disbursed Amount:$949.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/04/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1900
+Capitalized Interest:$0.00
+Net Loan Amount:$949.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:10/04/1991
+Loan Disbursement Date:01/01/1900
+Loan Disbursement Amount:$949.00
+Loan Contact Type:Attending School
+Loan Contact Code:00284100
+Loan Contact Name:SUNY College at Brockport
+Loan Contact Street Address 1:350 NEW CAMPUS DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BROCKPORT
+Loan Contact State Code:NY
+Loan Contact Zip Code:14420(2914)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:08/25/1980
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:01/01/1900
+Loan Amount:$1,933.00
+Loan Disbursed Amount:$1,933.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1900
+Capitalized Interest:$0.00
+Net Loan Amount:$1,933.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:09/11/1980
+Loan Disbursement Amount:$1,933.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:03/26/1980
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:01/01/1900
+Loan Amount:$567.00
+Loan Disbursed Amount:$567.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1900
+Capitalized Interest:$0.00
+Net Loan Amount:$567.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:03/26/1980
+Loan Disbursement Amount:$567.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:
+Loan Attending School Name:SUNY College at Brockport
+Loan Attending School OPEID:00284100
+Loan Date:08/01/1978
+Loan Repayment Begin Date:03/01/1989
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:01/01/1900
+Loan Amount:$2,500.00
+Loan Disbursed Amount:$2,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/1991
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1900
+Capitalized Interest:$0.00
+Net Loan Amount:$2,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/30/1991
+Loan Disbursement Date:08/01/1978
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****348611
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:09/24/1991
+Loan Repayment Begin Date:09/27/1991
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$41,560.00
+Loan Disbursed Amount:$41,560.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/22/2001
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/22/2001
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:9.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:9.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$41,560.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:01/22/2001
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/11/1992
+Loan Disbursement Date:09/27/1991
+Loan Disbursement Amount:$41,560.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:800
+Loan Contact Name:USA FUNDS, INC.
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://ascendiumeducation.org
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831144
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:900 STEAWART AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:GARDEN CITY
+Loan Contact State Code:NY
+Loan Contact Zip Code:11530(0000)
+Loan Contact Phone Number:5167453956
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****2316S01G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:01/16/2001
+Loan Repayment Begin Date:01/16/2001
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$91,477.00
+Loan Disbursed Amount:$91,477.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$202,629.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$26,038.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:8.25%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:06/28/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/28/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2001
+Capitalized Interest:$111,152.00
+Net Loan Amount:$91,477.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$27,962.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$27,962.00
+UpdtDt:05/02/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/29/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/18/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/11/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/01/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/21/2001
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/16/2001
+Loan Disbursement Date:01/16/2001
+Loan Disbursement Amount:$91,477.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Enrolled School Name:University of New England
+Enrolled School OPEID:00205000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/03/2005

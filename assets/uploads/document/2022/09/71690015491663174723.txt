@@ -1,0 +1,2491 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA =
+SYSTEM (NSLDS)=0A=
+File Request Date:2022-07-26 09:35:22=0A=
+Student First Name:ROBERT=0A=
+Student Middle Initial:F=0A=
+Student Last Name:TESTER=0A=
+Student Street Address 1:51 MAIN STREET=0A=
+Student Street Address 2:=0A=
+Student City:ANY TOWN=0A=
+Student State Code:VT=0A=
+Student Country Code:US=0A=
+Student Zip Code:12345=0A=
+Student Email Address:JCOHEN@THESTUDENTLOANLAWYER.COM=0A=
+Student Home Phone Country Code:1=0A=
+Student Home Phone Number:1234567890=0A=
+Student Home Phone Preferred:Y=0A=
+Student Cell Phone Country Code:1=0A=
+Student Cell Phone Number:1234567890=0A=
+Student Cell Phone Preferred:Y=0A=
+Student Work Phone Country Code:=0A=
+Student Work Phone Number:=0A=
+Student Work Phone Preferred:=0A=
+Student SULA Maximum Eligibility Period:0=0A=
+Student SULA Subsidized Usage Period:0=0A=
+Student SULA Remaining Eligibility Period:0=0A=
+Student Enrollment Status Code:G=0A=
+Student Enrollment Status Code Description:GRADUATED=0A=
+Student Enrollment Status Effective Date:05/13/2007=0A=
+Undergraduate Subsidized Loan Limit Flag:C=0A=
+Undergraduate Combined Loan Limit Flag:N=0A=
+Undergraduate Award Year:1999=0A=
+Undergraduate Dependency Indicator:I=0A=
+Undergraduate Aggregate Subsidized Total:$20,000.00=0A=
+Undergraduate Aggregate Unsubsidized Total:$1,370.00=0A=
+Undergraduate Aggregate Combined Total:$21,370.00=0A=
+Graduate Subsidized Loan Limit Flag:N=0A=
+Graduate Combined Loan Limit Flag:N=0A=
+Graduate Award Year:2007=0A=
+Graduate Dependency Indicator:I=0A=
+Graduate Aggregate Subsidized Total:$42,500.00=0A=
+Graduate Aggregate Unsubsidized Total:$50,000.00=0A=
+Graduate Aggregate Combined Total:$92,500.00=0A=
+Aggregate Subsidized Total (Undergraduate and Graduate):$62,500.00=0A=
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$51,370.00=0A=
+Aggregate Combined Total (Undergraduate and Graduate):$113,870.00=0A=
+Student Total All Loans Outstanding Principal:$240,000.00=0A=
+Student Total All Loans Outstanding Interest:$44,500.00=0A=
+Student Pell Lifetime Eligibility Used:300.000%=0A=
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%=0A=
+Student Total All Grants:$2,575.00=0A=
+Type Code:CL=0A=
+Type Description:FFEL CONSOLIDATED=0A=
+Total <CL> Outstanding Principal:$240,000.00=0A=
+Total <CL> Outstanding Interest:$44,500.00=0A=
+Type Code:GB=0A=
+Type Description:FFEL PLUS GRADUATE=0A=
+Total <GB> Outstanding Principal:$0.00=0A=
+Total <GB> Outstanding Interest:$0.00=0A=
+Type Code:PU=0A=
+Type Description:FEDERAL PERKINS=0A=
+Total <PU> Outstanding Principal:$0.00=0A=
+Total <PU> Outstanding Interest:$0.00=0A=
+Type Code:SF=0A=
+Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Total <SF> Outstanding Principal:$0.00=0A=
+Total <SF> Outstanding Interest:$0.00=0A=
+Type Code:SU=0A=
+Type Description:FFEL STAFFORD UNSUBSIDIZED=0A=
+Total <SU> Outstanding Principal:$0.00=0A=
+Total <SU> Outstanding Interest:$0.00=0A=
+Loan Type Code:GB=0A=
+Loan Type Description:FFEL PLUS GRADUATE=0A=
+Loan Award ID:*****2821335=0A=
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW=0A=
+Loan Attending School OPEID:00140201=0A=
+Loan Date:08/15/2006=0A=
+Loan Repayment Begin Date:01/03/2007=0A=
+Loan Period Begin Date:08/21/2006=0A=
+Loan Period End Date:05/11/2007=0A=
+Loan Amount:$25,240.00=0A=
+Loan Disbursed Amount:$25,240.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/25/2007=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/25/2007=0A=
+Loan Interest Rate Type Code:F=0A=
+Loan Interest Rate Type Description:FIXED=0A=
+Loan Interest Rate:8.50%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:8.50%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:B=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2007=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$25,240.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:08/24/2007=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/25/2007=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:01/03/2007=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:08/15/2006=0A=
+Loan Disbursement Date:01/03/2007=0A=
+Loan Disbursement Amount:$12,620.00=0A=
+Loan Disbursement Date:08/21/2006=0A=
+Loan Disbursement Amount:$12,620.00=0A=
+Loan Contact Type:Current Servicer=0A=
+Loan Contact Code:700212=0A=
+Loan Contact Name:ACCESS GROUP, INC.=0A=
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WILMINGTON=0A=
+Loan Contact State Code:DE=0A=
+Loan Contact Zip Code:19803(0430)=0A=
+Loan Contact Phone Number:3024774103=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:725=0A=
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE=0A=
+Loan Contact Street Address 1:PO BOX 16129=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:ST. PAUL=0A=
+Loan Contact State Code:MN=0A=
+Loan Contact Zip Code:55401=0A=
+Loan Contact Phone Number:833-896-1626=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:asaservicing@ecmc.org=0A=
+Loan Contact Web Site Address:http://ecmc.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:808851=0A=
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP=0A=
+Loan Contact Street Address 1:60 WALL ST.=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:NEW YORK=0A=
+Loan Contact State Code:NY=0A=
+Loan Contact Zip Code:10005(2858)=0A=
+Loan Contact Phone Number:2122502273=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****2654471=0A=
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW=0A=
+Loan Attending School OPEID:00140201=0A=
+Loan Date:06/27/2006=0A=
+Loan Repayment Begin Date:07/25/2007=0A=
+Loan Period Begin Date:08/21/2006=0A=
+Loan Period End Date:05/11/2007=0A=
+Loan Amount:$8,500.00=0A=
+Loan Disbursed Amount:$8,500.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/25/2007=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/25/2007=0A=
+Loan Interest Rate Type Code:F=0A=
+Loan Interest Rate Type Description:FIXED=0A=
+Loan Interest Rate:6.80%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:6.80%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:B=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2007=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$8,500.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:08/24/2007=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/25/2007=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:05/14/2007=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:06/27/2006=0A=
+Loan Disbursement Date:01/02/2007=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Disbursement Date:08/15/2006=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Contact Type:Current Servicer=0A=
+Loan Contact Code:700212=0A=
+Loan Contact Name:ACCESS GROUP, INC.=0A=
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WILMINGTON=0A=
+Loan Contact State Code:DE=0A=
+Loan Contact Zip Code:19803(0430)=0A=
+Loan Contact Phone Number:3024774103=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:725=0A=
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE=0A=
+Loan Contact Street Address 1:PO BOX 16129=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:ST. PAUL=0A=
+Loan Contact State Code:MN=0A=
+Loan Contact Zip Code:55401=0A=
+Loan Contact Phone Number:833-896-1626=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:asaservicing@ecmc.org=0A=
+Loan Contact Web Site Address:http://ecmc.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:808851=0A=
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP=0A=
+Loan Contact Street Address 1:60 WALL ST.=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:NEW YORK=0A=
+Loan Contact State Code:NY=0A=
+Loan Contact Zip Code:10005(2858)=0A=
+Loan Contact Phone Number:2122502273=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SU=0A=
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED=0A=
+Loan Award ID:*****2654492=0A=
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW=0A=
+Loan Attending School OPEID:00140201=0A=
+Loan Date:06/27/2006=0A=
+Loan Repayment Begin Date:07/25/2007=0A=
+Loan Period Begin Date:08/21/2006=0A=
+Loan Period End Date:05/11/2007=0A=
+Loan Amount:$10,000.00=0A=
+Loan Disbursed Amount:$10,000.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/25/2007=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/25/2007=0A=
+Loan Interest Rate Type Code:F=0A=
+Loan Interest Rate Type Description:FIXED=0A=
+Loan Interest Rate:6.80%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:6.80%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:B=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2007=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$10,000.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:$0.00=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:08/24/2007=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/25/2007=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:05/14/2007=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:06/27/2006=0A=
+Loan Disbursement Date:01/02/2007=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Disbursement Date:08/15/2006=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Contact Type:Current Servicer=0A=
+Loan Contact Code:700212=0A=
+Loan Contact Name:ACCESS GROUP, INC.=0A=
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WILMINGTON=0A=
+Loan Contact State Code:DE=0A=
+Loan Contact Zip Code:19803(0430)=0A=
+Loan Contact Phone Number:3024774103=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:725=0A=
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE=0A=
+Loan Contact Street Address 1:PO BOX 16129=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:ST. PAUL=0A=
+Loan Contact State Code:MN=0A=
+Loan Contact Zip Code:55401=0A=
+Loan Contact Phone Number:833-896-1626=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:asaservicing@ecmc.org=0A=
+Loan Contact Web Site Address:http://ecmc.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:808851=0A=
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP=0A=
+Loan Contact Street Address 1:60 WALL ST.=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:NEW YORK=0A=
+Loan Contact State Code:NY=0A=
+Loan Contact Zip Code:10005(2858)=0A=
+Loan Contact Phone Number:2122502273=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****2098743=0A=
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW=0A=
+Loan Attending School OPEID:00140201=0A=
+Loan Date:08/02/2005=0A=
+Loan Repayment Begin Date:07/25/2007=0A=
+Loan Period Begin Date:08/22/2005=0A=
+Loan Period End Date:05/12/2006=0A=
+Loan Amount:$8,500.00=0A=
+Loan Disbursed Amount:$8,500.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/25/2007=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/25/2007=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:B=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2006=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$8,500.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:08/24/2007=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/25/2007=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:05/14/2007=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:08/02/2005=0A=
+Loan Disbursement Date:01/03/2006=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Disbursement Date:08/16/2005=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Contact Type:Current Servicer=0A=
+Loan Contact Code:700212=0A=
+Loan Contact Name:ACCESS GROUP, INC.=0A=
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WILMINGTON=0A=
+Loan Contact State Code:DE=0A=
+Loan Contact Zip Code:19803(0430)=0A=
+Loan Contact Phone Number:3024774103=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:725=0A=
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE=0A=
+Loan Contact Street Address 1:PO BOX 16129=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:ST. PAUL=0A=
+Loan Contact State Code:MN=0A=
+Loan Contact Zip Code:55401=0A=
+Loan Contact Phone Number:833-896-1626=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:asaservicing@ecmc.org=0A=
+Loan Contact Web Site Address:http://ecmc.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:808851=0A=
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP=0A=
+Loan Contact Street Address 1:60 WALL ST.=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:NEW YORK=0A=
+Loan Contact State Code:NY=0A=
+Loan Contact Zip Code:10005(2858)=0A=
+Loan Contact Phone Number:2122502273=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SU=0A=
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED=0A=
+Loan Award ID:*****2098757=0A=
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW=0A=
+Loan Attending School OPEID:00140201=0A=
+Loan Date:08/02/2005=0A=
+Loan Repayment Begin Date:07/25/2007=0A=
+Loan Period Begin Date:08/22/2005=0A=
+Loan Period End Date:05/12/2006=0A=
+Loan Amount:$10,000.00=0A=
+Loan Disbursed Amount:$10,000.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/25/2007=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/25/2007=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:B=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2006=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$10,000.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:$0.00=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:08/24/2007=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/25/2007=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:05/14/2007=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:08/02/2005=0A=
+Loan Disbursement Date:01/03/2006=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Disbursement Date:08/16/2005=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Contact Type:Current Servicer=0A=
+Loan Contact Code:700212=0A=
+Loan Contact Name:ACCESS GROUP, INC.=0A=
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WILMINGTON=0A=
+Loan Contact State Code:DE=0A=
+Loan Contact Zip Code:19803(0430)=0A=
+Loan Contact Phone Number:3024774103=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:725=0A=
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE=0A=
+Loan Contact Street Address 1:PO BOX 16129=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:ST. PAUL=0A=
+Loan Contact State Code:MN=0A=
+Loan Contact Zip Code:55401=0A=
+Loan Contact Phone Number:833-896-1626=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:asaservicing@ecmc.org=0A=
+Loan Contact Web Site Address:http://ecmc.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:808851=0A=
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP=0A=
+Loan Contact Street Address 1:60 WALL ST.=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:NEW YORK=0A=
+Loan Contact State Code:NY=0A=
+Loan Contact Zip Code:10005(2858)=0A=
+Loan Contact Phone Number:2122502273=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****1496918=0A=
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW=0A=
+Loan Attending School OPEID:00140201=0A=
+Loan Date:07/01/2004=0A=
+Loan Repayment Begin Date:07/25/2007=0A=
+Loan Period Begin Date:08/23/2004=0A=
+Loan Period End Date:05/13/2005=0A=
+Loan Amount:$8,500.00=0A=
+Loan Disbursed Amount:$8,500.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/25/2007=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/25/2007=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:A=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2005=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$8,500.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:08/24/2007=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/25/2007=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:05/14/2007=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:07/01/2004=0A=
+Loan Disbursement Date:01/05/2005=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Disbursement Date:08/18/2004=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Contact Type:Current Servicer=0A=
+Loan Contact Code:700212=0A=
+Loan Contact Name:ACCESS GROUP, INC.=0A=
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WILMINGTON=0A=
+Loan Contact State Code:DE=0A=
+Loan Contact Zip Code:19803(0430)=0A=
+Loan Contact Phone Number:3024774103=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:725=0A=
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE=0A=
+Loan Contact Street Address 1:PO BOX 16129=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:ST. PAUL=0A=
+Loan Contact State Code:MN=0A=
+Loan Contact Zip Code:55401=0A=
+Loan Contact Phone Number:833-896-1626=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:asaservicing@ecmc.org=0A=
+Loan Contact Web Site Address:http://ecmc.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:808851=0A=
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP=0A=
+Loan Contact Street Address 1:60 WALL ST.=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:NEW YORK=0A=
+Loan Contact State Code:NY=0A=
+Loan Contact Zip Code:10005(2858)=0A=
+Loan Contact Phone Number:2122502273=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SU=0A=
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED=0A=
+Loan Award ID:*****1496948=0A=
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW=0A=
+Loan Attending School OPEID:00140201=0A=
+Loan Date:07/01/2004=0A=
+Loan Repayment Begin Date:07/25/2007=0A=
+Loan Period Begin Date:08/23/2004=0A=
+Loan Period End Date:05/13/2005=0A=
+Loan Amount:$10,000.00=0A=
+Loan Disbursed Amount:$10,000.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/25/2007=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/25/2007=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:A=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2005=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$10,000.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:$0.00=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:08/24/2007=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/25/2007=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:05/14/2007=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:07/01/2004=0A=
+Loan Disbursement Date:01/05/2005=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Disbursement Date:08/18/2004=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Contact Type:Current Servicer=0A=
+Loan Contact Code:700212=0A=
+Loan Contact Name:ACCESS GROUP, INC.=0A=
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WILMINGTON=0A=
+Loan Contact State Code:DE=0A=
+Loan Contact Zip Code:19803(0430)=0A=
+Loan Contact Phone Number:3024774103=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:725=0A=
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE=0A=
+Loan Contact Street Address 1:PO BOX 16129=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:ST. PAUL=0A=
+Loan Contact State Code:MN=0A=
+Loan Contact Zip Code:55401=0A=
+Loan Contact Phone Number:833-896-1626=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:asaservicing@ecmc.org=0A=
+Loan Contact Web Site Address:http://ecmc.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:808851=0A=
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP=0A=
+Loan Contact Street Address 1:60 WALL ST.=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:NEW YORK=0A=
+Loan Contact State Code:NY=0A=
+Loan Contact Zip Code:10005(2858)=0A=
+Loan Contact Phone Number:2122502273=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****2D=0A=
+Loan Attending School Name:UNIVERSITY OF YALE=0A=
+Loan Attending School OPEID:02098800=0A=
+Loan Date:11/09/2001=0A=
+Loan Repayment Begin Date:05/26/2003=0A=
+Loan Period Begin Date:12/03/2001=0A=
+Loan Period End Date:12/02/2002=0A=
+Loan Amount:$8,500.00=0A=
+Loan Disbursed Amount:$8,500.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:08/21/2003=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:08/21/2003=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:B=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2002=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$8,500.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:05/26/2003=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:11/26/2002=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:11/09/2001=0A=
+Loan Disbursement Date:07/24/2002=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Disbursement Date:12/13/2001=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SU=0A=
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED=0A=
+Loan Award ID:*****2E=0A=
+Loan Attending School Name:UNIVERSITY OF YALE=0A=
+Loan Attending School OPEID:02098800=0A=
+Loan Date:11/13/2001=0A=
+Loan Repayment Begin Date:05/26/2003=0A=
+Loan Period Begin Date:12/03/2001=0A=
+Loan Period End Date:12/02/2002=0A=
+Loan Amount:$10,000.00=0A=
+Loan Disbursed Amount:$10,000.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:08/21/2003=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:08/21/2003=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:B=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2002=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$10,000.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:$0.00=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:05/26/2003=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:11/26/2002=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:11/13/2001=0A=
+Loan Disbursement Date:07/24/2002=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Disbursement Date:12/13/2001=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****2B=0A=
+Loan Attending School Name:UNIVERSITY OF YALE=0A=
+Loan Attending School OPEID:02098800=0A=
+Loan Date:10/25/2000=0A=
+Loan Repayment Begin Date:05/26/2003=0A=
+Loan Period Begin Date:10/09/2000=0A=
+Loan Period End Date:10/08/2001=0A=
+Loan Amount:$8,500.00=0A=
+Loan Disbursed Amount:$8,500.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:08/21/2003=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:08/21/2003=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:A=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2001=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$8,500.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:05/26/2003=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:11/26/2002=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:10/25/2000=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:10/09/2000=0A=
+Loan Disbursement Date:04/23/2001=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Disbursement Date:10/30/2000=0A=
+Loan Disbursement Amount:$4,250.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SU=0A=
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED=0A=
+Loan Award ID:*****2C=0A=
+Loan Attending School Name:UNIVERSITY OF YALE=0A=
+Loan Attending School OPEID:02098800=0A=
+Loan Date:10/26/2000=0A=
+Loan Repayment Begin Date:05/26/2003=0A=
+Loan Period Begin Date:10/09/2000=0A=
+Loan Period End Date:10/08/2001=0A=
+Loan Amount:$10,000.00=0A=
+Loan Disbursed Amount:$10,000.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:08/21/2003=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:08/21/2003=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:A=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2001=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$10,000.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:$0.00=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:05/26/2003=0A=
+Loan Status:IG=0A=
+Loan Status Description:IN GRACE PERIOD=0A=
+Loan Status Effective Date:11/26/2002=0A=
+Loan Status:IA=0A=
+Loan Status Description:LOAN ORIGINATED=0A=
+Loan Status Effective Date:10/26/2000=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:10/09/2000=0A=
+Loan Disbursement Date:04/23/2001=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Disbursement Date:10/30/2000=0A=
+Loan Disbursement Amount:$5,000.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****2A=0A=
+Loan Attending School Name:FLORIDA ATLANTIC UNIVERSITY=0A=
+Loan Attending School OPEID:00148100=0A=
+Loan Date:02/03/1999=0A=
+Loan Repayment Begin Date:10/31/1999=0A=
+Loan Period Begin Date:01/11/1999=0A=
+Loan Period End Date:04/30/1999=0A=
+Loan Amount:$1,130.00=0A=
+Loan Disbursed Amount:$1,130.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:08/21/2003=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:08/21/2003=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:5=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1999=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$1,130.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:03/11/2003=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:10/31/1999=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:01/11/1999=0A=
+Loan Disbursement Date:03/03/1999=0A=
+Loan Disbursement Amount:$565.00=0A=
+Loan Disbursement Date:02/08/1999=0A=
+Loan Disbursement Amount:$565.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SU=0A=
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED=0A=
+Loan Award ID:*****2A=0A=
+Loan Attending School Name:FLORIDA ATLANTIC UNIVERSITY=0A=
+Loan Attending School OPEID:00148100=0A=
+Loan Date:02/03/1999=0A=
+Loan Repayment Begin Date:10/31/1999=0A=
+Loan Period Begin Date:01/11/1999=0A=
+Loan Period End Date:04/30/1999=0A=
+Loan Amount:$1,370.00=0A=
+Loan Disbursed Amount:$1,370.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:08/21/2003=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:08/21/2003=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:5=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1999=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$1,370.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:$0.00=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:03/11/2003=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:10/31/1999=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:01/11/1999=0A=
+Loan Disbursement Date:03/03/1999=0A=
+Loan Disbursement Amount:$685.00=0A=
+Loan Disbursement Date:02/08/1999=0A=
+Loan Disbursement Amount:$685.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****2=0A=
+Loan Attending School Name:FLORIDA ATLANTIC UNIVERSITY=0A=
+Loan Attending School OPEID:00148100=0A=
+Loan Date:01/25/1999=0A=
+Loan Repayment Begin Date:10/31/1999=0A=
+Loan Period Begin Date:01/01/1999=0A=
+Loan Period End Date:04/01/1999=0A=
+Loan Amount:$2,750.00=0A=
+Loan Disbursed Amount:$2,750.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:08/21/2003=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:08/21/2003=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:5=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1999=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$2,750.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:03/11/2003=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:10/31/1999=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:01/01/1999=0A=
+Loan Disbursement Date:03/03/1999=0A=
+Loan Disbursement Amount:$1,375.00=0A=
+Loan Disbursement Date:01/28/1999=0A=
+Loan Disbursement Amount:$1,375.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****6C=0A=
+Loan Attending School Name:PRINCETON UNIVERSITY=0A=
+Loan Attending School OPEID:00213300=0A=
+Loan Date:05/05/1995=0A=
+Loan Repayment Begin Date:02/14/1996=0A=
+Loan Period Begin Date:06/05/1995=0A=
+Loan Period End Date:08/11/1995=0A=
+Loan Amount:$5,500.00=0A=
+Loan Disbursed Amount:$5,500.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/24/1997=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/24/1997=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:4=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1995=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$5,500.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/24/1997=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:02/14/1996=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:06/05/1995=0A=
+Loan Disbursement Date:07/17/1995=0A=
+Loan Disbursement Amount:$2,750.00=0A=
+Loan Disbursement Date:05/17/1995=0A=
+Loan Disbursement Amount:$2,750.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****6B=0A=
+Loan Attending School Name:PRINCETON UNIVERSITY=0A=
+Loan Attending School OPEID:00213300=0A=
+Loan Date:08/26/1994=0A=
+Loan Repayment Begin Date:02/14/1996=0A=
+Loan Period Begin Date:09/01/1994=0A=
+Loan Period End Date:05/21/1995=0A=
+Loan Amount:$5,500.00=0A=
+Loan Disbursed Amount:$5,500.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/24/1997=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/24/1997=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:3=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1995=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$5,500.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/24/1997=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:02/14/1996=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:09/01/1994=0A=
+Loan Disbursement Date:12/12/1994=0A=
+Loan Disbursement Amount:$2,750.00=0A=
+Loan Disbursement Date:09/06/1994=0A=
+Loan Disbursement Amount:$2,750.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:PU=0A=
+Loan Type Description:FEDERAL PERKINS=0A=
+Loan Award ID:*****07272381794=0A=
+Loan Attending School Name:PRINCETON UNIVERSITY=0A=
+Loan Attending School OPEID:00213300=0A=
+Loan Date:11/03/1993=0A=
+Loan Repayment Begin Date:04/14/1996=0A=
+Loan Period Begin Date:09/02/1993=0A=
+Loan Period End Date:12/08/1994=0A=
+Loan Amount:$2,000.00=0A=
+Loan Disbursed Amount:$2,000.00=0A=
+Loan Canceled Amount:$300.00=0A=
+Loan Canceled Date:06/14/2002=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:12/07/2013=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:=0A=
+Loan Interest Rate Type Code:=0A=
+Loan Interest Rate Type Description:=0A=
+Loan Interest Rate:5.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:5.00%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:N=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1994=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$1,700.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:01/01/2014=0A=
+DelinqDate:=0A=
+Current Loan Status:PF=0A=
+Current Loan Status Description:PAID IN FULL=0A=
+Loan Status:PF=0A=
+Loan Status Description:PAID IN FULL=0A=
+Loan Status Effective Date:12/06/2013=0A=
+Loan Status:DF=0A=
+Loan Status Description:DEFAULTED, UNRESOLVED=0A=
+Loan Status Effective Date:09/15/2009=0A=
+Loan Status:IP=0A=
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD=0A=
+Loan Status Effective Date:03/15/2001=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:04/14/1996=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:11/04/1993=0A=
+Loan Disbursement Date:12/08/1994=0A=
+Loan Disbursement Amount:$2,000.00=0A=
+Loan Contact Type:Attending School=0A=
+Loan Contact Code:00213300=0A=
+Loan Contact Name:PRINCETON UNIVERSITY=0A=
+Loan Contact Street Address 1:415 SOUTH STREET=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WALTHAM=0A=
+Loan Contact State Code:MA=0A=
+Loan Contact Zip Code:02453(2728)=0A=
+Loan Contact Phone Number:=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****6A=0A=
+Loan Attending School Name:PRINCETON UNIVERSITY=0A=
+Loan Attending School OPEID:00213300=0A=
+Loan Date:11/09/1993=0A=
+Loan Repayment Begin Date:02/14/1996=0A=
+Loan Period Begin Date:09/02/1993=0A=
+Loan Period End Date:05/22/1994=0A=
+Loan Amount:$3,500.00=0A=
+Loan Disbursed Amount:$3,500.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/24/1997=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/24/1997=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:2=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1994=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$3,500.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/24/1997=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:02/14/1996=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:02/28/1994=0A=
+Loan Disbursement Date:12/27/1993=0A=
+Loan Disbursement Amount:$3,500.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:PU=0A=
+Loan Type Description:FEDERAL PERKINS=0A=
+Loan Award ID:*****07272381701=0A=
+Loan Attending School Name:PRINCETON UNIVERSITY=0A=
+Loan Attending School OPEID:00213300=0A=
+Loan Date:09/15/1992=0A=
+Loan Repayment Begin Date:04/14/1996=0A=
+Loan Period Begin Date:09/03/1992=0A=
+Loan Period End Date:05/13/1993=0A=
+Loan Amount:$1,400.00=0A=
+Loan Disbursed Amount:$1,400.00=0A=
+Loan Canceled Amount:$210.00=0A=
+Loan Canceled Date:06/14/2002=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:12/07/2013=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:=0A=
+Loan Interest Rate Type Code:=0A=
+Loan Interest Rate Type Description:=0A=
+Loan Interest Rate:5.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:5.00%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:N=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1993=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$1,190.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:01/01/2014=0A=
+DelinqDate:=0A=
+Current Loan Status:PF=0A=
+Current Loan Status Description:PAID IN FULL=0A=
+Loan Status:PF=0A=
+Loan Status Description:PAID IN FULL=0A=
+Loan Status Effective Date:12/06/2013=0A=
+Loan Status:DF=0A=
+Loan Status Description:DEFAULTED, UNRESOLVED=0A=
+Loan Status Effective Date:09/15/2009=0A=
+Loan Status:IP=0A=
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD=0A=
+Loan Status Effective Date:03/15/2001=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:04/14/1996=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:09/16/1992=0A=
+Loan Disbursement Date:12/22/1992=0A=
+Loan Disbursement Amount:$1,400.00=0A=
+Loan Contact Type:Attending School=0A=
+Loan Contact Code:00213300=0A=
+Loan Contact Name:PRINCETON UNIVERSITY=0A=
+Loan Contact Street Address 1:415 SOUTH STREET=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WALTHAM=0A=
+Loan Contact State Code:MA=0A=
+Loan Contact Zip Code:02453(2728)=0A=
+Loan Contact Phone Number:=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:SF=0A=
+Loan Type Description:FFEL STAFFORD SUBSIDIZED=0A=
+Loan Award ID:*****6=0A=
+Loan Attending School Name:PRINCETON UNIVERSITY=0A=
+Loan Attending School OPEID:00213300=0A=
+Loan Date:05/17/1993=0A=
+Loan Repayment Begin Date:02/14/1996=0A=
+Loan Period Begin Date:09/03/1992=0A=
+Loan Period End Date:05/23/1993=0A=
+Loan Amount:$1,620.00=0A=
+Loan Disbursed Amount:$1,620.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:07/24/1997=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:07/24/1997=0A=
+Loan Interest Rate Type Code:V=0A=
+Loan Interest Rate Type Description:VARIABLE=0A=
+Loan Interest Rate:0.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:1=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1993=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$1,620.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$0.00=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/24/1997=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:02/14/1996=0A=
+Loan Status:ID=0A=
+Loan Status Description:IN SCHOOL OR GRACE PERIOD=0A=
+Loan Status Effective Date:02/28/1994=0A=
+Loan Disbursement Date:05/20/1993=0A=
+Loan Disbursement Amount:$1,620.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:CL=0A=
+Loan Type Description:FFEL CONSOLIDATED=0A=
+Loan Award ID:3=0A=
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS=0A=
+Loan Attending School OPEID:88888800=0A=
+Loan Date:07/19/2007=0A=
+Loan Repayment Begin Date:07/19/2007=0A=
+Loan Period Begin Date:=0A=
+Loan Period End Date:=0A=
+Loan Amount:$147,640.00=0A=
+Loan Disbursed Amount:$147,640.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$240,000.00=0A=
+Loan Outstanding Principal Balance as of Date:07/06/2022=0A=
+Loan Outstanding Interest Balance:$44,500.00=0A=
+Loan Outstanding Interest Balance as of Date:07/06/2022=0A=
+Loan Interest Rate Type Code:F=0A=
+Loan Interest Rate Type Description:FIXED=0A=
+Loan Interest Rate:6.25%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:6.25%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:N=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2008=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$147,640.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:$62,500.00=0A=
+Calculated Unsubsidized Aggregate OPB:$51,370.00=0A=
+Calculated Combined Aggregate OPB:$113,870.00=0A=
+UpdtDt:07/06/2022=0A=
+DelinqDate:=0A=
+Current Loan Status:RP=0A=
+Current Loan Status Description:IN REPAYMENT=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:08/15/2019=0A=
+Loan Status:FB=0A=
+Loan Status Description:FORBEARANCE=0A=
+Loan Status Effective Date:03/14/2018=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:02/15/2017=0A=
+Loan Status:FB=0A=
+Loan Status Description:FORBEARANCE=0A=
+Loan Status Effective Date:12/14/2016=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:12/15/2015=0A=
+Loan Status:FB=0A=
+Loan Status Description:FORBEARANCE=0A=
+Loan Status Effective Date:11/14/2015=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:10/15/2014=0A=
+Loan Status:FB=0A=
+Loan Status Description:FORBEARANCE=0A=
+Loan Status Effective Date:12/14/2012=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:11/15/2011=0A=
+Loan Status:FB=0A=
+Loan Status Description:FORBEARANCE=0A=
+Loan Status Effective Date:07/14/2011=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:06/15/2010=0A=
+Loan Status:FB=0A=
+Loan Status Description:FORBEARANCE=0A=
+Loan Status Effective Date:01/14/2010=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:12/15/2009=0A=
+Loan Status:FB=0A=
+Loan Status Description:FORBEARANCE=0A=
+Loan Status Effective Date:07/14/2009=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:06/29/2009=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:07/01/2008=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:06/01/2008=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:07/19/2007=0A=
+Loan Disbursement Date:07/19/2007=0A=
+Loan Disbursement Amount:$147,640.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:CL=0A=
+Loan Type Description:FFEL CONSOLIDATED=0A=
+Loan Award ID:2=0A=
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS=0A=
+Loan Attending School OPEID:88888800=0A=
+Loan Date:08/21/2003=0A=
+Loan Repayment Begin Date:08/21/2003=0A=
+Loan Period Begin Date:=0A=
+Loan Period End Date:=0A=
+Loan Amount:$59,337.00=0A=
+Loan Disbursed Amount:$59,337.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:10/31/2018=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:10/31/2018=0A=
+Loan Interest Rate Type Code:F=0A=
+Loan Interest Rate Type Description:FIXED=0A=
+Loan Interest Rate:4.63%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:4.63%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:N=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:2004=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$59,337.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:10/31/2018=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:07/19/2007=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:05/24/2007=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:08/23/2004=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:08/02/2004=0A=
+Loan Status:FB=0A=
+Loan Status Description:FORBEARANCE=0A=
+Loan Status Effective Date:04/02/2004=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:03/11/2004=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Disbursement Date:08/21/2003=0A=
+Loan Disbursement Amount:$59,337.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:CL=0A=
+Loan Type Description:FFEL CONSOLIDATED=0A=
+Loan Award ID:1=0A=
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS=0A=
+Loan Attending School OPEID:88888800=0A=
+Loan Date:08/27/1997=0A=
+Loan Repayment Begin Date:07/24/1997=0A=
+Loan Period Begin Date:=0A=
+Loan Period End Date:=0A=
+Loan Amount:$16,666.00=0A=
+Loan Disbursed Amount:$16,666.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:08/21/2003=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:08/21/2003=0A=
+Loan Interest Rate Type Code:F=0A=
+Loan Interest Rate Type Description:FIXED=0A=
+Loan Interest Rate:9.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:9.00%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:N=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1998=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$16,666.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PN=0A=
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status:PN=0A=
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH =
+CONSOLIDATION LOAN=0A=
+Loan Status Effective Date:08/21/2003=0A=
+Loan Status:DA=0A=
+Loan Status Description:DEFERRED=0A=
+Loan Status Effective Date:03/11/2003=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:07/24/1997=0A=
+Loan Disbursement Date:07/24/1997=0A=
+Loan Disbursement Amount:$16,666.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:750=0A=
+Loan Contact Name:VERMONT STUDENT ASSISTANCE CORPORATION=0A=
+Loan Contact Street Address 1:P O BOX 999=0A=
+Loan Contact Street Address 2:10 EAST ALLEN STREET=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:nslds@vsac.org=0A=
+Loan Contact Web Site Address:http://vsac.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830075=0A=
+Loan Contact Name:VSAC EDUCATION LOAN FINANCE PROGRAM=0A=
+Loan Contact Street Address 1:10 EAST ALLEN STREET=0A=
+Loan Contact Street Address 2:P.O. BOX 999=0A=
+Loan Contact City:WINOOSKI=0A=
+Loan Contact State Code:VT=0A=
+Loan Contact Zip Code:05404(2000)=0A=
+Loan Contact Phone Number:800-798-8722=0A=
+Loan Contact Phone Extension:000=0A=
+Loan Contact Email Address:INFO@VSAC.ORG=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Type Code:CL=0A=
+Loan Type Description:FFEL CONSOLIDATED=0A=
+Loan Award ID:*****3817C01=0A=
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS=0A=
+Loan Attending School OPEID:88888800=0A=
+Loan Date:07/14/1997=0A=
+Loan Repayment Begin Date:07/14/1997=0A=
+Loan Period Begin Date:=0A=
+Loan Period End Date:=0A=
+Loan Amount:$17,012.00=0A=
+Loan Disbursed Amount:$17,012.00=0A=
+Loan Canceled Amount:$0.00=0A=
+Loan Canceled Date:=0A=
+Loan Outstanding Principal Balance:$0.00=0A=
+Loan Outstanding Principal Balance as of Date:01/20/1998=0A=
+Loan Outstanding Interest Balance:$0.00=0A=
+Loan Outstanding Interest Balance as of Date:01/20/1998=0A=
+Loan Interest Rate Type Code:F=0A=
+Loan Interest Rate Type Description:FIXED=0A=
+Loan Interest Rate:9.00%=0A=
+Loan Actual Interest Rate:=0A=
+Loan Statutory Interest Rate:9.00%=0A=
+Loan Repayment Plan Type Code:=0A=
+Loan Repayment Plan Type Code Description:=0A=
+Loan Repayment Plan Begin Date:=0A=
+Loan Repayment Plan Scheduled Amount:$0.00=0A=
+Loan Repayment Plan IDR Plan Anniversary Date:=0A=
+Loan Confirmed Subsidy Status:=0A=
+Loan Subsidized Usage in Years:=0A=
+Loan Reaffirmation Date:=0A=
+Loan Most Recent Payment Effective Date:=0A=
+Loan Next Payment Due Date:=0A=
+Loan Cumulative Payment Amount:$0.00=0A=
+Loan PSLF Cumulative Matched Months:0=0A=
+Academic Level:N=0A=
+Additional Unsubsidized Loan Flag:N=0A=
+Award Year:1998=0A=
+Capitalized Interest:$0.00=0A=
+Net Loan Amount:$17,012.00=0A=
+Reaffirmation flag:=0A=
+Calculated Subsidized Aggregate OPB:=0A=
+Calculated Unsubsidized Aggregate OPB:=0A=
+Calculated Combined Aggregate OPB:=0A=
+UpdtDt:03/26/2005=0A=
+DelinqDate:=0A=
+Current Loan Status:PF=0A=
+Current Loan Status Description:PAID IN FULL=0A=
+Loan Status:PF=0A=
+Loan Status Description:PAID IN FULL=0A=
+Loan Status Effective Date:01/20/1998=0A=
+Loan Status:RP=0A=
+Loan Status Description:IN REPAYMENT=0A=
+Loan Status Effective Date:07/14/1997=0A=
+Loan Disbursement Date:07/14/1997=0A=
+Loan Disbursement Amount:$17,012.00=0A=
+Loan Contact Type:Current Guaranty Agency=0A=
+Loan Contact Code:748=0A=
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.=0A=
+Loan Contact Street Address 1:PO BOX 83100=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:ROUND ROCK=0A=
+Loan Contact State Code:TX=0A=
+Loan Contact Zip Code:78683(3100)=0A=
+Loan Contact Phone Number:800-845-6267=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:trellishelps@trelliscompany.org=0A=
+Loan Contact Web Site Address:http://www.trelliscompany.org=0A=
+Most Relevant:N=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Loan Contact Type:Current Lender=0A=
+Loan Contact Code:830084=0A=
+Loan Contact Name:SLM ECFC=0A=
+Loan Contact Street Address 1:220 LASLEY AVE=0A=
+Loan Contact Street Address 2:=0A=
+Loan Contact City:WILKES-BARRE=0A=
+Loan Contact State Code:PA=0A=
+Loan Contact Zip Code:18706=0A=
+Loan Contact Phone Number:888-272-5543=0A=
+Loan Contact Phone Extension:=0A=
+Loan Contact Email Address:=0A=
+Loan Contact Web Site Address:=0A=
+Most Relevant:Y=0A=
+Loan Special Contact Reason:=0A=
+Loan Special Contact:=0A=
+Grant Type Code:PE=0A=
+Grant Type Code Description:FEDERAL PELL GRANT=0A=
+Grant Attending School Name:PRINCETON UNIVERSITY=0A=
+Grant Attending School OPEID:00213300=0A=
+Grant Award Year:1994 - 1995=0A=
+Grant Scheduled Amount:$1,650.00=0A=
+Grant Award Amount:$0.00=0A=
+Grant Disbursed Amount:$825.00=0A=
+Grant First Time:No=0A=
+Grant Additional Eligibility:No=0A=
+Award ID:=0A=
+Conversion Date:=0A=
+Children Of Fallen Heroes Indicator:No=0A=
+Aid Recipient's Percent Eligibility Used (EU):100.000%=0A=
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%=0A=
+Grant Contact Type:Attending School=0A=
+Grant Contact Code:00213300=0A=
+Grant Contact Name:PRINCETON UNIVERSITY=0A=
+Grant Contact Street Address 1:415 SOUTH STREET=0A=
+Grant Contact Street Address 2:=0A=
+Grant Contact City:WALTHAM=0A=
+Grant Contact State Code:MA=0A=
+Grant Contact Zip Code:02453(2728)=0A=
+Phone Number:=0A=
+Phone Extension:=0A=
+Email Address:=0A=
+Web Site Address:=0A=
+Grant Type Code:PE=0A=
+Grant Type Code Description:FEDERAL PELL GRANT=0A=
+Grant Attending School Name:PRINCETON UNIVERSITY=0A=
+Grant Attending School OPEID:00213300=0A=
+Grant Award Year:1993 - 1994=0A=
+Grant Scheduled Amount:$1,750.00=0A=
+Grant Award Amount:$0.00=0A=
+Grant Disbursed Amount:$1,750.00=0A=
+Grant First Time:No=0A=
+Grant Additional Eligibility:No=0A=
+Award ID:=0A=
+Conversion Date:=0A=
+Children Of Fallen Heroes Indicator:No=0A=
+Aid Recipient's Percent Eligibility Used (EU):100.000%=0A=
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%=0A=
+Grant Contact Type:Attending School=0A=
+Grant Contact Code:00213300=0A=
+Grant Contact Name:PRINCETON UNIVERSITY=0A=
+Grant Contact Street Address 1:415 SOUTH STREET=0A=
+Grant Contact Street Address 2:=0A=
+Grant Contact City:WALTHAM=0A=
+Grant Contact State Code:MA=0A=
+Grant Contact Zip Code:02453(2728)=0A=
+Phone Number:=0A=
+Phone Extension:=0A=
+Email Address:=0A=
+Web Site Address:=0A=
+Enrolled School Name:HARVARD UNIVERSITY - SCHOOL OF LAW=0A=
+Enrolled School OPEID:00140201=0A=
+Enrolled Status Code:G=0A=
+Enrolled Status Code Description:GRADUATED=0A=
+Enrolled Status Date:05/13/2007=0A=
+Enrolled School Name:UNIVERSITY OF YALE=0A=
+Enrolled School OPEID:02098800=0A=
+Enrolled Status Code:G=0A=
+Enrolled Status Code Description:GRADUATED=0A=
+Enrolled Status Date:11/25/2002=0A=
+Enrolled School Name:FLORIDA ATLANTIC UNIVERSITY=0A=
+Enrolled School OPEID:00148100=0A=
+Enrolled Status Code:W=0A=
+Enrolled Status Code Description:WITHDRAWN=0A=
+Enrolled Status Date:04/30/1999

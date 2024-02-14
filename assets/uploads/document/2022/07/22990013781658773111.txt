@@ -1,0 +1,823 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-07-25 14:08:05
+Student First Name:ADRIENNE
+Student Middle Initial:
+Student Last Name:PARRATT
+Student Street Address 1:163 YORKSHIRE CIRCLE
+Student Street Address 2:
+Student City:EWING
+Student State Code:NJ
+Student Country Code:US
+Student Zip Code:08628
+Student Email Address:AAPARRATT@GMAIL.COM
+Student Home Phone Country Code:
+Student Home Phone Number:
+Student Home Phone Preferred:
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7326858155
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/20/2001
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1999
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$9,000.00
+Undergraduate Aggregate Unsubsidized Total:$9,000.00
+Undergraduate Aggregate Combined Total:$18,000.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2000
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$8,500.00
+Graduate Aggregate Unsubsidized Total:$2,227.00
+Graduate Aggregate Combined Total:$10,727.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$17,500.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$11,227.00
+Aggregate Combined Total (Undergraduate and Graduate):$28,727.00
+Student Total All Loans Outstanding Principal:$40,479.00
+Student Total All Loans Outstanding Interest:$56.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$21,694.00
+Total <SF> Outstanding Interest:$29.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$18,785.00
+Total <SU> Outstanding Interest:$27.00
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****7154
+Loan Attending School Name:GEORGIAN COURT UNIVERSITY
+Loan Attending School OPEID:00260800
+Loan Date:11/17/1999
+Loan Repayment Begin Date:06/22/2013
+Loan Period Begin Date:08/30/1999
+Loan Period End Date:05/20/2000
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$10,313.00
+Loan Outstanding Principal Balance as of Date:06/30/2022
+Loan Outstanding Interest Balance:$13.00
+Loan Outstanding Interest Balance as of Date:06/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/02/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2021
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/16/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/11/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/25/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/26/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/25/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/30/1999
+Loan Disbursement Date:01/18/2000
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:11/18/1999
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700072
+Loan Contact Name:KENTUCKY HIGHER ED SLC
+Loan Contact Street Address 1:P.O. BOX 24266
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224(0000)
+Loan Contact Phone Number:5023297215
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:721
+Loan Contact Name:HIGHER EDUCATION ASSISTANCE AUTHORITY
+Loan Contact Street Address 1:PO BOX 798
+Loan Contact Street Address 2:
+Loan Contact City:FRANKFORT
+Loan Contact State Code:KY
+Loan Contact Zip Code:40602
+Loan Contact Phone Number:800-928-8926
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.kheaa.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:826688
+Loan Contact Name:KENTUCKY HIGHER ED STUDENT LOAN COR
+Loan Contact Street Address 1:P.O. BOX 24328
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224
+Loan Contact Phone Number:800-693-8220
+Loan Contact Phone Extension:
+Loan Contact Email Address:pdalton@kheslc.com
+Loan Contact Web Site Address:http://WWW.KHESLC.COM
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7154
+Loan Attending School Name:GEORGIAN COURT UNIVERSITY
+Loan Attending School OPEID:00260800
+Loan Date:11/17/1999
+Loan Repayment Begin Date:06/22/2013
+Loan Period Begin Date:08/30/1999
+Loan Period End Date:05/20/2000
+Loan Amount:$2,227.00
+Loan Disbursed Amount:$2,227.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,249.00
+Loan Outstanding Principal Balance as of Date:06/30/2022
+Loan Outstanding Interest Balance:$4.00
+Loan Outstanding Interest Balance as of Date:06/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$2,227.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,227.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/02/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2021
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/16/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/11/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/25/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/26/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/25/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/30/1999
+Loan Disbursement Date:01/18/2000
+Loan Disbursement Amount:$1,113.00
+Loan Disbursement Date:11/18/1999
+Loan Disbursement Amount:$1,114.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700072
+Loan Contact Name:KENTUCKY HIGHER ED SLC
+Loan Contact Street Address 1:P.O. BOX 24266
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224(0000)
+Loan Contact Phone Number:5023297215
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:721
+Loan Contact Name:HIGHER EDUCATION ASSISTANCE AUTHORITY
+Loan Contact Street Address 1:PO BOX 798
+Loan Contact Street Address 2:
+Loan Contact City:FRANKFORT
+Loan Contact State Code:KY
+Loan Contact Zip Code:40602
+Loan Contact Phone Number:800-928-8926
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.kheaa.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:826688
+Loan Contact Name:KENTUCKY HIGHER ED STUDENT LOAN COR
+Loan Contact Street Address 1:P.O. BOX 24328
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224
+Loan Contact Phone Number:800-693-8220
+Loan Contact Phone Extension:
+Loan Contact Email Address:pdalton@kheslc.com
+Loan Contact Web Site Address:http://WWW.KHESLC.COM
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****4336
+Loan Attending School Name:GEORGIAN COURT UNIVERSITY
+Loan Attending School OPEID:00260800
+Loan Date:10/13/1998
+Loan Repayment Begin Date:06/22/2013
+Loan Period Begin Date:08/31/1998
+Loan Period End Date:05/15/1999
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,673.00
+Loan Outstanding Principal Balance as of Date:06/30/2022
+Loan Outstanding Interest Balance:$8.00
+Loan Outstanding Interest Balance as of Date:06/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/02/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2021
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/16/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/11/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/25/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/26/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/16/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/31/1998
+Loan Disbursement Date:01/19/1999
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:10/14/1998
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700072
+Loan Contact Name:KENTUCKY HIGHER ED SLC
+Loan Contact Street Address 1:P.O. BOX 24266
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224(0000)
+Loan Contact Phone Number:5023297215
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:721
+Loan Contact Name:HIGHER EDUCATION ASSISTANCE AUTHORITY
+Loan Contact Street Address 1:PO BOX 798
+Loan Contact Street Address 2:
+Loan Contact City:FRANKFORT
+Loan Contact State Code:KY
+Loan Contact Zip Code:40602
+Loan Contact Phone Number:800-928-8926
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.kheaa.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:826688
+Loan Contact Name:KENTUCKY HIGHER ED STUDENT LOAN COR
+Loan Contact Street Address 1:P.O. BOX 24328
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224
+Loan Contact Phone Number:800-693-8220
+Loan Contact Phone Extension:
+Loan Contact Email Address:pdalton@kheslc.com
+Loan Contact Web Site Address:http://WWW.KHESLC.COM
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4336
+Loan Attending School Name:GEORGIAN COURT UNIVERSITY
+Loan Attending School OPEID:00260800
+Loan Date:10/13/1998
+Loan Repayment Begin Date:06/22/2013
+Loan Period Begin Date:08/31/1998
+Loan Period End Date:05/15/1999
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,788.00
+Loan Outstanding Principal Balance as of Date:06/30/2022
+Loan Outstanding Interest Balance:$10.00
+Loan Outstanding Interest Balance as of Date:06/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/02/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2021
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/16/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/11/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/25/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/26/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/16/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/31/1998
+Loan Disbursement Date:01/19/1999
+Loan Disbursement Amount:$2,500.00
+Loan Disbursement Date:10/14/1998
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700072
+Loan Contact Name:KENTUCKY HIGHER ED SLC
+Loan Contact Street Address 1:P.O. BOX 24266
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224(0000)
+Loan Contact Phone Number:5023297215
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:721
+Loan Contact Name:HIGHER EDUCATION ASSISTANCE AUTHORITY
+Loan Contact Street Address 1:PO BOX 798
+Loan Contact Street Address 2:
+Loan Contact City:FRANKFORT
+Loan Contact State Code:KY
+Loan Contact Zip Code:40602
+Loan Contact Phone Number:800-928-8926
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.kheaa.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:826688
+Loan Contact Name:KENTUCKY HIGHER ED STUDENT LOAN COR
+Loan Contact Street Address 1:P.O. BOX 24328
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224
+Loan Contact Phone Number:800-693-8220
+Loan Contact Phone Extension:
+Loan Contact Email Address:pdalton@kheslc.com
+Loan Contact Web Site Address:http://WWW.KHESLC.COM
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****9622
+Loan Attending School Name:GEORGIAN COURT UNIVERSITY
+Loan Attending School OPEID:00260800
+Loan Date:09/26/1997
+Loan Repayment Begin Date:06/22/2013
+Loan Period Begin Date:08/25/1997
+Loan Period End Date:05/16/1998
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,708.00
+Loan Outstanding Principal Balance as of Date:06/30/2022
+Loan Outstanding Interest Balance:$8.00
+Loan Outstanding Interest Balance as of Date:06/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/02/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2021
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/16/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/11/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/25/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/26/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/16/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/25/1997
+Loan Disbursement Date:12/01/1997
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:09/27/1997
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700072
+Loan Contact Name:KENTUCKY HIGHER ED SLC
+Loan Contact Street Address 1:P.O. BOX 24266
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224(0000)
+Loan Contact Phone Number:5023297215
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:721
+Loan Contact Name:HIGHER EDUCATION ASSISTANCE AUTHORITY
+Loan Contact Street Address 1:PO BOX 798
+Loan Contact Street Address 2:
+Loan Contact City:FRANKFORT
+Loan Contact State Code:KY
+Loan Contact Zip Code:40602
+Loan Contact Phone Number:800-928-8926
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.kheaa.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:826688
+Loan Contact Name:KENTUCKY HIGHER ED STUDENT LOAN COR
+Loan Contact Street Address 1:P.O. BOX 24328
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224
+Loan Contact Phone Number:800-693-8220
+Loan Contact Phone Extension:
+Loan Contact Email Address:pdalton@kheslc.com
+Loan Contact Web Site Address:http://WWW.KHESLC.COM
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1840
+Loan Attending School Name:GEORGIAN COURT UNIVERSITY
+Loan Attending School OPEID:00260800
+Loan Date:10/10/1997
+Loan Repayment Begin Date:06/22/2013
+Loan Period Begin Date:08/25/1997
+Loan Period End Date:05/16/1998
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,748.00
+Loan Outstanding Principal Balance as of Date:06/30/2022
+Loan Outstanding Interest Balance:$13.00
+Loan Outstanding Interest Balance as of Date:06/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/02/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/16/2021
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/16/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/11/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/25/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/26/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/16/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/16/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/25/1997
+Loan Disbursement Date:12/01/1997
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:10/11/1997
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700072
+Loan Contact Name:KENTUCKY HIGHER ED SLC
+Loan Contact Street Address 1:P.O. BOX 24266
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224(0000)
+Loan Contact Phone Number:5023297215
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:721
+Loan Contact Name:HIGHER EDUCATION ASSISTANCE AUTHORITY
+Loan Contact Street Address 1:PO BOX 798
+Loan Contact Street Address 2:
+Loan Contact City:FRANKFORT
+Loan Contact State Code:KY
+Loan Contact Zip Code:40602
+Loan Contact Phone Number:800-928-8926
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.kheaa.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:826688
+Loan Contact Name:KENTUCKY HIGHER ED STUDENT LOAN COR
+Loan Contact Street Address 1:P.O. BOX 24328
+Loan Contact Street Address 2:
+Loan Contact City:LOUISVILLE
+Loan Contact State Code:KY
+Loan Contact Zip Code:40224
+Loan Contact Phone Number:800-693-8220
+Loan Contact Phone Extension:
+Loan Contact Email Address:pdalton@kheslc.com
+Loan Contact Web Site Address:http://WWW.KHESLC.COM
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Enrolled School Name:OCEAN COUNTY COLLEGE
+Enrolled School OPEID:00262400
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/21/2012
+Enrolled School Name:GEORGIAN COURT UNIVERSITY
+Enrolled School OPEID:00260800
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/20/2001

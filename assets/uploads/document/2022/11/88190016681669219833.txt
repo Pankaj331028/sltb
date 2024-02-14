@@ -1,0 +1,932 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-11-23 10:36:13
+Student First Name:MICHELLE
+Student Middle Initial:
+Student Last Name:WRIGHT
+Student Street Address 1:5173 CLINTON ST
+Student Street Address 2:
+Student City:DENVER
+Student State Code:CO
+Student Country Code:US
+Student Zip Code:802383931
+Student Email Address:MWRIGHT1175@HOTMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:7203397616
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7203397616
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:7203397616
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:05/17/2003
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2002
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$14,652.00
+Graduate Aggregate Unsubsidized Total:$16,495.00
+Graduate Aggregate Combined Total:$31,147.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$14,652.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$16,495.00
+Aggregate Combined Total (Undergraduate and Graduate):$31,147.00
+Student Total All Loans Outstanding Principal:$31,147.00
+Student Total All Loans Outstanding Interest:$0.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$0.00
+Total <CL> Outstanding Interest:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$0.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$16,495.00
+Total <D5> Outstanding Interest:$0.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$14,652.00
+Total <D6> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4264S02G01371201
+Loan Attending School Name:University of Denver
+Loan Attending School OPEID:00137100
+Loan Date:12/06/2001
+Loan Repayment Begin Date:05/21/2002
+Loan Period Begin Date:09/10/2001
+Loan Period End Date:11/20/2001
+Loan Amount:$1,948.00
+Loan Disbursed Amount:$1,948.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/22/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/22/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2002
+Capitalized Interest:$0.00
+Net Loan Amount:$1,948.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/22/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/20/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/07/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/21/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/20/2001
+Loan Disbursement Date:12/06/2001
+Loan Disbursement Amount:$1,948.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4264S02G01371101
+Loan Attending School Name:University of Denver
+Loan Attending School OPEID:00137100
+Loan Date:08/31/2001
+Loan Repayment Begin Date:05/21/2002
+Loan Period Begin Date:09/10/2001
+Loan Period End Date:06/06/2002
+Loan Amount:$2,833.00
+Loan Disbursed Amount:$2,833.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/22/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/22/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2002
+Capitalized Interest:$0.00
+Net Loan Amount:$2,833.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/22/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/20/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/07/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/21/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/31/2001
+Loan Disbursement Date:08/31/2001
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4264U02G01371101
+Loan Attending School Name:University of Denver
+Loan Attending School OPEID:00137100
+Loan Date:08/31/2001
+Loan Repayment Begin Date:05/21/2002
+Loan Period Begin Date:09/10/2001
+Loan Period End Date:06/06/2002
+Loan Amount:$3,333.00
+Loan Disbursed Amount:$3,333.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/22/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/22/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2002
+Capitalized Interest:$129.00
+Net Loan Amount:$3,333.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/22/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/20/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/07/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/21/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/31/2001
+Loan Disbursement Date:08/31/2001
+Loan Disbursement Amount:$3,333.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4264S01G01371101
+Loan Attending School Name:University of Denver
+Loan Attending School OPEID:00137100
+Loan Date:09/01/2000
+Loan Repayment Begin Date:05/21/2002
+Loan Period Begin Date:09/11/2000
+Loan Period End Date:06/09/2001
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/22/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/22/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/22/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/20/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/07/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/21/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/01/2000
+Loan Disbursement Date:03/16/2001
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:12/24/2000
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:09/01/2000
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4264U01G01371101
+Loan Attending School Name:University of Denver
+Loan Attending School OPEID:00137100
+Loan Date:09/01/2000
+Loan Repayment Begin Date:05/21/2002
+Loan Period Begin Date:09/11/2000
+Loan Period End Date:06/09/2001
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/22/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/22/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$879.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/22/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/20/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/07/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/21/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/01/2000
+Loan Disbursement Date:03/16/2001
+Loan Disbursement Amount:$3,334.00
+Loan Disbursement Date:12/24/2000
+Loan Disbursement Amount:$3,333.00
+Loan Disbursement Date:09/01/2000
+Loan Disbursement Amount:$3,333.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4264S00G01371101
+Loan Attending School Name:University of Denver
+Loan Attending School OPEID:00137100
+Loan Date:04/17/2000
+Loan Repayment Begin Date:05/21/2002
+Loan Period Begin Date:01/03/2000
+Loan Period End Date:08/10/2000
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/22/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/22/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/22/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/20/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/07/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/21/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/17/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/03/2000
+Loan Disbursement Date:06/03/2000
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:04/17/2000
+Loan Disbursement Amount:$5,666.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4264U00G01371101
+Loan Attending School Name:University of Denver
+Loan Attending School OPEID:00137100
+Loan Date:04/17/2000
+Loan Repayment Begin Date:05/21/2002
+Loan Period Begin Date:01/03/2000
+Loan Period End Date:08/10/2000
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$7,268.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/22/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/22/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$988.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/22/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/20/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/07/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/19/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/21/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/17/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/03/2000
+Loan Disbursement Date:06/03/2000
+Loan Disbursement Amount:$602.00
+Loan Disbursement Date:04/17/2000
+Loan Disbursement Amount:$6,666.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****50000089C04901
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:04/16/2004
+Loan Repayment Begin Date:04/16/2004
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$45,827.00
+Loan Disbursed Amount:$45,827.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/29/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/29/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.50%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:3.50%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2004
+Capitalized Interest:$0.00
+Net Loan Amount:$45,827.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/27/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/29/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/02/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/02/2006
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/22/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2004
+Loan Disbursement Date:04/16/2004
+Loan Disbursement Amount:$45,827.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:725
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:808851
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP
+Loan Contact Street Address 1:60 WALL ST.
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10005(2858)
+Loan Contact Phone Number:2122502273
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****4264U22G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:08/29/2022
+Loan Repayment Begin Date:08/29/2022
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$16,495.00
+Loan Disbursed Amount:$16,495.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$16,495.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.50%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.50%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:1
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2023
+Capitalized Interest:$0.00
+Net Loan Amount:$16,495.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$16,495.00
+Calculated Combined Aggregate OPB:$16,495.00
+UpdtDt:11/10/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/29/2022
+Loan Disbursement Date:08/29/2022
+Loan Disbursement Amount:$16,495.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****4264S22G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:08/29/2022
+Loan Repayment Begin Date:08/29/2022
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$14,652.00
+Loan Disbursed Amount:$14,652.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$14,652.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.50%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.50%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:1
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2023
+Capitalized Interest:$0.00
+Net Loan Amount:$14,652.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$14,652.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$14,652.00
+UpdtDt:11/10/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/29/2022
+Loan Disbursement Date:08/29/2022
+Loan Disbursement Amount:$14,652.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Enrolled School Name:Metropolitan State University of Denver
+Enrolled School OPEID:00136000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/17/2003
+Enrolled School Name:University of Denver
+Enrolled School OPEID:00137100
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:11/20/2001

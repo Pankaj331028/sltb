@@ -1,0 +1,899 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-27 07:48:14
+Student First Name:MATT
+Student Middle Initial:D
+Student Last Name:MERCER
+Student Street Address 1:808 GETTYSBURG PL.
+Student Street Address 2:
+Student City:BEDFORD
+Student State Code:TX
+Student Country Code:US
+Student Zip Code:76022
+Student Email Address:matt.mercer@HARTEHANKS.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2147385141
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2144354678
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/19/1998
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1998
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$17,125.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$17,125.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$17,125.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Combined Total (Undergraduate and Graduate):$17,125.00
+Student Total All Loans Outstanding Principal:$44,300.00
+Student Total All Loans Outstanding Interest:$1,194.00
+Student Pell Lifetime Eligibility Used:300.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$1,063.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$44,300.00
+Total <CL> Outstanding Interest:$1,194.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0674G04
+Loan Attending School Name:Northwood University
+Loan Attending School OPEID:00407200
+Loan Date:08/11/1997
+Loan Repayment Begin Date:11/20/1998
+Loan Period Begin Date:09/03/1997
+Loan Period End Date:05/20/1998
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/24/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/24/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/24/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/27/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/26/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2003
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/27/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/27/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/27/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/27/1999
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/27/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/03/1997
+Loan Disbursement Date:03/05/1998
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:11/26/1997
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:08/28/1997
+Loan Disbursement Amount:$1,834.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0674G03
+Loan Attending School Name:Northwood University
+Loan Attending School OPEID:00407200
+Loan Date:09/05/1996
+Loan Repayment Begin Date:11/20/1998
+Loan Period Begin Date:09/04/1996
+Loan Period End Date:05/22/1997
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/24/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/24/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/24/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/27/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/26/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2003
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/27/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/27/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/27/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/27/1999
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/27/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/04/1996
+Loan Disbursement Date:03/05/1997
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:11/25/1996
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:09/12/1996
+Loan Disbursement Amount:$1,834.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0674G02
+Loan Attending School Name:Northwood University
+Loan Attending School OPEID:00407200
+Loan Date:09/22/1995
+Loan Repayment Begin Date:11/20/1998
+Loan Period Begin Date:09/06/1995
+Loan Period End Date:05/16/1996
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/24/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/24/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/24/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/27/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/26/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2003
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/27/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/27/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/27/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/27/1999
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/27/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/06/1995
+Loan Disbursement Date:02/26/1996
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:02/24/1996
+Loan Disbursement Amount:$2,334.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****0674G01
+Loan Attending School Name:Northwood University
+Loan Attending School OPEID:00407200
+Loan Date:11/02/1994
+Loan Repayment Begin Date:11/20/1998
+Loan Period Begin Date:09/07/1994
+Loan Period End Date:05/26/1995
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/24/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/24/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/12/2007
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/24/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/27/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/26/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2003
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/26/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/27/2001
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/27/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/27/2000
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/27/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/27/1999
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/27/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/07/1994
+Loan Disbursement Date:02/27/1995
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833500
+Loan Contact Name:WELLS FARGO ELT NELNET ED LOAN FUNDING I
+Loan Contact Street Address 1:3015 S. PARKER RD.
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-735-6556
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****0674C05
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:06/12/2007
+Loan Repayment Begin Date:06/12/2007
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$19,998.00
+Loan Disbursed Amount:$19,998.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$44,300.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$1,194.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$19,998.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$17,125.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$17,125.00
+UpdtDt:02/12/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/06/2023
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/08/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/09/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/01/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/03/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/05/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/19/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/04/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/03/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/02/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/02/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/02/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/02/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/01/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/02/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/01/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/02/2009
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/01/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/02/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/02/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/01/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/12/2007
+Loan Disbursement Date:06/12/2007
+Loan Disbursement Amount:$19,998.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700141
+Loan Contact Name:AMERICAN EDUCATION SERVICES
+Loan Contact Street Address 1:PO BOX 2461
+Loan Contact Street Address 2:
+Loan Contact City:HARRISBURG
+Loan Contact State Code:PA
+Loan Contact Zip Code:17105(2461)
+Loan Contact Phone Number:800-233-0557
+Loan Contact Phone Extension:
+Loan Contact Email Address:WEBMASTER@PHEAA.ORG
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:811304
+Loan Contact Name:TRUIST BANK
+Loan Contact Street Address 1:1001 SEMMES AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:RICHMOND
+Loan Contact State Code:VA
+Loan Contact Zip Code:23224(0000)
+Loan Contact Phone Number:8043194848
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Northwood University
+Grant Attending School OPEID:00407200
+Grant Award Year:1997 - 1998
+Grant Scheduled Amount:$1,450.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$483.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00407200
+Grant Contact Name:Northwood University
+Grant Contact Street Address 1:4000 WHITING DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:MIDLAND
+Grant Contact State Code:MI
+Grant Contact Zip Code:48640
+Phone Number:989-837-4454
+Phone Extension:
+Email Address:mcdonald@northwood.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Northwood Univ
+Grant Attending School OPEID:01304000
+Grant Award Year:1995 - 1996
+Grant Scheduled Amount:$790.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$263.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:01304000
+Grant Contact Name:Northwood Univ
+Grant Contact Street Address 1:1114 W FM 1382
+Grant Contact Street Address 2:
+Grant Contact City:CEDAR HILL
+Grant Contact State Code:TX
+Grant Contact Zip Code:75104(1204)
+Phone Number:972-293-5430
+Phone Extension:
+Email Address:rhodes@northwood.edu
+Web Site Address:HTTP://WWW.NORTHWOOD.EDU
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Northwood Univ
+Grant Attending School OPEID:01304000
+Grant Award Year:1994 - 1995
+Grant Scheduled Amount:$950.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$317.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:01304000
+Grant Contact Name:Northwood Univ
+Grant Contact Street Address 1:1114 W FM 1382
+Grant Contact Street Address 2:
+Grant Contact City:CEDAR HILL
+Grant Contact State Code:TX
+Grant Contact Zip Code:75104(1204)
+Phone Number:972-293-5430
+Phone Extension:
+Email Address:rhodes@northwood.edu
+Web Site Address:HTTP://WWW.NORTHWOOD.EDU
+Enrolled School Name:Northwood University
+Enrolled School OPEID:00407200
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/19/1998

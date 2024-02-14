@@ -1,0 +1,1566 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-09-21 12:55:35
+Student First Name:COURTNEY
+Student Middle Initial:M
+Student Last Name:LUTHER
+Student Street Address 1:23 MAST DR
+Student Street Address 2:
+Student City:BARNEGAT
+Student State Code:NJ
+Student Country Code:US
+Student Zip Code:08005
+Student Email Address:LUTHERCX2525@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:6092903018
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6092903018
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:6092903018
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:H
+Student Enrollment Status Code Description:HALF TIME
+Student Enrollment Status Effective Date:01/10/2022
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2022
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$11,335.00
+Undergraduate Aggregate Unsubsidized Total:$36,041.00
+Undergraduate Aggregate Combined Total:$47,376.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$11,335.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$36,041.00
+Aggregate Combined Total (Undergraduate and Graduate):$47,376.00
+Student Total All Loans Outstanding Principal:$50,214.00
+Student Total All Loans Outstanding Interest:$0.00
+Student Pell Lifetime Eligibility Used:375.821%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$22,987.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$0.00
+Total <D0> Outstanding Interest:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$3,500.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$6,000.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$32,879.00
+Total <D5> Outstanding Interest:$0.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$7,835.00
+Total <D6> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8024S22G02834001
+Loan Attending School Name:Excelsior University
+Loan Attending School OPEID:00283400
+Loan Date:02/03/2022
+Loan Repayment Begin Date:08/22/2027
+Loan Period Begin Date:01/10/2022
+Loan Period End Date:08/21/2022
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,500.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.73%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/26/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/09/2022
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/03/2022
+Loan Disbursement Date:05/26/2022
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:02/03/2022
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8024U22G02834001
+Loan Attending School Name:Excelsior University
+Loan Attending School OPEID:00283400
+Loan Date:02/03/2022
+Loan Repayment Begin Date:08/22/2027
+Loan Period Begin Date:01/10/2022
+Loan Period End Date:08/21/2022
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,000.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.73%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/26/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/09/2022
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/03/2022
+Loan Disbursement Date:05/26/2022
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:02/03/2022
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8024U21G25587001
+Loan Attending School Name:Prism Career Institute
+Loan Attending School OPEID:02558700
+Loan Date:07/17/2020
+Loan Repayment Begin Date:08/02/2021
+Loan Period Begin Date:07/06/2020
+Loan Period End Date:01/31/2021
+Loan Amount:$7,700.00
+Loan Disbursed Amount:$7,700.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/02/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$7,700.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/01/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/17/2020
+Loan Disbursement Date:10/23/2020
+Loan Disbursement Amount:$3,850.00
+Loan Disbursement Date:07/17/2020
+Loan Disbursement Amount:$3,850.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8024U19G25587001
+Loan Attending School Name:Prism Career Institute
+Loan Attending School OPEID:02558700
+Loan Date:06/06/2019
+Loan Repayment Begin Date:08/02/2021
+Loan Period Begin Date:04/29/2019
+Loan Period End Date:06/28/2020
+Loan Amount:$9,500.00
+Loan Disbursed Amount:$9,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/28/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$9,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/01/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/06/2019
+Loan Disbursement Date:03/19/2020
+Loan Disbursement Amount:$4,750.00
+Loan Disbursement Date:06/06/2019
+Loan Disbursement Amount:$4,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****8024S17G41341001
+Loan Attending School Name:Jersey College
+Loan Attending School OPEID:04134100
+Loan Date:02/06/2017
+Loan Repayment Begin Date:12/27/2017
+Loan Period Begin Date:01/02/2017
+Loan Period End Date:06/02/2017
+Loan Amount:$1,750.00
+Loan Disbursed Amount:$1,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/18/2017
+Loan Repayment Plan Scheduled Amount:$18.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.5
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/28/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$1,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:02/06/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/02/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/27/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:06/26/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/06/2017
+Loan Disbursement Date:06/13/2017
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:02/06/2017
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8024U17G41341001
+Loan Attending School Name:Jersey College
+Loan Attending School OPEID:04134100
+Loan Date:02/06/2017
+Loan Repayment Begin Date:12/27/2017
+Loan Period Begin Date:01/02/2017
+Loan Period End Date:06/02/2017
+Loan Amount:$3,000.00
+Loan Disbursed Amount:$3,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/18/2017
+Loan Repayment Plan Scheduled Amount:$31.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/28/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$100.00
+Net Loan Amount:$3,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:02/06/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/02/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/27/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:06/26/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/06/2017
+Loan Disbursement Date:06/13/2017
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:02/06/2017
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8024U15E01628001
+Loan Attending School Name:Star Career Academy - Star Brick
+Loan Attending School OPEID:00780401
+Loan Date:03/20/2015
+Loan Repayment Begin Date:12/05/2015
+Loan Period Begin Date:03/18/2015
+Loan Period End Date:06/04/2015
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:12/09/2017
+Loan Repayment Plan Scheduled Amount:$32.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/28/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:P
+Award Year:2015
+Capitalized Interest:$77.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:02/06/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/02/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/27/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/02/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/05/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:06/04/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/20/2015
+Loan Disbursement Date:05/15/2015
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:03/27/2015
+Loan Disbursement Amount:$563.00
+Loan Disbursement Date:03/20/2015
+Loan Disbursement Amount:$750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****8024S14E01628001
+Loan Attending School Name:Star Career Academy - Star Brick
+Loan Attending School OPEID:00780401
+Loan Date:05/16/2014
+Loan Repayment Begin Date:12/05/2015
+Loan Period Begin Date:04/15/2014
+Loan Period End Date:03/17/2015
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:12/09/2017
+Loan Repayment Plan Scheduled Amount:$39.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/28/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$68.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:02/06/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/02/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/27/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/02/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/05/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:06/04/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/16/2014
+Loan Disbursement Date:09/26/2014
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:05/16/2014
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8024U14E01628001
+Loan Attending School Name:Star Career Academy - Star Brick
+Loan Attending School OPEID:00780401
+Loan Date:05/16/2014
+Loan Repayment Begin Date:12/05/2015
+Loan Period Begin Date:04/15/2014
+Loan Period End Date:03/17/2015
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:12/09/2017
+Loan Repayment Plan Scheduled Amount:$71.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/28/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:P
+Award Year:2014
+Capitalized Interest:$318.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:02/06/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/02/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/27/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/02/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/05/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:06/04/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/16/2014
+Loan Disbursement Date:09/26/2014
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:05/16/2014
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****8024S14G35493001
+Loan Attending School Name:Ultimate Medical Academy
+Loan Attending School OPEID:03549300
+Loan Date:07/01/2013
+Loan Repayment Begin Date:03/01/2014
+Loan Period Begin Date:05/13/2013
+Loan Period End Date:08/29/2013
+Loan Amount:$1,750.00
+Loan Disbursed Amount:$1,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:12/09/2017
+Loan Repayment Plan Scheduled Amount:$20.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.5
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/28/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$34.00
+Net Loan Amount:$1,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:02/06/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/02/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/27/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/02/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/28/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/15/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/01/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/29/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/01/2013
+Loan Disbursement Date:09/06/2013
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:07/01/2013
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8024U14G35493001
+Loan Attending School Name:Ultimate Medical Academy
+Loan Attending School OPEID:03549300
+Loan Date:07/01/2013
+Loan Repayment Begin Date:03/01/2014
+Loan Period Begin Date:05/13/2013
+Loan Period End Date:08/29/2013
+Loan Amount:$1,216.00
+Loan Disbursed Amount:$1,216.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/16/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/16/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:12/09/2017
+Loan Repayment Plan Scheduled Amount:$15.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/28/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$31.00
+Net Loan Amount:$1,216.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/17/2022
+DelinqDate:02/06/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/09/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/02/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/27/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/02/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/28/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/15/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/01/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/29/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/01/2013
+Loan Disbursement Date:09/06/2013
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:07/01/2013
+Loan Disbursement Amount:$1,216.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****8024U22G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:02/09/2022
+Loan Repayment Begin Date:02/09/2022
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$32,946.00
+Loan Disbursed Amount:$32,879.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$32,879.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:05/13/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$32,946.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$30,041.00
+Calculated Combined Aggregate OPB:$30,041.00
+UpdtDt:09/09/2022
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/09/2022
+Loan Disbursement Date:02/09/2022
+Loan Disbursement Amount:$32,879.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/HESC-EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****8024S22G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:02/09/2022
+Loan Repayment Begin Date:02/09/2022
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$7,850.00
+Loan Disbursed Amount:$7,835.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,835.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:05/13/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$7,850.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$7,835.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$7,835.00
+UpdtDt:09/09/2022
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/09/2022
+Loan Disbursement Date:02/09/2022
+Loan Disbursement Amount:$7,835.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/HESC-EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Excelsior University
+Grant Attending School OPEID:00283400
+Grant Award Year:2021 - 2022
+Grant Scheduled Amount:$6,495.00
+Grant Award Amount:$3,248.00
+Grant Disbursed Amount:$3,248.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.008%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.008%
+Grant Contact Type:Attending School
+Grant Contact Code:00283400
+Grant Contact Name:Excelsior University
+Grant Contact Street Address 1:7 COLUMBIA CIRCLE
+Grant Contact Street Address 2:
+Grant Contact City:ALBANY
+Grant Contact State Code:NY
+Grant Contact Zip Code:12203
+Phone Number:518-464-8657
+Phone Extension:
+Email Address:plentz@excelsior.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Atlantic Cape Community College
+Grant Attending School OPEID:00259600
+Grant Award Year:2020 - 2021
+Grant Scheduled Amount:$6,345.00
+Grant Award Amount:$2,380.00
+Grant Disbursed Amount:$2,380.00
+Grant First Time:No
+Grant Additional Eligibility:Yes
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.510%
+Aid Recipient's Total Percent Eligibility Used (TEU):104.176%
+Grant Contact Type:Attending School
+Grant Contact Code:00259600
+Grant Contact Name:Atlantic Cape Community College
+Grant Contact Street Address 1:5100 BHP
+Grant Contact Street Address 2:
+Grant Contact City:MAYS LANDING
+Grant Contact State Code:NJ
+Grant Contact Zip Code:08330
+Phone Number:609-343-5082
+Phone Extension:
+Email Address:mgiordan@atlantic.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Prism Career Institute
+Grant Attending School OPEID:02558700
+Grant Award Year:2020 - 2021
+Grant Scheduled Amount:$6,345.00
+Grant Award Amount:$6,345.00
+Grant Disbursed Amount:$4,230.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):66.667%
+Aid Recipient's Total Percent Eligibility Used (TEU):66.667%
+Grant Contact Type:Attending School
+Grant Contact Code:02558700
+Grant Contact Name:Prism Career Institute
+Grant Contact Street Address 1:8040 ROOSEVELT BLVD
+Grant Contact Street Address 2:
+Grant Contact City:PHILADELPHIA
+Grant Contact State Code:PA
+Grant Contact Zip Code:19152
+Phone Number:215-331-4600
+Phone Extension:106
+Email Address:ealkhal@prismcareerinstitute.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Prism Career Institute
+Grant Attending School OPEID:02558700
+Grant Award Year:2019 - 2020
+Grant Scheduled Amount:$6,195.00
+Grant Award Amount:$6,195.00
+Grant Disbursed Amount:$3,098.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.008%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.008%
+Grant Contact Type:Attending School
+Grant Contact Code:02558700
+Grant Contact Name:Prism Career Institute
+Grant Contact Street Address 1:8040 ROOSEVELT BLVD
+Grant Contact Street Address 2:
+Grant Contact City:PHILADELPHIA
+Grant Contact State Code:PA
+Grant Contact Zip Code:19152
+Phone Number:215-331-4600
+Phone Extension:106
+Email Address:ealkhal@prismcareerinstitute.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Prism Career Institute
+Grant Attending School OPEID:02558700
+Grant Award Year:2018 - 2019
+Grant Scheduled Amount:$6,095.00
+Grant Award Amount:$6,095.00
+Grant Disbursed Amount:$3,048.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.008%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.008%
+Grant Contact Type:Attending School
+Grant Contact Code:02558700
+Grant Contact Name:Prism Career Institute
+Grant Contact Street Address 1:8040 ROOSEVELT BLVD
+Grant Contact Street Address 2:
+Grant Contact City:PHILADELPHIA
+Grant Contact State Code:PA
+Grant Contact Zip Code:19152
+Phone Number:215-331-4600
+Phone Extension:106
+Email Address:ealkhal@prismcareerinstitute.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Jersey College
+Grant Attending School OPEID:04134100
+Grant Award Year:2016 - 2017
+Grant Scheduled Amount:$5,815.00
+Grant Award Amount:$5,815.00
+Grant Disbursed Amount:$4,019.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):69.114%
+Aid Recipient's Total Percent Eligibility Used (TEU):69.114%
+Grant Contact Type:Attending School
+Grant Contact Code:04134100
+Grant Contact Name:Jersey College
+Grant Contact Street Address 1:546 U.S. HIGHWAY 46
+Grant Contact Street Address 2:
+Grant Contact City:TETERBORO
+Grant Contact State Code:NJ
+Grant Contact Zip Code:07608(1104)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Ultimate Medical Academy
+Grant Attending School OPEID:03549300
+Grant Award Year:2013 - 2014
+Grant Scheduled Amount:$5,645.00
+Grant Award Amount:$5,645.00
+Grant Disbursed Amount:$2,964.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):52.507%
+Aid Recipient's Total Percent Eligibility Used (TEU):52.507%
+Grant Contact Type:Attending School
+Grant Contact Code:03549300
+Grant Contact Name:Ultimate Medical Academy
+Grant Contact Street Address 1:3101 W DR MATRIN LUTHER KING BLVD
+Grant Contact Street Address 2:SUITE 200
+Grant Contact City:TAMPA
+Grant Contact State Code:FL
+Grant Contact Zip Code:33607
+Phone Number:813-532-8076
+Phone Extension:
+Email Address:eaccomando@ultimatemedical.edu
+Web Site Address:
+Program School Name:Excelsior University
+Program School OPEID:00283400
+Program Cip Year:2020
+Program Cip Code:513801
+Program CIP Title:Registered Nursing/Registered Nurse.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:12/18/2021
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:05/02/2022
+Program School Name:Prism Career Institute - Egg Harbor Township Campus
+Program School OPEID:02558704
+Program Cip Year:2020
+Program Cip Code:513999
+Program CIP Title:Practical Nursing, Vocational Nursing and Nursing Assistants, Other.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:04/29/2019
+Program Published Length in Years:1.7
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:02/01/2021
+Program School Name:Jersey College - Ewing
+Program School OPEID:04134102
+Program Cip Year:2010
+Program Cip Code:513999
+Program CIP Title:Practical Nursing, Vocational Nursing and Nursing Assistants, Other.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:06/26/2017
+Program Published Length in Years:1.7
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:07/10/2017
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/02/2017
+Program School Name:Star Career Academy - Star Brick
+Program School OPEID:00780401
+Program Cip Year:2010
+Program Cip Code:511011
+Program CIP Title:Renal/Dialysis Technologist/Technician.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:04/15/2014
+Program Published Length in Years:1.3
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:06/04/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:04/15/2014
+Award School Name:Excelsior University
+Award School OPEID:00283400
+Award Earliest Disbursement Date:02/03/2022
+Award Loan Period Begin Date:01/10/2022
+Award Loan Period End Date:08/21/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Excelsior University
+Award School OPEID:00283400
+Award Earliest Disbursement Date:02/03/2022
+Award Loan Period Begin Date:01/10/2022
+Award Loan Period End Date:08/21/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Prism Career Institute
+Award School OPEID:02558700
+Award Earliest Disbursement Date:07/17/2020
+Award Loan Period Begin Date:07/06/2020
+Award Loan Period End Date:01/31/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Prism Career Institute
+Award School OPEID:02558700
+Award Earliest Disbursement Date:06/06/2019
+Award Loan Period Begin Date:04/29/2019
+Award Loan Period End Date:06/28/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Jersey College
+Award School OPEID:04134100
+Award Earliest Disbursement Date:02/06/2017
+Award Loan Period Begin Date:01/02/2017
+Award Loan Period End Date:06/02/2017
+Award Subsidized Usage:0.5
+Award Subsidy Status:
+Award School Name:Jersey College
+Award School OPEID:04134100
+Award Earliest Disbursement Date:02/06/2017
+Award Loan Period Begin Date:01/02/2017
+Award Loan Period End Date:06/02/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Star Career Academy - Star Brick
+Award School OPEID:00780401
+Award Earliest Disbursement Date:03/20/2015
+Award Loan Period Begin Date:03/18/2015
+Award Loan Period End Date:06/04/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Star Career Academy - Star Brick
+Award School OPEID:00780401
+Award Earliest Disbursement Date:05/16/2014
+Award Loan Period Begin Date:04/15/2014
+Award Loan Period End Date:03/17/2015
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Star Career Academy - Star Brick
+Award School OPEID:00780401
+Award Earliest Disbursement Date:05/16/2014
+Award Loan Period Begin Date:04/15/2014
+Award Loan Period End Date:03/17/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Ultimate Medical Academy
+Award School OPEID:03549300
+Award Earliest Disbursement Date:07/01/2013
+Award Loan Period Begin Date:05/13/2013
+Award Loan Period End Date:08/29/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Ultimate Medical Academy
+Award School OPEID:03549300
+Award Earliest Disbursement Date:07/01/2013
+Award Loan Period Begin Date:05/13/2013
+Award Loan Period End Date:08/29/2013
+Award Subsidized Usage:0.5
+Award Subsidy Status:
+Enrolled School Name:Excelsior University
+Enrolled School OPEID:00283400
+Enrolled Status Code:H
+Enrolled Status Code Description:HALF TIME
+Enrolled Status Date:01/10/2022
+Enrolled School Name:Prism Career Institute - Egg Harbor Township Campus
+Enrolled School OPEID:02558704
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:02/01/2021
+Enrolled School Name:Jersey College - Ewing
+Enrolled School OPEID:04134102
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:06/26/2017
+Enrolled School Name:Star Career Academy - Star Brick
+Enrolled School OPEID:00780401
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:06/04/2015
+Enrolled School Name:Ultimate Medical Academy -
+Enrolled School OPEID:03549301
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:08/29/2013

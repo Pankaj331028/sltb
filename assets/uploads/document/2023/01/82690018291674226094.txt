@@ -1,0 +1,2311 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-01-20 09:28:08
+Student First Name:YOLA
+Student Middle Initial:
+Student Last Name:MALEK
+Student Street Address 1:146 HUNTLEY DRIVE
+Student Street Address 2:
+Student City:ARDSLEY
+Student State Code:NY
+Student Country Code:US
+Student Zip Code:10502
+Student Email Address:yolaghaleb1@GMAIL.COM
+Student Home Phone Country Code:
+Student Home Phone Number:
+Student Home Phone Preferred:
+Student Cell Phone Country Code:1
+Student Cell Phone Number:9143500630
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:12/07/2000
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1995
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$8,400.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$8,400.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2001
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$34,000.00
+Graduate Aggregate Unsubsidized Total:$33,231.00
+Graduate Aggregate Combined Total:$67,231.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$42,400.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$33,231.00
+Aggregate Combined Total (Undergraduate and Graduate):$75,631.00
+Student Total All Loans Outstanding Principal:$158,433.00
+Student Total All Loans Outstanding Interest:$2,424.00
+Student Pell Lifetime Eligibility Used:397.619%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$2,300.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$158,433.00
+Total <CL> Outstanding Interest:$2,424.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****40006L07434901
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:08/08/2000
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:08/28/2000
+Loan Period End Date:05/17/2001
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$4,250.00
+Loan Canceled Amount:$4,250.00
+Loan Canceled Date:08/30/2000
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:C
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$4,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/28/2000
+Loan Disbursement Date:08/21/2000
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****40006L07434902
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:08/08/2000
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:08/28/2000
+Loan Period End Date:05/17/2001
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$5,000.00
+Loan Canceled Date:08/30/2000
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:C
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/28/2000
+Loan Disbursement Date:08/21/2000
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****49906L05305501
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:07/23/1999
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:08/25/1999
+Loan Period End Date:05/15/2000
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:C
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/25/1999
+Loan Disbursement Date:01/04/2000
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:08/31/1999
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****49906L05305502
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:07/23/1999
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:08/25/1999
+Loan Period End Date:05/15/2000
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:C
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/25/1999
+Loan Disbursement Date:01/04/2000
+Loan Disbursement Amount:$5,000.00
+Loan Disbursement Date:08/31/1999
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****49906L01281401
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:03/02/1999
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:01/11/1999
+Loan Period End Date:05/17/1999
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/11/1999
+Loan Disbursement Date:03/05/1999
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:03/04/1999
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:830631
+Loan Contact Name:US BANK ELT STUDENT LOAN FUNDING
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****49906L01791301
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:03/30/1999
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:01/11/1999
+Loan Period End Date:05/17/1999
+Loan Amount:$2,900.00
+Loan Disbursed Amount:$2,900.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$2,900.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/11/1999
+Loan Disbursement Date:04/02/1999
+Loan Disbursement Amount:$2,900.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:830631
+Loan Contact Name:US BANK ELT STUDENT LOAN FUNDING
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****49906L01281402
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:03/02/1999
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:01/11/1999
+Loan Period End Date:05/17/1999
+Loan Amount:$2,331.00
+Loan Disbursed Amount:$2,331.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$2,331.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/11/1999
+Loan Disbursement Date:03/05/1999
+Loan Disbursement Amount:$1,165.00
+Loan Disbursement Date:03/04/1999
+Loan Disbursement Amount:$1,166.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:830631
+Loan Contact Name:US BANK ELT STUDENT LOAN FUNDING
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****49806L02424601
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:06/15/1998
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:08/24/1998
+Loan Period End Date:05/17/1999
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$4,250.00
+Loan Canceled Amount:$4,250.00
+Loan Canceled Date:08/11/1998
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$4,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/24/1998
+Loan Disbursement Date:12/24/1998
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****49806L02424602
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:06/15/1998
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:08/24/1998
+Loan Period End Date:05/17/1999
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$5,000.00
+Loan Canceled Date:08/11/1998
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/08/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/24/1998
+Loan Disbursement Date:12/24/1998
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****08668745200
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:01/11/1999
+Loan Repayment Begin Date:10/01/2001
+Loan Period Begin Date:07/01/1998
+Loan Period End Date:05/15/2000
+Loan Amount:$1,500.00
+Loan Disbursed Amount:$1,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/29/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$1,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:01/29/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/01/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/01/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:07/01/1998
+Loan Disbursement Date:08/25/1999
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Attending School
+Loan Contact Code:00267700
+Loan Contact Name:Brooklyn Law School
+Loan Contact Street Address 1:250 JORALEMON ST
+Loan Contact Street Address 2:
+Loan Contact City:BROOKLYN
+Loan Contact State Code:NY
+Loan Contact Zip Code:11201
+Loan Contact Phone Number:178-780-7915
+Loan Contact Phone Extension:
+Loan Contact Email Address:Sissel.Funaro@brooklaw.edu
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****49706L02846701
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:11/18/1997
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:08/19/1997
+Loan Period End Date:05/08/1998
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/01/2002
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/19/1997
+Loan Disbursement Date:12/19/1997
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:11/19/1997
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:888887
+Loan Contact Name:NAVIENT CREDIT FINANCE CORP.
+Loan Contact Street Address 1:220 LASLEY AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****49706L02846702
+Loan Attending School Name:Brooklyn Law School
+Loan Attending School OPEID:00267700
+Loan Date:11/18/1997
+Loan Repayment Begin Date:06/08/2001
+Loan Period Begin Date:08/19/1997
+Loan Period End Date:05/08/1998
+Loan Amount:$8,000.00
+Loan Disbursed Amount:$8,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/12/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/12/2003
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$8,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/12/2003
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/18/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/01/2002
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/19/1997
+Loan Disbursement Date:12/19/1997
+Loan Disbursement Amount:$4,000.00
+Loan Disbursement Date:11/19/1997
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:888887
+Loan Contact Name:NAVIENT CREDIT FINANCE CORP.
+Loan Contact Street Address 1:220 LASLEY AVENUE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****191831
+Loan Attending School Name:Barnard College
+Loan Attending School OPEID:00270800
+Loan Date:10/18/1994
+Loan Repayment Begin Date:11/18/1995
+Loan Period Begin Date:09/08/1994
+Loan Period End Date:05/12/1995
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/19/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/19/1996
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/19/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/18/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/08/1994
+Loan Disbursement Date:01/20/1995
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:10/28/1994
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:800
+Loan Contact Name:USA FUNDS, INC.
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:808037
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:POST OFFICE BOX 3047
+Loan Contact Street Address 2:
+Loan Contact City:CHANDLER
+Loan Contact State Code:AZ
+Loan Contact Zip Code:85244(3047)
+Loan Contact Phone Number:800-228-7605
+Loan Contact Phone Extension:
+Loan Contact Email Address:COLLEGE.ANSWER@SLMA.COM
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****191821
+Loan Attending School Name:Barnard College
+Loan Attending School OPEID:00270800
+Loan Date:11/18/1993
+Loan Repayment Begin Date:11/18/1995
+Loan Period Begin Date:09/07/1993
+Loan Period End Date:05/13/1994
+Loan Amount:$2,150.00
+Loan Disbursed Amount:$2,150.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/19/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/19/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$2,150.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/19/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/18/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/07/1993
+Loan Disbursement Date:01/10/1994
+Loan Disbursement Amount:$2,150.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:800
+Loan Contact Name:USA FUNDS, INC.
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:808037
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:POST OFFICE BOX 3047
+Loan Contact Street Address 2:
+Loan Contact City:CHANDLER
+Loan Contact State Code:AZ
+Loan Contact Zip Code:85244(3047)
+Loan Contact Phone Number:800-228-7605
+Loan Contact Phone Extension:
+Loan Contact Email Address:COLLEGE.ANSWER@SLMA.COM
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****191811
+Loan Attending School Name:Barnard College
+Loan Attending School OPEID:00270800
+Loan Date:12/03/1992
+Loan Repayment Begin Date:11/18/1995
+Loan Period Begin Date:09/08/1992
+Loan Period End Date:05/14/1993
+Loan Amount:$1,250.00
+Loan Disbursed Amount:$1,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/19/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/19/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$1,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/19/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/18/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/08/1992
+Loan Disbursement Date:01/05/1993
+Loan Disbursement Amount:$1,250.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:800
+Loan Contact Name:USA FUNDS, INC.
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:808037
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:POST OFFICE BOX 3047
+Loan Contact Street Address 2:
+Loan Contact City:CHANDLER
+Loan Contact State Code:AZ
+Loan Contact Zip Code:85244(3047)
+Loan Contact Phone Number:800-228-7605
+Loan Contact Phone Extension:
+Loan Contact Email Address:COLLEGE.ANSWER@SLMA.COM
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****191801
+Loan Attending School Name:Barnard College
+Loan Attending School OPEID:00270800
+Loan Date:11/22/1991
+Loan Repayment Begin Date:11/18/1995
+Loan Period Begin Date:09/06/1991
+Loan Period End Date:05/08/1992
+Loan Amount:$1,500.00
+Loan Disbursed Amount:$1,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/19/1996
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/19/1996
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$1,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/19/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/18/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:09/06/1991
+Loan Disbursement Date:01/06/1992
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:800
+Loan Contact Name:USA FUNDS, INC.
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:808037
+Loan Contact Name:JP MORGAN CHASE BANK, NA
+Loan Contact Street Address 1:POST OFFICE BOX 3047
+Loan Contact Street Address 2:
+Loan Contact City:CHANDLER
+Loan Contact State Code:AZ
+Loan Contact Zip Code:85244(3047)
+Loan Contact Phone Number:800-228-7605
+Loan Contact Phone Extension:
+Loan Contact Email Address:COLLEGE.ANSWER@SLMA.COM
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****745288
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:08/08/2003
+Loan Repayment Begin Date:08/08/2003
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$44,259.00
+Loan Disbursed Amount:$44,259.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$89,405.00
+Loan Outstanding Principal Balance as of Date:11/30/2022
+Loan Outstanding Interest Balance:$1,368.00
+Loan Outstanding Interest Balance as of Date:11/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.75%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:3.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2004
+Capitalized Interest:$0.00
+Net Loan Amount:$44,259.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$21,629.00
+Calculated Unsubsidized Aggregate OPB:$16,951.00
+Calculated Combined Aggregate OPB:$38,580.00
+UpdtDt:12/20/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/03/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/04/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/08/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/09/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/16/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/07/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/08/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/27/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/19/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/19/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/30/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/01/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/27/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/11/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/12/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/25/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/24/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/30/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/31/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/03/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/15/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/14/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2010
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/01/2009
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2007
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/01/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/08/2007
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/02/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/11/2005
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/07/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/08/2003
+Loan Disbursement Date:08/08/2003
+Loan Disbursement Amount:$44,259.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****745289
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:08/08/2003
+Loan Repayment Begin Date:08/08/2003
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$42,505.00
+Loan Disbursed Amount:$42,505.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$69,028.00
+Loan Outstanding Principal Balance as of Date:11/30/2022
+Loan Outstanding Interest Balance:$1,056.00
+Loan Outstanding Interest Balance as of Date:11/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.75%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:3.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2004
+Capitalized Interest:$0.00
+Net Loan Amount:$42,505.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$20,771.00
+Calculated Unsubsidized Aggregate OPB:$16,280.00
+Calculated Combined Aggregate OPB:$37,051.00
+UpdtDt:12/20/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/03/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/04/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/08/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/09/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/16/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/07/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/08/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/27/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/19/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/19/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/30/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/01/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/27/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/11/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/12/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/25/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/24/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/30/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/31/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/03/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/15/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/14/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2010
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/01/2009
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2007
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/01/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/08/2007
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/02/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/11/2005
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/07/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/08/2003
+Loan Disbursement Date:08/08/2003
+Loan Disbursement Amount:$42,505.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****191841
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/09/1996
+Loan Repayment Begin Date:03/19/1996
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$8,275.00
+Loan Disbursed Amount:$8,275.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/08/2003
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/08/2003
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:9.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:9.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$8,275.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/08/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2002
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/11/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/19/1996
+Loan Disbursement Date:03/19/1996
+Loan Disbursement Amount:$8,275.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:800
+Loan Contact Name:USA FUNDS, INC.
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Barnard College
+Grant Attending School OPEID:00270800
+Grant Award Year:1994 - 1995
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,150.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00270800
+Grant Contact Name:Barnard College
+Grant Contact Street Address 1:3009 BROADWAY
+Grant Contact Street Address 2:
+Grant Contact City:NEW YORK
+Grant Contact State Code:NY
+Grant Contact Zip Code:10027
+Phone Number:212-854-2154
+Phone Extension:
+Email Address:ndilauro@barnard.edu
+Web Site Address:http://www.barnard.edu/finaid
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Barnard College
+Grant Attending School OPEID:00270800
+Grant Award Year:1993 - 1994
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,150.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00270800
+Grant Contact Name:Barnard College
+Grant Contact Street Address 1:3009 BROADWAY
+Grant Contact Street Address 2:
+Grant Contact City:NEW YORK
+Grant Contact State Code:NY
+Grant Contact Zip Code:10027
+Phone Number:212-854-2154
+Phone Extension:
+Email Address:ndilauro@barnard.edu
+Web Site Address:http://www.barnard.edu/finaid
+Enrolled School Name:Brooklyn Law School
+Enrolled School OPEID:00267700
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/07/2000

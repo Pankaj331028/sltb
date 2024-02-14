@@ -1,0 +1,624 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-11-07 10:49:40
+Student First Name:EDWARD
+Student Middle Initial:
+Student Last Name:BUSH
+Student Street Address 1:807 4TH AVE SW
+Student Street Address 2:
+Student City:BESSEMER
+Student State Code:AL
+Student Country Code:US
+Student Zip Code:350224727
+Student Email Address:nichebizeb@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2055273174
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2055273174
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:1
+Student Work Phone Number:2055073300
+Student Work Phone Preferred:No
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:NOT AVAILABLE
+Student Enrollment Status Effective Date:
+Undergraduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Award Year:1982
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Combined Total (Undergraduate and Graduate):$0.00
+Student Total All Loans Outstanding Principal:$60,573.00
+Student Total All Loans Outstanding Interest:$2,365.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:D4
+Type Description:DIRECT PLUS PARENT
+Total <D4> Outstanding Principal:$60,573.00
+Total <D4> Outstanding Interest:$2,365.00
+Type Code:FI
+Type Description:FEDERALLY INSURED (FISL)
+Total <FI> Outstanding Principal:$0.00
+Total <FI> Outstanding Interest:$0.00
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****1376P19G01051002
+Loan Attending School Name:University of Alabama
+Loan Attending School OPEID:00105100
+Loan Date:09/06/2018
+Loan Repayment Begin Date:01/03/2019
+Loan Period Begin Date:08/22/2018
+Loan Period End Date:05/03/2019
+Loan Amount:$3,000.00
+Loan Disbursed Amount:$3,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,227.00
+Loan Outstanding Principal Balance as of Date:11/01/2023
+Loan Outstanding Interest Balance:$118.00
+Loan Outstanding Interest Balance as of Date:11/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.60%
+Loan Actual Interest Rate:7.60%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/15/2020
+Loan Next Payment Due Date:03/02/2026
+Loan Cumulative Payment Amount:$9.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2019
+Capitalized Interest:$455.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/01/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Highest Historical Outstanding Principal Balance (OPB):$3,227.00
+Current Standard-Standard Schedule Payment Amount:$0.00
+Permanent Standard-Standard Schedule Payment Amount:$0.00
+Parent Plus Consolidation Indicator:
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/19/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:01/02/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/06/2018
+Loan Disbursement Date:01/03/2019
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:09/06/2018
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****1376P19G01051001
+Loan Attending School Name:University of Alabama
+Loan Attending School OPEID:00105100
+Loan Date:08/16/2018
+Loan Repayment Begin Date:01/03/2019
+Loan Period Begin Date:08/22/2018
+Loan Period End Date:05/03/2019
+Loan Amount:$19,500.00
+Loan Disbursed Amount:$19,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$21,022.00
+Loan Outstanding Principal Balance as of Date:11/01/2023
+Loan Outstanding Interest Balance:$773.00
+Loan Outstanding Interest Balance as of Date:11/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.60%
+Loan Actual Interest Rate:7.60%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:07/16/2018
+Loan Repayment Plan Scheduled Amount:$257.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/15/2020
+Loan Next Payment Due Date:02/02/2026
+Loan Cumulative Payment Amount:$62.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2019
+Capitalized Interest:$3,045.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/01/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Highest Historical Outstanding Principal Balance (OPB):$21,022.00
+Current Standard-Standard Schedule Payment Amount:$0.00
+Permanent Standard-Standard Schedule Payment Amount:$0.00
+Parent Plus Consolidation Indicator:
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/19/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:01/02/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2018
+Loan Disbursement Date:01/03/2019
+Loan Disbursement Amount:$9,750.00
+Loan Disbursement Date:08/16/2018
+Loan Disbursement Amount:$9,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****1376P16G01051001
+Loan Attending School Name:University of Alabama
+Loan Attending School OPEID:00105100
+Loan Date:08/09/2015
+Loan Repayment Begin Date:01/03/2016
+Loan Period Begin Date:08/19/2015
+Loan Period End Date:05/06/2016
+Loan Amount:$24,762.00
+Loan Disbursed Amount:$24,762.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$31,599.00
+Loan Outstanding Principal Balance as of Date:11/01/2023
+Loan Outstanding Interest Balance:$1,046.00
+Loan Outstanding Interest Balance as of Date:11/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.84%
+Loan Actual Interest Rate:6.84%
+Loan Statutory Interest Rate:6.84%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:07/09/2015
+Loan Repayment Plan Scheduled Amount:$372.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/15/2020
+Loan Next Payment Due Date:02/02/2026
+Loan Cumulative Payment Amount:$83.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2016
+Capitalized Interest:$13,674.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/01/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Highest Historical Outstanding Principal Balance (OPB):$31,599.00
+Current Standard-Standard Schedule Payment Amount:$0.00
+Permanent Standard-Standard Schedule Payment Amount:$0.00
+Parent Plus Consolidation Indicator:
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/19/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:01/02/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/09/2015
+Loan Disbursement Date:01/03/2016
+Loan Disbursement Amount:$12,381.00
+Loan Disbursement Date:08/09/2015
+Loan Disbursement Amount:$12,381.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****1358P15G30106004
+Loan Attending School Name:Virginia College
+Loan Attending School OPEID:03010600
+Loan Date:03/27/2015
+Loan Repayment Begin Date:05/14/2015
+Loan Period Begin Date:04/06/2015
+Loan Period End Date:06/19/2015
+Loan Amount:$3,637.00
+Loan Disbursed Amount:$3,637.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,518.00
+Loan Outstanding Principal Balance as of Date:11/01/2023
+Loan Outstanding Interest Balance:$319.00
+Loan Outstanding Interest Balance as of Date:11/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.21%
+Loan Actual Interest Rate:7.21%
+Loan Statutory Interest Rate:7.21%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/17/2018
+Loan Repayment Plan Scheduled Amount:$49.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/15/2020
+Loan Next Payment Due Date:03/02/2026
+Loan Cumulative Payment Amount:$1,022.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2015
+Capitalized Interest:$824.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Highest Historical Outstanding Principal Balance (OPB):$3,518.00
+Current Standard-Standard Schedule Payment Amount:$0.00
+Permanent Standard-Standard Schedule Payment Amount:$0.00
+Parent Plus Consolidation Indicator:
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/19/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:01/02/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/27/2015
+Loan Disbursement Date:05/14/2015
+Loan Disbursement Amount:$1,818.00
+Loan Disbursement Date:03/27/2015
+Loan Disbursement Amount:$1,819.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****1358P15G30106003
+Loan Attending School Name:Virginia College
+Loan Attending School OPEID:03010600
+Loan Date:01/19/2015
+Loan Repayment Begin Date:02/19/2015
+Loan Period Begin Date:01/12/2015
+Loan Period End Date:03/27/2015
+Loan Amount:$1,847.00
+Loan Disbursed Amount:$1,847.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,207.00
+Loan Outstanding Principal Balance as of Date:11/01/2023
+Loan Outstanding Interest Balance:$109.00
+Loan Outstanding Interest Balance as of Date:11/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.21%
+Loan Actual Interest Rate:7.21%
+Loan Statutory Interest Rate:7.21%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/17/2018
+Loan Repayment Plan Scheduled Amount:$17.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/15/2020
+Loan Next Payment Due Date:02/09/2026
+Loan Cumulative Payment Amount:$1,009.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2015
+Capitalized Interest:$282.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Highest Historical Outstanding Principal Balance (OPB):$1,207.00
+Current Standard-Standard Schedule Payment Amount:$0.00
+Permanent Standard-Standard Schedule Payment Amount:$0.00
+Parent Plus Consolidation Indicator:
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/19/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:01/02/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/19/2015
+Loan Disbursement Date:02/19/2015
+Loan Disbursement Amount:$923.00
+Loan Disbursement Date:01/19/2015
+Loan Disbursement Amount:$924.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:FI
+Loan Type Description:FEDERALLY INSURED (FISL)
+Loan Award ID:*****2686781001047401
+Loan Attending School Name:Troy University
+Loan Attending School OPEID:00104700
+Loan Date:07/06/1981
+Loan Repayment Begin Date:
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$1,600.00
+Loan Disbursed Amount:$1,600.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/30/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2004
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$1,600.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:OD
+Current Loan Status Description:DEFAULTED, THEN BANKRUPT, DISCHARGED, OTHER
+Highest Historical Outstanding Principal Balance (OPB):
+Current Standard-Standard Schedule Payment Amount:$0.00
+Permanent Standard-Standard Schedule Payment Amount:$0.00
+Parent Plus Consolidation Indicator:
+Loan Status:OD
+Loan Status Description:DEFAULTED, THEN BANKRUPT, DISCHARGED, OTHER
+Loan Status Effective Date:08/04/1993
+Loan Disbursement Date:03/03/1982
+Loan Disbursement Amount:$1,600.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899982
+Loan Contact Name:STUDENT LOAN MARKETING ASSOCIATION
+Loan Contact Street Address 1:11600 SALLIE MAE DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:7039046365
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:FI
+Loan Type Description:FEDERALLY INSURED (FISL)
+Loan Award ID:*****2686781001047400
+Loan Attending School Name:Troy University
+Loan Attending School OPEID:00104700
+Loan Date:12/15/1980
+Loan Repayment Begin Date:
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$1,300.00
+Loan Disbursed Amount:$1,300.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/30/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2004
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$1,300.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:OD
+Current Loan Status Description:DEFAULTED, THEN BANKRUPT, DISCHARGED, OTHER
+Highest Historical Outstanding Principal Balance (OPB):
+Current Standard-Standard Schedule Payment Amount:$0.00
+Permanent Standard-Standard Schedule Payment Amount:$0.00
+Parent Plus Consolidation Indicator:
+Loan Status:OD
+Loan Status Description:DEFAULTED, THEN BANKRUPT, DISCHARGED, OTHER
+Loan Status Effective Date:08/04/1993
+Loan Disbursement Date:03/04/1981
+Loan Disbursement Amount:$1,300.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899982
+Loan Contact Name:STUDENT LOAN MARKETING ASSOCIATION
+Loan Contact Street Address 1:11600 SALLIE MAE DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:7039046365
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:

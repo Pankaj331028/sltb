@@ -1,0 +1,849 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-12-02 12:08:10
+Student First Name:CHRISTINA
+Student Middle Initial:V
+Student Last Name:GARCIA
+Student Street Address 1:PO BOX 83
+Student Street Address 2:
+Student City:KENEDY
+Student State Code:TX
+Student Country Code:US
+Student Zip Code:78119
+Student Email Address:CHRISTINAGARCIA440@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:8302991873
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:8302998703
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:02/15/2022
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2022
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$9,975.00
+Undergraduate Aggregate Unsubsidized Total:$17,218.00
+Undergraduate Aggregate Combined Total:$27,193.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$9,975.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$17,218.00
+Aggregate Combined Total (Undergraduate and Graduate):$27,193.00
+Student Total All Loans Outstanding Principal:$27,193.00
+Student Total All Loans Outstanding Interest:$191.00
+Student Pell Lifetime Eligibility Used:327.155%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$18,046.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$6,375.00
+Total <D0> Outstanding Interest:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$3,600.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$17,218.00
+Total <D2> Outstanding Interest:$191.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0170S22G37763001
+Loan Attending School Name:Auguste Escoffier School of Culinary Arts
+Loan Attending School OPEID:03776300
+Loan Date:09/20/2021
+Loan Repayment Begin Date:08/16/2022
+Loan Period Begin Date:08/18/2021
+Loan Period End Date:02/15/2022
+Loan Amount:$3,600.00
+Loan Disbursed Amount:$3,600.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,600.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.73%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.73%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:02/17/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$3,600.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,600.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/15/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/20/2021
+Loan Disbursement Date:11/19/2021
+Loan Disbursement Amount:$1,800.00
+Loan Disbursement Date:09/20/2021
+Loan Disbursement Amount:$1,800.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0170U22G37763001
+Loan Attending School Name:Auguste Escoffier School of Culinary Arts
+Loan Attending School OPEID:03776300
+Loan Date:09/20/2021
+Loan Repayment Begin Date:08/16/2022
+Loan Period Begin Date:08/18/2021
+Loan Period End Date:02/15/2022
+Loan Amount:$4,800.00
+Loan Disbursed Amount:$4,800.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,800.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.73%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.73%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:02/17/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$4,800.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,800.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/15/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/20/2021
+Loan Disbursement Date:11/19/2021
+Loan Disbursement Amount:$2,400.00
+Loan Disbursement Date:09/20/2021
+Loan Disbursement Amount:$2,400.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0170U20G37763002
+Loan Attending School Name:Auguste Escoffier School of Culinary Arts
+Loan Attending School OPEID:03776300
+Loan Date:03/20/2020
+Loan Repayment Begin Date:08/17/2021
+Loan Period Begin Date:02/19/2020
+Loan Period End Date:02/16/2021
+Loan Amount:$7,653.00
+Loan Disbursed Amount:$7,653.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,653.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.53%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:02/17/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$7,653.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,653.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/18/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/16/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/20/2020
+Loan Disbursement Date:11/20/2020
+Loan Disbursement Amount:$3,826.00
+Loan Disbursement Date:03/20/2020
+Loan Disbursement Amount:$3,827.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****0170S20G37763001
+Loan Attending School Name:Auguste Escoffier School of Culinary Arts
+Loan Attending School OPEID:03776300
+Loan Date:07/19/2019
+Loan Repayment Begin Date:08/17/2021
+Loan Period Begin Date:07/10/2019
+Loan Period End Date:12/20/2019
+Loan Amount:$2,875.00
+Loan Disbursed Amount:$2,875.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,875.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.53%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.7
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:02/17/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$2,875.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,875.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/18/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/16/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/19/2019
+Loan Disbursement Date:10/15/2019
+Loan Disbursement Amount:$1,437.00
+Loan Disbursement Date:07/23/2019
+Loan Disbursement Amount:$1,438.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0170U20G37763001
+Loan Attending School Name:Auguste Escoffier School of Culinary Arts
+Loan Attending School OPEID:03776300
+Loan Date:07/19/2019
+Loan Repayment Begin Date:08/17/2021
+Loan Period Begin Date:07/10/2019
+Loan Period End Date:12/20/2019
+Loan Amount:$2,473.00
+Loan Disbursed Amount:$2,473.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,473.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$58.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.53%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:02/17/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$2,473.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,473.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/18/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/16/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/19/2019
+Loan Disbursement Date:10/15/2019
+Loan Disbursement Amount:$1,236.00
+Loan Disbursement Date:07/26/2019
+Loan Disbursement Amount:$1,237.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****0170S19G37763001
+Loan Attending School Name:Auguste Escoffier School of Culinary Arts
+Loan Attending School OPEID:03776300
+Loan Date:10/29/2018
+Loan Repayment Begin Date:08/17/2021
+Loan Period Begin Date:09/26/2018
+Loan Period End Date:06/25/2019
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,500.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:5.05%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/11/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/31/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/29/2018
+Loan Disbursement Date:04/10/2019
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:10/29/2018
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0170U19G37763001
+Loan Attending School Name:Auguste Escoffier School of Culinary Arts
+Loan Attending School OPEID:03776300
+Loan Date:10/29/2018
+Loan Repayment Begin Date:08/17/2021
+Loan Period Begin Date:09/26/2018
+Loan Period End Date:06/25/2019
+Loan Amount:$2,292.00
+Loan Disbursed Amount:$2,292.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,292.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$133.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:5.05%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:06/11/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$2,292.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,292.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/31/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/29/2018
+Loan Disbursement Date:04/10/2019
+Loan Disbursement Amount:$1,146.00
+Loan Disbursement Date:10/29/2018
+Loan Disbursement Amount:$1,146.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Auguste Escoffier School of Culinary Arts
+Grant Attending School OPEID:03776300
+Grant Award Year:2021 - 2022
+Grant Scheduled Amount:$6,495.00
+Grant Award Amount:$4,583.00
+Grant Disbursed Amount:$4,583.00
+Grant First Time:No
+Grant Additional Eligibility:Yes
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):70.562%
+Aid Recipient's Total Percent Eligibility Used (TEU):70.562%
+Grant Contact Type:Attending School
+Grant Contact Code:03776300
+Grant Contact Name:Auguste Escoffier School of Culinary Arts
+Grant Contact Street Address 1:637 S BROADWAY ST, SUTIE H
+Grant Contact Street Address 2:
+Grant Contact City:BOULDER
+Grant Contact State Code:CO
+Grant Contact Zip Code:80305
+Phone Number:720-457-9621
+Phone Extension:
+Email Address:camaloo@escoffier.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Auguste Escoffier School of Culinary Arts
+Grant Attending School OPEID:03776300
+Grant Award Year:2020 - 2021
+Grant Scheduled Amount:$6,345.00
+Grant Award Amount:$6,345.00
+Grant Disbursed Amount:$2,556.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):40.284%
+Aid Recipient's Total Percent Eligibility Used (TEU):40.284%
+Grant Contact Type:Attending School
+Grant Contact Code:03776300
+Grant Contact Name:Auguste Escoffier School of Culinary Arts
+Grant Contact Street Address 1:637 S BROADWAY ST, SUTIE H
+Grant Contact Street Address 2:
+Grant Contact City:BOULDER
+Grant Contact State Code:CO
+Grant Contact Zip Code:80305
+Phone Number:720-457-9621
+Phone Extension:
+Email Address:camaloo@escoffier.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Auguste Escoffier School of Culinary Arts
+Grant Attending School OPEID:03776300
+Grant Award Year:2019 - 2020
+Grant Scheduled Amount:$6,195.00
+Grant Award Amount:$3,949.00
+Grant Disbursed Amount:$3,949.00
+Grant First Time:No
+Grant Additional Eligibility:Yes
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):63.745%
+Aid Recipient's Total Percent Eligibility Used (TEU):63.745%
+Grant Contact Type:Attending School
+Grant Contact Code:03776300
+Grant Contact Name:Auguste Escoffier School of Culinary Arts
+Grant Contact Street Address 1:637 S BROADWAY ST, SUTIE H
+Grant Contact Street Address 2:
+Grant Contact City:BOULDER
+Grant Contact State Code:CO
+Grant Contact Zip Code:80305
+Phone Number:720-457-9621
+Phone Extension:
+Email Address:camaloo@escoffier.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Auguste Escoffier School of Culinary Arts
+Grant Attending School OPEID:03776300
+Grant Award Year:2018 - 2019
+Grant Scheduled Amount:$6,095.00
+Grant Award Amount:$6,095.00
+Grant Disbursed Amount:$6,095.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:03776300
+Grant Contact Name:Auguste Escoffier School of Culinary Arts
+Grant Contact Street Address 1:637 S BROADWAY ST, SUTIE H
+Grant Contact Street Address 2:
+Grant Contact City:BOULDER
+Grant Contact State Code:CO
+Grant Contact Zip Code:80305
+Phone Number:720-457-9621
+Phone Extension:
+Email Address:camaloo@escoffier.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Coastal Bend College
+Grant Attending School OPEID:00354600
+Grant Award Year:1993 - 1994
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$863.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.520%
+Aid Recipient's Total Percent Eligibility Used (TEU):37.520%
+Grant Contact Type:Attending School
+Grant Contact Code:00354600
+Grant Contact Name:Coastal Bend College
+Grant Contact Street Address 1:3800 CHARCO ROAD
+Grant Contact Street Address 2:
+Grant Contact City:BEEVILLE
+Grant Contact State Code:TX
+Grant Contact Zip Code:78102
+Phone Number:361-354-2239
+Phone Extension:
+Email Address:moralesn@coastalbend.edu
+Web Site Address:
+Program School Name:Auguste Escoffier School of Culinary Arts
+Program School OPEID:03776300
+Program Cip Year:2020
+Program Cip Code:120503
+Program CIP Title:Culinary Arts/Chef Training.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:08/18/2021
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:02/15/2022
+Program School Name:Auguste Escoffier School of Culinary Arts
+Program School OPEID:03776300
+Program Cip Year:2020
+Program Cip Code:120501
+Program CIP Title:Baking and Pastry Arts/Baker/Pastry Chef.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:02/19/2020
+Program Published Length in Years:1.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:02/16/2021
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:02/19/2020
+Program School Name:Auguste Escoffier School of Culinary Arts
+Program School OPEID:03776300
+Program Cip Year:2020
+Program Cip Code:120503
+Program CIP Title:Culinary Arts/Chef Training.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:09/26/2018
+Program Published Length in Years:1.7
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:12/20/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:09/26/2018
+Program School Name:Auguste Escoffier School of Culinary Arts
+Program School OPEID:03776300
+Program Cip Year:2020
+Program Cip Code:120503
+Program CIP Title:Culinary Arts/Chef Training.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:09/26/2018
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:12/20/2019
+Award School Name:Auguste Escoffier School of Culinary Arts
+Award School OPEID:03776300
+Award Earliest Disbursement Date:09/20/2021
+Award Loan Period Begin Date:08/18/2021
+Award Loan Period End Date:02/15/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auguste Escoffier School of Culinary Arts
+Award School OPEID:03776300
+Award Earliest Disbursement Date:09/20/2021
+Award Loan Period Begin Date:08/18/2021
+Award Loan Period End Date:02/15/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auguste Escoffier School of Culinary Arts
+Award School OPEID:03776300
+Award Earliest Disbursement Date:03/20/2020
+Award Loan Period Begin Date:02/19/2020
+Award Loan Period End Date:02/16/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auguste Escoffier School of Culinary Arts
+Award School OPEID:03776300
+Award Earliest Disbursement Date:07/23/2019
+Award Loan Period Begin Date:07/10/2019
+Award Loan Period End Date:12/20/2019
+Award Subsidized Usage:0.7
+Award Subsidy Status:
+Award School Name:Auguste Escoffier School of Culinary Arts
+Award School OPEID:03776300
+Award Earliest Disbursement Date:07/26/2019
+Award Loan Period Begin Date:07/10/2019
+Award Loan Period End Date:12/20/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auguste Escoffier School of Culinary Arts
+Award School OPEID:03776300
+Award Earliest Disbursement Date:10/29/2018
+Award Loan Period Begin Date:09/26/2018
+Award Loan Period End Date:06/25/2019
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Auguste Escoffier School of Culinary Arts
+Award School OPEID:03776300
+Award Earliest Disbursement Date:10/29/2018
+Award Loan Period Begin Date:09/26/2018
+Award Loan Period End Date:06/25/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Auguste Escoffier School of Culinary Arts
+Enrolled School OPEID:03776300
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:02/15/2022

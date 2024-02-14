@@ -1,0 +1,1252 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-23 10:41:00
+Student First Name:STANLEY
+Student Middle Initial:C
+Student Last Name:NMESIRIONYE
+Student Street Address 1:7501 TRAFALGAR CIR APT 301
+Student Street Address 2:
+Student City:HANOVER
+Student State Code:MD
+Student Country Code:US
+Student Zip Code:210765019
+Student Email Address:STANCHIMEZ@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4105006393
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:4435006393
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:4435006393
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:09/22/2019
+Undergraduate Subsidized Loan Limit Flag:C
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2012
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$19,000.00
+Undergraduate Aggregate Unsubsidized Total:$12,382.00
+Undergraduate Aggregate Combined Total:$31,382.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$19,000.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$12,382.00
+Aggregate Combined Total (Undergraduate and Graduate):$31,382.00
+Student Total All Loans Outstanding Principal:$43,271.00
+Student Total All Loans Outstanding Interest:$892.00
+Student Pell Lifetime Eligibility Used:453.513%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$24,151.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$22,691.00
+Total <D1> Outstanding Interest:$388.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$20,580.00
+Total <D2> Outstanding Interest:$504.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0655S12G02106001
+Loan Attending School Name:University of Maryland - Eastern Shore
+Loan Attending School OPEID:00210600
+Loan Date:08/22/2011
+Loan Repayment Begin Date:06/17/2013
+Loan Period Begin Date:08/31/2011
+Loan Period End Date:05/18/2012
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,264.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$77.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:09/25/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/17/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/05/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$49.00
+Loan PSLF Cumulative Matched Months:57
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$1,528.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:09/17/2019
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/02/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/18/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/03/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2011
+Loan Disbursement Date:01/19/2012
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/22/2011
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0655U12G02106001
+Loan Attending School Name:University of Maryland - Eastern Shore
+Loan Attending School OPEID:00210600
+Loan Date:08/22/2011
+Loan Repayment Begin Date:06/17/2013
+Loan Period Begin Date:08/31/2011
+Loan Period End Date:05/18/2012
+Loan Amount:$6,382.00
+Loan Disbursed Amount:$6,382.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$10,034.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$246.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:09/25/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/17/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/05/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$65.00
+Loan PSLF Cumulative Matched Months:57
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$7,304.00
+Net Loan Amount:$6,382.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,382.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:09/17/2019
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/02/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/18/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/03/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2011
+Loan Disbursement Date:01/19/2012
+Loan Disbursement Amount:$3,191.00
+Loan Disbursement Date:08/22/2011
+Loan Disbursement Amount:$3,191.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0655S11G02106001
+Loan Attending School Name:University of Maryland - Eastern Shore
+Loan Attending School OPEID:00210600
+Loan Date:09/15/2010
+Loan Repayment Begin Date:06/17/2013
+Loan Period Begin Date:08/30/2010
+Loan Period End Date:05/20/2011
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,517.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$105.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:09/25/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/17/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/05/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$49.00
+Loan PSLF Cumulative Matched Months:57
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$2,034.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:09/17/2019
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/02/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/18/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/03/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/15/2010
+Loan Disbursement Date:01/15/2011
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/15/2010
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0655U11G02106001
+Loan Attending School Name:University of Maryland - Eastern Shore
+Loan Attending School OPEID:00210600
+Loan Date:09/15/2010
+Loan Repayment Begin Date:06/17/2013
+Loan Period Begin Date:08/30/2010
+Loan Period End Date:05/20/2011
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,305.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$81.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:09/25/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/17/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/05/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$22.00
+Loan PSLF Cumulative Matched Months:57
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$2,610.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:09/17/2019
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/02/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/18/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/03/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/15/2010
+Loan Disbursement Date:01/15/2011
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:09/15/2010
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0655S10G02106001
+Loan Attending School Name:University of Maryland - Eastern Shore
+Loan Attending School OPEID:00210600
+Loan Date:09/02/2009
+Loan Repayment Begin Date:06/17/2013
+Loan Period Begin Date:08/31/2009
+Loan Period End Date:05/21/2010
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,541.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$112.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.60%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:09/25/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/17/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/05/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$41.00
+Loan PSLF Cumulative Matched Months:57
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$2,082.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:09/17/2019
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/02/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/18/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/03/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/02/2009
+Loan Disbursement Date:01/27/2010
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:09/02/2009
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0655U10G02106001
+Loan Attending School Name:University of Maryland - Eastern Shore
+Loan Attending School OPEID:00210600
+Loan Date:09/02/2009
+Loan Repayment Begin Date:06/17/2013
+Loan Period Begin Date:08/31/2009
+Loan Period End Date:05/21/2010
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,524.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$86.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:09/25/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/17/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/05/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$23.00
+Loan PSLF Cumulative Matched Months:57
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$3,048.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:09/17/2019
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/02/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/18/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/03/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/02/2009
+Loan Disbursement Date:01/27/2010
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:09/02/2009
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0655S09G02106001
+Loan Attending School Name:University of Maryland - Eastern Shore
+Loan Attending School OPEID:00210600
+Loan Date:08/29/2008
+Loan Repayment Begin Date:06/17/2013
+Loan Period Begin Date:08/27/2008
+Loan Period End Date:05/21/2009
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,369.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$94.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:09/25/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/17/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/05/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$32.00
+Loan PSLF Cumulative Matched Months:57
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$1,738.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:09/17/2019
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/02/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/18/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/03/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/29/2008
+Loan Disbursement Date:01/29/2009
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/29/2008
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0655U09G02106001
+Loan Attending School Name:University of Maryland - Eastern Shore
+Loan Attending School OPEID:00210600
+Loan Date:08/29/2008
+Loan Repayment Begin Date:06/17/2013
+Loan Period Begin Date:08/27/2008
+Loan Period End Date:05/21/2009
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,717.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$91.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:09/25/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/17/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/05/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$24.00
+Loan PSLF Cumulative Matched Months:57
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$3,434.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:09/17/2019
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/02/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/14/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/18/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/03/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/17/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/29/2008
+Loan Disbursement Date:01/29/2009
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/29/2008
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Baltimore City Community College
+Grant Attending School OPEID:00206100
+Grant Award Year:2012 - 2013
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$2,970.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):53.514%
+Aid Recipient's Total Percent Eligibility Used (TEU):53.514%
+Grant Contact Type:Attending School
+Grant Contact Code:00206100
+Grant Contact Name:Baltimore City Community College
+Grant Contact Street Address 1:2901 LIBERTY HEIGHTS AVENUE
+Grant Contact Street Address 2:MAIN BLDG. ROOM 050
+Grant Contact City:BALTIMORE
+Grant Contact State Code:MD
+Grant Contact Zip Code:21215
+Phone Number:410-462-7404
+Phone Extension:
+Email Address:schaudhry@bccc.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland - Eastern Shore
+Grant Attending School OPEID:00210600
+Grant Award Year:2011 - 2012
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$5,550.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00210600
+Grant Contact Name:University of Maryland - Eastern Shore
+Grant Contact Street Address 1:30665 STUDENT SERVICES CENTER LANE
+Grant Contact Street Address 2:OFFICE OF STUDENT FINANCIAL AID, SDC, SUITE 1100
+Grant Contact City:PRINCESS ANNE
+Grant Contact State Code:MD
+Grant Contact Zip Code:21853
+Phone Number:410-651-6172
+Phone Extension:7923
+Email Address:drlivingston@umes.edu
+Web Site Address:http://www.umes.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland - Eastern Shore
+Grant Attending School OPEID:00210600
+Grant Award Year:2010 - 2011
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$5,550.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00210600
+Grant Contact Name:University of Maryland - Eastern Shore
+Grant Contact Street Address 1:30665 STUDENT SERVICES CENTER LANE
+Grant Contact Street Address 2:OFFICE OF STUDENT FINANCIAL AID, SDC, SUITE 1100
+Grant Contact City:PRINCESS ANNE
+Grant Contact State Code:MD
+Grant Contact Zip Code:21853
+Phone Number:410-651-6172
+Phone Extension:7923
+Email Address:drlivingston@umes.edu
+Web Site Address:http://www.umes.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland - Eastern Shore
+Grant Attending School OPEID:00210600
+Grant Award Year:2009 - 2010
+Grant Scheduled Amount:$5,350.00
+Grant Award Amount:$5,350.00
+Grant Disbursed Amount:$5,350.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00210600
+Grant Contact Name:University of Maryland - Eastern Shore
+Grant Contact Street Address 1:30665 STUDENT SERVICES CENTER LANE
+Grant Contact Street Address 2:OFFICE OF STUDENT FINANCIAL AID, SDC, SUITE 1100
+Grant Contact City:PRINCESS ANNE
+Grant Contact State Code:MD
+Grant Contact Zip Code:21853
+Phone Number:410-651-6172
+Phone Extension:7923
+Email Address:drlivingston@umes.edu
+Web Site Address:http://www.umes.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Maryland - Eastern Shore
+Grant Attending School OPEID:00210600
+Grant Award Year:2008 - 2009
+Grant Scheduled Amount:$4,731.00
+Grant Award Amount:$4,731.00
+Grant Disbursed Amount:$4,731.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00210600
+Grant Contact Name:University of Maryland - Eastern Shore
+Grant Contact Street Address 1:30665 STUDENT SERVICES CENTER LANE
+Grant Contact Street Address 2:OFFICE OF STUDENT FINANCIAL AID, SDC, SUITE 1100
+Grant Contact City:PRINCESS ANNE
+Grant Contact State Code:MD
+Grant Contact Zip Code:21853
+Phone Number:410-651-6172
+Phone Extension:7923
+Email Address:drlivingston@umes.edu
+Web Site Address:http://www.umes.edu
+Program School Name:Sojourner-Douglass College
+Program School OPEID:02127900
+Program Cip Year:2010
+Program Cip Code:513801
+Program CIP Title:Registered Nursing/Registered Nurse.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:07/17/2013
+Program Published Length in Years:4.0
+Special Program Indicator Code:B
+Special Program Indicator Description:BACHELOR?S DEGREE COMPLETION PROGRAM
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:07/29/2013
+Program School Name:Community College of Baltimore County
+Program School OPEID:00206300
+Program Cip Year:2010
+Program Cip Code:240199
+Program CIP Title:Liberal Arts and Sciences, General Studies and Humanities, Other.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:03/01/2008
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:03/31/2017
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:02/15/2017
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:10/27/2016
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:09/14/2016
+Award School Name:University of Maryland - Eastern Shore
+Award School OPEID:00210600
+Award Earliest Disbursement Date:08/22/2011
+Award Loan Period Begin Date:08/31/2011
+Award Loan Period End Date:05/18/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland - Eastern Shore
+Award School OPEID:00210600
+Award Earliest Disbursement Date:08/22/2011
+Award Loan Period Begin Date:08/31/2011
+Award Loan Period End Date:05/18/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:All-State Career
+Enrolled School OPEID:03493300
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:09/22/2019
+Enrolled School Name:Community College of Baltimore County
+Enrolled School OPEID:00206300
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:03/31/2017
+Enrolled School Name:Baltimore City Community College
+Enrolled School OPEID:00206100
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/16/2012
+Enrolled School Name:Sojourner-Douglass College
+Enrolled School OPEID:02127900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/16/2012
+Enrolled School Name:University of Maryland - Eastern Shore
+Enrolled School OPEID:00210600
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/18/2012

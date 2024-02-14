@@ -1,0 +1,2677 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-09-15 22:27:21
+Student First Name:LAURA
+Student Middle Initial:L
+Student Last Name:FORD
+Student Street Address 1:461 GREEN SPRING CIR
+Student Street Address 2:
+Student City:WINTER SPRINGS
+Student State Code:FL
+Student Country Code:US
+Student Zip Code:32708
+Student Email Address:info@FORDWEBCONSULTING.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4078520863
+Student Home Phone Preferred:Y
+Student Cell Phone Country Code:
+Student Cell Phone Number:
+Student Cell Phone Preferred:
+Student Work Phone Country Code:1
+Student Work Phone Number:4078520863
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/19/2001
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1996
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$758.00
+Undergraduate Aggregate Combined Total:$758.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2001
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$25,500.00
+Graduate Aggregate Unsubsidized Total:$30,000.00
+Graduate Aggregate Combined Total:$55,500.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$25,500.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$30,758.00
+Aggregate Combined Total (Undergraduate and Graduate):$56,258.00
+Student Total All Loans Outstanding Principal:$66,366.00
+Student Total All Loans Outstanding Interest:$37,252.00
+Student Pell Lifetime Eligibility Used:300.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$6,215.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$25,500.00
+Total <D1> Outstanding Interest:$14,896.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$37,027.00
+Total <D2> Outstanding Interest:$21,631.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$1,808.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SL
+Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Total <SL> Outstanding Principal:$2,031.00
+Total <SL> Outstanding Interest:$725.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8826S01G02226001
+Loan Attending School Name:Western New England University
+Loan Attending School OPEID:00222600
+Loan Date:08/28/2000
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/24/2000
+Loan Period End Date:05/11/2001
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,500.00
+Loan Outstanding Principal Balance as of Date:09/24/2011
+Loan Outstanding Interest Balance:$4,962.00
+Loan Outstanding Interest Balance as of Date:09/24/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/21/2001
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/22/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/16/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/28/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/24/2000
+Loan Disbursement Date:01/04/2001
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:08/28/2000
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826U01G02226001
+Loan Attending School Name:Western New England University
+Loan Attending School OPEID:00222600
+Loan Date:08/28/2000
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/24/2000
+Loan Period End Date:05/11/2001
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$11,600.00
+Loan Outstanding Principal Balance as of Date:09/24/2011
+Loan Outstanding Interest Balance:$6,773.00
+Loan Outstanding Interest Balance as of Date:09/24/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/21/2001
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/22/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/16/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/28/2000
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/24/2000
+Loan Disbursement Date:01/04/2001
+Loan Disbursement Amount:$5,000.00
+Loan Disbursement Date:08/28/2000
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****1877129-2000
+Loan Attending School Name:Western New England University
+Loan Attending School OPEID:00222600
+Loan Date:08/31/2000
+Loan Repayment Begin Date:03/02/2002
+Loan Period Begin Date:08/24/2000
+Loan Period End Date:06/01/2001
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,808.00
+Loan Outstanding Principal Balance as of Date:07/12/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/13/2022
+DelinqDate:
+Current Loan Status:DF
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/31/2009
+Loan Status:DB
+Loan Status Description:DEFAULTED, THEN BANKRUPT, ACTIVE, CHAPTER 13
+Loan Status Effective Date:11/30/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:08/31/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/02/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:06/01/2001
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/24/2000
+Loan Disbursement Date:01/11/2001
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/31/2000
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Attending School
+Loan Contact Code:00222600
+Loan Contact Name:Western New England University
+Loan Contact Street Address 1:1215 WILBRAHAM ROAD
+Loan Contact Street Address 2:
+Loan Contact City:SPRINGFIELD
+Loan Contact State Code:MA
+Loan Contact Zip Code:01119
+Loan Contact Phone Number:413-796-2080
+Loan Contact Phone Extension:2071
+Loan Contact Email Address:KCHAMBER@WNE.EDU
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8826S00G02226001
+Loan Attending School Name:Western New England University
+Loan Attending School OPEID:00222600
+Loan Date:09/03/1999
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/26/1999
+Loan Period End Date:05/12/2000
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,500.00
+Loan Outstanding Principal Balance as of Date:09/24/2011
+Loan Outstanding Interest Balance:$4,967.00
+Loan Outstanding Interest Balance as of Date:09/24/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/21/2001
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/22/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/16/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/26/1999
+Loan Disbursement Date:01/07/2000
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:09/03/1999
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826U00G02226001
+Loan Attending School Name:Western New England University
+Loan Attending School OPEID:00222600
+Loan Date:09/03/1999
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/26/1999
+Loan Period End Date:05/12/2000
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,349.00
+Loan Outstanding Principal Balance as of Date:09/24/2011
+Loan Outstanding Interest Balance:$7,216.00
+Loan Outstanding Interest Balance as of Date:09/24/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/21/2001
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2000
+Capitalized Interest:$0.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/22/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/16/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/26/1999
+Loan Disbursement Date:01/07/2000
+Loan Disbursement Amount:$5,000.00
+Loan Disbursement Date:09/03/1999
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8826S99G02226001
+Loan Attending School Name:Western New England University
+Loan Attending School OPEID:00222600
+Loan Date:08/27/1998
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/20/1998
+Loan Period End Date:05/14/1999
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,500.00
+Loan Outstanding Principal Balance as of Date:09/24/2011
+Loan Outstanding Interest Balance:$4,967.00
+Loan Outstanding Interest Balance as of Date:09/24/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/21/2001
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/22/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/16/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/20/1998
+Loan Disbursement Date:01/08/1999
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:08/27/1998
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826U99G02226001
+Loan Attending School Name:Western New England University
+Loan Attending School OPEID:00222600
+Loan Date:08/27/1998
+Loan Repayment Begin Date:11/21/2001
+Loan Period Begin Date:08/20/1998
+Loan Period End Date:05/14/1999
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$13,078.00
+Loan Outstanding Principal Balance as of Date:09/24/2011
+Loan Outstanding Interest Balance:$7,642.00
+Loan Outstanding Interest Balance as of Date:09/24/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:11/21/2001
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1999
+Capitalized Interest:$0.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/22/2005
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/16/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2004
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:11/21/2001
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/20/1998
+Loan Disbursement Date:01/08/1999
+Loan Disbursement Amount:$5,000.00
+Loan Disbursement Date:08/27/1998
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001973203
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:02/12/1998
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:01/05/1998
+Loan Period End Date:08/03/1998
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/08/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/08/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:10/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/12/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/05/1998
+Loan Disbursement Date:05/18/1998
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:03/02/1998
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826E001973204
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:02/12/1998
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:01/05/1998
+Loan Period End Date:08/03/1998
+Loan Amount:$671.00
+Loan Disbursed Amount:$671.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/08/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/08/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$671.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:10/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/12/1998
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/05/1998
+Loan Disbursement Date:05/18/1998
+Loan Disbursement Amount:$336.00
+Loan Disbursement Date:03/02/1998
+Loan Disbursement Amount:$335.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001802704
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:03/26/1997
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:05/13/1997
+Loan Period End Date:08/04/1997
+Loan Amount:$3,715.00
+Loan Disbursed Amount:$3,715.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/08/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/08/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$3,715.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:10/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/26/1997
+Loan Disbursement Date:06/23/1997
+Loan Disbursement Amount:$1,858.00
+Loan Disbursement Date:05/19/1997
+Loan Disbursement Amount:$1,857.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001704376
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:08/20/1996
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:08/26/1996
+Loan Period End Date:04/28/1997
+Loan Amount:$601.00
+Loan Disbursed Amount:$301.00
+Loan Canceled Amount:$300.00
+Loan Canceled Date:01/24/1997
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/08/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/08/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$301.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:10/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/09/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/1996
+Loan Disbursement Date:12/27/1996
+Loan Disbursement Amount:$1.00
+Loan Disbursement Date:08/20/1996
+Loan Disbursement Amount:$300.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001695746
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:08/12/1996
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:08/26/1996
+Loan Period End Date:04/28/1997
+Loan Amount:$7,899.00
+Loan Disbursed Amount:$7,899.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/08/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/08/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$7,899.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:10/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/1996
+Loan Disbursement Date:12/27/1996
+Loan Disbursement Amount:$3,950.00
+Loan Disbursement Date:08/16/1996
+Loan Disbursement Amount:$3,949.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826E001704377
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:08/20/1996
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:08/26/1996
+Loan Period End Date:04/28/1997
+Loan Amount:$2,979.00
+Loan Disbursed Amount:$2,979.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/08/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/08/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$2,667.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:10/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/1996
+Loan Disbursement Date:12/27/1996
+Loan Disbursement Amount:$1,490.00
+Loan Disbursement Date:08/20/1996
+Loan Disbursement Amount:$1,489.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001639940
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:04/23/1996
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:05/08/1996
+Loan Period End Date:08/02/1996
+Loan Amount:$4,250.00
+Loan Disbursed Amount:$4,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/08/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/08/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$4,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:10/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/23/1996
+Loan Disbursement Date:06/20/1996
+Loan Disbursement Amount:$2,125.00
+Loan Disbursement Date:04/26/1996
+Loan Disbursement Amount:$2,125.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826E001639941
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:04/23/1996
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:05/08/1996
+Loan Period End Date:08/02/1996
+Loan Amount:$200.00
+Loan Disbursed Amount:$200.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/08/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/08/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$200.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:10/08/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/23/1996
+Loan Disbursement Date:06/20/1996
+Loan Disbursement Amount:$100.00
+Loan Disbursement Date:04/26/1996
+Loan Disbursement Amount:$100.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001530378
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:08/16/1995
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:08/24/1995
+Loan Period End Date:04/29/1996
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/1995
+Loan Disbursement Date:12/30/1995
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/16/1995
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826E001530379
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:08/16/1995
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:08/24/1995
+Loan Period End Date:04/29/1996
+Loan Amount:$3,462.00
+Loan Disbursed Amount:$2,976.00
+Loan Canceled Amount:$486.00
+Loan Canceled Date:06/03/1996
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$2,209.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/1995
+Loan Disbursement Date:12/30/1995
+Loan Disbursement Amount:$1,245.00
+Loan Disbursement Date:08/16/1995
+Loan Disbursement Amount:$1,731.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001466757
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:04/10/1995
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:05/11/1995
+Loan Period End Date:08/04/1995
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/10/1995
+Loan Disbursement Date:06/23/1995
+Loan Disbursement Amount:$1,375.00
+Loan Disbursement Date:05/01/1995
+Loan Disbursement Amount:$1,375.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826E001466758
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:04/10/1995
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:05/11/1995
+Loan Period End Date:08/04/1995
+Loan Amount:$1,992.00
+Loan Disbursed Amount:$1,992.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$1,992.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/10/1995
+Loan Disbursement Date:06/23/1995
+Loan Disbursement Amount:$996.00
+Loan Disbursement Date:05/01/1995
+Loan Disbursement Amount:$996.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001443052
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:01/24/1995
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:01/05/1995
+Loan Period End Date:05/03/1995
+Loan Amount:$2,721.00
+Loan Disbursed Amount:$2,721.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$2,721.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/24/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/05/1995
+Loan Disbursement Date:03/06/1995
+Loan Disbursement Amount:$1,361.00
+Loan Disbursement Date:01/24/1995
+Loan Disbursement Amount:$1,360.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8826E001443053
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:01/24/1995
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:01/05/1995
+Loan Period End Date:05/03/1995
+Loan Amount:$204.00
+Loan Disbursed Amount:$204.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$204.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/24/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/05/1995
+Loan Disbursement Date:03/06/1995
+Loan Disbursement Amount:$102.00
+Loan Disbursement Date:01/24/1995
+Loan Disbursement Amount:$102.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001303655
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:04/05/1994
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:05/16/1994
+Loan Period End Date:08/05/1994
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/05/1994
+Loan Disbursement Date:06/27/1994
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****882691
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:05/11/1994
+Loan Repayment Begin Date:06/27/1994
+Loan Period Begin Date:05/16/1994
+Loan Period End Date:08/05/1994
+Loan Amount:$758.00
+Loan Disbursed Amount:$758.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,031.00
+Loan Outstanding Principal Balance as of Date:09/03/2022
+Loan Outstanding Interest Balance:$725.00
+Loan Outstanding Interest Balance as of Date:09/03/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$758.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$758.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:DF
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/21/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/22/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/16/1994
+Loan Disbursement Date:06/27/1994
+Loan Disbursement Amount:$758.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001282740
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:02/16/1994
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:01/10/1994
+Loan Period End Date:05/03/1994
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/16/1994
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/10/1994
+Loan Disbursement Date:03/08/1994
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****8826E001292503
+Loan Attending School Name:University of Central Florida
+Loan Attending School OPEID:00395400
+Loan Date:03/15/1994
+Loan Repayment Begin Date:03/22/1994
+Loan Period Begin Date:01/10/1994
+Loan Period End Date:05/03/1994
+Loan Amount:$1,745.00
+Loan Disbursed Amount:$1,745.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$1,745.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/22/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/21/1994
+Loan Disbursement Date:03/16/1994
+Loan Disbursement Amount:$1,745.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8826E001187369
+Loan Attending School Name:Valencia College
+Loan Attending School OPEID:00675000
+Loan Date:08/09/1993
+Loan Repayment Begin Date:11/20/2001
+Loan Period Begin Date:08/25/1993
+Loan Period End Date:12/16/1993
+Loan Amount:$1,300.00
+Loan Disbursed Amount:$1,300.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$1,300.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/30/2014
+DelinqDate:
+Current Loan Status:UC
+Current Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status:UC
+Loan Status Description:PERMANENTLY UNINSURED/UNREINSURED-NO DEFAULT CLAIM REQUESTED
+Loan Status Effective Date:09/30/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/09/2009
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/03/2005
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2005
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/20/2001
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/09/1993
+Loan Disbursement Date:10/20/1993
+Loan Disbursement Amount:$1,300.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:712
+Loan Contact Name:FLORIDA DEPARTMENT OF EDUCATION OSFA
+Loan Contact Street Address 1:38 BUTTONWOOD COURT
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53718
+Loan Contact Phone Number:800-366-3475
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:802218
+Loan Contact Name:NAVIENT EDUCATION LOAN CORP.
+Loan Contact Street Address 1:2001 EDMUND HALLEY DR.
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20191(0000)
+Loan Contact Phone Number:7038103000
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Central Florida
+Grant Attending School OPEID:00395400
+Grant Award Year:1995 - 1996
+Grant Scheduled Amount:$2,340.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$2,340.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00395400
+Grant Contact Name:University of Central Florida
+Grant Contact Street Address 1:STUDENT FINANCIAL ASSISTANCE
+Grant Contact Street Address 2:4000 CENTRAL FLORIDA BLVD
+Grant Contact City:ORLANDO
+Grant Contact State Code:FL
+Grant Contact Zip Code:32816(0113)
+Phone Number:407-823-5729
+Phone Extension:
+Email Address:alicia.keaton@ucf.edu
+Web Site Address:http://www.ucf.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Central Florida
+Grant Attending School OPEID:00395400
+Grant Award Year:1994 - 1995
+Grant Scheduled Amount:$1,850.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,850.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00395400
+Grant Contact Name:University of Central Florida
+Grant Contact Street Address 1:STUDENT FINANCIAL ASSISTANCE
+Grant Contact Street Address 2:4000 CENTRAL FLORIDA BLVD
+Grant Contact City:ORLANDO
+Grant Contact State Code:FL
+Grant Contact Zip Code:32816(0113)
+Phone Number:407-823-5729
+Phone Extension:
+Email Address:alicia.keaton@ucf.edu
+Web Site Address:http://www.ucf.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Central Florida
+Grant Attending School OPEID:00395400
+Grant Award Year:1993 - 1994
+Grant Scheduled Amount:$1,750.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$875.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00395400
+Grant Contact Name:University of Central Florida
+Grant Contact Street Address 1:STUDENT FINANCIAL ASSISTANCE
+Grant Contact Street Address 2:4000 CENTRAL FLORIDA BLVD
+Grant Contact City:ORLANDO
+Grant Contact State Code:FL
+Grant Contact Zip Code:32816(0113)
+Phone Number:407-823-5729
+Phone Extension:
+Email Address:alicia.keaton@ucf.edu
+Web Site Address:http://www.ucf.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Valencia College
+Grant Attending School OPEID:00675000
+Grant Award Year:1993 - 1994
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,150.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00675000
+Grant Contact Name:Valencia College
+Grant Contact Street Address 1:1800 S. KIRIMAN ROAD
+Grant Contact Street Address 2:
+Grant Contact City:ORLANDO
+Grant Contact State Code:FL
+Grant Contact Zip Code:32811
+Phone Number:407-582-1458
+Phone Extension:
+Email Address:dbarkowitz@valenciacollege.edu
+Web Site Address:
+Enrolled School Name:Western New England University
+Enrolled School OPEID:00222600
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/19/2001
+Enrolled School Name:University of Central Florida
+Enrolled School OPEID:00395400
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:08/03/1998

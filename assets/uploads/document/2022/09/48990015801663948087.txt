@@ -1,0 +1,2589 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-09-23 11:25:26
+Student First Name:JULIE
+Student Middle Initial:K
+Student Last Name:GRISHAM
+Student Street Address 1:1880 HEDDEN RD
+Student Street Address 2:
+Student City:MURPHY
+Student State Code:NC
+Student Country Code:US
+Student Zip Code:28906
+Student Email Address:agrishamgirl1@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2053053574
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:
+Student Cell Phone Number:2058220210
+Student Cell Phone Preferred:
+Student Work Phone Country Code:1
+Student Work Phone Number:2058220210
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:08/04/2020
+Undergraduate Subsidized Loan Limit Flag:C
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2015
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$22,000.00
+Undergraduate Aggregate Unsubsidized Total:$21,895.00
+Undergraduate Aggregate Combined Total:$43,895.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:C
+Graduate Award Year:2020
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$178,898.00
+Graduate Aggregate Combined Total:$178,898.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$22,000.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$200,793.00
+Aggregate Combined Total (Undergraduate and Graduate):$222,793.00
+Student Total All Loans Outstanding Principal:$338,922.00
+Student Total All Loans Outstanding Interest:$36,920.00
+Student Pell Lifetime Eligibility Used:395.846%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$18,447.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$22,000.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$200,793.00
+Total <D2> Outstanding Interest:$27,429.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$101,610.00
+Total <D3> Outstanding Interest:$9,491.00
+Type Code:D4
+Type Description:DIRECT PLUS PARENT
+Total <D4> Outstanding Principal:$0.00
+Total <D4> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$14,519.00
+Total <D5> Outstanding Interest:$0.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U20G02423002
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:05/08/2020
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:05/06/2020
+Loan Period End Date:08/04/2020
+Loan Amount:$9,139.00
+Loan Disbursed Amount:$9,139.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,139.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:H
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$9,139.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$9,139.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/08/2020
+Loan Disbursement Date:05/08/2020
+Loan Disbursement Amount:$9,139.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U20G02423001
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:08/14/2019
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/21/2019
+Loan Period End Date:04/29/2020
+Loan Amount:$31,555.00
+Loan Disbursed Amount:$31,555.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$31,555.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$751.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:H
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$31,555.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$31,555.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2019
+Loan Disbursement Date:12/30/2019
+Loan Disbursement Amount:$15,777.00
+Loan Disbursement Date:08/14/2019
+Loan Disbursement Amount:$15,778.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7986P20G02423001
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:08/14/2019
+Loan Repayment Begin Date:12/30/2019
+Loan Period Begin Date:08/21/2019
+Loan Period End Date:04/29/2020
+Loan Amount:$38,000.00
+Loan Disbursed Amount:$38,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$38,000.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$1,053.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$38,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/05/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/30/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2019
+Loan Disbursement Date:12/30/2019
+Loan Disbursement Amount:$19,000.00
+Loan Disbursement Date:08/14/2019
+Loan Disbursement Amount:$19,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U19G02423002
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:05/14/2019
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:05/08/2019
+Loan Period End Date:08/06/2019
+Loan Amount:$8,945.00
+Loan Disbursed Amount:$8,945.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,945.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$491.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.60%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:H
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$8,945.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$8,945.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/14/2019
+Loan Disbursement Date:05/14/2019
+Loan Disbursement Amount:$8,945.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U19G02423001
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:08/17/2018
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/22/2018
+Loan Period End Date:05/01/2019
+Loan Amount:$31,822.00
+Loan Disbursed Amount:$31,822.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$31,822.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$2,919.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.60%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:H
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$31,822.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$31,822.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2018
+Loan Disbursement Date:12/28/2018
+Loan Disbursement Amount:$15,911.00
+Loan Disbursement Date:08/17/2018
+Loan Disbursement Amount:$15,911.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7986P19G02423001
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:08/17/2018
+Loan Repayment Begin Date:12/28/2018
+Loan Period Begin Date:08/22/2018
+Loan Period End Date:05/01/2019
+Loan Amount:$35,731.00
+Loan Disbursed Amount:$35,731.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$35,731.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$3,774.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$35,731.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/05/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/28/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2018
+Loan Disbursement Date:12/28/2018
+Loan Disbursement Amount:$17,865.00
+Loan Disbursement Date:08/17/2018
+Loan Disbursement Amount:$17,866.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U18G02423002
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:05/09/2018
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:05/07/2018
+Loan Period End Date:08/07/2018
+Loan Amount:$8,678.00
+Loan Disbursed Amount:$8,678.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,678.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$961.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:H
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$8,678.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$8,678.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/09/2018
+Loan Disbursement Date:05/09/2018
+Loan Disbursement Amount:$8,678.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U18G02423001
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:08/11/2017
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/16/2017
+Loan Period End Date:05/02/2018
+Loan Amount:$35,859.00
+Loan Disbursed Amount:$35,859.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$35,859.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$5,142.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:H
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$35,859.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$35,859.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/11/2017
+Loan Disbursement Date:01/03/2018
+Loan Disbursement Amount:$17,929.00
+Loan Disbursement Date:08/11/2017
+Loan Disbursement Amount:$17,930.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7986P18G02423001
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:08/11/2017
+Loan Repayment Begin Date:01/03/2018
+Loan Period Begin Date:08/16/2017
+Loan Period End Date:05/02/2018
+Loan Amount:$27,879.00
+Loan Disbursed Amount:$27,879.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$27,879.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$4,664.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$27,879.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/05/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/03/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/11/2017
+Loan Disbursement Date:01/03/2018
+Loan Disbursement Amount:$13,939.00
+Loan Disbursement Date:08/11/2017
+Loan Disbursement Amount:$13,940.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U17G02423002
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:07/12/2017
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:05/08/2017
+Loan Period End Date:08/03/2017
+Loan Amount:$4,641.00
+Loan Disbursed Amount:$4,641.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,641.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$744.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:H
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$4,641.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,641.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/12/2017
+Loan Disbursement Date:07/12/2017
+Loan Disbursement Amount:$4,641.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U17G02423001
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:08/09/2016
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/16/2016
+Loan Period End Date:05/04/2017
+Loan Amount:$40,500.00
+Loan Disbursed Amount:$40,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$40,500.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$7,295.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.31%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:H
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$40,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$40,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/09/2016
+Loan Disbursement Date:01/03/2017
+Loan Disbursement Amount:$20,250.00
+Loan Disbursement Date:08/09/2016
+Loan Disbursement Amount:$20,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U16G02423001
+Loan Attending School Name:Mississippi State University
+Loan Attending School OPEID:00242300
+Loan Date:06/27/2016
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:05/09/2016
+Loan Period End Date:08/04/2016
+Loan Amount:$7,759.00
+Loan Disbursed Amount:$7,759.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,759.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$1,681.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.84%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$7,759.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,759.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/27/2016
+Loan Disbursement Date:06/27/2016
+Loan Disbursement Amount:$7,759.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7986S15G01036002
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:01/23/2015
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:01/26/2015
+Loan Period End Date:05/14/2015
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,750.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,750.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/23/2015
+Loan Disbursement Date:01/23/2015
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U15G01036002
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:01/23/2015
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:01/26/2015
+Loan Period End Date:05/14/2015
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,500.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$838.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/23/2015
+Loan Disbursement Date:01/23/2015
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7986S15G01036001
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/15/2014
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:12/11/2014
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,750.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,750.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2014
+Loan Disbursement Date:08/15/2014
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U15G01036001
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/15/2014
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:12/11/2014
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,500.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$910.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2014
+Loan Disbursement Date:08/15/2014
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****22887986PER24B
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/15/2014
+Loan Repayment Begin Date:02/01/2021
+Loan Period Begin Date:08/01/2014
+Loan Period End Date:06/30/2015
+Loan Amount:$3,000.00
+Loan Disbursed Amount:$3,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/03/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$3,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/07/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:08/16/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/01/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2014
+Loan Disbursement Date:01/16/2015
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:08/15/2014
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Attending School
+Loan Contact Code:00103600
+Loan Contact Name:Samford University
+Loan Contact Street Address 1:800 LAKESHORE DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BIRMINGHAM
+Loan Contact State Code:AL
+Loan Contact Zip Code:35229
+Loan Contact Phone Number:205-726-2860
+Loan Contact Phone Extension:
+Loan Contact Email Address:lsmith1@samford.edu
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****22887986PER24B
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:10/15/2013
+Loan Repayment Begin Date:02/01/2021
+Loan Period Begin Date:09/01/2013
+Loan Period End Date:06/30/2014
+Loan Amount:$3,000.00
+Loan Disbursed Amount:$3,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/03/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$3,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/07/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:08/16/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/01/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2013
+Loan Disbursement Date:01/17/2014
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:10/15/2013
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Attending School
+Loan Contact Code:00103600
+Loan Contact Name:Samford University
+Loan Contact Street Address 1:800 LAKESHORE DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BIRMINGHAM
+Loan Contact State Code:AL
+Loan Contact Zip Code:35229
+Loan Contact Phone Number:205-726-2860
+Loan Contact Phone Extension:
+Loan Contact Email Address:lsmith1@samford.edu
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7986S14G01036001
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/16/2013
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/26/2013
+Loan Period End Date:05/15/2014
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2013
+Loan Disbursement Date:01/17/2014
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/16/2013
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U14G01036001
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/16/2013
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/26/2013
+Loan Period End Date:05/15/2014
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,000.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$1,719.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2013
+Loan Disbursement Date:01/17/2014
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:08/16/2013
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****0020P14G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:04/18/2014
+Loan Repayment Begin Date:04/18/2014
+Loan Period Begin Date:08/21/2013
+Loan Period End Date:05/02/2014
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/13/2021
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/13/2021
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.41%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/22/2021
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:08/13/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/05/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/18/2014
+Loan Disbursement Date:04/18/2014
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7986S13G01036001
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/17/2012
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/27/2012
+Loan Period End Date:05/16/2013
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2012
+Loan Disbursement Date:01/18/2013
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/17/2012
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U13G01036001
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/17/2012
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:08/27/2012
+Loan Period End Date:05/16/2013
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,000.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$3,504.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2012
+Loan Disbursement Date:01/18/2013
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:08/17/2012
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****22887986PER24B
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/17/2012
+Loan Repayment Begin Date:02/01/2021
+Loan Period Begin Date:08/01/2012
+Loan Period End Date:06/30/2013
+Loan Amount:$3,000.00
+Loan Disbursed Amount:$3,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/03/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$3,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/07/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:08/16/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/01/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2012
+Loan Disbursement Date:01/18/2013
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:08/17/2012
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Attending School
+Loan Contact Code:00103600
+Loan Contact Name:Samford University
+Loan Contact Street Address 1:800 LAKESHORE DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BIRMINGHAM
+Loan Contact State Code:AL
+Loan Contact Zip Code:35229
+Loan Contact Phone Number:205-726-2860
+Loan Contact Phone Extension:
+Loan Contact Email Address:lsmith1@samford.edu
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7986S12G01036001
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:05/31/2012
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:06/04/2012
+Loan Period End Date:08/10/2012
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/31/2012
+Loan Disbursement Date:05/31/2012
+Loan Disbursement Amount:$5,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7986U12G01036001
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:05/31/2012
+Loan Repayment Begin Date:02/05/2021
+Loan Period Begin Date:06/04/2012
+Loan Period End Date:08/10/2012
+Loan Amount:$895.00
+Loan Disbursed Amount:$895.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$895.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$474.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$895.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$895.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/05/2021
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/05/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/31/2012
+Loan Disbursement Date:05/31/2012
+Loan Disbursement Amount:$895.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7986S06G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/23/2005
+Loan Repayment Begin Date:12/01/2008
+Loan Period Begin Date:08/18/2005
+Loan Period End Date:08/08/2006
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$3,666.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/21/2006
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/21/2006
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/27/2006
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:08/21/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/23/2005
+Loan Disbursement Date:01/03/2006
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:08/23/2005
+Loan Disbursement Amount:$1,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****7986U21G77778302
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:08/13/2021
+Loan Repayment Begin Date:08/13/2021
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$14,519.00
+Loan Disbursed Amount:$14,519.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$14,519.00
+Loan Outstanding Principal Balance as of Date:08/31/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.63%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$14,519.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/13/2021
+Loan Disbursement Date:08/13/2021
+Loan Disbursement Amount:$14,519.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:
+Loan Attending School Name:Samford University
+Loan Attending School OPEID:00103600
+Loan Date:08/23/2011
+Loan Repayment Begin Date:
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:06/09/2012
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/15/2012
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:06/09/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/23/2011
+Loan Contact Type:Attending School
+Loan Contact Code:00103600
+Loan Contact Name:Samford University
+Loan Contact Street Address 1:800 LAKESHORE DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:BIRMINGHAM
+Loan Contact State Code:AL
+Loan Contact Zip Code:35229
+Loan Contact Phone Number:205-726-2860
+Loan Contact Phone Extension:
+Loan Contact Email Address:lsmith1@samford.edu
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Samford University
+Grant Attending School OPEID:00103600
+Grant Award Year:2014 - 2015
+Grant Scheduled Amount:$5,730.00
+Grant Award Amount:$5,014.00
+Grant Disbursed Amount:$5,014.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):87.504%
+Aid Recipient's Total Percent Eligibility Used (TEU):87.504%
+Grant Contact Type:Attending School
+Grant Contact Code:00103600
+Grant Contact Name:Samford University
+Grant Contact Street Address 1:800 LAKESHORE DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:BIRMINGHAM
+Grant Contact State Code:AL
+Grant Contact Zip Code:35229
+Phone Number:205-726-2860
+Phone Extension:
+Email Address:lsmith1@samford.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Samford University
+Grant Attending School OPEID:00103600
+Grant Award Year:2013 - 2014
+Grant Scheduled Amount:$5,645.00
+Grant Award Amount:$5,645.00
+Grant Disbursed Amount:$5,645.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00103600
+Grant Contact Name:Samford University
+Grant Contact Street Address 1:800 LAKESHORE DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:BIRMINGHAM
+Grant Contact State Code:AL
+Grant Contact Zip Code:35229
+Phone Number:205-726-2860
+Phone Extension:
+Email Address:lsmith1@samford.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Samford University
+Grant Attending School OPEID:00103600
+Grant Award Year:2012 - 2013
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$5,550.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00103600
+Grant Contact Name:Samford University
+Grant Contact Street Address 1:800 LAKESHORE DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:BIRMINGHAM
+Grant Contact State Code:AL
+Grant Contact Zip Code:35229
+Phone Number:205-726-2860
+Phone Extension:
+Email Address:lsmith1@samford.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Samford University
+Grant Attending School OPEID:00103600
+Grant Award Year:2011 - 2012
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$2,775.00
+Grant Disbursed Amount:$1,388.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):25.009%
+Aid Recipient's Total Percent Eligibility Used (TEU):25.009%
+Grant Contact Type:Attending School
+Grant Contact Code:00103600
+Grant Contact Name:Samford University
+Grant Contact Street Address 1:800 LAKESHORE DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:BIRMINGHAM
+Grant Contact State Code:AL
+Grant Contact Zip Code:35229
+Phone Number:205-726-2860
+Phone Extension:
+Email Address:lsmith1@samford.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Alabama at Birmingham
+Grant Attending School OPEID:00105200
+Grant Award Year:2005 - 2006
+Grant Scheduled Amount:$1,700.00
+Grant Award Amount:$850.00
+Grant Disbursed Amount:$850.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00105200
+Grant Contact Name:University of Alabama at Birmingham
+Grant Contact Street Address 1:1701 2ND AVE SOUTH
+Grant Contact Street Address 2:LHL G20
+Grant Contact City:BIRMINGHAM
+Grant Contact State Code:AL
+Grant Contact Zip Code:35294
+Phone Number:205-934-8223
+Phone Extension:
+Email Address:hmcintyre@uab.edu
+Web Site Address:
+Program School Name:Mississippi State University
+Program School OPEID:00242300
+Program Cip Year:2010
+Program Cip Code:512401
+Program CIP Title:Veterinary Medicine.
+Program Credential Level Code:07
+Program Credential Level Code Description:FIRST PROFESSIONAL DEGREE
+Program Begin Date:05/09/2016
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:08/04/2020
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/24/2020
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:09/06/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:05/17/2016
+Program School Name:Jefferson State Community College
+Program School OPEID:00102200
+Program Cip Year:2010
+Program Cip Code:240102
+Program CIP Title:General Studies.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:08/21/2015
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/18/2015
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:08/21/2015
+Program School Name:Samford University
+Program School OPEID:00103600
+Program Cip Year:2010
+Program Cip Code:260101
+Program CIP Title:Biology/Biological Sciences, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/29/2011
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/14/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/26/2015
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:09/24/2014
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:05/08/2020
+Award Loan Period Begin Date:05/06/2020
+Award Loan Period End Date:08/04/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:08/14/2019
+Award Loan Period Begin Date:08/21/2019
+Award Loan Period End Date:04/29/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:08/14/2019
+Award Loan Period Begin Date:08/21/2019
+Award Loan Period End Date:04/29/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:05/14/2019
+Award Loan Period Begin Date:05/08/2019
+Award Loan Period End Date:08/06/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:08/17/2018
+Award Loan Period Begin Date:08/22/2018
+Award Loan Period End Date:05/01/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:08/17/2018
+Award Loan Period Begin Date:08/22/2018
+Award Loan Period End Date:05/01/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:05/09/2018
+Award Loan Period Begin Date:05/07/2018
+Award Loan Period End Date:08/07/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:08/11/2017
+Award Loan Period Begin Date:08/16/2017
+Award Loan Period End Date:05/02/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:08/11/2017
+Award Loan Period Begin Date:08/16/2017
+Award Loan Period End Date:05/02/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:07/12/2017
+Award Loan Period Begin Date:05/08/2017
+Award Loan Period End Date:08/03/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:08/09/2016
+Award Loan Period Begin Date:08/16/2016
+Award Loan Period End Date:05/04/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Mississippi State University
+Award School OPEID:00242300
+Award Earliest Disbursement Date:06/27/2016
+Award Loan Period Begin Date:05/09/2016
+Award Loan Period End Date:08/04/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:01/23/2015
+Award Loan Period Begin Date:01/26/2015
+Award Loan Period End Date:05/14/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:01/23/2015
+Award Loan Period Begin Date:01/26/2015
+Award Loan Period End Date:05/14/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:08/15/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:12/11/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:08/15/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:12/11/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:08/16/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:05/15/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:08/16/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:05/15/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:08/17/2012
+Award Loan Period Begin Date:08/27/2012
+Award Loan Period End Date:05/16/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:08/17/2012
+Award Loan Period Begin Date:08/27/2012
+Award Loan Period End Date:05/16/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:05/31/2012
+Award Loan Period Begin Date:06/04/2012
+Award Loan Period End Date:08/10/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Samford University
+Award School OPEID:00103600
+Award Earliest Disbursement Date:05/31/2012
+Award Loan Period Begin Date:06/04/2012
+Award Loan Period End Date:08/10/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Mississippi State University
+Enrolled School OPEID:00242300
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:08/04/2020
+Enrolled School Name:Jacksonville State University
+Enrolled School OPEID:00102000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:04/23/2016
+Enrolled School Name:Jefferson State Community College
+Enrolled School OPEID:00102200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/18/2015
+Enrolled School Name:Samford University
+Enrolled School OPEID:00103600
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:08/08/2015
+Enrolled School Name:University of Alabama at Birmingham
+Enrolled School OPEID:00105200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/05/2006

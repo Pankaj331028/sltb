@@ -1,0 +1,1725 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-09-01 11:35:42
+Student First Name:LIZ
+Student Middle Initial:A
+Student Last Name:BUDAY
+Student Street Address 1:6830 WILLIAMSBURG BLVD
+Student Street Address 2:
+Student City:ARLINGTON
+Student State Code:VA
+Student Country Code:US
+Student Zip Code:22213
+Student Email Address:OHLIZZIE2@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:7039696929
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7039696929
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:7039696929
+Student Work Phone Preferred:Y
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:NOT AVAILABLE
+Student Enrollment Status Effective Date:
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1992
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$9,125.00
+Undergraduate Aggregate Unsubsidized Total:$4,377.00
+Undergraduate Aggregate Combined Total:$13,502.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:1995
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$17,000.00
+Graduate Aggregate Unsubsidized Total:$6,027.00
+Graduate Aggregate Combined Total:$23,027.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$26,125.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$10,404.00
+Aggregate Combined Total (Undergraduate and Graduate):$36,529.00
+Student Total All Loans Outstanding Principal:$95,807.00
+Student Total All Loans Outstanding Interest:$1,496.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$18,715.00
+Total <D5> Outstanding Interest:$292.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$77,092.00
+Total <D6> Outstanding Interest:$1,204.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SL
+Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Total <SL> Outstanding Principal:$3,175.00
+Total <SL> Outstanding Interest:$425.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8781G15
+Loan Attending School Name:George Washington University
+Loan Attending School OPEID:00144400
+Loan Date:03/27/1995
+Loan Repayment Begin Date:02/24/1996
+Loan Period Begin Date:05/17/1995
+Loan Period End Date:08/10/1995
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/17/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/17/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/09/2013
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:01/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/23/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2003
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/23/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/24/2001
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:01/27/1997
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/24/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:05/17/1995
+Loan Disbursement Date:05/25/1995
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833934
+Loan Contact Name:WELLS FARGO BANK ELT NELNET TRUST
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:STE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8781G13
+Loan Attending School Name:George Washington University
+Loan Attending School OPEID:00144400
+Loan Date:08/23/1994
+Loan Repayment Begin Date:02/20/1996
+Loan Period Begin Date:08/29/1994
+Loan Period End Date:05/12/1995
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:01/06/1997
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/24/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/29/1994
+Loan Disbursement Date:12/26/1994
+Loan Disbursement Amount:$8,500.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833211
+Loan Contact Name:US BANK NA ELT LOANSTAR ASSET PTNRS (GTH
+Loan Contact Street Address 1:121 SOUTH 13TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508(0000)
+Loan Contact Phone Number:4024582307
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8781G14
+Loan Attending School Name:George Washington University
+Loan Attending School OPEID:00144400
+Loan Date:08/23/1994
+Loan Repayment Begin Date:02/20/1996
+Loan Period Begin Date:08/29/1994
+Loan Period End Date:05/12/1995
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/09/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/24/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/29/1994
+Loan Disbursement Date:12/26/1994
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833211
+Loan Contact Name:US BANK NA ELT LOANSTAR ASSET PTNRS (GTH
+Loan Contact Street Address 1:121 SOUTH 13TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508(0000)
+Loan Contact Phone Number:4024582307
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****8781S12
+Loan Attending School Name:George Washington University
+Loan Attending School OPEID:00144400
+Loan Date:01/28/1994
+Loan Repayment Begin Date:04/30/1997
+Loan Period Begin Date:01/20/1994
+Loan Period End Date:01/30/1994
+Loan Amount:$3,175.00
+Loan Disbursed Amount:$3,175.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,175.00
+Loan Outstanding Principal Balance as of Date:09/30/1995
+Loan Outstanding Interest Balance:$425.00
+Loan Outstanding Interest Balance as of Date:09/30/1995
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$3,175.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:UI
+Current Loan Status Description:UNREINSURED
+Loan Status:UI
+Loan Status Description:UNREINSURED
+Loan Status Effective Date:04/30/1997
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/31/1994
+Loan Disbursement Date:01/31/1994
+Loan Disbursement Amount:$3,175.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831923
+Loan Contact Name:POINTBANK
+Loan Contact Street Address 1:PO BOX 278
+Loan Contact Street Address 2:
+Loan Contact City:PILOT POINT
+Loan Contact State Code:TX
+Loan Contact Zip Code:76258(0000)
+Loan Contact Phone Number:9406865526
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8781G10
+Loan Attending School Name:George Washington University
+Loan Attending School OPEID:00144400
+Loan Date:12/03/1993
+Loan Repayment Begin Date:02/20/1996
+Loan Period Begin Date:01/10/1994
+Loan Period End Date:06/10/1994
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/09/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/24/1996
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/10/1994
+Loan Disbursement Date:03/09/1994
+Loan Disbursement Amount:$8,500.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833211
+Loan Contact Name:US BANK NA ELT LOANSTAR ASSET PTNRS (GTH
+Loan Contact Street Address 1:121 SOUTH 13TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508(0000)
+Loan Contact Phone Number:4024582307
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****8781S11
+Loan Attending School Name:George Washington University
+Loan Attending School OPEID:00144400
+Loan Date:12/06/1993
+Loan Repayment Begin Date:02/20/1996
+Loan Period Begin Date:01/10/1994
+Loan Period End Date:06/10/1994
+Loan Amount:$1,027.00
+Loan Disbursed Amount:$1,027.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$1,027.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/27/1997
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/30/1994
+Loan Disbursement Date:04/30/1994
+Loan Disbursement Amount:$1,027.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833211
+Loan Contact Name:US BANK NA ELT LOANSTAR ASSET PTNRS (GTH
+Loan Contact Street Address 1:121 SOUTH 13TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508(0000)
+Loan Contact Phone Number:4024582307
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8781G08
+Loan Attending School Name:George Washington University
+Loan Attending School OPEID:00144400
+Loan Date:07/26/1993
+Loan Repayment Begin Date:12/03/1993
+Loan Period Begin Date:08/30/1993
+Loan Period End Date:08/20/1994
+Loan Amount:$7,500.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$7,500.00
+Loan Canceled Date:12/03/1993
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/03/1993
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/03/1993
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:12/03/1993
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831923
+Loan Contact Name:POINTBANK
+Loan Contact Street Address 1:PO BOX 278
+Loan Contact Street Address 2:
+Loan Contact City:PILOT POINT
+Loan Contact State Code:TX
+Loan Contact Zip Code:76258(0000)
+Loan Contact Phone Number:9406865526
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****8781S07
+Loan Attending School Name:George Washington University
+Loan Attending School OPEID:00144400
+Loan Date:07/13/1993
+Loan Repayment Begin Date:12/03/1993
+Loan Period Begin Date:08/30/1993
+Loan Period End Date:08/15/1994
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$10,000.00
+Loan Canceled Date:12/03/1993
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/03/1993
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/03/1993
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:12/03/1993
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831923
+Loan Contact Name:POINTBANK
+Loan Contact Street Address 1:PO BOX 278
+Loan Contact Street Address 2:
+Loan Contact City:PILOT POINT
+Loan Contact State Code:TX
+Loan Contact Zip Code:76258(0000)
+Loan Contact Phone Number:9406865526
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8781G05
+Loan Attending School Name:Texas Woman's University
+Loan Attending School OPEID:00364600
+Loan Date:07/07/1992
+Loan Repayment Begin Date:06/18/1993
+Loan Period Begin Date:06/05/1992
+Loan Period End Date:05/14/1993
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$2,500.00
+Loan Canceled Amount:$1,500.00
+Loan Canceled Date:08/14/1992
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$2,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/09/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/11/1996
+Loan Disbursement Date:08/14/1992
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833211
+Loan Contact Name:US BANK NA ELT LOANSTAR ASSET PTNRS (GTH
+Loan Contact Street Address 1:121 SOUTH 13TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508(0000)
+Loan Contact Phone Number:4024582307
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****8781S06
+Loan Attending School Name:Texas Woman's University
+Loan Attending School OPEID:00364600
+Loan Date:07/08/1992
+Loan Repayment Begin Date:06/18/1993
+Loan Period Begin Date:06/05/1992
+Loan Period End Date:05/14/1993
+Loan Amount:$2,955.00
+Loan Disbursed Amount:$1,845.00
+Loan Canceled Amount:$1,110.00
+Loan Canceled Date:08/14/1992
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$1,845.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/15/1997
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/09/1992
+Loan Disbursement Date:08/14/1992
+Loan Disbursement Amount:$1,845.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833211
+Loan Contact Name:US BANK NA ELT LOANSTAR ASSET PTNRS (GTH
+Loan Contact Street Address 1:121 SOUTH 13TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508(0000)
+Loan Contact Phone Number:4024582307
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8781G04
+Loan Attending School Name:Texas Woman's University
+Loan Attending School OPEID:00364600
+Loan Date:07/23/1991
+Loan Repayment Begin Date:06/18/1993
+Loan Period Begin Date:08/22/1991
+Loan Period End Date:05/08/1992
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/29/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/1993
+Loan Disbursement Date:12/17/1991
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:812089
+Loan Contact Name:TEXAS HIGHER EDUCATION COORD BOARD
+Loan Contact Street Address 1:PO BOX 12788 CAPITOL STATION
+Loan Contact Street Address 2:
+Loan Contact City:AUSTIN
+Loan Contact State Code:TX
+Loan Contact Zip Code:78711(9998)
+Loan Contact Phone Number:5124246401
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****8781S03
+Loan Attending School Name:Texas Woman's University
+Loan Attending School OPEID:00364600
+Loan Date:07/19/1991
+Loan Repayment Begin Date:02/24/1996
+Loan Period Begin Date:08/22/1991
+Loan Period End Date:05/08/1992
+Loan Amount:$820.00
+Loan Disbursed Amount:$820.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/17/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/17/2013
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1992
+Capitalized Interest:$0.00
+Net Loan Amount:$820.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/09/2013
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:01/17/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/23/2003
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2003
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/23/2002
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/24/2002
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/24/1999
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/28/1993
+Loan Disbursement Date:12/13/1991
+Loan Disbursement Amount:$820.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833934
+Loan Contact Name:WELLS FARGO BANK ELT NELNET TRUST
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:STE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8781G01
+Loan Attending School Name:Texas Woman's University
+Loan Attending School OPEID:00364600
+Loan Date:03/11/1991
+Loan Repayment Begin Date:06/18/1993
+Loan Period Begin Date:08/24/1990
+Loan Period End Date:05/09/1991
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1991
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/29/1996
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/1993
+Loan Disbursement Date:03/15/1991
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:812089
+Loan Contact Name:TEXAS HIGHER EDUCATION COORD BOARD
+Loan Contact Street Address 1:PO BOX 12788 CAPITOL STATION
+Loan Contact Street Address 2:
+Loan Contact City:AUSTIN
+Loan Contact State Code:TX
+Loan Contact Zip Code:78711(9998)
+Loan Contact Phone Number:5124246401
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****8781S02
+Loan Attending School Name:Texas Woman's University
+Loan Attending School OPEID:00364600
+Loan Date:04/16/1991
+Loan Repayment Begin Date:06/18/1993
+Loan Period Begin Date:08/24/1990
+Loan Period End Date:05/09/1991
+Loan Amount:$2,532.00
+Loan Disbursed Amount:$2,532.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/13/2000
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/13/2000
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1991
+Capitalized Interest:$0.00
+Net Loan Amount:$2,532.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:07/13/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:01/12/1998
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/26/1993
+Loan Disbursement Date:04/18/1991
+Loan Disbursement Amount:$2,532.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833211
+Loan Contact Name:US BANK NA ELT LOANSTAR ASSET PTNRS (GTH
+Loan Contact Street Address 1:121 SOUTH 13TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508(0000)
+Loan Contact Phone Number:4024582307
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****8781U00G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:07/06/2000
+Loan Repayment Begin Date:07/06/2000
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$11,698.00
+Loan Disbursed Amount:$11,698.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$18,715.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$292.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:C3
+Loan Repayment Plan Type Code Description:INCOME-CONTINGENT REPAYMENT
+Loan Repayment Plan Begin Date:04/21/2022
+Loan Repayment Plan Scheduled Amount:$232.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/28/2020
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$18,044.00
+Loan PSLF Cumulative Matched Months:52
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$8,941.00
+Net Loan Amount:$11,698.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,404.00
+Calculated Combined Aggregate OPB:$10,404.00
+UpdtDt:08/24/2022
+DelinqDate:01/29/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/28/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/09/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/30/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/28/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/29/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/29/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2000
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/06/2000
+Loan Disbursement Date:07/06/2000
+Loan Disbursement Amount:$11,698.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****8781S00G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:07/06/2000
+Loan Repayment Begin Date:07/06/2000
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$48,186.00
+Loan Disbursed Amount:$48,186.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$77,092.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$1,204.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:C3
+Loan Repayment Plan Type Code Description:INCOME-CONTINGENT REPAYMENT
+Loan Repayment Plan Begin Date:04/21/2022
+Loan Repayment Plan Scheduled Amount:$955.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/28/2020
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$74,315.00
+Loan PSLF Cumulative Matched Months:52
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2001
+Capitalized Interest:$36,827.00
+Net Loan Amount:$48,186.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$26,125.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$26,125.00
+UpdtDt:08/24/2022
+DelinqDate:01/29/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/28/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/09/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/30/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/28/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/29/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/29/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/29/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2000
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/06/2000
+Loan Disbursement Date:07/06/2000
+Loan Disbursement Amount:$48,186.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:

@@ -1,0 +1,902 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-14 12:09:39
+Student First Name:MYLES
+Student Middle Initial:T
+Student Last Name:MOORE
+Student Street Address 1:2202 BROOKSIDE AVE
+Student Street Address 2:
+Student City:INDIANAPOLIS
+Student State Code:IN
+Student Country Code:US
+Student Zip Code:46218
+Student Email Address:MYLESMOORE04@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:8455200069
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:8455200069
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:13032733000
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/03/2020
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2014
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$15,405.00
+Undergraduate Aggregate Unsubsidized Total:$1,484.00
+Undergraduate Aggregate Combined Total:$16,889.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$15,405.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$1,484.00
+Aggregate Combined Total (Undergraduate and Graduate):$16,889.00
+Student Total All Loans Outstanding Principal:$17,903.00
+Student Total All Loans Outstanding Interest:$95.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$15,500.00
+Total <D1> Outstanding Interest:$95.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$2,403.00
+Total <D2> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5006S14G02847001
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:08/23/2013
+Loan Repayment Begin Date:06/16/2020
+Loan Period Begin Date:08/28/2013
+Loan Period End Date:05/14/2014
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:02/06/2023
+Loan Outstanding Interest Balance:$51.00
+Loan Outstanding Interest Balance as of Date:02/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$51.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,449.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/18/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2013
+Loan Disbursement Date:01/08/2014
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/23/2013
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5006U14G02847003
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:09/16/2013
+Loan Repayment Begin Date:08/11/2015
+Loan Period Begin Date:08/28/2013
+Loan Period End Date:05/14/2014
+Loan Amount:$800.00
+Loan Disbursed Amount:$800.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/31/2015
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/31/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:08/11/2015
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:P
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$800.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:08/11/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/16/2013
+Loan Disbursement Date:01/08/2014
+Loan Disbursement Amount:$400.00
+Loan Disbursement Date:09/17/2013
+Loan Disbursement Amount:$400.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5006U14G02847002
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:09/16/2013
+Loan Repayment Begin Date:06/16/2020
+Loan Period Begin Date:08/28/2013
+Loan Period End Date:05/14/2014
+Loan Amount:$3,800.00
+Loan Disbursed Amount:$3,800.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,403.00
+Loan Outstanding Principal Balance as of Date:02/06/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:05/27/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$2,326.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:P
+Award Year:2014
+Capitalized Interest:$919.00
+Net Loan Amount:$3,800.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,484.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/18/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/13/2013
+Loan Disbursement Date:01/08/2014
+Loan Disbursement Amount:$1,900.00
+Loan Disbursement Date:09/16/2013
+Loan Disbursement Amount:$1,900.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5006U14G02847001
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:08/22/2013
+Loan Repayment Begin Date:03/19/2018
+Loan Period Begin Date:08/28/2013
+Loan Period End Date:05/14/2014
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/19/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/19/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/19/2018
+Loan Next Payment Due Date:03/19/2018
+Loan Cumulative Payment Amount:$2,314.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:03/19/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2013
+Loan Disbursement Date:01/08/2014
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/23/2013
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5006U13G02847002
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:01/08/2013
+Loan Repayment Begin Date:09/11/2017
+Loan Period Begin Date:01/18/2013
+Loan Period End Date:05/16/2013
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/11/2017
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/11/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:09/11/2017
+Loan Next Payment Due Date:09/11/2017
+Loan Cumulative Payment Amount:$2,530.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:P
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:09/11/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/08/2013
+Loan Disbursement Date:01/09/2013
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5006S13G02847001
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:08/16/2012
+Loan Repayment Begin Date:06/16/2020
+Loan Period Begin Date:08/22/2012
+Loan Period End Date:05/16/2013
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:02/06/2023
+Loan Outstanding Interest Balance:$44.00
+Loan Outstanding Interest Balance as of Date:02/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$44.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,456.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/18/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2012
+Loan Disbursement Date:01/09/2013
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/16/2012
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5006U13G02847001
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:08/15/2012
+Loan Repayment Begin Date:06/16/2020
+Loan Period Begin Date:08/22/2012
+Loan Period End Date:05/16/2013
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/28/2021
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/28/2021
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/28/2021
+Loan Next Payment Due Date:03/28/2021
+Loan Cumulative Payment Amount:$3,004.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$993.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:03/28/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2020
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2012
+Loan Disbursement Date:01/09/2013
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/16/2012
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5006S12G02847001
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:08/18/2011
+Loan Repayment Begin Date:06/16/2020
+Loan Period Begin Date:08/24/2011
+Loan Period End Date:05/16/2012
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,500.00
+Loan Outstanding Principal Balance as of Date:02/06/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/18/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2011
+Loan Disbursement Date:01/20/2012
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:08/18/2011
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5006U12G02847001
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:08/14/2011
+Loan Repayment Begin Date:03/19/2018
+Loan Period Begin Date:08/24/2011
+Loan Period End Date:05/16/2012
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/19/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/19/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/19/2018
+Loan Next Payment Due Date:03/19/2018
+Loan Cumulative Payment Amount:$2,866.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:03/19/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2011
+Loan Disbursement Date:01/20/2012
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/18/2011
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5006U11G02847001
+Loan Attending School Name:SUNY College at Oneonta
+Loan Attending School OPEID:00284700
+Loan Date:08/26/2010
+Loan Repayment Begin Date:04/30/2019
+Loan Period Begin Date:08/25/2010
+Loan Period End Date:05/18/2011
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/30/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/30/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/30/2019
+Loan Next Payment Due Date:04/30/2019
+Loan Cumulative Payment Amount:$8,577.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:04/30/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/26/2010
+Loan Disbursement Date:01/11/2011
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/26/2010
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:Ohio State University (The)
+Program School OPEID:00309000
+Program Cip Year:2010
+Program Cip Code:400601
+Program CIP Title:Geology/Earth Science, General.
+Program Credential Level Code:06
+Program Credential Level Code Description:DOCTORAL DEGREE
+Program Begin Date:05/11/2016
+Program Published Length in Years:3.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/03/2020
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/15/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/20/2019
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:05/10/2017
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/09/2017
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:05/11/2016
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:08/23/2013
+Award Loan Period Begin Date:08/28/2013
+Award Loan Period End Date:05/14/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:09/17/2013
+Award Loan Period Begin Date:08/28/2013
+Award Loan Period End Date:05/14/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:08/23/2013
+Award Loan Period Begin Date:08/28/2013
+Award Loan Period End Date:05/14/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:09/16/2013
+Award Loan Period Begin Date:08/28/2013
+Award Loan Period End Date:05/14/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:01/09/2013
+Award Loan Period Begin Date:01/18/2013
+Award Loan Period End Date:05/16/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:08/16/2012
+Award Loan Period Begin Date:08/22/2012
+Award Loan Period End Date:05/16/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:08/16/2012
+Award Loan Period Begin Date:08/22/2012
+Award Loan Period End Date:05/16/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:09/21/2011
+Award Loan Period Begin Date:08/24/2011
+Award Loan Period End Date:05/16/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:08/18/2011
+Award Loan Period Begin Date:08/24/2011
+Award Loan Period End Date:05/16/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:SUNY College at Oneonta
+Award School OPEID:00284700
+Award Earliest Disbursement Date:08/18/2011
+Award Loan Period Begin Date:08/24/2011
+Award Loan Period End Date:05/16/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Ohio State University (The)
+Enrolled School OPEID:00309000
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/03/2020
+Enrolled School Name:SUNY College at Oneonta
+Enrolled School OPEID:00284700
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/14/2014

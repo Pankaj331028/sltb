@@ -1,0 +1,267 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-07-26 09:35:22
+Student First Name:ROBERT
+Student Middle Initial:F
+Student Last Name:TESTER
+Student Street Address 1:51 MAIN STREET
+Student Street Address 2:
+Student City:ANY TOWN
+Student State Code:VT
+Student Country Code:US
+Student Zip Code:12345
+Student Email Address:JCOHEN@THESTUDENTLOANLAWYER.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:1234567890
+Student Home Phone Preferred:Y
+Student Cell Phone Country Code:1
+Student Cell Phone Number:1234567890
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/13/2007
+Undergraduate Subsidized Loan Limit Flag:C
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1999
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$20,000.00
+Undergraduate Aggregate Unsubsidized Total:$1,370.00
+Undergraduate Aggregate Combined Total:$21,370.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2007
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$42,500.00
+Graduate Aggregate Unsubsidized Total:$50,000.00
+Graduate Aggregate Combined Total:$92,500.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$62,500.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$51,370.00
+Aggregate Combined Total (Undergraduate and Graduate):$113,870.00
+Student Total All Loans Outstanding Principal:$24,000.00
+Student Total All Loans Outstanding Interest:$4,500.00
+Student Pell Lifetime Eligibility Used:300.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$2,575.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$4,000.00
+Total <D1> Outstanding Interest:$500.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$20,000.00
+Total <D2> Outstanding Interest:$4,000.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2654471
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW
+Loan Attending School OPEID:00140201
+Loan Date:11/27/2014
+Loan Repayment Begin Date:07/25/2015
+Loan Period Begin Date:12/21/2014
+Loan Period End Date:05/11/2015
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,000.00
+Loan Outstanding Principal Balance as of Date:07/25/2022
+Loan Outstanding Interest Balance:$500.00
+Loan Outstanding Interest Balance as of Date:07/25/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.25%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.25%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/25/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/25/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:11/27/2014
+Loan Disbursement Date:12/21/2014
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:04/15/2015
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700212
+Loan Contact Name:ACCESS GROUP, INC.
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY
+Loan Contact Street Address 2:
+Loan Contact City:WILMINGTON
+Loan Contact State Code:DE
+Loan Contact Zip Code:19803(0430)
+Loan Contact Phone Number:3024774103
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:725
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:808851
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP
+Loan Contact Street Address 1:60 WALL ST.
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10005(2858)
+Loan Contact Phone Number:2122502273
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2654492
+Loan Attending School Name:HARVARD UNIVERSITY - SCHOOL OF LAW
+Loan Attending School OPEID:00140201
+Loan Date:11/27/2014
+Loan Repayment Begin Date:07/25/2015
+Loan Period Begin Date:12/21/2014
+Loan Period End Date:05/11/2015
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,000.00
+Loan Outstanding Principal Balance as of Date:07/25/2022
+Loan Outstanding Interest Balance:$4,000.00
+Loan Outstanding Interest Balance as of Date:07/25/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.25%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.25%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/25/2022
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/25/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:11/27/2014
+Loan Disbursement Date:12/21/2014
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:04/15/2015
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700212
+Loan Contact Name:ACCESS GROUP, INC.
+Loan Contact Street Address 1:5500 BRANDYWINE PKWY
+Loan Contact Street Address 2:
+Loan Contact City:WILMINGTON
+Loan Contact State Code:DE
+Loan Contact Zip Code:19803(0430)
+Loan Contact Phone Number:3024774103
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:725
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:808851
+Loan Contact Name:DEUTSCHE BANK ELT ACCESS GROUP
+Loan Contact Street Address 1:60 WALL ST.
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10005(2858)
+Loan Contact Phone Number:2122502273
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:

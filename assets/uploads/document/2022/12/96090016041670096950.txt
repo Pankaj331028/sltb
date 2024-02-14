@@ -1,0 +1,1598 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-12-03 14:48:18
+Student First Name:MELISSA
+Student Middle Initial:N
+Student Last Name:O'DONNELL
+Student Street Address 1:9350 W LONE COURGAR WAY
+Student Street Address 2:
+Student City:MARANA
+Student State Code:AZ
+Student Country Code:US
+Student Zip Code:85653
+Student Email Address:ODONNELLMN@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:3104621164
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:3104621164
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:3102615108
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/01/2018
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2018
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$16,069.00
+Undergraduate Aggregate Unsubsidized Total:$16,619.00
+Undergraduate Aggregate Combined Total:$32,688.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2010
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$16,069.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$16,619.00
+Aggregate Combined Total (Undergraduate and Graduate):$32,688.00
+Student Total All Loans Outstanding Principal:$34,117.00
+Student Total All Loans Outstanding Interest:$418.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$16,354.00
+Total <D1> Outstanding Interest:$104.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$17,763.00
+Total <D2> Outstanding Interest:$314.00
+Type Code:GB
+Type Description:FFEL PLUS GRADUATE
+Total <GB> Outstanding Principal:$0.00
+Total <GB> Outstanding Interest:$0.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0605S18G22316002
+Loan Attending School Name:MGH Institute of Health Professions
+Loan Attending School OPEID:02231600
+Loan Date:01/10/2018
+Loan Repayment Begin Date:11/02/2018
+Loan Period Begin Date:01/16/2018
+Loan Period End Date:05/20/2018
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,623.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$17.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.45%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$203.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,623.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/02/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/10/2018
+Loan Disbursement Date:01/10/2018
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0605U18G22316002
+Loan Attending School Name:MGH Institute of Health Professions
+Loan Attending School OPEID:02231600
+Loan Date:01/10/2018
+Loan Repayment Begin Date:11/02/2018
+Loan Period Begin Date:01/16/2018
+Loan Period End Date:05/20/2018
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,458.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$66.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.45%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$266.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$126.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,332.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/02/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/10/2018
+Loan Disbursement Date:01/10/2018
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0605S18G22316001
+Loan Attending School Name:MGH Institute of Health Professions
+Loan Attending School OPEID:02231600
+Loan Date:05/10/2017
+Loan Repayment Begin Date:11/02/2018
+Loan Period Begin Date:05/10/2017
+Loan Period End Date:12/16/2017
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,235.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$28.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$385.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,235.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/02/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/10/2017
+Loan Disbursement Date:09/06/2017
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:05/10/2017
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0605U18G22316001
+Loan Attending School Name:MGH Institute of Health Professions
+Loan Attending School OPEID:02231600
+Loan Date:05/10/2017
+Loan Repayment Begin Date:11/02/2018
+Loan Period Begin Date:05/10/2017
+Loan Period End Date:12/16/2017
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,992.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$113.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$518.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$347.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,645.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/02/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/10/2017
+Loan Disbursement Date:09/06/2017
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:05/10/2017
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0605S17G22316001
+Loan Attending School Name:MGH Institute of Health Professions
+Loan Attending School OPEID:02231600
+Loan Date:05/18/2016
+Loan Repayment Begin Date:11/02/2018
+Loan Period Begin Date:05/18/2016
+Loan Period End Date:12/17/2016
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,243.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$32.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.29%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$399.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,243.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/02/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/18/2016
+Loan Disbursement Date:08/31/2016
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:05/18/2016
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0605U17G22316001
+Loan Attending School Name:MGH Institute of Health Professions
+Loan Attending School OPEID:02231600
+Loan Date:05/18/2016
+Loan Repayment Begin Date:11/02/2018
+Loan Period Begin Date:05/18/2016
+Loan Period End Date:12/17/2016
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,313.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$135.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.29%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$577.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$671.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,642.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/02/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/18/2016
+Loan Disbursement Date:08/31/2016
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:05/18/2016
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:GB
+Loan Type Description:FFEL PLUS GRADUATE
+Loan Award ID:*****060620 000
+Loan Attending School Name:Macquarie University
+Loan Attending School OPEID:01068100
+Loan Date:02/02/2010
+Loan Repayment Begin Date:07/23/2010
+Loan Period Begin Date:02/22/2010
+Loan Period End Date:11/30/2010
+Loan Amount:$24,534.00
+Loan Disbursed Amount:$24,534.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/19/2015
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/19/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.50%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.50%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$24,534.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/21/2015
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:02/19/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2010
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/23/2010
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/02/2010
+Loan Disbursement Date:07/23/2010
+Loan Disbursement Amount:$12,267.00
+Loan Disbursement Date:03/31/2010
+Loan Disbursement Amount:$12,267.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700057
+Loan Contact Name:GREAT LAKES EDUCATIONAL LOAN SERVICES, I
+Loan Contact Street Address 1:PO BOX 7860
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707(7860)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834027
+Loan Contact Name:AMERICAN AIRLINES FCU
+Loan Contact Street Address 1:4151 AMON CARTER BLVD
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76155(0000)
+Loan Contact Phone Number:8179313291
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****060621 000
+Loan Attending School Name:Macquarie University
+Loan Attending School OPEID:01068100
+Loan Date:02/03/2010
+Loan Repayment Begin Date:08/23/2010
+Loan Period Begin Date:02/22/2010
+Loan Period End Date:11/30/2010
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/19/2015
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/19/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/21/2015
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:02/19/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/01/2010
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/03/2010
+Loan Disbursement Date:07/23/2010
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:03/31/2010
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700057
+Loan Contact Name:GREAT LAKES EDUCATIONAL LOAN SERVICES, I
+Loan Contact Street Address 1:PO BOX 7860
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707(7860)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834027
+Loan Contact Name:AMERICAN AIRLINES FCU
+Loan Contact Street Address 1:4151 AMON CARTER BLVD
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76155(0000)
+Loan Contact Phone Number:8179313291
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****060622 000
+Loan Attending School Name:Macquarie University
+Loan Attending School OPEID:01068100
+Loan Date:02/03/2010
+Loan Repayment Begin Date:08/23/2010
+Loan Period Begin Date:02/22/2010
+Loan Period End Date:11/30/2010
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/19/2015
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/19/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/21/2015
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:02/19/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/01/2010
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/03/2010
+Loan Disbursement Date:07/23/2010
+Loan Disbursement Amount:$6,000.00
+Loan Disbursement Date:03/31/2010
+Loan Disbursement Amount:$6,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700057
+Loan Contact Name:GREAT LAKES EDUCATIONAL LOAN SERVICES, I
+Loan Contact Street Address 1:PO BOX 7860
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707(7860)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834027
+Loan Contact Name:AMERICAN AIRLINES FCU
+Loan Contact Street Address 1:4151 AMON CARTER BLVD
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76155(0000)
+Loan Contact Phone Number:8179313291
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0605S08G03863001
+Loan Attending School Name:Marquette University
+Loan Attending School OPEID:00386300
+Loan Date:08/17/2007
+Loan Repayment Begin Date:11/11/2008
+Loan Period Begin Date:08/27/2007
+Loan Period End Date:05/10/2008
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,315.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$13.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$5,738.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$91.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,224.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/24/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/02/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/24/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:11/11/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2007
+Loan Disbursement Date:01/04/2008
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/17/2007
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0605S07G03863001
+Loan Attending School Name:Marquette University
+Loan Attending School OPEID:00386300
+Loan Date:08/18/2006
+Loan Repayment Begin Date:06/17/2007
+Loan Period Begin Date:08/28/2006
+Loan Period End Date:05/12/2007
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$619.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$6.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$2,942.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$77.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$542.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/24/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/02/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/24/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/25/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2006
+Loan Disbursement Date:08/18/2006
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****83188406050000
+Loan Attending School Name:Marquette University
+Loan Attending School OPEID:00386300
+Loan Date:08/18/2006
+Loan Repayment Begin Date:02/02/2009
+Loan Period Begin Date:07/15/2006
+Loan Period End Date:05/10/2008
+Loan Amount:$3,250.00
+Loan Disbursed Amount:$3,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/31/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$3,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/14/2014
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:12/16/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/02/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2006
+Loan Disbursement Date:01/04/2008
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/17/2007
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/18/2006
+Loan Disbursement Amount:$1,250.00
+Loan Contact Type:Attending School
+Loan Contact Code:00386300
+Loan Contact Name:Marquette University
+Loan Contact Street Address 1:STUDENT LOAN ACCOUNTS
+Loan Contact Street Address 2:PO BOX 1881
+Loan Contact City:MILWAUKEE
+Loan Contact State Code:WI
+Loan Contact Zip Code:53201(1881)
+Loan Contact Phone Number:414-288-3722
+Loan Contact Phone Extension:
+Loan Contact Email Address:AMY.LAVENDER@MARQUETTE.EDU
+Loan Contact Web Site Address:http://www.mu.edu
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0605S06G03863001
+Loan Attending School Name:Marquette University
+Loan Attending School OPEID:00386300
+Loan Date:08/19/2005
+Loan Repayment Begin Date:06/17/2007
+Loan Period Begin Date:08/29/2005
+Loan Period End Date:05/13/2006
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$821.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$5.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:3.44%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$3,074.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$73.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$748.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/24/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/02/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/24/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/25/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2005
+Loan Disbursement Date:01/09/2006
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/19/2005
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0605S05G03863001
+Loan Attending School Name:Marquette University
+Loan Attending School OPEID:00386300
+Loan Date:08/20/2004
+Loan Repayment Begin Date:06/17/2007
+Loan Period Begin Date:08/30/2004
+Loan Period End Date:05/14/2005
+Loan Amount:$2,122.00
+Loan Disbursed Amount:$2,122.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$498.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$3.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:3.44%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:07/26/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/15/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/23/2019
+Loan Next Payment Due Date:10/28/2027
+Loan Cumulative Payment Amount:$1,866.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$44.00
+Net Loan Amount:$2,122.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$454.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/04/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/30/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/24/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/02/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/24/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/19/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/25/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2004
+Loan Disbursement Date:01/10/2005
+Loan Disbursement Amount:$1,061.00
+Loan Disbursement Date:08/20/2004
+Loan Disbursement Amount:$1,061.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0605U05G03863001
+Loan Attending School Name:Marquette University
+Loan Attending School OPEID:00386300
+Loan Date:09/30/2004
+Loan Repayment Begin Date:06/17/2007
+Loan Period Begin Date:08/30/2004
+Loan Period End Date:05/14/2005
+Loan Amount:$252.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/14/2004
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/14/2004
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.11%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/09/2011
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:10/14/2004
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/30/2004
+Loan Disbursement Date:09/30/2004
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:MGH Institute of Health Professions
+Program School OPEID:02231600
+Program Cip Year:2010
+Program Cip Code:513801
+Program CIP Title:Registered Nursing/Registered Nurse.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:05/23/2016
+Program Published Length in Years:1.6
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/01/2018
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/16/2018
+Program School Name:Bunker Hill Community College
+Program School OPEID:01121000
+Program Cip Year:2010
+Program Cip Code:240102
+Program CIP Title:General Studies.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:01/20/2015
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/20/2015
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:09/08/2015
+Award School Name:MGH Institute of Health Professions
+Award School OPEID:02231600
+Award Earliest Disbursement Date:01/10/2018
+Award Loan Period Begin Date:01/16/2018
+Award Loan Period End Date:05/20/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:MGH Institute of Health Professions
+Award School OPEID:02231600
+Award Earliest Disbursement Date:01/10/2018
+Award Loan Period Begin Date:01/16/2018
+Award Loan Period End Date:05/20/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:MGH Institute of Health Professions
+Award School OPEID:02231600
+Award Earliest Disbursement Date:05/10/2017
+Award Loan Period Begin Date:05/10/2017
+Award Loan Period End Date:12/16/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:MGH Institute of Health Professions
+Award School OPEID:02231600
+Award Earliest Disbursement Date:05/10/2017
+Award Loan Period Begin Date:05/10/2017
+Award Loan Period End Date:12/16/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:MGH Institute of Health Professions
+Award School OPEID:02231600
+Award Earliest Disbursement Date:01/04/2017
+Award Loan Period Begin Date:01/04/2017
+Award Loan Period End Date:08/26/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:MGH Institute of Health Professions
+Award School OPEID:02231600
+Award Earliest Disbursement Date:01/04/2017
+Award Loan Period Begin Date:01/04/2017
+Award Loan Period End Date:08/26/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:MGH Institute of Health Professions
+Award School OPEID:02231600
+Award Earliest Disbursement Date:05/18/2016
+Award Loan Period Begin Date:05/18/2016
+Award Loan Period End Date:12/17/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:MGH Institute of Health Professions
+Award School OPEID:02231600
+Award Earliest Disbursement Date:05/18/2016
+Award Loan Period Begin Date:05/18/2016
+Award Loan Period End Date:12/17/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:MGH Institute of Health Professions
+Enrolled School OPEID:02231600
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/01/2018
+Enrolled School Name:Bunker Hill Community College
+Enrolled School OPEID:01121000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/20/2015
+Enrolled School Name:Macquarie University
+Enrolled School OPEID:01068100
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/03/2010
+Enrolled School Name:Marquette University
+Enrolled School OPEID:00386300
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/10/2008
+Enrolled School Name:University of California, Los Angeles
+Enrolled School OPEID:00131500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:09/14/2007

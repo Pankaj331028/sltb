@@ -1,0 +1,572 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-09 07:03:29
+Student First Name:RICHARD
+Student Middle Initial:W
+Student Last Name:CHRISTEL
+Student Street Address 1:3707 WOODLEY RD NW
+Student Street Address 2:APT 42
+Student City:WASHINGTON
+Student State Code:DC
+Student Country Code:US
+Student Zip Code:200165061
+Student Email Address:RWCHRISTEL@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:3213031289
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:3213031289
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/11/2019
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2014
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$2,826.00
+Undergraduate Aggregate Combined Total:$2,826.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2019
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$39,185.00
+Graduate Aggregate Combined Total:$39,185.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$42,011.00
+Aggregate Combined Total (Undergraduate and Graduate):$42,011.00
+Student Total All Loans Outstanding Principal:$119,026.00
+Student Total All Loans Outstanding Interest:$12,487.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$45,638.00
+Total <D2> Outstanding Interest:$1,264.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$73,388.00
+Total <D3> Outstanding Interest:$11,223.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9877U19G01445001
+Loan Attending School Name:Georgetown University
+Loan Attending School OPEID:00144500
+Loan Date:09/04/2018
+Loan Repayment Begin Date:11/12/2019
+Loan Period Begin Date:08/29/2018
+Loan Period End Date:05/11/2019
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$19,493.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$429.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.60%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/03/2020
+Loan Repayment Plan Scheduled Amount:$44.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/25/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/21/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,815.00
+Loan PSLF Cumulative Matched Months:29
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$1,616.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$18,685.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/12/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/12/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/04/2018
+Loan Disbursement Date:01/23/2019
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:09/04/2018
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****9877P19G01445001
+Loan Attending School Name:Georgetown University
+Loan Attending School OPEID:00144500
+Loan Date:09/04/2018
+Loan Repayment Begin Date:01/23/2019
+Loan Period Begin Date:08/29/2018
+Loan Period End Date:05/11/2019
+Loan Amount:$35,994.00
+Loan Disbursed Amount:$16,438.00
+Loan Canceled Amount:$19,556.00
+Loan Canceled Date:01/23/2019
+Loan Outstanding Principal Balance:$16,438.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$1,901.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/03/2020
+Loan Repayment Plan Scheduled Amount:$41.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/25/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/21/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$6.00
+Loan PSLF Cumulative Matched Months:30
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$16,438.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/11/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/04/2018
+Loan Disbursement Date:01/23/2019
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:09/04/2018
+Loan Disbursement Amount:$16,438.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9877U18G01445001
+Loan Attending School Name:Georgetown University
+Loan Attending School OPEID:00144500
+Loan Date:08/20/2017
+Loan Repayment Begin Date:11/12/2019
+Loan Period Begin Date:08/30/2017
+Loan Period End Date:05/12/2018
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$23,017.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$461.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/03/2020
+Loan Repayment Plan Scheduled Amount:$52.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/25/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:29
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$5,034.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/12/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/12/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2017
+Loan Disbursement Date:01/01/2018
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/20/2017
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****9877P18G01445001
+Loan Attending School Name:Georgetown University
+Loan Attending School OPEID:00144500
+Loan Date:08/20/2017
+Loan Repayment Begin Date:06/13/2018
+Loan Period Begin Date:08/30/2017
+Loan Period End Date:08/19/2018
+Loan Amount:$56,950.00
+Loan Disbursed Amount:$56,950.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$56,950.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$9,322.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/03/2020
+Loan Repayment Plan Scheduled Amount:$147.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/25/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/21/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$6.00
+Loan PSLF Cumulative Matched Months:30
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$56,950.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/11/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/13/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2017
+Loan Disbursement Date:06/13/2018
+Loan Disbursement Amount:$3,690.00
+Loan Disbursement Date:01/01/2018
+Loan Disbursement Amount:$26,630.00
+Loan Disbursement Date:08/20/2017
+Loan Disbursement Amount:$26,630.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9877U14G01520002
+Loan Attending School Name:Seminole State College of Florida
+Loan Attending School OPEID:00152000
+Loan Date:06/03/2014
+Loan Repayment Begin Date:10/30/2016
+Loan Period Begin Date:01/13/2014
+Loan Period End Date:05/02/2014
+Loan Amount:$3,250.00
+Loan Disbursed Amount:$3,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,128.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$374.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/03/2020
+Loan Repayment Plan Scheduled Amount:$8.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/25/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/21/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$424.00
+Loan PSLF Cumulative Matched Months:29
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$604.00
+Net Loan Amount:$3,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,826.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/08/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/12/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/30/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:04/30/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/03/2014
+Loan Disbursement Date:06/03/2014
+Loan Disbursement Amount:$3,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:Georgetown University - Graduate School
+Program School OPEID:00144502
+Program Cip Year:2010
+Program Cip Code:300501
+Program CIP Title:Peace Studies and Conflict Resolution.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:09/01/2017
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/11/2019
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/02/2019
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:09/01/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:09/01/2017
+Program School Name:Florida State University
+Program School OPEID:00148900
+Program Cip Year:2010
+Program Cip Code:450901
+Program CIP Title:International Relations and Affairs.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:02/03/2015
+Program Published Length in Years:4.0
+Special Program Indicator Code:B
+Special Program Indicator Description:BACHELOR?S DEGREE COMPLETION PROGRAM
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:04/29/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/06/2016
+Program School Name:George Mason University
+Program School OPEID:00374900
+Program Cip Year:2010
+Program Cip Code:240102
+Program CIP Title:General Studies.
+Program Credential Level Code:99
+Program Credential Level Code Description:NON-CREDENTIAL PROGRAM (PREP. COURSEWORK / TEACHER CERT.)
+Program Begin Date:05/19/2014
+Program Published Length in Years:10.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/19/2018
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:08/27/2018
+Award School Name:Georgetown University
+Award School OPEID:00144500
+Award Earliest Disbursement Date:09/04/2018
+Award Loan Period Begin Date:08/29/2018
+Award Loan Period End Date:05/11/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Georgetown University
+Award School OPEID:00144500
+Award Earliest Disbursement Date:09/04/2018
+Award Loan Period Begin Date:08/29/2018
+Award Loan Period End Date:05/11/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Georgetown University
+Award School OPEID:00144500
+Award Earliest Disbursement Date:08/20/2017
+Award Loan Period Begin Date:08/30/2017
+Award Loan Period End Date:08/19/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Georgetown University
+Award School OPEID:00144500
+Award Earliest Disbursement Date:08/20/2017
+Award Loan Period Begin Date:08/30/2017
+Award Loan Period End Date:05/12/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Seminole State College of Florida
+Award School OPEID:00152000
+Award Earliest Disbursement Date:06/03/2014
+Award Loan Period Begin Date:01/13/2014
+Award Loan Period End Date:05/02/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Seminole State College of Florida
+Award School OPEID:00152000
+Award Earliest Disbursement Date:12/03/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:05/02/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Georgetown University - Graduate School
+Enrolled School OPEID:00144502
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/11/2019
+Enrolled School Name:George Mason University
+Enrolled School OPEID:00374900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/19/2018
+Enrolled School Name:Florida State University
+Enrolled School OPEID:00148900
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:04/29/2016
+Enrolled School Name:Seminole State College of Florida
+Enrolled School OPEID:00152000
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/02/2014

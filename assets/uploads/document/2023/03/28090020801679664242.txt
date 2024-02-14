@@ -1,0 +1,823 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-03-24 09:14:37
+Student First Name:REGINA
+Student Middle Initial:L
+Student Last Name:LEE
+Student Street Address 1:1316 LAKEVIEW AVE
+Student Street Address 2:
+Student City:SOUTH MILWAUKEE
+Student State Code:WI
+Student Country Code:US
+Student Zip Code:531723534
+Student Email Address:REGINA_LEE08@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4142157506
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:4146886449
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:12/18/2012
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2014
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$5,475.00
+Undergraduate Aggregate Unsubsidized Total:$16,750.00
+Undergraduate Aggregate Combined Total:$22,225.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$5,475.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$16,750.00
+Aggregate Combined Total (Undergraduate and Graduate):$22,225.00
+Student Total All Loans Outstanding Principal:$24,007.00
+Student Total All Loans Outstanding Interest:$3,983.00
+Student Pell Lifetime Eligibility Used:100.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$900.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$5,475.00
+Total <D1> Outstanding Interest:$462.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$18,532.00
+Total <D2> Outstanding Interest:$3,521.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3010U14G03837001
+Loan Attending School Name:Cardinal Stritch University
+Loan Attending School OPEID:00383700
+Loan Date:03/24/2014
+Loan Repayment Begin Date:03/16/2015
+Loan Period Begin Date:03/17/2014
+Loan Period End Date:09/15/2014
+Loan Amount:$6,250.00
+Loan Disbursed Amount:$6,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,354.00
+Loan Outstanding Principal Balance as of Date:07/18/2016
+Loan Outstanding Interest Balance:$665.00
+Loan Outstanding Interest Balance as of Date:07/18/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/15/2015
+Loan Repayment Plan Scheduled Amount:$66.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/19/2015
+Loan Next Payment Due Date:07/16/2015
+Loan Cumulative Payment Amount:$197.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$6,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,250.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/26/2023
+DelinqDate:07/17/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/18/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/16/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/24/2014
+Loan Disbursement Date:09/29/2014
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:03/24/2014
+Loan Disbursement Amount:$6,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****3010S13G03837002
+Loan Attending School Name:Cardinal Stritch University
+Loan Attending School OPEID:00383700
+Loan Date:02/04/2013
+Loan Repayment Begin Date:03/16/2015
+Loan Period Begin Date:01/28/2013
+Loan Period End Date:02/03/2014
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,991.00
+Loan Outstanding Principal Balance as of Date:07/18/2016
+Loan Outstanding Interest Balance:$168.00
+Loan Outstanding Interest Balance as of Date:07/18/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/15/2015
+Loan Repayment Plan Scheduled Amount:$20.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/19/2015
+Loan Next Payment Due Date:07/16/2015
+Loan Cumulative Payment Amount:$60.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,991.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/26/2023
+DelinqDate:07/17/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/18/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/16/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/04/2013
+Loan Disbursement Date:09/30/2013
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:02/04/2013
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****3010S13G03837001
+Loan Attending School Name:Cardinal Stritch University
+Loan Attending School OPEID:00383700
+Loan Date:02/04/2013
+Loan Repayment Begin Date:03/16/2015
+Loan Period Begin Date:01/28/2013
+Loan Period End Date:02/03/2014
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,484.00
+Loan Outstanding Principal Balance as of Date:07/18/2016
+Loan Outstanding Interest Balance:$294.00
+Loan Outstanding Interest Balance as of Date:07/18/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/15/2015
+Loan Repayment Plan Scheduled Amount:$35.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/19/2015
+Loan Next Payment Due Date:07/16/2015
+Loan Cumulative Payment Amount:$106.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,484.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/26/2023
+DelinqDate:07/17/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/18/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/16/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/04/2013
+Loan Disbursement Date:09/30/2013
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:02/04/2013
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3010U13G03837002
+Loan Attending School Name:Cardinal Stritch University
+Loan Attending School OPEID:00383700
+Loan Date:02/04/2013
+Loan Repayment Begin Date:03/16/2015
+Loan Period Begin Date:01/28/2013
+Loan Period End Date:02/03/2014
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,102.00
+Loan Outstanding Principal Balance as of Date:07/18/2016
+Loan Outstanding Interest Balance:$259.00
+Loan Outstanding Interest Balance as of Date:07/18/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/15/2015
+Loan Repayment Plan Scheduled Amount:$13.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/19/2015
+Loan Next Payment Due Date:07/16/2015
+Loan Cumulative Payment Amount:$39.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/26/2023
+DelinqDate:07/17/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/18/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/16/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/04/2013
+Loan Disbursement Date:09/30/2013
+Loan Disbursement Amount:$500.00
+Loan Disbursement Date:02/04/2013
+Loan Disbursement Amount:$500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3010U13G03837001
+Loan Attending School Name:Cardinal Stritch University
+Loan Attending School OPEID:00383700
+Loan Date:02/04/2013
+Loan Repayment Begin Date:03/16/2015
+Loan Period Begin Date:01/28/2013
+Loan Period End Date:02/03/2014
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,613.00
+Loan Outstanding Principal Balance as of Date:07/18/2016
+Loan Outstanding Interest Balance:$1,551.00
+Loan Outstanding Interest Balance as of Date:07/18/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/15/2015
+Loan Repayment Plan Scheduled Amount:$78.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/19/2015
+Loan Next Payment Due Date:07/16/2015
+Loan Cumulative Payment Amount:$234.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/26/2023
+DelinqDate:07/17/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/18/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/16/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/04/2013
+Loan Disbursement Date:09/30/2013
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:02/04/2013
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3010U11G03866001
+Loan Attending School Name:Milwaukee Area Technical College
+Loan Attending School OPEID:00386600
+Loan Date:09/15/2010
+Loan Repayment Begin Date:03/16/2015
+Loan Period Begin Date:08/21/2010
+Loan Period End Date:05/21/2011
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,463.00
+Loan Outstanding Principal Balance as of Date:07/18/2016
+Loan Outstanding Interest Balance:$1,046.00
+Loan Outstanding Interest Balance as of Date:07/18/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/15/2015
+Loan Repayment Plan Scheduled Amount:$52.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/19/2015
+Loan Next Payment Due Date:07/16/2015
+Loan Cumulative Payment Amount:$157.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/26/2023
+DelinqDate:07/17/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/18/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/16/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/16/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/15/2010
+Loan Disbursement Date:02/09/2011
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:09/15/2010
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****3010S05G03926001
+Loan Attending School Name:University of Wisconsin - Whitewater
+Loan Attending School OPEID:00392600
+Loan Date:11/22/2004
+Loan Repayment Begin Date:11/19/2005
+Loan Period Begin Date:09/02/2004
+Loan Period End Date:05/18/2005
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,665.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/09/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/09/2008
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:FE
+Loan Repayment Plan Type Code Description:EXTENDED REPAYMENT
+Loan Repayment Plan Begin Date:01/07/2006
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$96.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/12/2012
+DelinqDate:
+Current Loan Status:DC
+Current Loan Status Description:DEFAULTED, COMPROMISE
+Loan Status:DC
+Loan Status Description:DEFAULTED, COMPROMISE
+Loan Status Effective Date:04/09/2008
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/19/2007
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:08/18/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/22/2006
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/21/2006
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/17/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2005
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/18/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:11/22/2004
+Loan Disbursement Date:01/11/2005
+Loan Disbursement Amount:$1,352.00
+Loan Disbursement Date:11/22/2004
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3010U05G03926001
+Loan Attending School Name:University of Wisconsin - Whitewater
+Loan Attending School OPEID:00392600
+Loan Date:11/29/2004
+Loan Repayment Begin Date:11/19/2005
+Loan Period Begin Date:09/02/2004
+Loan Period End Date:05/18/2005
+Loan Amount:$3,800.00
+Loan Disbursed Amount:$3,858.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/09/2008
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/09/2008
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:FE
+Loan Repayment Plan Type Code Description:EXTENDED REPAYMENT
+Loan Repayment Plan Begin Date:01/07/2006
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$330.00
+Net Loan Amount:$3,800.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/12/2012
+DelinqDate:
+Current Loan Status:DC
+Current Loan Status Description:DEFAULTED, COMPROMISE
+Loan Status:DC
+Loan Status Description:DEFAULTED, COMPROMISE
+Loan Status Effective Date:04/09/2008
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/19/2007
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:08/18/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/22/2006
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/21/2006
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/17/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2005
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/18/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:11/29/2004
+Loan Disbursement Date:01/11/2005
+Loan Disbursement Amount:$1,958.00
+Loan Disbursement Date:11/29/2004
+Loan Disbursement Amount:$1,900.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Wisconsin - Whitewater
+Grant Attending School OPEID:00392600
+Grant Award Year:2004 - 2005
+Grant Scheduled Amount:$900.00
+Grant Award Amount:$900.00
+Grant Disbursed Amount:$900.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00392600
+Grant Contact Name:University of Wisconsin - Whitewater
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:888-549-3274
+Phone Extension:
+Email Address:cservice@ecsi.net
+Web Site Address:
+Program School Name:Cardinal Stritch University
+Program School OPEID:00383700
+Program Cip Year:2010
+Program Cip Code:521299
+Program CIP Title:Management Information Systems and Services, Other.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:01/28/2013
+Program Published Length in Years:4.0
+Special Program Indicator Code:B
+Special Program Indicator Description:BACHELOR?S DEGREE COMPLETION PROGRAM
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:09/15/2014
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/01/2014
+Award School Name:Cardinal Stritch University
+Award School OPEID:00383700
+Award Earliest Disbursement Date:03/24/2014
+Award Loan Period Begin Date:03/17/2014
+Award Loan Period End Date:09/15/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Cardinal Stritch University
+Award School OPEID:00383700
+Award Earliest Disbursement Date:02/04/2013
+Award Loan Period Begin Date:01/28/2013
+Award Loan Period End Date:02/03/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Cardinal Stritch University
+Award School OPEID:00383700
+Award Earliest Disbursement Date:02/04/2013
+Award Loan Period Begin Date:01/28/2013
+Award Loan Period End Date:02/03/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Cardinal Stritch University
+Award School OPEID:00383700
+Award Earliest Disbursement Date:02/04/2013
+Award Loan Period Begin Date:01/28/2013
+Award Loan Period End Date:02/03/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Cardinal Stritch University
+Award School OPEID:00383700
+Award Earliest Disbursement Date:02/04/2013
+Award Loan Period Begin Date:01/28/2013
+Award Loan Period End Date:02/03/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Cardinal Stritch University
+Enrolled School OPEID:00383700
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:09/15/2014
+Enrolled School Name:Milwaukee Area Technical College
+Enrolled School OPEID:00386600
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/18/2012
+Enrolled School Name:University of Wisconsin - Whitewater
+Enrolled School OPEID:00392600
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/19/2006

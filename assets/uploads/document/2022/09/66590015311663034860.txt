@@ -1,0 +1,824 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-09-12 21:58:53
+Student First Name:KATRINA
+Student Middle Initial:B
+Student Last Name:ARNOLD-KING
+Student Street Address 1:2921 TIMBERWOOD DR #207
+Student Street Address 2:
+Student City:FORT COLLINS
+Student State Code:CO
+Student Country Code:US
+Student Zip Code:80528
+Student Email Address:KATVERSE@GMAIL.COM
+Student Home Phone Country Code:
+Student Home Phone Number:
+Student Home Phone Preferred:
+Student Cell Phone Country Code:1
+Student Cell Phone Number:9702909596
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:9702909596
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:12/18/1998
+Undergraduate Subsidized Loan Limit Flag:C
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1998
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$19,258.00
+Undergraduate Aggregate Unsubsidized Total:$2,845.00
+Undergraduate Aggregate Combined Total:$22,103.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$19,258.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$2,845.00
+Aggregate Combined Total (Undergraduate and Graduate):$22,103.00
+Student Total All Loans Outstanding Principal:$23,995.00
+Student Total All Loans Outstanding Interest:$16,062.00
+Student Pell Lifetime Eligibility Used:400.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$6,710.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$18,000.00
+Total <D1> Outstanding Interest:$11,996.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$3,874.00
+Total <D2> Outstanding Interest:$2,569.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$863.00
+Total <PU> Outstanding Interest:$642.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$1,258.00
+Total <SF> Outstanding Interest:$855.00
+Type Code:SL
+Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Total <SL> Outstanding Principal:$0.00
+Total <SL> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7337S98G01350101
+Loan Attending School Name:Colorado State University
+Loan Attending School OPEID:00135000
+Loan Date:08/27/1997
+Loan Repayment Begin Date:06/19/1999
+Loan Period Begin Date:08/25/1997
+Loan Period End Date:05/15/1998
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:09/23/2011
+Loan Outstanding Interest Balance:$3,648.00
+Loan Outstanding Interest Balance as of Date:09/23/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.24%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/19/1999
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:1998
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/01/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/31/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/19/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/25/1997
+Loan Disbursement Date:01/12/1998
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/27/1997
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7337S97G01350101
+Loan Attending School Name:Colorado State University
+Loan Attending School OPEID:00135000
+Loan Date:08/16/1996
+Loan Repayment Begin Date:06/19/1999
+Loan Period Begin Date:08/26/1996
+Loan Period End Date:05/15/1997
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:09/23/2011
+Loan Outstanding Interest Balance:$3,648.00
+Loan Outstanding Interest Balance as of Date:09/23/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.24%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/19/1999
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:1997
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/01/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/31/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/19/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/26/1996
+Loan Disbursement Date:01/11/1997
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/16/1996
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7337S96G01350101
+Loan Attending School Name:Colorado State University
+Loan Attending School OPEID:00135000
+Loan Date:08/13/1995
+Loan Repayment Begin Date:06/19/1999
+Loan Period Begin Date:08/23/1995
+Loan Period End Date:05/10/1996
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,500.00
+Loan Outstanding Principal Balance as of Date:09/23/2011
+Loan Outstanding Interest Balance:$2,322.00
+Loan Outstanding Interest Balance as of Date:09/23/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.24%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/19/1999
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:1996
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/01/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/31/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/19/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/23/1995
+Loan Disbursement Date:01/06/1996
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7337S95G01350101
+Loan Attending School Name:Colorado State University
+Loan Attending School OPEID:00135000
+Loan Date:10/11/1994
+Loan Repayment Begin Date:06/19/1999
+Loan Period Begin Date:08/22/1994
+Loan Period End Date:05/12/1995
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,500.00
+Loan Outstanding Principal Balance as of Date:09/23/2011
+Loan Outstanding Interest Balance:$2,378.00
+Loan Outstanding Interest Balance as of Date:09/23/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.24%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/19/1999
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/01/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/31/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/19/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/22/1994
+Loan Disbursement Date:12/29/1994
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7337U95G01350101
+Loan Attending School Name:Colorado State University
+Loan Attending School OPEID:00135000
+Loan Date:01/13/1995
+Loan Repayment Begin Date:06/19/1999
+Loan Period Begin Date:08/22/1994
+Loan Period End Date:05/12/1995
+Loan Amount:$2,845.00
+Loan Disbursed Amount:$2,845.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,874.00
+Loan Outstanding Principal Balance as of Date:09/23/2011
+Loan Outstanding Interest Balance:$2,569.00
+Loan Outstanding Interest Balance as of Date:09/23/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.24%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:06/19/1999
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$2,845.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,845.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/01/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/31/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/19/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/22/1994
+Loan Disbursement Date:01/13/1995
+Loan Disbursement Amount:$2,845.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****7337193001350400
+Loan Attending School Name:Colorado State University
+Loan Attending School OPEID:00135000
+Loan Date:07/30/1993
+Loan Repayment Begin Date:06/19/1999
+Loan Period Begin Date:08/23/1993
+Loan Period End Date:05/13/1994
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,258.00
+Loan Outstanding Principal Balance as of Date:09/23/2011
+Loan Outstanding Interest Balance:$855.00
+Loan Outstanding Interest Balance as of Date:09/23/2011
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.24%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,258.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/27/2006
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:08/03/2006
+Loan Status:XD
+Loan Status Description:DEFAULTED, SIX CONSECUTIVE PAYMENTS
+Loan Status Effective Date:09/22/2001
+Loan Status:DL
+Loan Status Description:DEFAULTED, IN LITIGATION
+Loan Status Effective Date:12/21/2000
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/23/2000
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/10/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/23/1993
+Loan Disbursement Date:01/04/1994
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:896577
+Loan Contact Name:US DEPT OF ED/REHABS
+Loan Contact Street Address 1:P.O. BOX 7063
+Loan Contact Street Address 2:
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(0000)
+Loan Contact Phone Number:8005081378
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****701   0000833485
+Loan Attending School Name:Colorado State University
+Loan Attending School OPEID:00135000
+Loan Date:08/04/1993
+Loan Repayment Begin Date:12/16/2000
+Loan Period Begin Date:08/23/1993
+Loan Period End Date:05/13/1994
+Loan Amount:$3,315.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$3,315.00
+Loan Canceled Date:10/18/1993
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:05/31/1994
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/31/1994
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/17/2008
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:05/31/1994
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:708
+Loan Contact Name:COLLEGE ASSIST
+Loan Contact Street Address 1:PO BOX 16408
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:866-264-8566
+Loan Contact Phone Extension:
+Loan Contact Email Address:collegeassistcustomerservice@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:801891
+Loan Contact Name:US BANK NA
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:800-242-1200
+Loan Contact Phone Extension:
+Loan Contact Email Address:studentloans@usbank.com
+Loan Contact Web Site Address:http://www.usbank.com/studentloans
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****7337995000708401
+Loan Attending School Name:Colorado State University
+Loan Attending School OPEID:00135000
+Loan Date:07/21/1993
+Loan Repayment Begin Date:10/01/1999
+Loan Period Begin Date:07/01/1993
+Loan Period End Date:05/16/1998
+Loan Amount:$2,821.00
+Loan Disbursed Amount:$2,821.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$863.00
+Loan Outstanding Principal Balance as of Date:09/23/2011
+Loan Outstanding Interest Balance:$642.00
+Loan Outstanding Interest Balance as of Date:09/23/2011
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$2,821.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/10/2022
+DelinqDate:
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/25/2009
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/01/2006
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/01/1999
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:01/01/1999
+Loan Disbursement Date:12/01/1995
+Loan Disbursement Amount:$1,035.00
+Loan Disbursement Date:08/24/1995
+Loan Disbursement Amount:$1,786.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Colorado State University
+Grant Attending School OPEID:00135000
+Grant Award Year:1997 - 1998
+Grant Scheduled Amount:$1,650.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,650.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00135000
+Grant Contact Name:Colorado State University
+Grant Contact Street Address 1:103 ADMINISTRATION ANNEX
+Grant Contact Street Address 2:1065 CAMPUS DELIVERY
+Grant Contact City:FORT COLLINS
+Grant Contact State Code:CO
+Grant Contact Zip Code:80523(1065)
+Phone Number:970-491-4958
+Phone Extension:
+Email Address:
+Web Site Address:http://sfs.colostate.edu/
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Colorado State University
+Grant Attending School OPEID:00135000
+Grant Award Year:1996 - 1997
+Grant Scheduled Amount:$1,920.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,920.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00135000
+Grant Contact Name:Colorado State University
+Grant Contact Street Address 1:103 ADMINISTRATION ANNEX
+Grant Contact Street Address 2:1065 CAMPUS DELIVERY
+Grant Contact City:FORT COLLINS
+Grant Contact State Code:CO
+Grant Contact Zip Code:80523(1065)
+Phone Number:970-491-4958
+Phone Extension:
+Email Address:
+Web Site Address:http://sfs.colostate.edu/
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Colorado State University
+Grant Attending School OPEID:00135000
+Grant Award Year:1995 - 1996
+Grant Scheduled Amount:$1,790.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,790.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00135000
+Grant Contact Name:Colorado State University
+Grant Contact Street Address 1:103 ADMINISTRATION ANNEX
+Grant Contact Street Address 2:1065 CAMPUS DELIVERY
+Grant Contact City:FORT COLLINS
+Grant Contact State Code:CO
+Grant Contact Zip Code:80523(1065)
+Phone Number:970-491-4958
+Phone Extension:
+Email Address:
+Web Site Address:http://sfs.colostate.edu/
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Colorado State University
+Grant Attending School OPEID:00135000
+Grant Award Year:1994 - 1995
+Grant Scheduled Amount:$1,350.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,350.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00135000
+Grant Contact Name:Colorado State University
+Grant Contact Street Address 1:103 ADMINISTRATION ANNEX
+Grant Contact Street Address 2:1065 CAMPUS DELIVERY
+Grant Contact City:FORT COLLINS
+Grant Contact State Code:CO
+Grant Contact Zip Code:80523(1065)
+Phone Number:970-491-4958
+Phone Extension:
+Email Address:
+Web Site Address:http://sfs.colostate.edu/
+Enrolled School Name:Colorado State University
+Enrolled School OPEID:00135000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/18/1998

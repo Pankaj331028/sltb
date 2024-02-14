@@ -1,0 +1,643 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-05-05 23:18:36
+Student First Name:CHERYL
+Student Middle Initial:E
+Student Last Name:KRAYNAK
+Student Street Address 1:65 LAUREL STREET
+Student Street Address 2:
+Student City:PUTNAM
+Student State Code:CT
+Student Country Code:US
+Student Zip Code:06260
+Student Email Address:C_KRAYNAK@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:8609417412
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:8609417412
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:NOT AVAILABLE
+Student Enrollment Status Effective Date:
+Undergraduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Award Year:1994
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$13,240.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$13,240.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$13,240.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Combined Total (Undergraduate and Graduate):$13,240.00
+Student Total All Loans Outstanding Principal:$18,760.00
+Student Total All Loans Outstanding Interest:$8,941.00
+Student Pell Lifetime Eligibility Used:250.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$1,525.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$18,760.00
+Total <CL> Outstanding Interest:$8,941.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****90000Z3MI56101
+Loan Attending School Name:Webster University
+Loan Attending School OPEID:00252100
+Loan Date:05/13/1994
+Loan Repayment Begin Date:07/01/1995
+Loan Period Begin Date:06/06/1994
+Loan Period End Date:12/17/1994
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/16/1995
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/16/1995
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1994
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/17/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:06/06/1994
+Loan Disbursement Date:10/19/1994
+Loan Disbursement Amount:$5,500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:709
+Loan Contact Name:CONNECTICUT STUDENT LOAN FOUNDATION
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:899993
+Loan Contact Name:SLMA/LSC NEW ENGLAND
+Loan Contact Street Address 1:P.O. BOX 9500
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18773(9500)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:NONE
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****90000Z3MI56001
+Loan Attending School Name:Webster University
+Loan Attending School OPEID:00252100
+Loan Date:08/04/1993
+Loan Repayment Begin Date:07/01/1995
+Loan Period Begin Date:06/07/1993
+Loan Period End Date:05/06/1994
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/16/1995
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/16/1995
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/17/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:06/07/1993
+Loan Disbursement Date:01/12/1994
+Loan Disbursement Amount:$5,500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:709
+Loan Contact Name:CONNECTICUT STUDENT LOAN FOUNDATION
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:899993
+Loan Contact Name:SLMA/LSC NEW ENGLAND
+Loan Contact Street Address 1:P.O. BOX 9500
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18773(9500)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:NONE
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****90000Z3MI55Z01
+Loan Attending School Name:Webster University
+Loan Attending School OPEID:00252100
+Loan Date:05/07/1992
+Loan Repayment Begin Date:07/01/1995
+Loan Period Begin Date:08/24/1992
+Loan Period End Date:05/07/1993
+Loan Amount:$2,240.00
+Loan Disbursed Amount:$2,240.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/16/1995
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/16/1995
+Loan Interest Rate Type Code:8
+Loan Interest Rate Type Description:8/10
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$2,240.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PC
+Current Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PC
+Loan Status Description:PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/17/1995
+Loan Status:ID
+Loan Status Description:IN SCHOOL OR GRACE PERIOD
+Loan Status Effective Date:08/24/1992
+Loan Disbursement Date:01/11/1993
+Loan Disbursement Amount:$2,240.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:709
+Loan Contact Name:CONNECTICUT STUDENT LOAN FOUNDATION
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:899993
+Loan Contact Name:SLMA/LSC NEW ENGLAND
+Loan Contact Street Address 1:P.O. BOX 9500
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18773(9500)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:NONE
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****295805423*1
+Loan Attending School Name:Webster University
+Loan Attending School OPEID:00252100
+Loan Date:08/01/1992
+Loan Repayment Begin Date:10/02/1995
+Loan Period Begin Date:07/01/1992
+Loan Period End Date:06/30/1993
+Loan Amount:$1,500.00
+Loan Disbursed Amount:$1,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/05/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1993
+Capitalized Interest:$0.00
+Net Loan Amount:$1,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/06/2018
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:03/01/2018
+Loan Disbursement Date:01/01/1993
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Attending School
+Loan Contact Code:00252100
+Loan Contact Name:Webster University
+Loan Contact Street Address 1:470 E. LOCKWOOD AVE
+Loan Contact Street Address 2:
+Loan Contact City:SAINT LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63119(3141)
+Loan Contact Phone Number:314-968-6992
+Loan Contact Phone Extension:
+Loan Contact Email Address:soutiesr@webster.edu
+Loan Contact Web Site Address:http://www.webster.edu
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:
+Loan Attending School Name:Three Rivers Community College
+Loan Attending School OPEID:00976500
+Loan Date:11/20/1991
+Loan Repayment Begin Date:03/01/1995
+Loan Period Begin Date:01/01/1900
+Loan Period End Date:01/01/1900
+Loan Amount:$1,200.00
+Loan Disbursed Amount:$1,200.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/19/1995
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1900
+Capitalized Interest:$0.00
+Net Loan Amount:$1,200.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:07/19/1995
+Loan Disbursement Date:04/13/1992
+Loan Disbursement Amount:$1,200.00
+Loan Contact Type:Attending School
+Loan Contact Code:00976500
+Loan Contact Name:Three Rivers Community College
+Loan Contact Street Address 1:574 New London Turnpike
+Loan Contact Street Address 2:
+Loan Contact City:Norwich
+Loan Contact State Code:CT
+Loan Contact Zip Code:06360
+Loan Contact Phone Number:860-215-9259
+Loan Contact Phone Extension:
+Loan Contact Email Address:hkovic@threerivers.edu
+Loan Contact Web Site Address:https://www.threerivers.edu/
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****542390
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:05/21/1995
+Loan Repayment Begin Date:05/31/1995
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$16,168.00
+Loan Disbursed Amount:$16,168.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$18,760.00
+Loan Outstanding Principal Balance as of Date:03/31/2023
+Loan Outstanding Interest Balance:$8,941.00
+Loan Outstanding Interest Balance as of Date:03/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1995
+Capitalized Interest:$0.00
+Net Loan Amount:$16,168.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$13,240.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$13,240.00
+UpdtDt:04/11/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/11/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/24/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/01/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/04/2009
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/15/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/27/2008
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/21/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/23/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/23/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/31/1995
+Loan Disbursement Date:05/31/1995
+Loan Disbursement Amount:$16,168.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:755
+Loan Contact Name:ASCENDIUM EDUCATION SOLUTIONS, INC
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.ascendiumeducation.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Webster University
+Grant Attending School OPEID:00252100
+Grant Award Year:1994 - 1995
+Grant Scheduled Amount:$750.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$375.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00252100
+Grant Contact Name:Webster University
+Grant Contact Street Address 1:470 E. LOCKWOOD AVE
+Grant Contact Street Address 2:
+Grant Contact City:SAINT LOUIS
+Grant Contact State Code:MO
+Grant Contact Zip Code:63119(3141)
+Phone Number:314-968-6992
+Phone Extension:
+Email Address:soutiesr@webster.edu
+Web Site Address:http://www.webster.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Webster University
+Grant Attending School OPEID:00252100
+Grant Award Year:1993 - 1994
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$0.00
+Grant Disbursed Amount:$1,150.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00252100
+Grant Contact Name:Webster University
+Grant Contact Street Address 1:470 E. LOCKWOOD AVE
+Grant Contact Street Address 2:
+Grant Contact City:SAINT LOUIS
+Grant Contact State Code:MO
+Grant Contact Zip Code:63119(3141)
+Phone Number:314-968-6992
+Phone Extension:
+Email Address:soutiesr@webster.edu
+Web Site Address:http://www.webster.edu

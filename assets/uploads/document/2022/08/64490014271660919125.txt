@@ -1,0 +1,687 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-08-19 10:23:54
+Student First Name:ROBERT
+Student Middle Initial:M
+Student Last Name:BRALAND
+Student Street Address 1:4413 CLAYBROOKE DR
+Student Street Address 2:
+Student City:LOTHIAN
+Student State Code:MD
+Student Country Code:US
+Student Zip Code:207112303
+Student Email Address:ROBERTBRALAND@HOTMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4108679452
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2406952386
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:4104975947
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:H
+Student Enrollment Status Code Description:HALF TIME
+Student Enrollment Status Effective Date:01/10/2022
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2015
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$5,500.00
+Undergraduate Aggregate Combined Total:$5,500.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2021
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$41,000.00
+Graduate Aggregate Combined Total:$41,000.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$46,500.00
+Aggregate Combined Total (Undergraduate and Graduate):$46,500.00
+Student Total All Loans Outstanding Principal:$75,663.00
+Student Total All Loans Outstanding Interest:$0.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$0.00
+Total <D3> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$75,663.00
+Total <D5> Outstanding Interest:$0.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9863U21G02102001
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:08/20/2020
+Loan Repayment Begin Date:02/17/2022
+Loan Period Begin Date:08/24/2020
+Loan Period End Date:05/12/2021
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/17/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/17/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.30%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:01/09/2022
+Loan Repayment Plan Scheduled Amount:$211.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:03/26/2022
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/17/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/24/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2020
+Loan Disbursement Date:01/26/2021
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/20/2020
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****9863P21G02102002
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:09/10/2020
+Loan Repayment Begin Date:01/26/2021
+Loan Period Begin Date:08/24/2020
+Loan Period End Date:05/12/2021
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/17/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/17/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.30%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/28/2021
+Loan Repayment Plan Scheduled Amount:$55.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/08/2021
+Loan Next Payment Due Date:05/31/2022
+Loan Cumulative Payment Amount:$36.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/10/2020
+Loan Disbursement Date:01/26/2021
+Loan Disbursement Amount:$2,500.00
+Loan Disbursement Date:09/10/2020
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****9863P21G02102001
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:08/20/2020
+Loan Repayment Begin Date:01/26/2021
+Loan Period Begin Date:08/24/2020
+Loan Period End Date:05/12/2021
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/17/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/17/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.30%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/28/2021
+Loan Repayment Plan Scheduled Amount:$110.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/08/2021
+Loan Next Payment Due Date:05/31/2022
+Loan Cumulative Payment Amount:$71.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/26/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2020
+Loan Disbursement Date:01/26/2021
+Loan Disbursement Amount:$5,000.00
+Loan Disbursement Date:08/20/2020
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9863U20G02102002
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:08/12/2019
+Loan Repayment Begin Date:02/17/2022
+Loan Period Begin Date:08/19/2019
+Loan Period End Date:05/13/2020
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/17/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/17/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.08%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:01/09/2022
+Loan Repayment Plan Scheduled Amount:$235.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:03/26/2022
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/17/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/24/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/2019
+Loan Disbursement Date:01/06/2020
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/12/2019
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****9863P20G02102002
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:09/09/2019
+Loan Repayment Begin Date:01/06/2020
+Loan Period Begin Date:08/19/2019
+Loan Period End Date:05/13/2020
+Loan Amount:$12,568.00
+Loan Disbursed Amount:$12,568.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/17/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/17/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.08%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/28/2021
+Loan Repayment Plan Scheduled Amount:$155.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/08/2021
+Loan Next Payment Due Date:05/31/2022
+Loan Cumulative Payment Amount:$100.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$12,568.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/06/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/09/2019
+Loan Disbursement Date:01/06/2020
+Loan Disbursement Amount:$6,284.00
+Loan Disbursement Date:09/09/2019
+Loan Disbursement Amount:$6,284.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9863U15G02102001
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:09/10/2014
+Loan Repayment Begin Date:02/17/2022
+Loan Period Begin Date:08/27/2014
+Loan Period End Date:05/20/2015
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/17/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/17/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:01/09/2022
+Loan Repayment Plan Scheduled Amount:$68.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/08/2021
+Loan Next Payment Due Date:03/26/2022
+Loan Cumulative Payment Amount:$343.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:02/17/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/24/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/10/2014
+Loan Disbursement Date:02/09/2015
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/10/2014
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****9863U22G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:02/17/2022
+Loan Repayment Begin Date:02/17/2022
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$75,663.00
+Loan Disbursed Amount:$75,663.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$75,663.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.50%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/28/2022
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/16/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$75,663.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$46,500.00
+Calculated Combined Aggregate OPB:$46,500.00
+UpdtDt:08/10/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/13/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/17/2022
+Loan Disbursement Date:02/17/2022
+Loan Disbursement Amount:$75,663.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:University of Baltimore
+Program School OPEID:00210200
+Program Cip Year:2020
+Program Cip Code:220101
+Program CIP Title:Law.
+Program Credential Level Code:07
+Program Credential Level Code Description:FIRST PROFESSIONAL DEGREE
+Program Begin Date:08/20/2018
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/12/2021
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/11/2021
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/24/2020
+Program School Name:Salisbury University
+Program School OPEID:00209100
+Program Cip Year:2010
+Program Cip Code:090101
+Program CIP Title:Speech Communication and Rhetoric.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/31/2015
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/23/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/29/2018
+Program School Name:University of Baltimore
+Program School OPEID:00210200
+Program Cip Year:2010
+Program Cip Code:230101
+Program CIP Title:English Language and Literature, General.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:06/16/2014
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/16/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/26/2015
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:08/20/2020
+Award Loan Period Begin Date:08/24/2020
+Award Loan Period End Date:05/12/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:09/10/2020
+Award Loan Period Begin Date:08/24/2020
+Award Loan Period End Date:05/12/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:08/20/2020
+Award Loan Period Begin Date:08/24/2020
+Award Loan Period End Date:05/12/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:09/09/2019
+Award Loan Period Begin Date:08/19/2019
+Award Loan Period End Date:05/13/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:08/12/2019
+Award Loan Period Begin Date:08/19/2019
+Award Loan Period End Date:05/13/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:09/10/2014
+Award Loan Period Begin Date:08/27/2014
+Award Loan Period End Date:05/20/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Baltimore
+Enrolled School OPEID:00210200
+Enrolled Status Code:H
+Enrolled Status Code Description:HALF TIME
+Enrolled Status Date:01/10/2022
+Enrolled School Name:Salisbury University
+Enrolled School OPEID:00209100
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/23/2018

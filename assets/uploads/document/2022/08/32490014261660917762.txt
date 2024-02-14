@@ -1,0 +1,1646 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-08-19 10:02:10
+Student First Name:JACOB
+Student Middle Initial:H
+Student Last Name:ZIFF
+Student Street Address 1:111 ST. ANDREWS RD
+Student Street Address 2:
+Student City:SEVERNA PARK
+Student State Code:MD
+Student Country Code:US
+Student Zip Code:21146
+Student Email Address:JACOB.H.ZIFF@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4437585054
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:4437585054
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:4437585054
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/18/2016
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:C
+Undergraduate Award Year:2016
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$8,895.00
+Undergraduate Aggregate Unsubsidized Total:$21,851.00
+Undergraduate Aggregate Combined Total:$30,746.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2020
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$41,000.00
+Graduate Aggregate Combined Total:$41,000.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$8,895.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$62,851.00
+Aggregate Combined Total (Undergraduate and Graduate):$71,746.00
+Student Total All Loans Outstanding Principal:$164,468.00
+Student Total All Loans Outstanding Interest:$16,780.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$6,000.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$9,030.00
+Total <D1> Outstanding Interest:$79.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$66,112.00
+Total <D2> Outstanding Interest:$7,071.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$81,216.00
+Total <D3> Outstanding Interest:$8,115.00
+Type Code:D8
+Type Description:DIRECT UNSUBSIDIZED (TEACH)
+Total <D8> Outstanding Principal:$8,110.00
+Total <D8> Outstanding Interest:$1,515.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2051U20G02102002
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:08/12/2019
+Loan Repayment Begin Date:11/14/2020
+Loan Period Begin Date:08/19/2019
+Loan Period End Date:05/13/2020
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,500.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$479.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.08%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$41.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/14/2020
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/2019
+Loan Disbursement Date:01/06/2020
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/12/2019
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****2051P20G02102002
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:08/13/2019
+Loan Repayment Begin Date:01/06/2020
+Loan Period Begin Date:08/19/2019
+Loan Period End Date:05/13/2020
+Loan Amount:$25,000.00
+Loan Disbursed Amount:$25,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$25,000.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$678.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.08%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$50.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$25,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/06/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/13/2019
+Loan Disbursement Date:01/06/2020
+Loan Disbursement Amount:$12,500.00
+Loan Disbursement Date:08/13/2019
+Loan Disbursement Amount:$12,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****2051P19G02102001
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:08/12/2018
+Loan Repayment Begin Date:01/01/2019
+Loan Period Begin Date:08/20/2018
+Loan Period End Date:05/16/2019
+Loan Amount:$31,694.00
+Loan Disbursed Amount:$31,694.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$31,694.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$3,351.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$68.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$31,694.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/01/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/2018
+Loan Disbursement Date:01/01/2019
+Loan Disbursement Amount:$15,847.00
+Loan Disbursement Date:08/12/2018
+Loan Disbursement Amount:$15,847.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2051U18G02102001
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:08/14/2017
+Loan Repayment Begin Date:11/14/2020
+Loan Period Begin Date:08/21/2017
+Loan Period End Date:05/17/2018
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,500.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$2,928.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$46.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/14/2020
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2017
+Loan Disbursement Date:01/07/2018
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/14/2017
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****2051P18G02102001
+Loan Attending School Name:University of Baltimore
+Loan Attending School OPEID:00210200
+Loan Date:08/14/2017
+Loan Repayment Begin Date:01/07/2018
+Loan Period Begin Date:08/21/2017
+Loan Period End Date:05/17/2018
+Loan Amount:$24,522.00
+Loan Disbursed Amount:$24,522.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$24,522.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$4,086.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$56.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$24,522.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/07/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2017
+Loan Disbursement Date:01/07/2018
+Loan Disbursement Amount:$12,261.00
+Loan Disbursement Date:08/14/2017
+Loan Disbursement Amount:$12,261.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2051U16G02103001
+Loan Attending School Name:University of Maryland, College Park
+Loan Attending School OPEID:00210300
+Loan Date:08/21/2015
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:08/31/2015
+Loan Period End Date:05/10/2016
+Loan Amount:$6,950.00
+Loan Disbursed Amount:$6,950.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,262.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$874.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$158.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$356.00
+Net Loan Amount:$6,950.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,906.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2015
+Loan Disbursement Date:01/15/2016
+Loan Disbursement Amount:$3,475.00
+Loan Disbursement Date:08/21/2015
+Loan Disbursement Amount:$3,475.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2051S15G02103001
+Loan Attending School Name:University of Maryland, College Park
+Loan Attending School OPEID:00210300
+Loan Date:08/25/2014
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:09/02/2014
+Loan Period End Date:05/13/2015
+Loan Amount:$950.00
+Loan Disbursed Amount:$950.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$945.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$8.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$2.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$30.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$6.00
+Net Loan Amount:$950.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$939.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2014
+Loan Disbursement Date:01/16/2015
+Loan Disbursement Amount:$475.00
+Loan Disbursement Date:08/25/2014
+Loan Disbursement Amount:$475.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2051U15G02103001
+Loan Attending School Name:University of Maryland, College Park
+Loan Attending School OPEID:00210300
+Loan Date:08/25/2014
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:09/02/2014
+Loan Period End Date:05/13/2015
+Loan Amount:$6,550.00
+Loan Disbursed Amount:$6,550.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,172.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$937.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$170.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$670.00
+Net Loan Amount:$6,550.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,502.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2014
+Loan Disbursement Date:01/16/2015
+Loan Disbursement Amount:$3,275.00
+Loan Disbursement Date:08/25/2014
+Loan Disbursement Amount:$3,275.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2051S14G02103001
+Loan Attending School Name:University of Maryland, College Park
+Loan Attending School OPEID:00210300
+Loan Date:08/21/2013
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:09/03/2013
+Loan Period End Date:05/13/2014
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,587.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$43.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$9.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$90.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$112.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,475.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2013
+Loan Disbursement Date:01/17/2014
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:08/21/2013
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2051U14G02103001
+Loan Attending School Name:University of Maryland, College Park
+Loan Attending School OPEID:00210300
+Loan Date:08/21/2013
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:09/03/2013
+Loan Period End Date:05/13/2014
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,235.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$242.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$5.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$44.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$247.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,988.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2013
+Loan Disbursement Date:01/17/2014
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/21/2013
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2051U13G02058001
+Loan Attending School Name:Anne Arundel Community College
+Loan Attending School OPEID:00205800
+Loan Date:02/04/2013
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:01/23/2013
+Loan Period End Date:05/19/2013
+Loan Amount:$1,800.00
+Loan Disbursed Amount:$1,800.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,251.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$429.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$5.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$74.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$476.00
+Net Loan Amount:$1,800.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,775.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/04/2013
+Loan Disbursement Date:02/04/2013
+Loan Disbursement Amount:$1,800.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D8
+Loan Type Description:DIRECT UNSUBSIDIZED (TEACH)
+Loan Award ID:*****2051H13001585001
+Loan Attending School Name:University of North Georgia
+Loan Attending School OPEID:00158500
+Loan Date:03/21/2012
+Loan Repayment Begin Date:05/19/2017
+Loan Period Begin Date:09/17/2012
+Loan Period End Date:09/17/2013
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,623.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$490.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$6.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$13.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$624.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/19/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/21/2012
+Loan Disbursement Date:09/17/2012
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2051U13G01585001
+Loan Attending School Name:University of North Georgia
+Loan Attending School OPEID:00158500
+Loan Date:08/26/2012
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:08/20/2012
+Loan Period End Date:05/02/2013
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,521.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$672.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$8.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$118.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$811.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,710.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/26/2012
+Loan Disbursement Date:08/26/2012
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D8
+Loan Type Description:DIRECT UNSUBSIDIZED (TEACH)
+Loan Award ID:*****2051H12001585001
+Loan Attending School Name:University of North Georgia
+Loan Attending School OPEID:00158500
+Loan Date:08/24/2011
+Loan Repayment Begin Date:05/19/2017
+Loan Period Begin Date:08/24/2011
+Loan Period End Date:08/24/2012
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,487.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$1,025.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$13.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$28.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$1,488.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/19/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2011
+Loan Disbursement Date:01/05/2012
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:08/24/2011
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2051S12G01585001
+Loan Attending School Name:University of North Georgia
+Loan Attending School OPEID:00158500
+Loan Date:08/24/2011
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:08/17/2011
+Loan Period End Date:04/28/2012
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,498.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$28.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$7.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$64.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$17.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,481.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2011
+Loan Disbursement Date:01/16/2012
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/24/2011
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2051U12G01585001
+Loan Attending School Name:University of North Georgia
+Loan Attending School OPEID:00158500
+Loan Date:08/24/2011
+Loan Repayment Begin Date:11/19/2016
+Loan Period Begin Date:08/17/2011
+Loan Period End Date:04/28/2012
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,671.00
+Loan Outstanding Principal Balance as of Date:07/31/2022
+Loan Outstanding Interest Balance:$510.00
+Loan Outstanding Interest Balance as of Date:07/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:03/25/2022
+Loan Repayment Plan Scheduled Amount:$6.00
+Loan Repayment Plan IDR Plan Anniversary Date:04/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/14/2017
+Loan Next Payment Due Date:09/30/2022
+Loan Cumulative Payment Amount:$90.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$701.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,970.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/10/2022
+DelinqDate:07/11/2017
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/14/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/10/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/19/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/19/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2011
+Loan Disbursement Date:01/16/2012
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/24/2011
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:579
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30353(0210)
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:http://myfedloan.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:TG
+Grant Type Code Description:TEACH GRANT
+Grant Attending School Name:University of North Georgia
+Grant Attending School OPEID:00158500
+Grant Award Year:2012 - 2013
+Grant Scheduled Amount:$0.00
+Grant Award Amount:$2,000.00
+Grant Disbursed Amount:$2,000.00
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Award ID:*****2051H13001585001
+Conversion Date:11/25/2016
+Children Of Fallen Heroes Indicator:
+Aid Recipient's Percent Eligibility Used (EU):
+Aid Recipient's Total Percent Eligibility Used (TEU):
+Grant Contact Type:Attending School
+Grant Contact Code:00158500
+Grant Contact Name:University of North Georgia
+Grant Contact Street Address 1:OFFICE OF FINANCIAL AID
+Grant Contact Street Address 2:
+Grant Contact City:DAHLONEGA
+Grant Contact State Code:GA
+Grant Contact Zip Code:30597
+Phone Number:706-864-1688
+Phone Extension:
+Email Address:jill.rayner@ung.edu
+Web Site Address:
+Grant Type Code:TG
+Grant Type Code Description:TEACH GRANT
+Grant Attending School Name:University of North Georgia
+Grant Attending School OPEID:00158500
+Grant Award Year:2011 - 2012
+Grant Scheduled Amount:$0.00
+Grant Award Amount:$4,000.00
+Grant Disbursed Amount:$4,000.00
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Award ID:*****2051H12001585001
+Conversion Date:11/25/2016
+Children Of Fallen Heroes Indicator:
+Aid Recipient's Percent Eligibility Used (EU):
+Aid Recipient's Total Percent Eligibility Used (TEU):
+Grant Contact Type:Attending School
+Grant Contact Code:00158500
+Grant Contact Name:University of North Georgia
+Grant Contact Street Address 1:OFFICE OF FINANCIAL AID
+Grant Contact Street Address 2:
+Grant Contact City:DAHLONEGA
+Grant Contact State Code:GA
+Grant Contact Zip Code:30597
+Phone Number:706-864-1688
+Phone Extension:
+Email Address:jill.rayner@ung.edu
+Web Site Address:
+Program School Name:University of Baltimore
+Program School OPEID:00210200
+Program Cip Year:2010
+Program Cip Code:220101
+Program CIP Title:Law.
+Program Credential Level Code:07
+Program Credential Level Code Description:FIRST PROFESSIONAL DEGREE
+Program Begin Date:08/21/2017
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/13/2020
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/13/2020
+Program School Name:University of Maryland, College Park
+Program School OPEID:00210300
+Program Cip Year:2010
+Program Cip Code:090101
+Program CIP Title:Speech Communication and Rhetoric.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:09/02/2014
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/18/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/25/2016
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:08/12/2019
+Award Loan Period Begin Date:08/19/2019
+Award Loan Period End Date:05/13/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:08/13/2019
+Award Loan Period Begin Date:08/19/2019
+Award Loan Period End Date:05/13/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:08/12/2018
+Award Loan Period Begin Date:08/20/2018
+Award Loan Period End Date:05/16/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:08/14/2017
+Award Loan Period Begin Date:08/21/2017
+Award Loan Period End Date:05/17/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Baltimore
+Award School OPEID:00210200
+Award Earliest Disbursement Date:08/14/2017
+Award Loan Period Begin Date:08/21/2017
+Award Loan Period End Date:05/17/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland, College Park
+Award School OPEID:00210300
+Award Earliest Disbursement Date:08/21/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:05/10/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland, College Park
+Award School OPEID:00210300
+Award Earliest Disbursement Date:09/25/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:05/10/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland, College Park
+Award School OPEID:00210300
+Award Earliest Disbursement Date:01/06/2016
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:05/10/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland, College Park
+Award School OPEID:00210300
+Award Earliest Disbursement Date:08/25/2014
+Award Loan Period Begin Date:09/02/2014
+Award Loan Period End Date:05/13/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland, College Park
+Award School OPEID:00210300
+Award Earliest Disbursement Date:08/25/2014
+Award Loan Period Begin Date:09/02/2014
+Award Loan Period End Date:05/13/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland, College Park
+Award School OPEID:00210300
+Award Earliest Disbursement Date:02/14/2014
+Award Loan Period Begin Date:01/27/2014
+Award Loan Period End Date:05/13/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland, College Park
+Award School OPEID:00210300
+Award Earliest Disbursement Date:08/21/2013
+Award Loan Period Begin Date:09/03/2013
+Award Loan Period End Date:05/13/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Maryland, College Park
+Award School OPEID:00210300
+Award Earliest Disbursement Date:08/21/2013
+Award Loan Period Begin Date:09/03/2013
+Award Loan Period End Date:05/13/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Anne Arundel Community College
+Award School OPEID:00205800
+Award Earliest Disbursement Date:02/04/2013
+Award Loan Period Begin Date:01/23/2013
+Award Loan Period End Date:05/19/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Georgia
+Award School OPEID:00158500
+Award Earliest Disbursement Date:08/26/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:05/02/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Georgia
+Award School OPEID:00158500
+Award Earliest Disbursement Date:08/26/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:05/02/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Georgia
+Award School OPEID:00158500
+Award Earliest Disbursement Date:08/24/2011
+Award Loan Period Begin Date:08/17/2011
+Award Loan Period End Date:04/28/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Georgia
+Award School OPEID:00158500
+Award Earliest Disbursement Date:08/24/2011
+Award Loan Period Begin Date:08/17/2011
+Award Loan Period End Date:04/28/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Baltimore
+Enrolled School OPEID:00210200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/13/2020
+Enrolled School Name:University of Maryland, College Park
+Enrolled School OPEID:00210300
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/18/2016
+Enrolled School Name:Anne Arundel Community College
+Enrolled School OPEID:00205800
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/19/2013
+Enrolled School Name:University of North Georgia
+Enrolled School OPEID:00158500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/13/2012

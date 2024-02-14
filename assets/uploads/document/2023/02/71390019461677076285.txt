@@ -1,0 +1,1028 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-22 09:31:09
+Student First Name:EMILY
+Student Middle Initial:A
+Student Last Name:STREET
+Student Street Address 1:2128 GILLES ST
+Student Street Address 2:
+Student City:WILMINGTON
+Student State Code:DE
+Student Country Code:US
+Student Zip Code:19805
+Student Email Address:ESTREET4@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:6104703151
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6107172559
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/09/2018
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2018
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$17,387.00
+Undergraduate Aggregate Unsubsidized Total:$5,899.00
+Undergraduate Aggregate Combined Total:$23,286.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$17,387.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$5,899.00
+Aggregate Combined Total (Undergraduate and Graduate):$23,286.00
+Student Total All Loans Outstanding Principal:$24,116.00
+Student Total All Loans Outstanding Interest:$69.00
+Student Pell Lifetime Eligibility Used:200.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$4,405.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$0.00
+Total <D0> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$6,597.00
+Total <D5> Outstanding Interest:$19.00
+Type Code:D9
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED (SULA ELIGIBLE)
+Total <D9> Outstanding Principal:$17,387.00
+Total <D9> Outstanding Interest:$50.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$132.00
+Total <PU> Outstanding Interest:$0.00
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4056S18G03371001
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:08/23/2017
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:08/28/2017
+Loan Period End Date:05/09/2018
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.45%
+Loan Actual Interest Rate:4.45%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/10/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/11/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/08/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/23/2017
+Loan Disbursement Date:01/10/2018
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/23/2017
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4056U18G03371001
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:08/23/2017
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:08/28/2017
+Loan Period End Date:05/09/2018
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.45%
+Loan Actual Interest Rate:4.45%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/10/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/11/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/08/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/23/2017
+Loan Disbursement Date:01/10/2018
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/23/2017
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4056S17G03371001
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:08/24/2016
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:08/29/2016
+Loan Period End Date:05/10/2017
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/10/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/11/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/08/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2016
+Loan Disbursement Date:01/11/2017
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:08/24/2016
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4056U17G03371001
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:08/24/2016
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:08/29/2016
+Loan Period End Date:05/10/2017
+Loan Amount:$266.00
+Loan Disbursed Amount:$266.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/10/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$266.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/11/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/08/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2016
+Loan Disbursement Date:01/11/2017
+Loan Disbursement Amount:$133.00
+Loan Disbursement Date:08/24/2016
+Loan Disbursement Amount:$133.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****1459648-2016
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:08/25/2016
+Loan Repayment Begin Date:02/02/2019
+Loan Period Begin Date:07/01/2016
+Loan Period End Date:06/30/2017
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$132.00
+Loan Outstanding Principal Balance as of Date:02/09/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/14/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/25/2023
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/02/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2016
+Loan Disbursement Date:01/12/2017
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Attending School
+Loan Contact Code:00337100
+Loan Contact Name:Temple University
+Loan Contact Street Address 1:TEMPLE UNIVERSITY
+Loan Contact Street Address 2:1801 BROAD STREET
+Loan Contact City:PHILADELPHIA
+Loan Contact State Code:PA
+Loan Contact Zip Code:19122
+Loan Contact Phone Number:215-204-8760
+Loan Contact Phone Extension:
+Loan Contact Email Address:emilie.vantriestel@temple.edu
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4056S16G03371001
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:08/19/2015
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:08/24/2015
+Loan Period End Date:05/04/2016
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.29%
+Loan Actual Interest Rate:4.29%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/10/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/11/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/08/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2015
+Loan Disbursement Date:01/06/2016
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:08/19/2015
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4056U16G03371001
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:08/19/2015
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:08/24/2015
+Loan Period End Date:05/04/2016
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.29%
+Loan Actual Interest Rate:4.29%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/10/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/11/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/08/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2015
+Loan Disbursement Date:01/06/2016
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/19/2015
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4056S15G03371001
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:09/30/2014
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:05/06/2015
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.66%
+Loan Actual Interest Rate:4.66%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/10/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/11/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/08/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/30/2014
+Loan Disbursement Date:01/07/2015
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:09/30/2014
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4056U15G03371001
+Loan Attending School Name:Temple University
+Loan Attending School OPEID:00337100
+Loan Date:09/30/2014
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:05/06/2015
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/08/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/08/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.66%
+Loan Actual Interest Rate:4.66%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/10/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/11/2018
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/08/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/30/2014
+Loan Disbursement Date:01/07/2015
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:09/30/2014
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****4056U19G77778302
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:11/08/2018
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$7,007.00
+Loan Disbursed Amount:$7,007.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,597.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$19.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.38%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/30/2019
+Loan Repayment Plan Scheduled Amount:$54.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/22/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/18/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$787.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$7,007.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,899.00
+Calculated Combined Aggregate OPB:$5,899.00
+UpdtDt:02/06/2023
+DelinqDate:03/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/12/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2018
+Loan Disbursement Date:11/08/2018
+Loan Disbursement Amount:$7,007.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D9
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4056S19G77778302
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:11/08/2018
+Loan Repayment Begin Date:11/08/2018
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$18,000.00
+Loan Disbursed Amount:$18,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$17,387.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$50.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.38%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:11/30/2019
+Loan Repayment Plan Scheduled Amount:$141.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/22/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/18/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,587.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$18,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$17,387.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$17,387.00
+UpdtDt:02/06/2023
+DelinqDate:03/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/12/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2018
+Loan Disbursement Date:11/08/2018
+Loan Disbursement Amount:$18,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Temple University
+Grant Attending School OPEID:00337100
+Grant Award Year:2015 - 2016
+Grant Scheduled Amount:$1,325.00
+Grant Award Amount:$1,325.00
+Grant Disbursed Amount:$1,325.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00337100
+Grant Contact Name:Temple University
+Grant Contact Street Address 1:TEMPLE UNIVERSITY
+Grant Contact Street Address 2:1801 BROAD STREET
+Grant Contact City:PHILADELPHIA
+Grant Contact State Code:PA
+Grant Contact Zip Code:19122
+Phone Number:215-204-8760
+Phone Extension:
+Email Address:emilie.vantriestel@temple.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Temple University
+Grant Attending School OPEID:00337100
+Grant Award Year:2014 - 2015
+Grant Scheduled Amount:$3,080.00
+Grant Award Amount:$3,080.00
+Grant Disbursed Amount:$3,080.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00337100
+Grant Contact Name:Temple University
+Grant Contact Street Address 1:TEMPLE UNIVERSITY
+Grant Contact Street Address 2:1801 BROAD STREET
+Grant Contact City:PHILADELPHIA
+Grant Contact State Code:PA
+Grant Contact Zip Code:19122
+Phone Number:215-204-8760
+Phone Extension:
+Email Address:emilie.vantriestel@temple.edu
+Web Site Address:
+Program School Name:Temple University
+Program School OPEID:00337100
+Program Cip Year:2010
+Program Cip Code:090903
+Program CIP Title:Advertising.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:06/20/2016
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/09/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:06/20/2016
+Program School Name:Temple University
+Program School OPEID:00337100
+Program Cip Year:2010
+Program Cip Code:500701
+Program CIP Title:Art/Art Studies, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/25/2014
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:06/20/2016
+Award School Name:Temple University
+Award School OPEID:00337100
+Award Earliest Disbursement Date:08/23/2017
+Award Loan Period Begin Date:08/28/2017
+Award Loan Period End Date:05/09/2018
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Temple University
+Award School OPEID:00337100
+Award Earliest Disbursement Date:08/23/2017
+Award Loan Period Begin Date:08/28/2017
+Award Loan Period End Date:05/09/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Temple University
+Award School OPEID:00337100
+Award Earliest Disbursement Date:08/24/2016
+Award Loan Period Begin Date:08/29/2016
+Award Loan Period End Date:05/10/2017
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Temple University
+Award School OPEID:00337100
+Award Earliest Disbursement Date:08/24/2016
+Award Loan Period Begin Date:08/29/2016
+Award Loan Period End Date:05/10/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Temple University
+Award School OPEID:00337100
+Award Earliest Disbursement Date:08/19/2015
+Award Loan Period Begin Date:08/24/2015
+Award Loan Period End Date:05/04/2016
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Temple University
+Award School OPEID:00337100
+Award Earliest Disbursement Date:08/19/2015
+Award Loan Period Begin Date:08/24/2015
+Award Loan Period End Date:05/04/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Temple University
+Award School OPEID:00337100
+Award Earliest Disbursement Date:09/30/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:05/06/2015
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Temple University
+Award School OPEID:00337100
+Award Earliest Disbursement Date:09/30/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:05/06/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Temple University
+Enrolled School OPEID:00337100
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/09/2018

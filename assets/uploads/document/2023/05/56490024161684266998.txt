@@ -1,0 +1,782 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-05-15 15:37:16
+Student First Name:DONALD
+Student Middle Initial:D
+Student Last Name:FAIRMAN
+Student Street Address 1:1240 EL MIRASOL LOOP
+Student Street Address 2:APT 302
+Student City:DAVENPORT
+Student State Code:FL
+Student Country Code:US
+Student Zip Code:338965783
+Student Email Address:DFAIRMAN124@SBCGLOBAL.NET
+Student Home Phone Country Code:1
+Student Home Phone Number:8136145626
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7146020804
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:1
+Student Work Phone Number:7142828450
+Student Work Phone Preferred:No
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/04/2018
+Undergraduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Award Year:2019
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$14,573.00
+Undergraduate Aggregate Unsubsidized Total:$1,874.00
+Undergraduate Aggregate Combined Total:$16,447.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$14,573.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$1,874.00
+Aggregate Combined Total (Undergraduate and Graduate):$16,447.00
+Student Total All Loans Outstanding Principal:$16,523.00
+Student Total All Loans Outstanding Interest:$23.00
+Student Pell Lifetime Eligibility Used:362.506%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$15,591.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$0.00
+Total <D0> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$1,950.00
+Total <D5> Outstanding Interest:$3.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$14,573.00
+Total <D6> Outstanding Interest:$20.00
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*********S18G01538001
+Loan Attending School Name:University of Tampa (The)
+Loan Attending School OPEID:00153800
+Loan Date:09/19/2017
+Loan Repayment Begin Date:11/05/2018
+Loan Period Begin Date:08/28/2017
+Loan Period End Date:05/04/2018
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/03/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/03/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.45%
+Loan Actual Interest Rate:4.45%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:10/06/2018
+Loan Repayment Plan Scheduled Amount:$32.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/03/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/03/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/05/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/05/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/19/2017
+Loan Disbursement Date:02/06/2018
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/19/2017
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*********U18G01538001
+Loan Attending School Name:University of Tampa (The)
+Loan Attending School OPEID:00153800
+Loan Date:12/05/2017
+Loan Repayment Begin Date:11/05/2018
+Loan Period Begin Date:08/28/2017
+Loan Period End Date:05/04/2018
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/03/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/03/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.45%
+Loan Actual Interest Rate:4.45%
+Loan Statutory Interest Rate:4.45%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:10/06/2018
+Loan Repayment Plan Scheduled Amount:$12.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/03/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2018
+Capitalized Interest:$74.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/03/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/05/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/05/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/05/2017
+Loan Disbursement Date:02/06/2018
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:12/05/2017
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*********S17G01538002
+Loan Attending School Name:University of Tampa (The)
+Loan Attending School OPEID:00153800
+Loan Date:03/28/2017
+Loan Repayment Begin Date:11/05/2018
+Loan Period Begin Date:08/29/2016
+Loan Period End Date:05/05/2017
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/03/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/03/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:10/06/2018
+Loan Repayment Plan Scheduled Amount:$31.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/03/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/03/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/05/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/05/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/28/2017
+Loan Disbursement Date:03/28/2017
+Loan Disbursement Amount:$5,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*********S17G01538001
+Loan Attending School Name:University of Tampa (The)
+Loan Attending School OPEID:00153800
+Loan Date:09/20/2016
+Loan Repayment Begin Date:02/07/2017
+Loan Period Begin Date:08/29/2016
+Loan Period End Date:05/05/2017
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/11/2017
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/11/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:03/11/2017
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:03/07/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/20/2016
+Loan Disbursement Date:02/07/2017
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:10/28/2016
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:********S16G01538001
+Loan Attending School Name:University of Tampa (The)
+Loan Attending School OPEID:00153800
+Loan Date:09/21/2015
+Loan Repayment Begin Date:11/05/2018
+Loan Period Begin Date:08/31/2015
+Loan Period End Date:05/06/2016
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/03/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/03/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.29%
+Loan Actual Interest Rate:4.29%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:10/06/2018
+Loan Repayment Plan Scheduled Amount:$26.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/03/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/03/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/05/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/05/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/21/2015
+Loan Disbursement Date:02/09/2016
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:09/21/2015
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*********U19G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:12/03/2018
+Loan Repayment Begin Date:12/03/2018
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$2,081.00
+Loan Disbursed Amount:$2,081.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,950.00
+Loan Outstanding Principal Balance as of Date:04/30/2023
+Loan Outstanding Interest Balance:$3.00
+Loan Outstanding Interest Balance as of Date:04/30/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.25%
+Loan Repayment Plan Type Code:CS
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:01/30/2019
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/01/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$240.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$2,081.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,874.00
+Calculated Combined Aggregate OPB:$1,874.00
+UpdtDt:05/09/2023
+DelinqDate:02/10/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/03/2018
+Loan Disbursement Date:12/03/2018
+Loan Disbursement Amount:$2,081.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*********S19G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:12/03/2018
+Loan Repayment Begin Date:12/03/2018
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$15,549.00
+Loan Disbursed Amount:$15,549.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$14,573.00
+Loan Outstanding Principal Balance as of Date:04/30/2023
+Loan Outstanding Interest Balance:$20.00
+Loan Outstanding Interest Balance as of Date:04/30/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.25%
+Loan Repayment Plan Type Code:CS
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:01/30/2019
+Loan Repayment Plan Scheduled Amount:$118.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/01/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$1,770.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$15,549.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$14,573.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$14,573.00
+UpdtDt:05/09/2023
+DelinqDate:02/10/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/03/2018
+Loan Disbursement Date:12/03/2018
+Loan Disbursement Amount:$15,549.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Tampa (The)
+Grant Attending School OPEID:00153800
+Grant Award Year:2017 - 2018
+Grant Scheduled Amount:$3,370.00
+Grant Award Amount:$3,370.00
+Grant Disbursed Amount:$3,370.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00153800
+Grant Contact Name:University of Tampa (The)
+Grant Contact Street Address 1:401 W. KENNEDY BLVD
+Grant Contact Street Address 2:
+Grant Contact City:TAMPA
+Grant Contact State Code:FL
+Grant Contact Zip Code:33606
+Phone Number:813-253-6219
+Phone Extension:
+Email Address:finaid@ut.edu
+Web Site Address:http://www.ut.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Tampa (The)
+Grant Attending School OPEID:00153800
+Grant Award Year:2016 - 2017
+Grant Scheduled Amount:$3,065.00
+Grant Award Amount:$3,065.00
+Grant Disbursed Amount:$3,065.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00153800
+Grant Contact Name:University of Tampa (The)
+Grant Contact Street Address 1:401 W. KENNEDY BLVD
+Grant Contact Street Address 2:
+Grant Contact City:TAMPA
+Grant Contact State Code:FL
+Grant Contact Zip Code:33606
+Phone Number:813-253-6219
+Phone Extension:
+Email Address:finaid@ut.edu
+Web Site Address:http://www.ut.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Cypress College
+Grant Attending School OPEID:00119300
+Grant Award Year:2014 - 2015
+Grant Scheduled Amount:$5,680.00
+Grant Award Amount:$5,680.00
+Grant Disbursed Amount:$4,260.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00119300
+Grant Contact Name:Cypress College
+Grant Contact Street Address 1:9200 VALLEY VIEW ST
+Grant Contact Street Address 2:
+Grant Contact City:CYPRESS
+Grant Contact State Code:CA
+Grant Contact Zip Code:90630
+Phone Number:714-484-7464
+Phone Extension:
+Email Address:gdelacruz@cypresscollege.edu
+Web Site Address:https://www.cypresscollege.edu/
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Cypress College
+Grant Attending School OPEID:00119300
+Grant Award Year:2013 - 2014
+Grant Scheduled Amount:$5,595.00
+Grant Award Amount:$4,896.00
+Grant Disbursed Amount:$4,896.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):87.507%
+Aid Recipient's Total Percent Eligibility Used (TEU):87.507%
+Grant Contact Type:Attending School
+Grant Contact Code:00119300
+Grant Contact Name:Cypress College
+Grant Contact Street Address 1:9200 VALLEY VIEW ST
+Grant Contact Street Address 2:
+Grant Contact City:CYPRESS
+Grant Contact State Code:CA
+Grant Contact Zip Code:90630
+Phone Number:714-484-7464
+Phone Extension:
+Email Address:gdelacruz@cypresscollege.edu
+Web Site Address:https://www.cypresscollege.edu/
+Program School Name:University of Tampa (The)
+Program School OPEID:00153800
+Program Cip Year:2010
+Program Cip Code:520301
+Program CIP Title:Accounting.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:08/31/2015
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/04/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:05/03/2018
+Program School Name:Cypress College
+Program School OPEID:00119300
+Program Cip Year:2010
+Program Cip Code:520201
+Program CIP Title:Business Administration and Management, General.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:08/26/2013
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/23/2015
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/25/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/25/2014
+Award School Name:University of Tampa (The)
+Award School OPEID:00153800
+Award Earliest Disbursement Date:09/19/2017
+Award Loan Period Begin Date:08/28/2017
+Award Loan Period End Date:05/04/2018
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:University of Tampa (The)
+Award School OPEID:00153800
+Award Earliest Disbursement Date:12/05/2017
+Award Loan Period Begin Date:08/28/2017
+Award Loan Period End Date:05/04/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Tampa (The)
+Award School OPEID:00153800
+Award Earliest Disbursement Date:10/28/2016
+Award Loan Period Begin Date:08/29/2016
+Award Loan Period End Date:05/05/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Tampa (The)
+Award School OPEID:00153800
+Award Earliest Disbursement Date:03/28/2017
+Award Loan Period Begin Date:08/29/2016
+Award Loan Period End Date:05/05/2017
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:University of Tampa (The)
+Award School OPEID:00153800
+Award Earliest Disbursement Date:09/21/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:05/06/2016
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Enrolled School Name:University of Tampa (The)
+Enrolled School OPEID:00153800
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/04/2018
+Enrolled School Name:Hillsborough Community College
+Enrolled School OPEID:00787000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/12/2017
+Enrolled School Name:Cypress College
+Enrolled School OPEID:00119300
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/23/2015

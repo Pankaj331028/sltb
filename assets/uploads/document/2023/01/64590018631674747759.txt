@@ -1,0 +1,1189 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-01-13 10:10:52
+Student First Name:PAMELA
+Student Middle Initial:
+Student Last Name:GATHINGS
+Student Street Address 1:308 BOLIVAR AVENUE
+Student Street Address 2:
+Student City:CLARKSDALE
+Student State Code:MS
+Student Country Code:US
+Student Zip Code:38614
+Student Email Address:PGATHINGS70@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:6626457618
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6629026294
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:6629026294
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:02/24/2013
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2012
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$12,334.00
+Undergraduate Aggregate Unsubsidized Total:$11,735.00
+Undergraduate Aggregate Combined Total:$24,069.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$12,334.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$11,735.00
+Aggregate Combined Total (Undergraduate and Graduate):$24,069.00
+Student Total All Loans Outstanding Principal:$32,339.00
+Student Total All Loans Outstanding Interest:$1,097.00
+Student Pell Lifetime Eligibility Used:382.706%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$12,100.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$10,823.00
+Total <D1> Outstanding Interest:$795.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$12,624.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$2,770.00
+Total <SF> Outstanding Interest:$302.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$6,122.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7465S13G25042001
+Loan Attending School Name:Walden University
+Loan Attending School OPEID:02504200
+Loan Date:08/06/2012
+Loan Repayment Begin Date:08/25/2013
+Loan Period Begin Date:06/04/2012
+Loan Period End Date:02/24/2013
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,778.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$298.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/26/2018
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/18/2019
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:09/18/2018
+Loan Next Payment Due Date:10/18/2018
+Loan Cumulative Payment Amount:$73.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$278.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:01/20/2018
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:10/02/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/20/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/22/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/09/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/25/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/25/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/06/2012
+Loan Disbursement Date:01/07/2013
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:09/13/2012
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:08/06/2012
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7465U13G25042001
+Loan Attending School Name:Walden University
+Loan Attending School OPEID:02504200
+Loan Date:08/06/2012
+Loan Repayment Begin Date:08/25/2013
+Loan Period Begin Date:06/04/2012
+Loan Period End Date:02/24/2013
+Loan Amount:$4,054.00
+Loan Disbursed Amount:$4,054.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,059.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/26/2018
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/18/2019
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:12/07/2022
+Loan Next Payment Due Date:10/18/2018
+Loan Cumulative Payment Amount:$1,409.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$1,486.00
+Net Loan Amount:$4,054.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,573.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:01/20/2018
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:10/02/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/20/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/22/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/09/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/25/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:02/25/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/06/2012
+Loan Disbursement Date:01/07/2013
+Loan Disbursement Amount:$54.00
+Loan Disbursement Date:09/13/2012
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:08/06/2012
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7465S11G01459001
+Loan Attending School Name:Strayer University
+Loan Attending School OPEID:00145900
+Loan Date:07/23/2010
+Loan Repayment Begin Date:09/22/2011
+Loan Period Begin Date:06/28/2010
+Loan Period End Date:03/21/2011
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,045.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$497.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/26/2018
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/18/2019
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:09/18/2018
+Loan Next Payment Due Date:10/18/2018
+Loan Cumulative Payment Amount:$96.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$518.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:01/20/2018
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:10/02/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/20/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/22/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/09/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/25/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/22/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/22/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/22/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/22/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/23/2010
+Loan Disbursement Date:01/12/2011
+Loan Disbursement Amount:$1,834.00
+Loan Disbursement Date:10/13/2010
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:07/23/2010
+Loan Disbursement Amount:$1,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7465U11G01459001
+Loan Attending School Name:Strayer University
+Loan Attending School OPEID:00145900
+Loan Date:07/23/2010
+Loan Repayment Begin Date:09/22/2011
+Loan Period Begin Date:06/28/2010
+Loan Period End Date:03/21/2011
+Loan Amount:$5,456.00
+Loan Disbursed Amount:$5,456.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,565.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/26/2018
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/18/2019
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:12/07/2022
+Loan Next Payment Due Date:10/18/2018
+Loan Cumulative Payment Amount:$2,113.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$2,811.00
+Net Loan Amount:$5,456.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,754.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:01/20/2018
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:10/02/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/20/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/22/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/09/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/25/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/22/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/22/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/22/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/22/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/23/2010
+Loan Disbursement Date:01/12/2011
+Loan Disbursement Amount:$790.00
+Loan Disbursement Date:10/13/2010
+Loan Disbursement Amount:$2,333.00
+Loan Disbursement Date:07/23/2010
+Loan Disbursement Amount:$2,333.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****7465109013039001
+Loan Attending School Name:South University
+Loan Attending School OPEID:01303900
+Loan Date:05/05/2009
+Loan Repayment Begin Date:02/11/2010
+Loan Period Begin Date:02/19/2009
+Loan Period End Date:11/11/2009
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$1,166.00
+Loan Canceled Date:08/13/2009
+Loan Outstanding Principal Balance:$2,770.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$302.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/26/2018
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/18/2019
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:09/18/2018
+Loan Next Payment Due Date:10/18/2018
+Loan Cumulative Payment Amount:$47.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$436.00
+Net Loan Amount:$2,334.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,334.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:01/20/2018
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:10/02/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/20/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/22/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/09/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/25/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/22/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/22/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/20/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/28/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/11/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/11/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/05/2009
+Loan Disbursement Date:08/13/2009
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:05/21/2009
+Loan Disbursement Amount:$1,167.00
+Loan Disbursement Date:05/07/2009
+Loan Disbursement Amount:$1,167.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:P.O. BOX 9635
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18773(9635)
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.salliemae.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7465209013039002
+Loan Attending School Name:South University
+Loan Attending School OPEID:01303900
+Loan Date:05/05/2009
+Loan Repayment Begin Date:02/11/2010
+Loan Period Begin Date:02/19/2009
+Loan Period End Date:11/11/2009
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$2,000.00
+Loan Canceled Date:08/13/2009
+Loan Outstanding Principal Balance:$6,122.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:03/26/2018
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/18/2019
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:12/07/2022
+Loan Next Payment Due Date:10/18/2018
+Loan Cumulative Payment Amount:$1,716.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$2,714.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,408.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:01/20/2018
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:10/02/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/20/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/20/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/21/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/21/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/22/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/09/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/22/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/25/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/22/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/22/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/20/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/28/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/22/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/11/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/11/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/05/2009
+Loan Disbursement Date:08/13/2009
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:05/21/2009
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:05/07/2009
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:P.O. BOX 9635
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18773(9635)
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.salliemae.com
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****499091
+Loan Attending School Name:Delta State University
+Loan Attending School OPEID:00240300
+Loan Date:08/28/2001
+Loan Repayment Begin Date:11/23/2002
+Loan Period Begin Date:01/07/2002
+Loan Period End Date:05/13/2002
+Loan Amount:$1,750.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$1,750.00
+Loan Canceled Date:08/17/2002
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/17/2002
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/17/2002
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2002
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:08/17/2002
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/23/2002
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/28/2001
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:800
+Loan Contact Name:USA FUNDS, INC.
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:811925
+Loan Contact Name:JPMORGAN CHASE BANK, NA
+Loan Contact Street Address 1:P O BOX 711004
+Loan Contact Street Address 2:
+Loan Contact City:COLUMBUS
+Loan Contact State Code:OH
+Loan Contact Zip Code:43271(1004)
+Loan Contact Phone Number:6142485798
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Walden University
+Grant Attending School OPEID:02504200
+Grant Award Year:2012 - 2013
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$3,700.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):66.667%
+Aid Recipient's Total Percent Eligibility Used (TEU):66.667%
+Grant Contact Type:Attending School
+Grant Contact Code:02504200
+Grant Contact Name:Walden University
+Grant Contact Street Address 1:7065  Samuel Morse Drive
+Grant Contact Street Address 2:
+Grant Contact City:Columbia
+Grant Contact State Code:MD
+Grant Contact Zip Code:21046
+Phone Number:443-537-1719
+Phone Extension:
+Email Address:teresa.drzewiecki@mail.waldenu.edu
+Web Site Address:http://www.waldenu.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Strayer University
+Grant Attending School OPEID:00145900
+Grant Award Year:2010 - 2011
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$4,162.00
+Grant Disbursed Amount:$4,162.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):74.991%
+Aid Recipient's Total Percent Eligibility Used (TEU):74.991%
+Grant Contact Type:Attending School
+Grant Contact Code:00145900
+Grant Contact Name:Strayer University
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:703-713-3664
+Phone Extension:
+Email Address:charles.hill@strayer.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:South University
+Grant Attending School OPEID:01303900
+Grant Award Year:2009 - 2010
+Grant Scheduled Amount:$5,350.00
+Grant Award Amount:$5,350.00
+Grant Disbursed Amount:$29.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):0.550%
+Aid Recipient's Total Percent Eligibility Used (TEU):0.550%
+Grant Contact Type:Attending School
+Grant Contact Code:01303900
+Grant Contact Name:South University
+Grant Contact Street Address 1:709 MALL BLVD
+Grant Contact Street Address 2:
+Grant Contact City:SAVANNAH
+Grant Contact State Code:GA
+Grant Contact Zip Code:31406
+Phone Number:912-201-8014
+Phone Extension:
+Email Address:KCMCCLENDON@southuniversity.edu
+Web Site Address:http://www.southuniversity.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:South University
+Grant Attending School OPEID:01303900
+Grant Award Year:2008 - 2009
+Grant Scheduled Amount:$4,081.00
+Grant Award Amount:$4,081.00
+Grant Disbursed Amount:$1,361.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):33.350%
+Aid Recipient's Total Percent Eligibility Used (TEU):33.350%
+Grant Contact Type:Attending School
+Grant Contact Code:01303900
+Grant Contact Name:South University
+Grant Contact Street Address 1:709 MALL BLVD
+Grant Contact Street Address 2:
+Grant Contact City:SAVANNAH
+Grant Contact State Code:GA
+Grant Contact Zip Code:31406
+Phone Number:912-201-8014
+Phone Extension:
+Email Address:KCMCCLENDON@southuniversity.edu
+Web Site Address:http://www.southuniversity.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:DeVry University
+Grant Attending School OPEID:01072700
+Grant Award Year:2003 - 2004
+Grant Scheduled Amount:$4,050.00
+Grant Award Amount:$4,050.00
+Grant Disbursed Amount:$18.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):0.440%
+Aid Recipient's Total Percent Eligibility Used (TEU):0.444%
+Grant Contact Type:Attending School
+Grant Contact Code:01072700
+Grant Contact Name:DeVry University
+Grant Contact Street Address 1:1200 E DIEHL ROAD
+Grant Contact Street Address 2:
+Grant Contact City:NAPERVILLE
+Grant Contact State Code:IL
+Grant Contact Zip Code:60563
+Phone Number:630-645-1178
+Phone Extension:
+Email Address:leeanne.wigdahl@devry.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Delta State University
+Grant Attending School OPEID:00240300
+Grant Award Year:2002 - 2003
+Grant Scheduled Amount:$3,950.00
+Grant Award Amount:$2,963.00
+Grant Disbursed Amount:$1,481.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.500%
+Aid Recipient's Total Percent Eligibility Used (TEU):37.500%
+Grant Contact Type:Attending School
+Grant Contact Code:00240300
+Grant Contact Name:Delta State University
+Grant Contact Street Address 1:KENT WYATT HALL 144
+Grant Contact Street Address 2:
+Grant Contact City:CLEVELAND
+Grant Contact State Code:MS
+Grant Contact Zip Code:38733
+Phone Number:662-846-4670
+Phone Extension:
+Email Address:mlsmith@deltastate.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Delta State University
+Grant Attending School OPEID:00240300
+Grant Award Year:2001 - 2002
+Grant Scheduled Amount:$3,750.00
+Grant Award Amount:$938.00
+Grant Disbursed Amount:$937.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):25.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):25.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00240300
+Grant Contact Name:Delta State University
+Grant Contact Street Address 1:KENT WYATT HALL 144
+Grant Contact Street Address 2:
+Grant Contact City:CLEVELAND
+Grant Contact State Code:MS
+Grant Contact Zip Code:38733
+Phone Number:662-846-4670
+Phone Extension:
+Email Address:mlsmith@deltastate.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Delta State University
+Grant Attending School OPEID:00240300
+Grant Award Year:2000 - 2001
+Grant Scheduled Amount:$3,300.00
+Grant Award Amount:$1,649.00
+Grant Disbursed Amount:$412.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):12.500%
+Aid Recipient's Total Percent Eligibility Used (TEU):12.500%
+Grant Contact Type:Attending School
+Grant Contact Code:00240300
+Grant Contact Name:Delta State University
+Grant Contact Street Address 1:KENT WYATT HALL 144
+Grant Contact Street Address 2:
+Grant Contact City:CLEVELAND
+Grant Contact State Code:MS
+Grant Contact Zip Code:38733
+Phone Number:662-846-4670
+Phone Extension:
+Email Address:mlsmith@deltastate.edu
+Web Site Address:
+Award School Name:Walden University
+Award School OPEID:02504200
+Award Earliest Disbursement Date:08/06/2012
+Award Loan Period Begin Date:06/04/2012
+Award Loan Period End Date:02/24/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Walden University
+Award School OPEID:02504200
+Award Earliest Disbursement Date:08/06/2012
+Award Loan Period Begin Date:06/04/2012
+Award Loan Period End Date:02/24/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Delta State University
+Award School OPEID:00240300
+Award Earliest Disbursement Date:08/12/2011
+Award Loan Period Begin Date:08/22/2011
+Award Loan Period End Date:05/04/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Delta State University
+Award School OPEID:00240300
+Award Earliest Disbursement Date:08/12/2011
+Award Loan Period Begin Date:08/22/2011
+Award Loan Period End Date:05/04/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Walden University
+Enrolled School OPEID:02504200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:02/24/2013
+Enrolled School Name:Strayer University
+Enrolled School OPEID:00145900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:03/21/2011
+Enrolled School Name:South University
+Enrolled School OPEID:01303900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:08/10/2009
+Enrolled School Name:Delta State University
+Enrolled School OPEID:00240300
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/12/2003

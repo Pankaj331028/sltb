@@ -1,0 +1,626 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-06 16:00:10
+Student First Name:ADIL
+Student Middle Initial:M
+Student Last Name:ASKAROFF
+Student Street Address 1:7605 CHARLTON AVE
+Student Street Address 2:
+Student City:BERWYN HTS
+Student State Code:MD
+Student Country Code:US
+Student Zip Code:207402648
+Student Email Address:LIBERVILLE@PROTONMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2024899837
+Student Home Phone Preferred:Y
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2028178989
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:2024899837
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/21/2009
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2008
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$22,766.00
+Graduate Aggregate Unsubsidized Total:$21,246.00
+Graduate Aggregate Combined Total:$44,012.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$22,766.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$21,246.00
+Aggregate Combined Total (Undergraduate and Graduate):$44,012.00
+Student Total All Loans Outstanding Principal:$61,213.00
+Student Total All Loans Outstanding Interest:$11,362.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$27,129.00
+Total <D1> Outstanding Interest:$4,838.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$34,084.00
+Total <D2> Outstanding Interest:$6,524.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5549S09E00475001
+Loan Attending School Name:Johns Hopkins University - School of Education
+Loan Attending School OPEID:00207703
+Loan Date:07/23/2008
+Loan Repayment Begin Date:11/22/2009
+Loan Period Begin Date:06/01/2008
+Loan Period End Date:05/31/2009
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,904.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$1,766.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/11/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$1,593.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,311.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:09/14/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/13/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/22/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/04/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/15/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/14/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/22/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/23/2008
+Loan Disbursement Date:01/27/2009
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:08/27/2008
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:07/23/2008
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5549U09E00475001
+Loan Attending School Name:Johns Hopkins University - School of Education
+Loan Attending School OPEID:00207703
+Loan Date:07/23/2008
+Loan Repayment Begin Date:11/22/2009
+Loan Period Begin Date:06/01/2008
+Loan Period End Date:05/31/2009
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$18,439.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$3,529.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/11/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$6,724.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$11,715.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:09/14/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/13/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/22/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/04/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/15/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/14/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/22/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/23/2008
+Loan Disbursement Date:01/27/2009
+Loan Disbursement Amount:$4,000.00
+Loan Disbursement Date:08/27/2008
+Loan Disbursement Amount:$4,000.00
+Loan Disbursement Date:07/23/2008
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5549S08E00475001
+Loan Attending School Name:Johns Hopkins University - School of Education
+Loan Attending School OPEID:00207703
+Loan Date:08/14/2007
+Loan Repayment Begin Date:11/22/2009
+Loan Period Begin Date:06/01/2007
+Loan Period End Date:05/31/2008
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,904.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$1,766.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/11/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$1,593.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,311.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:09/14/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/13/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/22/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/04/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/15/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/14/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/22/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2007
+Loan Disbursement Date:02/26/2008
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:01/28/2008
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:08/14/2007
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5549U08E00475001
+Loan Attending School Name:Johns Hopkins University - School of Education
+Loan Attending School OPEID:00207703
+Loan Date:08/14/2007
+Loan Repayment Begin Date:11/22/2009
+Loan Period Begin Date:06/01/2007
+Loan Period End Date:05/31/2008
+Loan Amount:$9,858.00
+Loan Disbursed Amount:$9,858.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$15,645.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$2,995.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/11/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$6,114.00
+Net Loan Amount:$9,858.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$9,531.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:09/14/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/13/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/22/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/04/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/15/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/14/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/22/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2007
+Loan Disbursement Date:02/26/2008
+Loan Disbursement Amount:$9,858.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5549S07E00475001
+Loan Attending School Name:Johns Hopkins University - School of Education
+Loan Attending School OPEID:00207703
+Loan Date:02/12/2007
+Loan Repayment Begin Date:11/22/2009
+Loan Period Begin Date:01/22/2007
+Loan Period End Date:05/26/2007
+Loan Amount:$6,284.00
+Loan Disbursed Amount:$6,284.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,321.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$1,306.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/11/2019
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:06/11/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$1,177.00
+Net Loan Amount:$6,284.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$6,144.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:09/14/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/13/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/14/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/15/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/22/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/04/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/15/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/28/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/14/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/22/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/21/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/12/2007
+Loan Disbursement Date:05/10/2007
+Loan Disbursement Amount:$2,269.00
+Loan Disbursement Date:02/12/2007
+Loan Disbursement Amount:$4,015.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Enrolled School Name:Johns Hopkins University
+Enrolled School OPEID:00207700
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/21/2009
+Enrolled School Name:Johns Hopkins University - School of Education
+Enrolled School OPEID:00207703
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/21/2009

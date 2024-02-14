@@ -1,0 +1,779 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-03-27 14:29:14
+Student First Name:CINDY
+Student Middle Initial:G
+Student Last Name:GIARRIZZO
+Student Street Address 1:24062 OLIVERA DRIVE
+Student Street Address 2:
+Student City:MISSION VIEJO
+Student State Code:CA
+Student Country Code:US
+Student Zip Code:92691
+Student Email Address:CDEP@COX.NET
+Student Home Phone Country Code:1
+Student Home Phone Number:9496099375
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:9496900071
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:9496900071
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:NOT AVAILABLE
+Student Enrollment Status Effective Date:
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:1988
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Combined Total (Undergraduate and Graduate):$0.00
+Student Total All Loans Outstanding Principal:$115,812.00
+Student Total All Loans Outstanding Interest:$13,139.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:D4
+Type Description:DIRECT PLUS PARENT
+Total <D4> Outstanding Principal:$115,812.00
+Total <D4> Outstanding Interest:$13,139.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SL
+Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Total <SL> Outstanding Principal:$0.00
+Total <SL> Outstanding Interest:$0.00
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****3100P20G01370001
+Loan Attending School Name:University of Colorado Boulder
+Loan Attending School OPEID:00137000
+Loan Date:08/19/2019
+Loan Repayment Begin Date:01/10/2020
+Loan Period Begin Date:08/26/2019
+Loan Period End Date:05/06/2020
+Loan Amount:$32,097.00
+Loan Disbursed Amount:$32,097.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$32,097.00
+Loan Outstanding Principal Balance as of Date:03/22/2023
+Loan Outstanding Interest Balance:$894.00
+Loan Outstanding Interest Balance as of Date:03/22/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/23/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2019
+Loan Disbursement Date:01/10/2020
+Loan Disbursement Amount:$14,089.00
+Loan Disbursement Date:08/19/2019
+Loan Disbursement Amount:$18,008.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****3100P19G01370003
+Loan Attending School Name:University of Colorado Boulder
+Loan Attending School OPEID:00137000
+Loan Date:01/23/2019
+Loan Repayment Begin Date:01/23/2019
+Loan Period Begin Date:01/14/2019
+Loan Period End Date:05/08/2019
+Loan Amount:$15,500.00
+Loan Disbursed Amount:$15,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$15,500.00
+Loan Outstanding Principal Balance as of Date:03/22/2023
+Loan Outstanding Interest Balance:$1,338.00
+Loan Outstanding Interest Balance as of Date:03/22/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/23/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/23/2019
+Loan Disbursement Date:01/23/2019
+Loan Disbursement Amount:$15,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****3100P19G01370002
+Loan Attending School Name:University of Colorado Boulder
+Loan Attending School OPEID:00137000
+Loan Date:09/05/2018
+Loan Repayment Begin Date:09/05/2018
+Loan Period Begin Date:08/27/2018
+Loan Period End Date:12/19/2018
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$10,000.00
+Loan Outstanding Principal Balance as of Date:03/22/2023
+Loan Outstanding Interest Balance:$1,154.00
+Loan Outstanding Interest Balance as of Date:03/22/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/23/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/05/2018
+Loan Disbursement Date:09/05/2018
+Loan Disbursement Amount:$10,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****3100P19G01370001
+Loan Attending School Name:University of Colorado Boulder
+Loan Attending School OPEID:00137000
+Loan Date:08/24/2018
+Loan Repayment Begin Date:08/24/2018
+Loan Period Begin Date:08/27/2018
+Loan Period End Date:12/19/2018
+Loan Amount:$8,176.00
+Loan Disbursed Amount:$8,176.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,176.00
+Loan Outstanding Principal Balance as of Date:03/22/2023
+Loan Outstanding Interest Balance:$964.00
+Loan Outstanding Interest Balance as of Date:03/22/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/23/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/24/2018
+Loan Disbursement Date:09/05/2018
+Loan Disbursement Amount:$0.00
+Loan Disbursement Date:08/24/2018
+Loan Disbursement Amount:$8,176.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****3100P18G01370002
+Loan Attending School Name:University of Colorado Boulder
+Loan Attending School OPEID:00137000
+Loan Date:01/24/2018
+Loan Repayment Begin Date:01/25/2018
+Loan Period Begin Date:08/28/2017
+Loan Period End Date:05/09/2018
+Loan Amount:$1,570.00
+Loan Disbursed Amount:$1,570.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,570.00
+Loan Outstanding Principal Balance as of Date:03/22/2023
+Loan Outstanding Interest Balance:$234.00
+Loan Outstanding Interest Balance as of Date:03/22/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/23/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/25/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/24/2018
+Loan Disbursement Date:01/25/2018
+Loan Disbursement Amount:$785.00
+Loan Disbursement Date:01/24/2018
+Loan Disbursement Amount:$785.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****3100P18G01370001
+Loan Attending School Name:University of Colorado Boulder
+Loan Attending School OPEID:00137000
+Loan Date:08/19/2017
+Loan Repayment Begin Date:01/09/2018
+Loan Period Begin Date:08/28/2017
+Loan Period End Date:05/09/2018
+Loan Amount:$36,604.00
+Loan Disbursed Amount:$36,604.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$36,604.00
+Loan Outstanding Principal Balance as of Date:03/22/2023
+Loan Outstanding Interest Balance:$6,071.00
+Loan Outstanding Interest Balance as of Date:03/22/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/23/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/06/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/09/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2017
+Loan Disbursement Date:01/09/2018
+Loan Disbursement Amount:$18,302.00
+Loan Disbursement Date:08/19/2017
+Loan Disbursement Amount:$18,302.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****0936P17G20705001
+Loan Attending School Name:Concordia University
+Loan Attending School OPEID:02070500
+Loan Date:08/22/2016
+Loan Repayment Begin Date:01/09/2017
+Loan Period Begin Date:08/22/2016
+Loan Period End Date:05/05/2017
+Loan Amount:$11,865.00
+Loan Disbursed Amount:$11,865.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$11,865.00
+Loan Outstanding Principal Balance as of Date:03/22/2023
+Loan Outstanding Interest Balance:$2,484.00
+Loan Outstanding Interest Balance as of Date:03/22/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.31%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/23/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/02/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2016
+Loan Disbursement Date:01/09/2017
+Loan Disbursement Amount:$7,356.00
+Loan Disbursement Date:08/22/2016
+Loan Disbursement Amount:$4,509.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:507
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****1241S00000000
+Loan Attending School Name:Computer Learning Centers Los Angeles
+Loan Attending School OPEID:00959100
+Loan Date:07/20/1987
+Loan Repayment Begin Date:07/15/1988
+Loan Period Begin Date:07/22/1987
+Loan Period End Date:01/14/1988
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/07/1992
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:10/07/1992
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:1988
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:10/07/1992
+Loan Disbursement Date:07/21/1987
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:831474
+Loan Contact Name:SLM ECFC
+Loan Contact Street Address 1:220 LASLEY AVE
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SL
+Loan Type Description:FFEL SUPPLEMENTAL LOAN (SLS)
+Loan Award ID:*****4955 00000000
+Loan Attending School Name:Computer Learning Centers Los Angeles
+Loan Attending School OPEID:00959100
+Loan Date:07/17/1987
+Loan Repayment Begin Date:01/15/1988
+Loan Period Begin Date:07/22/1987
+Loan Period End Date:01/14/1988
+Loan Amount:$2,150.00
+Loan Disbursed Amount:$2,150.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:06/10/1991
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:06/10/1991
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:1988
+Capitalized Interest:$0.00
+Net Loan Amount:$2,150.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:06/10/1991
+Loan Disbursement Date:07/29/1987
+Loan Disbursement Amount:$2,150.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899996
+Loan Contact Name:NAVIENT CREDIT FINANCE CORP.
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:

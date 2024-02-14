@@ -1,0 +1,1235 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-10-18 21:31:52
+Student First Name:VERONICA
+Student Middle Initial:R
+Student Last Name:GIVEN
+Student Street Address 1:8283 W ARKANSAS AVE
+Student Street Address 2:
+Student City:LAKEWOOD
+Student State Code:CO
+Student Country Code:US
+Student Zip Code:80232
+Student Email Address:VRGIVEN@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:7203177890
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7203177890
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/16/2015
+Undergraduate Subsidized Loan Limit Flag:C
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2013
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$18,792.00
+Undergraduate Aggregate Unsubsidized Total:$23,917.00
+Undergraduate Aggregate Combined Total:$42,709.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2015
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$50,971.00
+Graduate Aggregate Combined Total:$50,971.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$18,792.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$74,888.00
+Aggregate Combined Total (Undergraduate and Graduate):$93,680.00
+Student Total All Loans Outstanding Principal:$108,844.00
+Student Total All Loans Outstanding Interest:$28,004.00
+Student Pell Lifetime Eligibility Used:205.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$7,605.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$18,948.00
+Total <D1> Outstanding Interest:$3,567.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$88,368.00
+Total <D2> Outstanding Interest:$24,014.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$1,528.00
+Total <D3> Outstanding Interest:$423.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8255U15G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:08/30/2014
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/18/2014
+Loan Period End Date:05/16/2015
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$21,817.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$5,851.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$246.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/30/2014
+Loan Disbursement Date:01/10/2015
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/30/2014
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8255U14G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:08/10/2013
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/19/2013
+Loan Period End Date:05/17/2014
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$22,785.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$5,323.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.41%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$248.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/10/2013
+Loan Disbursement Date:01/11/2014
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/10/2013
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****8255P14G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:08/10/2013
+Loan Repayment Begin Date:01/11/2014
+Loan Period Begin Date:08/19/2013
+Loan Period End Date:05/17/2014
+Loan Amount:$1,350.00
+Loan Disbursed Amount:$1,350.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,528.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$423.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.41%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$17.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$1,350.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/11/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/10/2013
+Loan Disbursement Date:01/11/2014
+Loan Disbursement Amount:$675.00
+Loan Disbursement Date:08/10/2013
+Loan Disbursement Amount:$675.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8255U13G04508002
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:01/15/2013
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:01/22/2013
+Loan Period End Date:05/18/2013
+Loan Amount:$9,971.00
+Loan Disbursed Amount:$9,971.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$11,895.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$3,493.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$138.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$9,971.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$9,971.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/15/2013
+Loan Disbursement Date:01/15/2013
+Loan Disbursement Amount:$9,971.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8255S13G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:08/15/2012
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/20/2012
+Loan Period End Date:12/15/2012
+Loan Amount:$2,292.00
+Loan Disbursed Amount:$2,292.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,336.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$343.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$23.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$2,292.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,292.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/17/2012
+Loan Disbursement Date:08/15/2012
+Loan Disbursement Amount:$2,292.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8255U13G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:08/15/2012
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/20/2012
+Loan Period End Date:12/15/2012
+Loan Amount:$2,917.00
+Loan Disbursed Amount:$2,917.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,563.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$1,046.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$41.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$2,917.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,917.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/17/2012
+Loan Disbursement Date:08/15/2012
+Loan Disbursement Amount:$2,917.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8255S12G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:09/02/2011
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/22/2011
+Loan Period End Date:05/12/2012
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,528.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$811.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$55.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/02/2011
+Loan Disbursement Date:01/09/2012
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/02/2011
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8255U12G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:09/02/2011
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/22/2011
+Loan Period End Date:05/12/2012
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,956.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$2,627.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$103.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/02/2011
+Loan Disbursement Date:01/09/2012
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:09/02/2011
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8255S11G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:08/18/2010
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/23/2010
+Loan Period End Date:05/14/2011
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,528.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$1,073.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$57.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2010
+Loan Disbursement Date:01/11/2011
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/18/2010
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8255U11G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:08/18/2010
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/23/2010
+Loan Period End Date:05/14/2011
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,440.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$2,769.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$109.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2010
+Loan Disbursement Date:01/11/2011
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:08/18/2010
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8255S10G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:10/15/2009
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/17/2009
+Loan Period End Date:05/15/2010
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,556.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$1,340.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.60%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$60.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2009
+Loan Disbursement Date:01/11/2010
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:10/15/2009
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8255U10G04508001
+Loan Attending School Name:University of Colorado Denver
+Loan Attending School OPEID:00450800
+Loan Date:10/15/2009
+Loan Repayment Begin Date:11/17/2015
+Loan Period Begin Date:08/17/2009
+Loan Period End Date:05/15/2010
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,912.00
+Loan Outstanding Principal Balance as of Date:12/30/2016
+Loan Outstanding Interest Balance:$2,905.00
+Loan Outstanding Interest Balance as of Date:12/30/2016
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/19/2015
+Loan Repayment Plan Scheduled Amount:$114.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/28/2015
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:08/29/2022
+DelinqDate:12/29/2015
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/30/2016
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:09/26/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2009
+Loan Disbursement Date:01/11/2010
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:10/15/2009
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Colorado Denver
+Grant Attending School OPEID:00450800
+Grant Award Year:2012 - 2013
+Grant Scheduled Amount:$3,600.00
+Grant Award Amount:$1,350.00
+Grant Disbursed Amount:$1,350.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.500%
+Aid Recipient's Total Percent Eligibility Used (TEU):37.500%
+Grant Contact Type:Attending School
+Grant Contact Code:00450800
+Grant Contact Name:University of Colorado Denver
+Grant Contact Street Address 1:1380 LAWRENCE STREET
+Grant Contact Street Address 2:Lawrence Street Center, Suite 1400
+Grant Contact City:DENVER
+Grant Contact State Code:CO
+Grant Contact Zip Code:80204(2029)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Colorado Denver
+Grant Attending School OPEID:00450800
+Grant Award Year:2011 - 2012
+Grant Scheduled Amount:$600.00
+Grant Award Amount:$578.00
+Grant Disbursed Amount:$555.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):92.500%
+Aid Recipient's Total Percent Eligibility Used (TEU):92.500%
+Grant Contact Type:Attending School
+Grant Contact Code:00450800
+Grant Contact Name:University of Colorado Denver
+Grant Contact Street Address 1:1380 LAWRENCE STREET
+Grant Contact Street Address 2:Lawrence Street Center, Suite 1400
+Grant Contact City:DENVER
+Grant Contact State Code:CO
+Grant Contact Zip Code:80204(2029)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Colorado Denver
+Grant Attending School OPEID:00450800
+Grant Award Year:2009 - 2010
+Grant Scheduled Amount:$3,600.00
+Grant Award Amount:$3,600.00
+Grant Disbursed Amount:$2,700.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00450800
+Grant Contact Name:University of Colorado Denver
+Grant Contact Street Address 1:1380 LAWRENCE STREET
+Grant Contact Street Address 2:Lawrence Street Center, Suite 1400
+Grant Contact City:DENVER
+Grant Contact State Code:CO
+Grant Contact Zip Code:80204(2029)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:SG
+Grant Type Code Description:NATIONAL SMART GRANT
+Grant Attending School Name:University of Colorado Denver
+Grant Attending School OPEID:00450800
+Grant Award Year:2009 - 2010
+Grant Scheduled Amount:$4,000.00
+Grant Award Amount:$4,000.00
+Grant Disbursed Amount:$3,000.00
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:
+Aid Recipient's Percent Eligibility Used (EU):75.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00450800
+Grant Contact Name:University of Colorado Denver
+Grant Contact Street Address 1:1380 LAWRENCE STREET
+Grant Contact Street Address 2:Lawrence Street Center, Suite 1400
+Grant Contact City:DENVER
+Grant Contact State Code:CO
+Grant Contact Zip Code:80204(2029)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Program School Name:University of Colorado Denver
+Program School OPEID:00450800
+Program Cip Year:2010
+Program Cip Code:450101
+Program CIP Title:Social Sciences, General.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:01/02/2013
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/16/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/01/2015
+Program School Name:University of Colorado Denver - Auraria
+Program School OPEID:00450824
+Program Cip Year:2010
+Program Cip Code:450101
+Program CIP Title:Social Sciences, General.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:01/02/2013
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/16/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/01/2015
+Award School Name:University of Colorado Denver
+Award School OPEID:00450800
+Award Earliest Disbursement Date:08/30/2014
+Award Loan Period Begin Date:08/18/2014
+Award Loan Period End Date:05/16/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Colorado Denver
+Award School OPEID:00450800
+Award Earliest Disbursement Date:08/10/2013
+Award Loan Period Begin Date:08/19/2013
+Award Loan Period End Date:05/17/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Colorado Denver
+Award School OPEID:00450800
+Award Earliest Disbursement Date:08/10/2013
+Award Loan Period Begin Date:08/19/2013
+Award Loan Period End Date:05/17/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Colorado Denver
+Award School OPEID:00450800
+Award Earliest Disbursement Date:01/15/2013
+Award Loan Period Begin Date:01/22/2013
+Award Loan Period End Date:05/18/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Colorado Denver
+Award School OPEID:00450800
+Award Earliest Disbursement Date:08/15/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:12/15/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Colorado Denver
+Award School OPEID:00450800
+Award Earliest Disbursement Date:08/15/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:12/15/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Colorado Denver
+Award School OPEID:00450800
+Award Earliest Disbursement Date:09/02/2011
+Award Loan Period Begin Date:08/22/2011
+Award Loan Period End Date:05/12/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Colorado Denver
+Award School OPEID:00450800
+Award Earliest Disbursement Date:09/02/2011
+Award Loan Period Begin Date:08/22/2011
+Award Loan Period End Date:05/12/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Colorado Denver
+Enrolled School OPEID:00450800
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/16/2015
+Enrolled School Name:University of Colorado Denver - Auraria
+Enrolled School OPEID:00450824
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/16/2015

@@ -1,0 +1,1137 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-09-19 14:05:31
+Student First Name:SUZETTE
+Student Middle Initial:M
+Student Last Name:LEONARDO
+Student Street Address 1:6434 N. PONTATOC ROAD
+Student Street Address 2:
+Student City:TUCSON
+Student State Code:AZ
+Student Country Code:US
+Student Zip Code:85718
+Student Email Address:SUZETTELEONARDO@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:5202751097
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:5202751097
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/12/2016
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2008
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2016
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$86,283.00
+Graduate Aggregate Combined Total:$86,283.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$86,283.00
+Aggregate Combined Total (Undergraduate and Graduate):$86,283.00
+Student Total All Loans Outstanding Principal:$113,075.00
+Student Total All Loans Outstanding Interest:$0.00
+Student Pell Lifetime Eligibility Used:350.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$13,210.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$101,646.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$11,429.00
+Total <D3> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4916U16G01083001
+Loan Attending School Name:University of Arizona (The)
+Loan Attending School OPEID:00108300
+Loan Date:08/14/2015
+Loan Repayment Begin Date:11/13/2016
+Loan Period Begin Date:08/24/2015
+Loan Period End Date:05/12/2016
+Loan Amount:$10,000.00
+Loan Disbursed Amount:$10,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$10,468.00
+Loan Outstanding Principal Balance as of Date:09/05/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/05/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.84%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/06/2016
+Loan Repayment Plan Scheduled Amount:$103.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/14/2020
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$2,128.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$615.00
+Net Loan Amount:$10,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$9,853.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2015
+Loan Disbursement Date:01/05/2016
+Loan Disbursement Amount:$5,000.00
+Loan Disbursement Date:08/14/2015
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4916U15G01083001
+Loan Attending School Name:University of Arizona (The)
+Loan Attending School OPEID:00108300
+Loan Date:08/15/2014
+Loan Repayment Begin Date:11/13/2016
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:05/14/2015
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$22,791.00
+Loan Outstanding Principal Balance as of Date:09/05/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/05/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/06/2016
+Loan Repayment Plan Scheduled Amount:$225.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/14/2020
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$4,896.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$2,612.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,179.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2014
+Loan Disbursement Date:01/05/2015
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/15/2014
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4916P15G01083002
+Loan Attending School Name:University of Arizona (The)
+Loan Attending School OPEID:00108300
+Loan Date:05/05/2015
+Loan Repayment Begin Date:05/05/2015
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:05/14/2015
+Loan Amount:$3,000.00
+Loan Disbursed Amount:$3,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,087.00
+Loan Outstanding Principal Balance as of Date:09/05/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/05/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.21%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/06/2016
+Loan Repayment Plan Scheduled Amount:$32.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/14/2020
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$976.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$130.00
+Net Loan Amount:$3,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/05/2015
+Loan Disbursement Date:05/05/2015
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4916P15G01083001
+Loan Attending School Name:University of Arizona (The)
+Loan Attending School OPEID:00108300
+Loan Date:08/15/2014
+Loan Repayment Begin Date:01/05/2015
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:05/14/2015
+Loan Amount:$7,500.00
+Loan Disbursed Amount:$7,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,342.00
+Loan Outstanding Principal Balance as of Date:09/05/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/05/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.21%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/06/2016
+Loan Repayment Plan Scheduled Amount:$85.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/14/2020
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$2,222.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$959.00
+Net Loan Amount:$7,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/05/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/14/2014
+Loan Disbursement Date:01/05/2015
+Loan Disbursement Amount:$3,750.00
+Loan Disbursement Date:08/15/2014
+Loan Disbursement Amount:$3,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4916U14G41314002
+Loan Attending School Name:Arizona Summit Law School
+Loan Attending School OPEID:04131400
+Loan Date:12/30/2013
+Loan Repayment Begin Date:11/13/2016
+Loan Period Begin Date:01/06/2014
+Loan Period End Date:08/25/2014
+Loan Amount:$16,211.00
+Loan Disbursed Amount:$16,211.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$18,360.00
+Loan Outstanding Principal Balance as of Date:09/05/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/05/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.41%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/06/2016
+Loan Repayment Plan Scheduled Amount:$178.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/14/2020
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$3,440.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$2,407.00
+Net Loan Amount:$16,211.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$15,953.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/30/2013
+Loan Disbursement Date:05/05/2014
+Loan Disbursement Amount:$5,961.00
+Loan Disbursement Date:12/30/2013
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4916U14G41314001
+Loan Attending School Name:Arizona Summit Law School
+Loan Attending School OPEID:04131400
+Loan Date:09/06/2013
+Loan Repayment Begin Date:11/13/2016
+Loan Period Begin Date:09/03/2013
+Loan Period End Date:12/16/2013
+Loan Amount:$10,250.00
+Loan Disbursed Amount:$10,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$11,850.00
+Loan Outstanding Principal Balance as of Date:09/05/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/05/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.41%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/06/2016
+Loan Repayment Plan Scheduled Amount:$115.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/14/2020
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$2,224.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$1,767.00
+Net Loan Amount:$10,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,083.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/06/2013
+Loan Disbursement Date:09/06/2013
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4916U13G41314002
+Loan Attending School Name:Arizona Summit Law School
+Loan Attending School OPEID:04131400
+Loan Date:05/24/2013
+Loan Repayment Begin Date:11/13/2016
+Loan Period Begin Date:06/03/2013
+Loan Period End Date:07/27/2013
+Loan Amount:$10,250.00
+Loan Disbursed Amount:$10,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,496.00
+Loan Outstanding Principal Balance as of Date:09/05/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/05/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/06/2016
+Loan Repayment Plan Scheduled Amount:$126.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/14/2020
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$2,928.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$2,421.00
+Net Loan Amount:$10,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,075.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/24/2013
+Loan Disbursement Date:05/24/2013
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4916U13G41314001
+Loan Attending School Name:Arizona Summit Law School
+Loan Attending School OPEID:04131400
+Loan Date:08/15/2012
+Loan Repayment Begin Date:11/13/2016
+Loan Period Begin Date:08/20/2012
+Loan Period End Date:05/22/2013
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$25,681.00
+Loan Outstanding Principal Balance as of Date:09/05/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/05/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:12/06/2016
+Loan Repayment Plan Scheduled Amount:$258.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/14/2020
+Loan Next Payment Due Date:01/30/2023
+Loan Cumulative Payment Amount:$6,032.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$5,541.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,140.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/06/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2012
+Loan Disbursement Date:01/18/2013
+Loan Disbursement Amount:$13,000.00
+Loan Disbursement Date:08/15/2012
+Loan Disbursement Amount:$7,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****300004EZ3BNU01
+Loan Attending School Name:University of Arizona (The)
+Loan Attending School OPEID:00108300
+Loan Date:10/03/2007
+Loan Repayment Begin Date:11/17/2008
+Loan Period Begin Date:08/20/2007
+Loan Period End Date:05/16/2008
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/17/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/17/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/13/2018
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/13/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/20/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/14/2010
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/14/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/03/2007
+Loan Disbursement Date:01/03/2008
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:10/04/2007
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:725
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824573
+Loan Contact Name:US BANK ELT EFS FINANCE CO & AFFIL.
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****300004DYYI6D01
+Loan Attending School Name:University of Arizona (The)
+Loan Attending School OPEID:00108300
+Loan Date:07/31/2006
+Loan Repayment Begin Date:11/17/2008
+Loan Period Begin Date:08/21/2006
+Loan Period End Date:05/11/2007
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/17/2018
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/17/2018
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/13/2018
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/13/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/20/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/14/2010
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/14/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/17/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/31/2006
+Loan Disbursement Date:12/28/2006
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/08/2006
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:725
+Loan Contact Name:AMERICAN STUDENT ASSISTANCE
+Loan Contact Street Address 1:PO BOX 16129
+Loan Contact Street Address 2:
+Loan Contact City:ST. PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55401
+Loan Contact Phone Number:833-896-1626
+Loan Contact Phone Extension:
+Loan Contact Email Address:asaservicing@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:824573
+Loan Contact Name:US BANK ELT EFS FINANCE CO & AFFIL.
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:SUITE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Arizona (The)
+Grant Attending School OPEID:00108300
+Grant Award Year:2007 - 2008
+Grant Scheduled Amount:$4,310.00
+Grant Award Amount:$4,310.00
+Grant Disbursed Amount:$4,310.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00108300
+Grant Contact Name:University of Arizona (The)
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:TUCSON
+Grant Contact State Code:AZ
+Grant Contact Zip Code:85721
+Phone Number:520-621-4717
+Phone Extension:
+Email Address:artyoung@arizona.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Arizona (The)
+Grant Attending School OPEID:00108300
+Grant Award Year:2006 - 2007
+Grant Scheduled Amount:$4,050.00
+Grant Award Amount:$4,050.00
+Grant Disbursed Amount:$4,050.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00108300
+Grant Contact Name:University of Arizona (The)
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:TUCSON
+Grant Contact State Code:AZ
+Grant Contact Zip Code:85721
+Phone Number:520-621-4717
+Phone Extension:
+Email Address:artyoung@arizona.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Arizona (The)
+Grant Attending School OPEID:00108300
+Grant Award Year:2005 - 2006
+Grant Scheduled Amount:$4,000.00
+Grant Award Amount:$4,000.00
+Grant Disbursed Amount:$4,000.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00108300
+Grant Contact Name:University of Arizona (The)
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:TUCSON
+Grant Contact State Code:AZ
+Grant Contact Zip Code:85721
+Phone Number:520-621-4717
+Phone Extension:
+Email Address:artyoung@arizona.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Orange Coast College
+Grant Attending School OPEID:00125000
+Grant Award Year:2005 - 2006
+Grant Scheduled Amount:$4,000.00
+Grant Award Amount:$4,000.00
+Grant Disbursed Amount:$0.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):0.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00125000
+Grant Contact Name:Orange Coast College
+Grant Contact Street Address 1:2701 FAIRVIEW ROAD
+Grant Contact Street Address 2:
+Grant Contact City:COSTA MESA
+Grant Contact State Code:CA
+Grant Contact Zip Code:92626
+Phone Number:714-432-5509
+Phone Extension:
+Email Address:tbradfield2@occ.cccd.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Arizona (The)
+Grant Attending School OPEID:00108300
+Grant Award Year:2003 - 2004
+Grant Scheduled Amount:$1,700.00
+Grant Award Amount:$1,700.00
+Grant Disbursed Amount:$850.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00108300
+Grant Contact Name:University of Arizona (The)
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:TUCSON
+Grant Contact State Code:AZ
+Grant Contact Zip Code:85721
+Phone Number:520-621-4717
+Phone Extension:
+Email Address:artyoung@arizona.edu
+Web Site Address:
+Program School Name:University of Arizona (The)
+Program School OPEID:00108300
+Program Cip Year:2010
+Program Cip Code:220101
+Program CIP Title:Law.
+Program Credential Level Code:07
+Program Credential Level Code Description:FIRST PROFESSIONAL DEGREE
+Program Begin Date:08/25/2014
+Program Published Length in Years:3.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/12/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/13/2016
+Award School Name:University of Arizona (The)
+Award School OPEID:00108300
+Award Earliest Disbursement Date:08/14/2015
+Award Loan Period Begin Date:08/24/2015
+Award Loan Period End Date:05/12/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Arizona (The)
+Award School OPEID:00108300
+Award Earliest Disbursement Date:08/15/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:05/14/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Arizona (The)
+Award School OPEID:00108300
+Award Earliest Disbursement Date:05/05/2015
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:05/14/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Arizona (The)
+Award School OPEID:00108300
+Award Earliest Disbursement Date:08/15/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:05/14/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Arizona Summit Law School
+Award School OPEID:04131400
+Award Earliest Disbursement Date:12/30/2013
+Award Loan Period Begin Date:01/06/2014
+Award Loan Period End Date:08/25/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Arizona Summit Law School
+Award School OPEID:04131400
+Award Earliest Disbursement Date:09/06/2013
+Award Loan Period Begin Date:09/03/2013
+Award Loan Period End Date:12/16/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Arizona Summit Law School
+Award School OPEID:04131400
+Award Earliest Disbursement Date:05/24/2013
+Award Loan Period Begin Date:06/03/2013
+Award Loan Period End Date:07/27/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Arizona Summit Law School
+Award School OPEID:04131400
+Award Earliest Disbursement Date:08/15/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:05/22/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Arizona (The)
+Enrolled School OPEID:00108300
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/12/2016
+Enrolled School Name:Arizona Summit Law School
+Enrolled School OPEID:04131400
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:06/12/2014

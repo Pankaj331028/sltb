@@ -1,0 +1,954 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-10 14:42:21
+Student First Name:JONATHAN
+Student Middle Initial:D
+Student Last Name:GLISSON
+Student Street Address 1:1301 HANDELIN RD
+Student Street Address 2:
+Student City:CARSON CITY
+Student State Code:NV
+Student Country Code:US
+Student Zip Code:89706
+Student Email Address:CFII_JGLISSON@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:9194409886
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6015273880
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:H
+Student Enrollment Status Code Description:HALF TIME
+Student Enrollment Status Effective Date:10/25/2022
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2020
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$14,980.00
+Undergraduate Aggregate Unsubsidized Total:$17,038.00
+Undergraduate Aggregate Combined Total:$32,018.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$14,980.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$17,038.00
+Aggregate Combined Total (Undergraduate and Graduate):$32,018.00
+Student Total All Loans Outstanding Principal:$32,213.00
+Student Total All Loans Outstanding Interest:$989.00
+Student Pell Lifetime Eligibility Used:512.519%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$26,457.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$14,980.00
+Total <D0> Outstanding Interest:$5.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$17,233.00
+Total <D2> Outstanding Interest:$984.00
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****6997S20G02569001
+Loan Attending School Name:University of Nevada - Las Vegas
+Loan Attending School OPEID:00256900
+Loan Date:08/28/2019
+Loan Repayment Begin Date:02/14/2022
+Loan Period Begin Date:08/26/2019
+Loan Period End Date:05/16/2020
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:11/13/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/25/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/14/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/14/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/28/2019
+Loan Disbursement Date:01/14/2020
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/28/2019
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6997U20G02569001
+Loan Attending School Name:University of Nevada - Las Vegas
+Loan Attending School OPEID:00256900
+Loan Date:08/28/2019
+Loan Repayment Begin Date:02/14/2022
+Loan Period Begin Date:08/26/2019
+Loan Period End Date:05/16/2020
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,000.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$112.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:11/13/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/25/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/14/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/14/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/28/2019
+Loan Disbursement Date:01/14/2020
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:08/28/2019
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****6997S19G02569001
+Loan Attending School Name:University of Nevada - Las Vegas
+Loan Attending School OPEID:00256900
+Loan Date:01/25/2019
+Loan Repayment Begin Date:02/14/2022
+Loan Period Begin Date:01/22/2019
+Loan Period End Date:05/18/2019
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:11/13/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/25/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/14/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/14/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/25/2019
+Loan Disbursement Date:01/25/2019
+Loan Disbursement Amount:$5,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6997U19G02569001
+Loan Attending School Name:University of Nevada - Las Vegas
+Loan Attending School OPEID:00256900
+Loan Date:01/25/2019
+Loan Repayment Begin Date:02/14/2022
+Loan Period Begin Date:01/22/2019
+Loan Period End Date:05/18/2019
+Loan Amount:$5,638.00
+Loan Disbursed Amount:$5,638.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,638.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$322.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:11/13/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$5,638.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,638.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/25/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/14/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/14/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/25/2019
+Loan Disbursement Date:01/25/2019
+Loan Disbursement Amount:$5,638.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****6997S15G04845001
+Loan Attending School Name:Wilson Community College
+Loan Attending School OPEID:00484500
+Loan Date:12/03/2014
+Loan Repayment Begin Date:11/09/2015
+Loan Period Begin Date:08/18/2014
+Loan Period End Date:05/07/2015
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,980.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$5.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/13/2016
+Loan Repayment Plan Scheduled Amount:$48.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:11/18/2023
+Loan Cumulative Payment Amount:$862.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,980.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/25/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/11/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/09/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/09/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/03/2014
+Loan Disbursement Date:03/02/2015
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:12/03/2014
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6997U15G04845001
+Loan Attending School Name:Wilson Community College
+Loan Attending School OPEID:00484500
+Loan Date:12/03/2014
+Loan Repayment Begin Date:11/09/2015
+Loan Period Begin Date:08/18/2014
+Loan Period End Date:07/30/2015
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,595.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$550.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/13/2016
+Loan Repayment Plan Scheduled Amount:$55.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:11/18/2023
+Loan Cumulative Payment Amount:$994.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$195.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,400.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/25/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/11/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/09/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/09/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/03/2014
+Loan Disbursement Date:03/02/2015
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:12/03/2014
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Nevada - Las Vegas
+Grant Attending School OPEID:00256900
+Grant Award Year:2020 - 2021
+Grant Scheduled Amount:$4,095.00
+Grant Award Amount:$2,048.00
+Grant Disbursed Amount:$2,048.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.012%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.012%
+Grant Contact Type:Attending School
+Grant Contact Code:00256900
+Grant Contact Name:University of Nevada - Las Vegas
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:702-895-3697
+Phone Extension:
+Email Address:zachary.goodwin@unlv.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Nevada - Las Vegas
+Grant Attending School OPEID:00256900
+Grant Award Year:2018 - 2019
+Grant Scheduled Amount:$3,445.00
+Grant Award Amount:$2,584.00
+Grant Disbursed Amount:$2,584.00
+Grant First Time:No
+Grant Additional Eligibility:Yes
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.007%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.007%
+Grant Contact Type:Attending School
+Grant Contact Code:00256900
+Grant Contact Name:University of Nevada - Las Vegas
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:702-895-3697
+Phone Extension:
+Email Address:zachary.goodwin@unlv.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:College of Southern Nevada
+Grant Attending School OPEID:01036200
+Grant Award Year:2017 - 2018
+Grant Scheduled Amount:$5,920.00
+Grant Award Amount:$5,180.00
+Grant Disbursed Amount:$2,220.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.500%
+Aid Recipient's Total Percent Eligibility Used (TEU):37.500%
+Grant Contact Type:Attending School
+Grant Contact Code:01036200
+Grant Contact Name:College of Southern Nevada
+Grant Contact Street Address 1:3200 E. CHEYENNE BLVD.
+Grant Contact Street Address 2:
+Grant Contact City:NORTH LAS VEGAS
+Grant Contact State Code:NV
+Grant Contact Zip Code:89030
+Phone Number:702-651-4695
+Phone Extension:
+Email Address:jennifer.montgomery@csn.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Wilson Community College
+Grant Attending School OPEID:00484500
+Grant Award Year:2014 - 2015
+Grant Scheduled Amount:$5,730.00
+Grant Award Amount:$5,730.00
+Grant Disbursed Amount:$5,730.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00484500
+Grant Contact Name:Wilson Community College
+Grant Contact Street Address 1:902 Herring Ave
+Grant Contact Street Address 2:
+Grant Contact City:Wilson
+Grant Contact State Code:NC
+Grant Contact Zip Code:27893
+Phone Number:252-246-1310
+Phone Extension:
+Email Address:lbaker@wilsoncc.edu
+Web Site Address:http://www.wilsoncc.edu/SS/FinAid.cfm
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Wayne Community College
+Grant Attending School OPEID:00298000
+Grant Award Year:2012 - 2013
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$2,775.00
+Grant Disbursed Amount:$2,775.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00298000
+Grant Contact Name:Wayne Community College
+Grant Contact Street Address 1:3000 WAYNE MEMORIAL DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:GOLDSBORO
+Grant Contact State Code:NC
+Grant Contact Zip Code:27533(8002)
+Phone Number:919-739-6736
+Phone Extension:
+Email Address:kklee@waynecc.edu
+Web Site Address:https://www.waynecc.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Wayne Community College
+Grant Attending School OPEID:00298000
+Grant Award Year:2011 - 2012
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$5,550.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00298000
+Grant Contact Name:Wayne Community College
+Grant Contact Street Address 1:3000 WAYNE MEMORIAL DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:GOLDSBORO
+Grant Contact State Code:NC
+Grant Contact Zip Code:27533(8002)
+Phone Number:919-739-6736
+Phone Extension:
+Email Address:kklee@waynecc.edu
+Web Site Address:https://www.waynecc.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Wayne Community College
+Grant Attending School OPEID:00298000
+Grant Award Year:2010 - 2011
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$5,550.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00298000
+Grant Contact Name:Wayne Community College
+Grant Contact Street Address 1:3000 WAYNE MEMORIAL DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:GOLDSBORO
+Grant Contact State Code:NC
+Grant Contact Zip Code:27533(8002)
+Phone Number:919-739-6736
+Phone Extension:
+Email Address:kklee@waynecc.edu
+Web Site Address:https://www.waynecc.edu
+Program School Name:United States University
+Program School OPEID:04005300
+Program Cip Year:2020
+Program Cip Code:520201
+Program CIP Title:Business Administration and Management, General.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:10/25/2022
+Program Published Length in Years:1.5
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:10/25/2022
+Program School Name:University of Nevada - Las Vegas
+Program School OPEID:00256900
+Program Cip Year:2020
+Program Cip Code:520201
+Program CIP Title:Business Administration and Management, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:11/06/2019
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:08/13/2021
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:05/17/2021
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/12/2020
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/24/2020
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:06/24/2020
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:05/18/2020
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/21/2020
+Program School Name:University of Nevada - Las Vegas
+Program School OPEID:00256900
+Program Cip Year:2010
+Program Cip Code:520801
+Program CIP Title:Finance, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:05/22/2019
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:11/06/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/26/2019
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:06/24/2019
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:05/22/2019
+Program School Name:University of Nevada - Las Vegas
+Program School OPEID:00256900
+Program Cip Year:2010
+Program Cip Code:520101
+Program CIP Title:Business/Commerce, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:01/22/2019
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/22/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/22/2019
+Program School Name:College of Southern Nevada
+Program School OPEID:01036200
+Program Cip Year:2010
+Program Cip Code:520101
+Program CIP Title:Business/Commerce, General.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:08/27/2018
+Program Published Length in Years:1.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/16/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/27/2018
+Program School Name:College of Southern Nevada
+Program School OPEID:01036200
+Program Cip Year:2010
+Program Cip Code:520201
+Program CIP Title:Business Administration and Management, General.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:06/04/2018
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:08/12/2018
+Program School Name:College of Southern Nevada
+Program School OPEID:01036200
+Program Cip Year:2010
+Program Cip Code:500406
+Program CIP Title:Commercial Photography.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:08/28/2017
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/13/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/16/2018
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:08/28/2017
+Program School Name:Wilson Community College
+Program School OPEID:00484500
+Program Cip Year:2010
+Program Cip Code:510909
+Program CIP Title:Surgical Technology/Technologist.
+Program Credential Level Code:01
+Program Credential Level Code Description:UNDERGRADUATE CERTIFICATE OR DIPLOMA PROGRAM
+Program Begin Date:08/18/2014
+Program Published Length in Years:1.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:07/30/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/18/2014
+Program School Name:Wilson Community College
+Program School OPEID:00484500
+Program Cip Year:2010
+Program Cip Code:510909
+Program CIP Title:Surgical Technology/Technologist.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:08/18/2014
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:07/30/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/18/2014
+Award School Name:University of Nevada - Las Vegas
+Award School OPEID:00256900
+Award Earliest Disbursement Date:08/28/2019
+Award Loan Period Begin Date:08/26/2019
+Award Loan Period End Date:05/16/2020
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:University of Nevada - Las Vegas
+Award School OPEID:00256900
+Award Earliest Disbursement Date:08/28/2019
+Award Loan Period Begin Date:08/26/2019
+Award Loan Period End Date:05/16/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Nevada - Las Vegas
+Award School OPEID:00256900
+Award Earliest Disbursement Date:01/25/2019
+Award Loan Period Begin Date:01/22/2019
+Award Loan Period End Date:05/18/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Nevada - Las Vegas
+Award School OPEID:00256900
+Award Earliest Disbursement Date:01/25/2019
+Award Loan Period Begin Date:01/22/2019
+Award Loan Period End Date:05/18/2019
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Wilson Community College
+Award School OPEID:00484500
+Award Earliest Disbursement Date:12/03/2014
+Award Loan Period Begin Date:08/18/2014
+Award Loan Period End Date:05/07/2015
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Wilson Community College
+Award School OPEID:00484500
+Award Earliest Disbursement Date:12/03/2014
+Award Loan Period Begin Date:08/18/2014
+Award Loan Period End Date:07/30/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:United States University
+Enrolled School OPEID:04005300
+Enrolled Status Code:H
+Enrolled Status Code Description:HALF TIME
+Enrolled Status Date:10/25/2022
+Enrolled School Name:University of Nevada - Las Vegas
+Enrolled School OPEID:00256900
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:08/13/2021
+Enrolled School Name:College of Southern Nevada
+Enrolled School OPEID:01036200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/16/2018
+Enrolled School Name:Wilson Community College
+Enrolled School OPEID:00484500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:07/30/2015
+Enrolled School Name:Wayne Community College
+Enrolled School OPEID:00298000
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/17/2012

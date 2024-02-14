@@ -1,0 +1,1095 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-11-11 21:25:07
+Student First Name:JASON
+Student Middle Initial:M
+Student Last Name:FRIEDKIN
+Student Street Address 1:601 HARING FARM COURT
+Student Street Address 2:
+Student City:RIVER VALE
+Student State Code:NJ
+Student Country Code:US
+Student Zip Code:07675
+Student Email Address:JASONFRIEDKIN@MY.URI.EDU
+Student Home Phone Country Code:1
+Student Home Phone Number:2019839166
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:
+Student Cell Phone Number:2019839166
+Student Cell Phone Preferred:
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/02/2016
+Undergraduate Subsidized Loan Limit Flag:C
+Undergraduate Combined Loan Limit Flag:C
+Undergraduate Award Year:2016
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$18,000.00
+Undergraduate Aggregate Unsubsidized Total:$13,000.00
+Undergraduate Aggregate Combined Total:$31,000.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$18,000.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$13,000.00
+Aggregate Combined Total (Undergraduate and Graduate):$31,000.00
+Student Total All Loans Outstanding Principal:$34,225.00
+Student Total All Loans Outstanding Interest:$1,490.00
+Student Pell Lifetime Eligibility Used:94.146%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$4,825.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$0.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$15,386.00
+Total <D5> Outstanding Interest:$670.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$18,839.00
+Total <D6> Outstanding Interest:$820.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0963S16G03414002
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:09/15/2016
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/09/2015
+Loan Period End Date:05/02/2016
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$59.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$193.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/14/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/15/2016
+Loan Disbursement Date:09/15/2016
+Loan Disbursement Amount:$5,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0963U16G03414003
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:09/15/2016
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/09/2015
+Loan Period End Date:05/02/2016
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$56.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:P
+Award Year:2016
+Capitalized Interest:$464.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/15/2016
+Loan Disbursement Date:09/15/2016
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0963U16G03414002
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:09/15/2016
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/09/2015
+Loan Period End Date:05/02/2016
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$23.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$185.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/15/2016
+Loan Disbursement Date:09/15/2016
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0963S15G03414001
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:09/03/2014
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/03/2014
+Loan Period End Date:04/29/2015
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.66%
+Loan Actual Interest Rate:4.66%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$62.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$239.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/2014
+Loan Disbursement Date:01/13/2015
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/03/2014
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0963U15G03414001
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:09/03/2014
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/03/2014
+Loan Period End Date:04/29/2015
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.66%
+Loan Actual Interest Rate:4.66%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$26.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$411.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/2014
+Loan Disbursement Date:01/13/2015
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:09/03/2014
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0963S14G03414001
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:08/25/2013
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/04/2013
+Loan Period End Date:04/29/2014
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$38.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$196.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/14/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2013
+Loan Disbursement Date:01/13/2014
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/25/2013
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0963U14G03414001
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:08/25/2013
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/04/2013
+Loan Period End Date:04/29/2014
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$25.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$420.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2013
+Loan Disbursement Date:01/13/2014
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/25/2013
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****0963S13G03414001
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:01/18/2013
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/05/2012
+Loan Period End Date:04/30/2013
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.40%
+Loan Actual Interest Rate:3.40%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$37.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$172.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/14/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/18/2013
+Loan Disbursement Date:01/18/2013
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****0963U13G03414001
+Loan Attending School Name:University of Rhode Island
+Loan Attending School OPEID:00341400
+Loan Date:01/18/2013
+Loan Repayment Begin Date:03/10/2018
+Loan Period Begin Date:09/05/2012
+Loan Period End Date:04/30/2013
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:02/28/2019
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2019
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/17/2019
+Loan Repayment Plan Scheduled Amount:$34.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:04/15/2019
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$870.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/09/2019
+DelinqDate:04/21/2018
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:03/05/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/20/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/10/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/09/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/18/2013
+Loan Disbursement Date:01/18/2013
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****0963U19G77778202
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/05/2019
+Loan Repayment Begin Date:03/05/2019
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$15,386.00
+Loan Disbursed Amount:$15,386.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$15,386.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$670.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.25%
+Loan Repayment Plan Type Code:CS
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/10/2020
+Loan Repayment Plan Scheduled Amount:$105.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:02/15/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$15,386.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$13,000.00
+Calculated Combined Aggregate OPB:$13,000.00
+UpdtDt:11/04/2022
+DelinqDate:04/16/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/16/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/05/2019
+Loan Disbursement Date:03/05/2019
+Loan Disbursement Amount:$15,386.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****0963S19G77778202
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/05/2019
+Loan Repayment Begin Date:03/05/2019
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$18,839.00
+Loan Disbursed Amount:$18,839.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$18,839.00
+Loan Outstanding Principal Balance as of Date:10/31/2022
+Loan Outstanding Interest Balance:$820.00
+Loan Outstanding Interest Balance as of Date:10/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.25%
+Loan Repayment Plan Type Code:CS
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:02/10/2020
+Loan Repayment Plan Scheduled Amount:$128.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:02/15/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$18,839.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$18,000.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$18,000.00
+UpdtDt:11/04/2022
+DelinqDate:04/16/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/16/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/05/2019
+Loan Disbursement Date:03/05/2019
+Loan Disbursement Amount:$18,839.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Rhode Island
+Grant Attending School OPEID:00341400
+Grant Award Year:2015 - 2016
+Grant Scheduled Amount:$5,125.00
+Grant Award Amount:$5,125.00
+Grant Disbursed Amount:$4,825.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):94.146%
+Aid Recipient's Total Percent Eligibility Used (TEU):94.146%
+Grant Contact Type:Attending School
+Grant Contact Code:00341400
+Grant Contact Name:University of Rhode Island
+Grant Contact Street Address 1:6 RHODY RAM WAY
+Grant Contact Street Address 2:
+Grant Contact City:KINGSTON
+Grant Contact State Code:RI
+Grant Contact Zip Code:02881
+Phone Number:401-874-7530
+Phone Extension:
+Email Address:saccucci@uri.edu
+Web Site Address:http://www.uri.edu/es
+Program School Name:University of Rhode Island
+Program School OPEID:00341400
+Program Cip Year:2010
+Program Cip Code:451001
+Program CIP Title:Political Science and Government, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:01/22/2014
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/02/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/26/2016
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:08/31/2015
+Award Loan Period Begin Date:09/09/2015
+Award Loan Period End Date:05/02/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:09/15/2016
+Award Loan Period Begin Date:09/09/2015
+Award Loan Period End Date:05/02/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:08/31/2015
+Award Loan Period Begin Date:09/09/2015
+Award Loan Period End Date:05/02/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:09/15/2016
+Award Loan Period Begin Date:09/09/2015
+Award Loan Period End Date:05/02/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:09/15/2016
+Award Loan Period Begin Date:09/09/2015
+Award Loan Period End Date:05/02/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:09/03/2014
+Award Loan Period Begin Date:09/03/2014
+Award Loan Period End Date:04/29/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:09/03/2014
+Award Loan Period Begin Date:09/03/2014
+Award Loan Period End Date:04/29/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:08/25/2013
+Award Loan Period Begin Date:09/04/2013
+Award Loan Period End Date:04/29/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:08/25/2013
+Award Loan Period Begin Date:09/04/2013
+Award Loan Period End Date:04/29/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:01/18/2013
+Award Loan Period Begin Date:09/05/2012
+Award Loan Period End Date:04/30/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Rhode Island
+Award School OPEID:00341400
+Award Earliest Disbursement Date:01/18/2013
+Award Loan Period Begin Date:09/05/2012
+Award Loan Period End Date:04/30/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Rhode Island
+Enrolled School OPEID:00341400
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/02/2016

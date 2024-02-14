@@ -1,0 +1,521 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-11-15 09:10:32
+Student First Name:MELISSA
+Student Middle Initial:S
+Student Last Name:WEAVER
+Student Street Address 1:21 MAPLEWOOD DR APT 21A
+Student Street Address 2:
+Student City:MAPLE SHADE
+Student State Code:NJ
+Student Country Code:US
+Student Zip Code:08052
+Student Email Address:mel.demons8619@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:6097249364
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:8563606804
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:6096680732
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:07/07/2011
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2011
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$1,891.00
+Undergraduate Aggregate Unsubsidized Total:$3,000.00
+Undergraduate Aggregate Combined Total:$4,891.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$1,891.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$3,000.00
+Aggregate Combined Total (Undergraduate and Graduate):$4,891.00
+Student Total All Loans Outstanding Principal:$6,434.00
+Student Total All Loans Outstanding Interest:$1,479.00
+Student Pell Lifetime Eligibility Used:100.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$5,550.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$2,100.00
+Total <D1> Outstanding Interest:$359.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$4,334.00
+Total <D2> Outstanding Interest:$1,120.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****3207S11G41731001
+Loan Attending School Name:Lab Paul Mitchell Partner School (The)
+Loan Attending School OPEID:04173100
+Loan Date:06/17/2011
+Loan Repayment Begin Date:01/08/2012
+Loan Period Begin Date:06/06/2011
+Loan Period End Date:01/20/2012
+Loan Amount:$141.00
+Loan Disbursed Amount:$141.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$157.00
+Loan Outstanding Principal Balance as of Date:07/06/2017
+Loan Outstanding Interest Balance:$27.00
+Loan Outstanding Interest Balance as of Date:07/06/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.50%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:05/29/2016
+Loan Repayment Plan Scheduled Amount:$2.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:07/07/2017
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$141.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$141.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/17/2022
+DelinqDate:07/08/2016
+Current Loan Status:DO
+Current Loan Status Description:DEFAULTED, THEN BANKRUPT, ACTIVE, OTHER
+Loan Status:DO
+Loan Status Description:DEFAULTED, THEN BANKRUPT, ACTIVE, OTHER
+Loan Status Effective Date:10/12/2022
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/06/2017
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/03/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/23/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/23/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/07/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/06/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/24/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/03/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/13/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/10/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/08/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/08/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/17/2011
+Loan Disbursement Date:06/17/2011
+Loan Disbursement Amount:$141.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3207U11G41731001
+Loan Attending School Name:Lab Paul Mitchell Partner School (The)
+Loan Attending School OPEID:04173100
+Loan Date:06/17/2011
+Loan Repayment Begin Date:08/30/2011
+Loan Period Begin Date:06/06/2011
+Loan Period End Date:01/20/2012
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/30/2011
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/30/2011
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:09/04/2011
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:08/30/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/08/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/17/2011
+Loan Disbursement Date:06/17/2011
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****3207S11G21498001
+Loan Attending School Name:Empire Beauty School
+Loan Attending School OPEID:02149800
+Loan Date:10/11/2010
+Loan Repayment Begin Date:01/08/2012
+Loan Period Begin Date:09/13/2010
+Loan Period End Date:03/23/2011
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$1,750.00
+Loan Canceled Amount:$1,750.00
+Loan Canceled Date:05/23/2011
+Loan Outstanding Principal Balance:$1,943.00
+Loan Outstanding Principal Balance as of Date:07/06/2017
+Loan Outstanding Interest Balance:$332.00
+Loan Outstanding Interest Balance as of Date:07/06/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.50%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:05/29/2016
+Loan Repayment Plan Scheduled Amount:$22.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:07/07/2017
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$1,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,750.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/17/2022
+DelinqDate:07/08/2016
+Current Loan Status:DO
+Current Loan Status Description:DEFAULTED, THEN BANKRUPT, ACTIVE, OTHER
+Loan Status:DO
+Loan Status Description:DEFAULTED, THEN BANKRUPT, ACTIVE, OTHER
+Loan Status Effective Date:10/12/2022
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/06/2017
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/03/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/23/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/23/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/07/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/06/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/24/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/03/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/13/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/10/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/08/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/08/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/11/2010
+Loan Disbursement Date:10/11/2010
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3207U11G21498001
+Loan Attending School Name:Empire Beauty School
+Loan Attending School OPEID:02149800
+Loan Date:10/11/2010
+Loan Repayment Begin Date:01/08/2012
+Loan Period Begin Date:09/13/2010
+Loan Period End Date:03/23/2011
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$3,000.00
+Loan Canceled Amount:$3,000.00
+Loan Canceled Date:05/23/2011
+Loan Outstanding Principal Balance:$4,334.00
+Loan Outstanding Principal Balance as of Date:07/06/2017
+Loan Outstanding Interest Balance:$1,120.00
+Loan Outstanding Interest Balance as of Date:07/06/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:05/29/2016
+Loan Repayment Plan Scheduled Amount:$50.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:07/07/2017
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$3,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:10/17/2022
+DelinqDate:07/08/2016
+Current Loan Status:DO
+Current Loan Status Description:DEFAULTED, THEN BANKRUPT, ACTIVE, OTHER
+Loan Status:DO
+Loan Status Description:DEFAULTED, THEN BANKRUPT, ACTIVE, OTHER
+Loan Status Effective Date:10/12/2022
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/06/2017
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:04/03/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/23/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/23/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/07/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/07/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/06/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/24/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/03/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/13/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/10/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/08/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/08/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/11/2010
+Loan Disbursement Date:10/11/2010
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Empire Beauty School
+Grant Attending School OPEID:02149800
+Grant Award Year:2010 - 2011
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$2,775.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:02149800
+Grant Contact Name:Empire Beauty School
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:570-429-4321
+Phone Extension:2531
+Email Address:jumbenhaur@empire.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Lab Paul Mitchell Partner School (The)
+Grant Attending School OPEID:04173100
+Grant Award Year:2010 - 2011
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$2,775.00
+Grant Disbursed Amount:$2,775.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):50.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:04173100
+Grant Contact Name:Lab Paul Mitchell Partner School (The)
+Grant Contact Street Address 1:25 SCOTCH ROAD
+Grant Contact Street Address 2:SUITE A
+Grant Contact City:EWING
+Grant Contact State Code:NJ
+Grant Contact Zip Code:08628(2500)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Enrolled School Name:Lab Paul Mitchell Partner School (The)
+Enrolled School OPEID:04173100
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:07/07/2011
+Enrolled School Name:Empire Beauty School
+Enrolled School OPEID:02149800
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:01/04/2011

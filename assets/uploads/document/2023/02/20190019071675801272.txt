@@ -1,0 +1,1132 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-07 14:57:44
+Student First Name:BRITTANI
+Student Middle Initial:M
+Student Last Name:WILLIAMS
+Student Street Address 1:6200 VALENCIA LN APT 2039
+Student Street Address 2:
+Student City:COLUMBIA
+Student State Code:MD
+Student Country Code:US
+Student Zip Code:21044
+Student Email Address:BRITTANIWILES@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4438014470
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6673042888
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:09/12/2022
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2022
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$13,487.00
+Undergraduate Aggregate Unsubsidized Total:$25,555.00
+Undergraduate Aggregate Combined Total:$39,042.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$13,487.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$25,555.00
+Aggregate Combined Total (Undergraduate and Graduate):$39,042.00
+Student Total All Loans Outstanding Principal:$39,042.00
+Student Total All Loans Outstanding Interest:$404.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$8,987.00
+Total <D0> Outstanding Interest:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$4,500.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$25,555.00
+Total <D2> Outstanding Interest:$404.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5182S22G01363002
+Loan Attending School Name:Regis University
+Loan Attending School OPEID:00136300
+Loan Date:02/23/2022
+Loan Repayment Begin Date:11/04/2027
+Loan Period Begin Date:01/10/2022
+Loan Period End Date:05/01/2022
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,500.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.73%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/04/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/23/2022
+Loan Disbursement Date:02/23/2022
+Loan Disbursement Amount:$4,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5182U22G01363002
+Loan Attending School Name:Regis University
+Loan Attending School OPEID:00136300
+Loan Date:02/23/2022
+Loan Repayment Begin Date:11/04/2027
+Loan Period Begin Date:01/10/2022
+Loan Period End Date:05/01/2022
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,000.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.73%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:12/04/2027
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/23/2022
+Loan Disbursement Date:02/23/2022
+Loan Disbursement Amount:$6,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5182U21G02063002
+Loan Attending School Name:Community College of Baltimore County
+Loan Attending School OPEID:00206300
+Loan Date:02/26/2021
+Loan Repayment Begin Date:07/11/2026
+Loan Period Begin Date:01/04/2021
+Loan Period End Date:05/23/2021
+Loan Amount:$1,169.00
+Loan Disbursed Amount:$1,169.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,169.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/10/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$1,169.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,169.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/26/2021
+Loan Disbursement Date:04/09/2021
+Loan Disbursement Amount:$584.00
+Loan Disbursement Date:02/26/2021
+Loan Disbursement Amount:$585.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****5182S21G02063001
+Loan Attending School Name:Community College of Baltimore County
+Loan Attending School OPEID:00206300
+Loan Date:09/25/2020
+Loan Repayment Begin Date:07/11/2026
+Loan Period Begin Date:08/31/2020
+Loan Period End Date:05/23/2021
+Loan Amount:$2,737.00
+Loan Disbursed Amount:$2,737.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,737.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.6
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/10/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$2,737.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,737.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/25/2020
+Loan Disbursement Date:02/26/2021
+Loan Disbursement Amount:$487.00
+Loan Disbursement Date:09/25/2020
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5182U21G02063001
+Loan Attending School Name:Community College of Baltimore County
+Loan Attending School OPEID:00206300
+Loan Date:09/25/2020
+Loan Repayment Begin Date:07/11/2026
+Loan Period Begin Date:08/31/2020
+Loan Period End Date:05/23/2021
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,000.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:2.75%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/10/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/25/2020
+Loan Disbursement Date:02/26/2021
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:09/25/2020
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****5182S20G02063001
+Loan Attending School Name:Community College of Baltimore County
+Loan Attending School OPEID:00206300
+Loan Date:09/19/2019
+Loan Repayment Begin Date:07/11/2026
+Loan Period Begin Date:08/26/2019
+Loan Period End Date:05/17/2020
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,500.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/10/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/19/2019
+Loan Disbursement Date:02/21/2020
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:09/19/2019
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5182U20G02063001
+Loan Attending School Name:Community College of Baltimore County
+Loan Attending School OPEID:00206300
+Loan Date:09/19/2019
+Loan Repayment Begin Date:07/11/2026
+Loan Period Begin Date:08/26/2019
+Loan Period End Date:05/17/2020
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,000.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$73.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.53%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/10/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/19/2019
+Loan Disbursement Date:02/21/2020
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:09/19/2019
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****5182S19G02063001
+Loan Attending School Name:Community College of Baltimore County
+Loan Attending School OPEID:00206300
+Loan Date:02/21/2019
+Loan Repayment Begin Date:07/11/2026
+Loan Period Begin Date:01/01/2019
+Loan Period End Date:05/19/2019
+Loan Amount:$2,750.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,750.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.4
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/10/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$2,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,750.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/21/2019
+Loan Disbursement Date:03/14/2019
+Loan Disbursement Amount:$1,375.00
+Loan Disbursement Date:02/21/2019
+Loan Disbursement Amount:$1,375.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5182U19G02063001
+Loan Attending School Name:Community College of Baltimore County
+Loan Attending School OPEID:00206300
+Loan Date:02/21/2019
+Loan Repayment Begin Date:07/11/2026
+Loan Period Begin Date:01/01/2019
+Loan Period End Date:05/19/2019
+Loan Amount:$6,386.00
+Loan Disbursed Amount:$6,386.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,386.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$331.00
+Loan Outstanding Interest Balance as of Date:01/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.05%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:08/10/2026
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$6,386.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,386.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:09/02/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/21/2019
+Loan Disbursement Date:03/14/2019
+Loan Disbursement Amount:$3,193.00
+Loan Disbursement Date:02/21/2019
+Loan Disbursement Amount:$3,193.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****5182S13G02080001
+Loan Attending School Name:Maryland Institute College of Art
+Loan Attending School OPEID:00208000
+Loan Date:08/22/2012
+Loan Repayment Begin Date:08/22/2012
+Loan Period Begin Date:08/29/2012
+Loan Period End Date:05/11/2013
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2012
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2012
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.40%
+Loan Actual Interest Rate:3.40%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:09/06/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2012
+Loan Disbursement Date:08/22/2012
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5182U13G02080002
+Loan Attending School Name:Maryland Institute College of Art
+Loan Attending School OPEID:00208000
+Loan Date:08/22/2012
+Loan Repayment Begin Date:08/22/2012
+Loan Period Begin Date:08/29/2012
+Loan Period End Date:05/11/2013
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2012
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2012
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:09/06/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2012
+Loan Disbursement Date:08/22/2012
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****5182U13G02080001
+Loan Attending School Name:Maryland Institute College of Art
+Loan Attending School OPEID:00208000
+Loan Date:08/22/2012
+Loan Repayment Begin Date:08/22/2012
+Loan Period Begin Date:08/29/2012
+Loan Period End Date:05/11/2013
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2012
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2012
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/02/2022
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:09/06/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2012
+Loan Disbursement Date:08/22/2012
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:Regis University
+Program School OPEID:00136300
+Program Cip Year:2020
+Program Cip Code:450401
+Program CIP Title:Criminology.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:05/03/2021
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:09/12/2022
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/10/2022
+Program School Name:Community College of Baltimore County
+Program School OPEID:00206300
+Program Cip Year:2020
+Program Cip Code:240199
+Program CIP Title:Liberal Arts and Sciences, General Studies and Humanities, Other.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:01/26/2020
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/19/2021
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:08/29/2021
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:02/23/2021
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/26/2020
+Program School Name:Community College of Baltimore County
+Program School OPEID:00206300
+Program Cip Year:2010
+Program Cip Code:520101
+Program CIP Title:Business/Commerce, General.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:01/01/2019
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:01/26/2020
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:09/16/2019
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:02/12/2019
+Award School Name:Regis University
+Award School OPEID:00136300
+Award Earliest Disbursement Date:08/31/2022
+Award Loan Period Begin Date:08/22/2022
+Award Loan Period End Date:04/30/2023
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Regis University
+Award School OPEID:00136300
+Award Earliest Disbursement Date:08/31/2022
+Award Loan Period Begin Date:08/22/2022
+Award Loan Period End Date:04/30/2023
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Regis University
+Award School OPEID:00136300
+Award Earliest Disbursement Date:05/11/2022
+Award Loan Period Begin Date:05/02/2022
+Award Loan Period End Date:04/30/2023
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Regis University
+Award School OPEID:00136300
+Award Earliest Disbursement Date:05/11/2022
+Award Loan Period Begin Date:05/02/2022
+Award Loan Period End Date:04/30/2023
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Regis University
+Award School OPEID:00136300
+Award Earliest Disbursement Date:02/23/2022
+Award Loan Period Begin Date:01/10/2022
+Award Loan Period End Date:05/01/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Regis University
+Award School OPEID:00136300
+Award Earliest Disbursement Date:02/23/2022
+Award Loan Period Begin Date:01/10/2022
+Award Loan Period End Date:05/01/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Regis University
+Award School OPEID:00136300
+Award Earliest Disbursement Date:05/24/2021
+Award Loan Period Begin Date:05/24/2021
+Award Loan Period End Date:05/01/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Regis University
+Award School OPEID:00136300
+Award Earliest Disbursement Date:05/24/2021
+Award Loan Period Begin Date:05/24/2021
+Award Loan Period End Date:05/01/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Community College of Baltimore County
+Award School OPEID:00206300
+Award Earliest Disbursement Date:02/26/2021
+Award Loan Period Begin Date:01/04/2021
+Award Loan Period End Date:05/23/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Community College of Baltimore County
+Award School OPEID:00206300
+Award Earliest Disbursement Date:02/26/2021
+Award Loan Period Begin Date:01/04/2021
+Award Loan Period End Date:05/23/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Community College of Baltimore County
+Award School OPEID:00206300
+Award Earliest Disbursement Date:09/25/2020
+Award Loan Period Begin Date:08/31/2020
+Award Loan Period End Date:05/23/2021
+Award Subsidized Usage:0.6
+Award Subsidy Status:
+Award School Name:Community College of Baltimore County
+Award School OPEID:00206300
+Award Earliest Disbursement Date:09/25/2020
+Award Loan Period Begin Date:08/31/2020
+Award Loan Period End Date:05/23/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Community College of Baltimore County
+Award School OPEID:00206300
+Award Earliest Disbursement Date:09/19/2019
+Award Loan Period Begin Date:08/26/2019
+Award Loan Period End Date:05/17/2020
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Community College of Baltimore County
+Award School OPEID:00206300
+Award Earliest Disbursement Date:09/19/2019
+Award Loan Period Begin Date:08/26/2019
+Award Loan Period End Date:05/17/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Community College of Baltimore County
+Award School OPEID:00206300
+Award Earliest Disbursement Date:02/21/2019
+Award Loan Period Begin Date:01/01/2019
+Award Loan Period End Date:05/19/2019
+Award Subsidized Usage:0.4
+Award Subsidy Status:
+Award School Name:Community College of Baltimore County
+Award School OPEID:00206300
+Award Earliest Disbursement Date:02/21/2019
+Award Loan Period Begin Date:01/01/2019
+Award Loan Period End Date:05/19/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Arizona State University
+Award School OPEID:00108100
+Award Earliest Disbursement Date:08/09/2018
+Award Loan Period Begin Date:08/16/2018
+Award Loan Period End Date:05/15/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Arizona State University
+Award School OPEID:00108100
+Award Earliest Disbursement Date:08/09/2018
+Award Loan Period Begin Date:08/16/2018
+Award Loan Period End Date:05/15/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Maryland Institute College of Art
+Award School OPEID:00208000
+Award Earliest Disbursement Date:08/22/2012
+Award Loan Period Begin Date:08/29/2012
+Award Loan Period End Date:05/11/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Maryland Institute College of Art
+Award School OPEID:00208000
+Award Earliest Disbursement Date:08/22/2012
+Award Loan Period Begin Date:08/29/2012
+Award Loan Period End Date:05/11/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Maryland Institute College of Art
+Award School OPEID:00208000
+Award Earliest Disbursement Date:08/22/2012
+Award Loan Period Begin Date:08/29/2012
+Award Loan Period End Date:05/11/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Regis University
+Enrolled School OPEID:00136300
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:09/12/2022
+Enrolled School Name:Community College of Baltimore County
+Enrolled School OPEID:00206300
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/19/2021

@@ -1,0 +1,1611 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-03-07 14:28:30
+Student First Name:NICHOLAS
+Student Middle Initial:S
+Student Last Name:NORDFORS
+Student Street Address 1:125 BRACKETT ROAD
+Student Street Address 2:
+Student City:GORHAM
+Student State Code:ME
+Student Country Code:US
+Student Zip Code:04038
+Student Email Address:NICKNORDFORS@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2078398176
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2079395031
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/13/2009
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2009
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$16,829.00
+Undergraduate Aggregate Unsubsidized Total:$2,000.00
+Undergraduate Aggregate Combined Total:$18,829.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2023
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$21,746.00
+Graduate Aggregate Combined Total:$21,746.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$16,829.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$23,746.00
+Aggregate Combined Total (Undergraduate and Graduate):$40,575.00
+Student Total All Loans Outstanding Principal:$54,209.00
+Student Total All Loans Outstanding Interest:$268.00
+Student Pell Lifetime Eligibility Used:300.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$14,391.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$21,746.00
+Total <D2> Outstanding Interest:$39.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$13,032.00
+Total <D5> Outstanding Interest:$157.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$19,431.00
+Total <D6> Outstanding Interest:$72.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6447U23G02054001
+Loan Attending School Name:University of Southern Maine
+Loan Attending School OPEID:00205400
+Loan Date:09/14/2022
+Loan Repayment Begin Date:06/16/2024
+Loan Period Begin Date:08/29/2022
+Loan Period End Date:12/16/2022
+Loan Amount:$1,750.00
+Loan Disbursed Amount:$1,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,750.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.54%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:07/16/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2023
+Capitalized Interest:$0.00
+Net Loan Amount:$1,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,750.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/14/2022
+Loan Disbursement Date:09/14/2022
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6447U22G02054002
+Loan Attending School Name:University of Southern Maine
+Loan Attending School OPEID:00205400
+Loan Date:08/25/2021
+Loan Repayment Begin Date:06/16/2024
+Loan Period Begin Date:08/30/2021
+Loan Period End Date:05/06/2022
+Loan Amount:$1,500.00
+Loan Disbursed Amount:$1,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,500.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.28%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:07/16/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$1,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2021
+Loan Disbursement Date:02/02/2022
+Loan Disbursement Amount:$750.00
+Loan Disbursement Date:08/25/2021
+Loan Disbursement Amount:$750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6447U22G02054001
+Loan Attending School Name:University of Southern Maine
+Loan Attending School OPEID:00205400
+Loan Date:05/26/2021
+Loan Repayment Begin Date:06/16/2024
+Loan Period Begin Date:05/17/2021
+Loan Period End Date:08/27/2021
+Loan Amount:$2,496.00
+Loan Disbursed Amount:$2,496.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,496.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.30%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:07/16/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$2,496.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,496.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/26/2021
+Loan Disbursement Date:05/26/2021
+Loan Disbursement Amount:$2,496.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6447U21G02054001
+Loan Attending School Name:University of Southern Maine
+Loan Attending School OPEID:00205400
+Loan Date:08/21/2020
+Loan Repayment Begin Date:06/16/2024
+Loan Period Begin Date:08/31/2020
+Loan Period End Date:05/07/2021
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,000.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.30%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:07/16/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2020
+Loan Disbursement Date:01/15/2021
+Loan Disbursement Amount:$6,000.00
+Loan Disbursement Date:08/21/2020
+Loan Disbursement Amount:$6,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6447U20G02054001
+Loan Attending School Name:University of Southern Maine
+Loan Attending School OPEID:00205400
+Loan Date:01/14/2020
+Loan Repayment Begin Date:06/16/2024
+Loan Period Begin Date:01/21/2020
+Loan Period End Date:05/08/2020
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,000.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$39.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:07/16/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:
+Current Loan Status:IA
+Current Loan Status Description:LOAN ORIGINATED
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/14/2020
+Loan Disbursement Date:01/14/2020
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****50000P39056601
+Loan Attending School Name:New York University
+Loan Attending School OPEID:00278500
+Loan Date:06/10/2008
+Loan Repayment Begin Date:11/14/2009
+Loan Period Begin Date:09/02/2008
+Loan Period End Date:05/13/2009
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:05/19/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/19/2010
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/15/2010
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:05/19/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/10/2008
+Loan Disbursement Date:01/08/2009
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/21/2008
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700018
+Loan Contact Name:THE STUDENT LOAN CORPORATION
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:800-967-2400
+Loan Contact Phone Extension:
+Loan Contact Email Address:student.loans@citicorp.com
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834466
+Loan Contact Name:CONDUIT CITIBANK ELT SLC
+Loan Contact Street Address 1:388 GREENWICH ST
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10013(0000)
+Loan Contact Phone Number:2128165681
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****50000P44031201
+Loan Attending School Name:New York University
+Loan Attending School OPEID:00278500
+Loan Date:06/18/2008
+Loan Repayment Begin Date:11/14/2009
+Loan Period Begin Date:09/02/2008
+Loan Period End Date:05/13/2009
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:05/19/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/19/2010
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/15/2010
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:05/19/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/18/2008
+Loan Disbursement Date:01/08/2009
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/21/2008
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700018
+Loan Contact Name:THE STUDENT LOAN CORPORATION
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:800-967-2400
+Loan Contact Phone Extension:
+Loan Contact Email Address:student.loans@citicorp.com
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834466
+Loan Contact Name:CONDUIT CITIBANK ELT SLC
+Loan Contact Street Address 1:388 GREENWICH ST
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10013(0000)
+Loan Contact Phone Number:2128165681
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****0068864470009
+Loan Attending School Name:New York University
+Loan Attending School OPEID:00278500
+Loan Date:09/10/2008
+Loan Repayment Begin Date:02/01/2010
+Loan Period Begin Date:09/01/2008
+Loan Period End Date:12/31/2008
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/01/2009
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2009
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:01/01/2009
+Loan Contact Type:Attending School
+Loan Contact Code:00278500
+Loan Contact Name:New York University
+Loan Contact Street Address 1:25 WEST 4TH STREET
+Loan Contact Street Address 2:
+Loan Contact City:NY
+Loan Contact State Code:NY
+Loan Contact Zip Code:10012
+Loan Contact Phone Number:212-998-4444
+Loan Contact Phone Extension:
+Loan Contact Email Address:lynn.higinbotham@nyu.edu
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****50000P19651501
+Loan Attending School Name:New York University
+Loan Attending School OPEID:00278500
+Loan Date:06/19/2007
+Loan Repayment Begin Date:11/14/2009
+Loan Period Begin Date:09/04/2007
+Loan Period End Date:05/14/2008
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:05/19/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/19/2010
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/15/2010
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:05/19/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/19/2007
+Loan Disbursement Date:01/10/2008
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/23/2007
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700018
+Loan Contact Name:THE STUDENT LOAN CORPORATION
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:800-967-2400
+Loan Contact Phone Extension:
+Loan Contact Email Address:student.loans@citicorp.com
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834466
+Loan Contact Name:CONDUIT CITIBANK ELT SLC
+Loan Contact Street Address 1:388 GREENWICH ST
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10013(0000)
+Loan Contact Phone Number:2128165681
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****50000P13356401
+Loan Attending School Name:New York University
+Loan Attending School OPEID:00278500
+Loan Date:07/12/2006
+Loan Repayment Begin Date:11/14/2009
+Loan Period Begin Date:09/05/2006
+Loan Period End Date:05/09/2007
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:05/19/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/19/2010
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/15/2010
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:05/19/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/12/2006
+Loan Disbursement Date:01/04/2007
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/24/2006
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700018
+Loan Contact Name:THE STUDENT LOAN CORPORATION
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:800-967-2400
+Loan Contact Phone Extension:
+Loan Contact Email Address:student.loans@citicorp.com
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834466
+Loan Contact Name:CONDUIT CITIBANK ELT SLC
+Loan Contact Street Address 1:388 GREENWICH ST
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10013(0000)
+Loan Contact Phone Number:2128165681
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****50000P00519001
+Loan Attending School Name:New York University
+Loan Attending School OPEID:00278500
+Loan Date:05/31/2005
+Loan Repayment Begin Date:11/14/2009
+Loan Period Begin Date:09/06/2005
+Loan Period End Date:05/10/2006
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:05/19/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/19/2010
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/15/2010
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:05/19/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/13/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/31/2005
+Loan Disbursement Date:01/05/2006
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:08/25/2005
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700018
+Loan Contact Name:THE STUDENT LOAN CORPORATION
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:800-967-2400
+Loan Contact Phone Extension:
+Loan Contact Email Address:student.loans@citicorp.com
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834466
+Loan Contact Name:CONDUIT CITIBANK ELT SLC
+Loan Contact Street Address 1:388 GREENWICH ST
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10013(0000)
+Loan Contact Phone Number:2128165681
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****0068864470008
+Loan Attending School Name:New York University
+Loan Attending School OPEID:00278500
+Loan Date:09/01/2005
+Loan Repayment Begin Date:02/01/2010
+Loan Period Begin Date:09/01/2005
+Loan Period End Date:05/31/2008
+Loan Amount:$7,200.00
+Loan Disbursed Amount:$7,200.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:06/18/2010
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$7,200.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/06/2010
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:06/18/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/01/2005
+Loan Disbursement Date:01/15/2008
+Loan Disbursement Amount:$1,200.00
+Loan Disbursement Date:08/29/2007
+Loan Disbursement Amount:$1,200.00
+Loan Disbursement Date:11/28/2006
+Loan Disbursement Amount:$2,400.00
+Loan Disbursement Date:11/29/2005
+Loan Disbursement Amount:$1,200.00
+Loan Disbursement Date:09/01/2005
+Loan Disbursement Amount:$1,200.00
+Loan Contact Type:Attending School
+Loan Contact Code:00278500
+Loan Contact Name:New York University
+Loan Contact Street Address 1:25 WEST 4TH STREET
+Loan Contact Street Address 2:
+Loan Contact City:NY
+Loan Contact State Code:NY
+Loan Contact Zip Code:10012
+Loan Contact Phone Number:212-998-4444
+Loan Contact Phone Extension:
+Loan Contact Email Address:lynn.higinbotham@nyu.edu
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****6447U10G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:05/14/2010
+Loan Repayment Begin Date:05/14/2010
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$9,494.00
+Loan Disbursed Amount:$9,494.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$13,032.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$157.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.88%
+Loan Repayment Plan Type Code:CG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:08/03/2019
+Loan Repayment Plan Scheduled Amount:$65.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:12/28/2019
+Loan Next Payment Due Date:01/14/2024
+Loan Cumulative Payment Amount:$2,824.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$2,088.00
+Net Loan Amount:$9,494.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:$2,000.00
+UpdtDt:03/07/2023
+DelinqDate:12/29/2019
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/21/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/28/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/20/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/28/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/28/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/28/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/28/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/25/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/29/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/18/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/21/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/02/2010
+Loan Disbursement Date:05/24/2010
+Loan Disbursement Amount:$7,377.00
+Loan Disbursement Date:05/14/2010
+Loan Disbursement Amount:$2,117.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****6447S10G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:05/14/2010
+Loan Repayment Begin Date:05/14/2010
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$16,829.00
+Loan Disbursed Amount:$16,829.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$19,431.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$72.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.88%
+Loan Repayment Plan Type Code:CG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:08/03/2019
+Loan Repayment Plan Scheduled Amount:$98.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:12/28/2019
+Loan Next Payment Due Date:01/14/2024
+Loan Cumulative Payment Amount:$4,418.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$2,811.00
+Net Loan Amount:$16,829.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$16,829.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$16,829.00
+UpdtDt:03/07/2023
+DelinqDate:12/29/2019
+Current Loan Status:DA
+Current Loan Status Description:DEFERRED
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/21/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/29/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/28/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/28/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/29/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/28/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/20/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/28/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/28/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/28/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/28/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/28/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/25/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:07/28/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/29/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/18/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/21/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/02/2010
+Loan Disbursement Date:05/14/2010
+Loan Disbursement Amount:$16,829.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:New York University
+Grant Attending School OPEID:00278500
+Grant Award Year:2008 - 2009
+Grant Scheduled Amount:$4,731.00
+Grant Award Amount:$4,731.00
+Grant Disbursed Amount:$4,731.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00278500
+Grant Contact Name:New York University
+Grant Contact Street Address 1:25 WEST 4TH STREET
+Grant Contact Street Address 2:
+Grant Contact City:NY
+Grant Contact State Code:NY
+Grant Contact Zip Code:10012
+Phone Number:212-998-4444
+Phone Extension:
+Email Address:lynn.higinbotham@nyu.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:New York University
+Grant Attending School OPEID:00278500
+Grant Award Year:2007 - 2008
+Grant Scheduled Amount:$4,310.00
+Grant Award Amount:$4,310.00
+Grant Disbursed Amount:$4,310.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00278500
+Grant Contact Name:New York University
+Grant Contact Street Address 1:25 WEST 4TH STREET
+Grant Contact Street Address 2:
+Grant Contact City:NY
+Grant Contact State Code:NY
+Grant Contact Zip Code:10012
+Phone Number:212-998-4444
+Phone Extension:
+Email Address:lynn.higinbotham@nyu.edu
+Web Site Address:
+Grant Type Code:AG
+Grant Type Code Description:ACADEMIC COMPETITIVENESS GRANT
+Grant Attending School Name:New York University
+Grant Attending School OPEID:00278500
+Grant Award Year:2006 - 2007
+Grant Scheduled Amount:$1,300.00
+Grant Award Amount:$1,300.00
+Grant Disbursed Amount:$1,300.00
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00278500
+Grant Contact Name:New York University
+Grant Contact Street Address 1:25 WEST 4TH STREET
+Grant Contact Street Address 2:
+Grant Contact City:NY
+Grant Contact State Code:NY
+Grant Contact Zip Code:10012
+Phone Number:212-998-4444
+Phone Extension:
+Email Address:lynn.higinbotham@nyu.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:New York University
+Grant Attending School OPEID:00278500
+Grant Award Year:2006 - 2007
+Grant Scheduled Amount:$4,050.00
+Grant Award Amount:$4,050.00
+Grant Disbursed Amount:$4,050.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00278500
+Grant Contact Name:New York University
+Grant Contact Street Address 1:25 WEST 4TH STREET
+Grant Contact Street Address 2:
+Grant Contact City:NY
+Grant Contact State Code:NY
+Grant Contact Zip Code:10012
+Phone Number:212-998-4444
+Phone Extension:
+Email Address:lynn.higinbotham@nyu.edu
+Web Site Address:
+Program School Name:University of Southern Maine
+Program School OPEID:00205400
+Program Cip Year:2020
+Program Cip Code:440501
+Program CIP Title:Public Policy Analysis, General.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:01/21/2020
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/16/2022
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:08/29/2022
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/18/2022
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/25/2021
+Award School Name:University of Southern Maine
+Award School OPEID:00205400
+Award Earliest Disbursement Date:08/19/2022
+Award Loan Period Begin Date:08/29/2022
+Award Loan Period End Date:05/05/2023
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Southern Maine
+Award School OPEID:00205400
+Award Earliest Disbursement Date:08/25/2021
+Award Loan Period Begin Date:08/30/2021
+Award Loan Period End Date:05/06/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Southern Maine
+Award School OPEID:00205400
+Award Earliest Disbursement Date:05/26/2021
+Award Loan Period Begin Date:05/17/2021
+Award Loan Period End Date:08/27/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Southern Maine
+Award School OPEID:00205400
+Award Earliest Disbursement Date:08/21/2020
+Award Loan Period Begin Date:08/31/2020
+Award Loan Period End Date:05/07/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Southern Maine
+Award School OPEID:00205400
+Award Earliest Disbursement Date:01/14/2020
+Award Loan Period Begin Date:01/21/2020
+Award Loan Period End Date:05/08/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Southern Maine
+Enrolled School OPEID:00205400
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/16/2022
+Enrolled School Name:New York University
+Enrolled School OPEID:00278500
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/13/2009

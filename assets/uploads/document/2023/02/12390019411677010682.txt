@@ -1,0 +1,1988 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-20 16:14:24
+Student First Name:SHANA
+Student Middle Initial:C
+Student Last Name:YOUNG
+Student Street Address 1:10416 FARRIS AVE
+Student Street Address 2:
+Student City:SHERWOOD
+Student State Code:AR
+Student Country Code:US
+Student Zip Code:721202451
+Student Email Address:SCY720@SBCGLOBAL.NET
+Student Home Phone Country Code:
+Student Home Phone Number:5018338540
+Student Home Phone Preferred:
+Student Cell Phone Country Code:1
+Student Cell Phone Number:5012312245
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/09/2003
+Undergraduate Subsidized Loan Limit Flag:E
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2017
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$23,925.00
+Undergraduate Aggregate Unsubsidized Total:$11,940.00
+Undergraduate Aggregate Combined Total:$35,865.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$23,925.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$11,940.00
+Aggregate Combined Total (Undergraduate and Graduate):$35,865.00
+Student Total All Loans Outstanding Principal:$53,581.00
+Student Total All Loans Outstanding Interest:$685.00
+Student Pell Lifetime Eligibility Used:449.987%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$7,024.00
+Type Code:CL
+Type Description:FFEL CONSOLIDATED
+Total <CL> Outstanding Principal:$0.00
+Total <CL> Outstanding Interest:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$0.00
+Total <D1> Outstanding Interest:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$0.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$19,112.00
+Total <D5> Outstanding Interest:$244.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$34,469.00
+Total <D6> Outstanding Interest:$441.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7492S17G01101001
+Loan Attending School Name:University of Arkansas at Little Rock
+Loan Attending School OPEID:00110100
+Loan Date:08/25/2016
+Loan Repayment Begin Date:11/11/2017
+Loan Period Begin Date:08/17/2016
+Loan Period End Date:05/12/2017
+Loan Amount:$3,659.00
+Loan Disbursed Amount:$3,659.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/19/2017
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/19/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/19/2017
+Loan Repayment Plan Scheduled Amount:$37.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/04/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$3,659.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/24/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2016
+Loan Disbursement Date:01/02/2017
+Loan Disbursement Amount:$1,829.00
+Loan Disbursement Date:08/25/2016
+Loan Disbursement Amount:$1,830.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7492U17G01101001
+Loan Attending School Name:University of Arkansas at Little Rock
+Loan Attending School OPEID:00110100
+Loan Date:08/25/2016
+Loan Repayment Begin Date:11/11/2017
+Loan Period Begin Date:08/17/2016
+Loan Period End Date:05/12/2017
+Loan Amount:$4,800.00
+Loan Disbursed Amount:$4,800.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/19/2017
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/19/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.76%
+Loan Actual Interest Rate:3.76%
+Loan Statutory Interest Rate:3.76%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/19/2017
+Loan Repayment Plan Scheduled Amount:$50.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:01/04/2018
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$187.00
+Net Loan Amount:$4,800.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/24/2022
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2016
+Loan Disbursement Date:01/02/2017
+Loan Disbursement Amount:$2,400.00
+Loan Disbursement Date:08/25/2016
+Loan Disbursement Amount:$2,400.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****641501
+Loan Attending School Name:University of Central Arkansas
+Loan Attending School OPEID:00109200
+Loan Date:07/27/2006
+Loan Repayment Begin Date:11/16/2007
+Loan Period Begin Date:08/24/2006
+Loan Period End Date:05/04/2007
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/31/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/31/2007
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2008
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/31/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/16/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/16/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/27/2006
+Loan Disbursement Date:01/23/2007
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/05/2006
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700155
+Loan Contact Name:OSLA STUDENT LOAN SERVICING
+Loan Contact Street Address 1:P.O. BOX 18145
+Loan Contact Street Address 2:
+Loan Contact City:OKLAHOMA CITY
+Loan Contact State Code:OK
+Loan Contact Zip Code:73154(0145)
+Loan Contact Phone Number:4055569200
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:705
+Loan Contact Name:STUDENT LOAN GUARANTY FNDTN. OF ARKANSAS
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:825659
+Loan Contact Name:OKLAHOMA STUDENT LOAN AUTHORITY
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:POST OFFICE BOX 18145
+Loan Contact City:OKLAHOMA CITY
+Loan Contact State Code:OK
+Loan Contact Zip Code:73154(0145)
+Loan Contact Phone Number:800-456-6752
+Loan Contact Phone Extension:
+Loan Contact Email Address:custserv@osla.org
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****641511
+Loan Attending School Name:University of Central Arkansas
+Loan Attending School OPEID:00109200
+Loan Date:07/27/2006
+Loan Repayment Begin Date:11/16/2007
+Loan Period Begin Date:08/24/2006
+Loan Period End Date:05/04/2007
+Loan Amount:$4,331.00
+Loan Disbursed Amount:$4,331.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/17/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/17/2007
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$4,331.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2008
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/17/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/16/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/16/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/27/2006
+Loan Disbursement Date:01/23/2007
+Loan Disbursement Amount:$2,165.00
+Loan Disbursement Date:09/05/2006
+Loan Disbursement Amount:$2,166.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700155
+Loan Contact Name:OSLA STUDENT LOAN SERVICING
+Loan Contact Street Address 1:P.O. BOX 18145
+Loan Contact Street Address 2:
+Loan Contact City:OKLAHOMA CITY
+Loan Contact State Code:OK
+Loan Contact Zip Code:73154(0145)
+Loan Contact Phone Number:4055569200
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:705
+Loan Contact Name:STUDENT LOAN GUARANTY FNDTN. OF ARKANSAS
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:825659
+Loan Contact Name:OKLAHOMA STUDENT LOAN AUTHORITY
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:POST OFFICE BOX 18145
+Loan Contact City:OKLAHOMA CITY
+Loan Contact State Code:OK
+Loan Contact Zip Code:73154(0145)
+Loan Contact Phone Number:800-456-6752
+Loan Contact Phone Extension:
+Loan Contact Email Address:custserv@osla.org
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****4316574920008
+Loan Attending School Name:University of Central Arkansas
+Loan Attending School OPEID:00109200
+Loan Date:08/25/2005
+Loan Repayment Begin Date:10/01/2008
+Loan Period Begin Date:08/25/2005
+Loan Period End Date:05/05/2006
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/03/2016
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:04/04/2016
+DelinqDate:
+Current Loan Status:DP
+Current Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status:DP
+Loan Status Description:DEFAULTED, PAID IN FULL
+Loan Status Effective Date:03/03/2016
+Loan Status:DB
+Loan Status Description:DEFAULTED, THEN BANKRUPT, ACTIVE, CHAPTER 13
+Loan Status Effective Date:09/21/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/02/2009
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:01/01/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2005
+Loan Disbursement Date:01/12/2006
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/25/2005
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Attending School
+Loan Contact Code:00109200
+Loan Contact Name:University of Central Arkansas
+Loan Contact Street Address 1:201 DONAGHEY AVE, HARRIN HALL SUITE 200
+Loan Contact Street Address 2:
+Loan Contact City:CONWAY
+Loan Contact State Code:AR
+Loan Contact Zip Code:72032
+Loan Contact Phone Number:501-450-3140
+Loan Contact Phone Extension:
+Loan Contact Email Address:KSTUBBS1@UCA.EDU
+Loan Contact Web Site Address:HTTPS://UCA.EDU
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****477001
+Loan Attending School Name:University of Central Arkansas
+Loan Attending School OPEID:00109200
+Loan Date:07/21/2005
+Loan Repayment Begin Date:11/16/2007
+Loan Period Begin Date:08/25/2005
+Loan Period End Date:05/05/2006
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/17/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/17/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2008
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/17/2007
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/16/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/16/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/21/2005
+Loan Disbursement Date:01/24/2006
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/06/2005
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700155
+Loan Contact Name:OSLA STUDENT LOAN SERVICING
+Loan Contact Street Address 1:P.O. BOX 18145
+Loan Contact Street Address 2:
+Loan Contact City:OKLAHOMA CITY
+Loan Contact State Code:OK
+Loan Contact Zip Code:73154(0145)
+Loan Contact Phone Number:4055569200
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:705
+Loan Contact Name:STUDENT LOAN GUARANTY FNDTN. OF ARKANSAS
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:825659
+Loan Contact Name:OKLAHOMA STUDENT LOAN AUTHORITY
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:POST OFFICE BOX 18145
+Loan Contact City:OKLAHOMA CITY
+Loan Contact State Code:OK
+Loan Contact Zip Code:73154(0145)
+Loan Contact Phone Number:800-456-6752
+Loan Contact Phone Extension:
+Loan Contact Email Address:custserv@osla.org
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****126711
+Loan Attending School Name:University of Arkansas at Little Rock
+Loan Attending School OPEID:00110100
+Loan Date:01/18/2005
+Loan Repayment Begin Date:11/05/2007
+Loan Period Begin Date:01/18/2005
+Loan Period End Date:05/13/2005
+Loan Amount:$2,691.00
+Loan Disbursed Amount:$2,691.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/06/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/06/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$2,691.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/03/2008
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/06/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/15/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/16/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/18/2005
+Loan Disbursement Date:03/17/2005
+Loan Disbursement Amount:$1,345.00
+Loan Disbursement Date:01/20/2005
+Loan Disbursement Amount:$1,346.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700173
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:705
+Loan Contact Name:STUDENT LOAN GUARANTY FNDTN. OF ARKANSAS
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:828863
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6367333700
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****126712
+Loan Attending School Name:University of Arkansas at Little Rock
+Loan Attending School OPEID:00110100
+Loan Date:01/18/2005
+Loan Repayment Begin Date:11/05/2007
+Loan Period Begin Date:01/18/2005
+Loan Period End Date:05/13/2005
+Loan Amount:$2,809.00
+Loan Disbursed Amount:$2,809.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/06/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/06/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$2,809.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/03/2008
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/06/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/15/2007
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/16/2007
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/18/2005
+Loan Disbursement Date:03/17/2005
+Loan Disbursement Amount:$1,404.00
+Loan Disbursement Date:01/20/2005
+Loan Disbursement Amount:$1,405.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700173
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:705
+Loan Contact Name:STUDENT LOAN GUARANTY FNDTN. OF ARKANSAS
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:828863
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6367333700
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****014691
+Loan Attending School Name:University of Edinburgh
+Loan Attending School OPEID:00683900
+Loan Date:09/08/2004
+Loan Repayment Begin Date:12/01/2008
+Loan Period Begin Date:09/20/2004
+Loan Period End Date:05/27/2005
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$2,625.00
+Loan Canceled Date:09/30/2004
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/24/2005
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:01/24/2005
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/04/2007
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:01/24/2005
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/08/2004
+Loan Contact Type:Current Servicer
+Loan Contact Code:700006
+Loan Contact Name:CONDUENT
+Loan Contact Street Address 1:ATTN:  BORROWER SERVICES DEPARTMENT
+Loan Contact Street Address 2:P.O. BOX 7051
+Loan Contact City:UTICA
+Loan Contact State Code:NY
+Loan Contact Zip Code:13504(7051)
+Loan Contact Phone Number:800-835-4611
+Loan Contact Phone Extension:
+Loan Contact Email Address:HTTPS://WWW.AFSA.COM/FFEL/FEEDBACK_SSL.HTML
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:800
+Loan Contact Name:USA FUNDS, INC.
+Loan Contact Street Address 1:PO BOX 7859
+Loan Contact Street Address 2:
+Loan Contact City:MADISON
+Loan Contact State Code:WI
+Loan Contact Zip Code:53707
+Loan Contact Phone Number:866-348-0715
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://ascendiumeducation.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:801871
+Loan Contact Name:BANK OF AMERICA, NA
+Loan Contact Street Address 1:PO BOX 6179
+Loan Contact Street Address 2:
+Loan Contact City:INDIANAPOLIS
+Loan Contact State Code:IN
+Loan Contact Zip Code:46206(6179)
+Loan Contact Phone Number:877-872-4768
+Loan Contact Phone Extension:
+Loan Contact Email Address:WWW.USAGROUP.COM
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****919811
+Loan Attending School Name:Hendrix College
+Loan Attending School OPEID:00109900
+Loan Date:09/22/2003
+Loan Repayment Begin Date:03/24/2004
+Loan Period Begin Date:08/26/2003
+Loan Period End Date:05/12/2004
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$2,750.00
+Loan Canceled Amount:$2,750.00
+Loan Canceled Date:10/08/2003
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/06/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/06/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2004
+Capitalized Interest:$0.00
+Net Loan Amount:$699.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/03/2008
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/06/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/15/2007
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/16/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/16/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/15/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/24/2004
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/24/2003
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/22/2003
+Loan Disbursement Date:09/25/2003
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700173
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:705
+Loan Contact Name:STUDENT LOAN GUARANTY FNDTN. OF ARKANSAS
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:828863
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6367333700
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****845851
+Loan Attending School Name:University of Arkansas - Pulaski Technical College
+Loan Attending School OPEID:02075300
+Loan Date:08/01/2002
+Loan Repayment Begin Date:03/24/2004
+Loan Period Begin Date:08/17/2002
+Loan Period End Date:05/09/2003
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/06/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/06/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2003
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/03/2008
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/06/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/15/2007
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/16/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/16/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/15/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/24/2004
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/24/2003
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/01/2002
+Loan Disbursement Date:01/06/2003
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:08/12/2002
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700173
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:705
+Loan Contact Name:STUDENT LOAN GUARANTY FNDTN. OF ARKANSAS
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:828863
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6367333700
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****493291
+Loan Attending School Name:University of Arkansas - Pulaski Technical College
+Loan Attending School OPEID:02075300
+Loan Date:10/15/2001
+Loan Repayment Begin Date:03/24/2004
+Loan Period Begin Date:08/18/2001
+Loan Period End Date:05/11/2002
+Loan Amount:$1,200.00
+Loan Disbursed Amount:$1,200.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:12/06/2007
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:12/06/2007
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2002
+Capitalized Interest:$0.00
+Net Loan Amount:$1,200.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/03/2008
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:12/06/2007
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/15/2007
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/16/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/16/2004
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/15/2004
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/24/2004
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/24/2003
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/15/2001
+Loan Disbursement Date:01/02/2002
+Loan Disbursement Amount:$600.00
+Loan Disbursement Date:10/30/2001
+Loan Disbursement Amount:$600.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700173
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:705
+Loan Contact Name:STUDENT LOAN GUARANTY FNDTN. OF ARKANSAS
+Loan Contact Street Address 1:
+Loan Contact Street Address 2:
+Loan Contact City:
+Loan Contact State Code:
+Loan Contact Zip Code:
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:
+Loan Special Contact Reason:The Guaranty Agency has been closed.
+Loan Special Contact:For answers to questions concerning this loan, please contact the Federal Student Aid Information Center (FSAIC)/ Federal Student Aid Contact Center (FSACC) at 1-800-4FEDAID.
+Loan Contact Type:Current Lender
+Loan Contact Code:828863
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6367333700
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****700000R8V0HG01
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:12/06/2007
+Loan Repayment Begin Date:12/06/2007
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$7,884.00
+Loan Disbursed Amount:$7,884.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/17/2017
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/17/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$7,884.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/04/2017
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/20/2017
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:10/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/30/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/30/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/05/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/30/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/05/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/06/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/05/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/06/2009
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/05/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/06/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/05/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/06/2007
+Loan Disbursement Date:12/06/2007
+Loan Disbursement Amount:$7,884.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700173
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834023
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:951
+Loan Contact Name:EDUCATIONAL CREDIT MANAGEMENT CORP
+Loan Contact Street Address 1:PO BOX 16408
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:CL
+Loan Type Description:FFEL CONSOLIDATED
+Loan Award ID:*****700000R8V0HF01
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:12/06/2007
+Loan Repayment Begin Date:12/06/2007
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$18,271.00
+Loan Disbursed Amount:$18,271.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/17/2017
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/17/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$18,271.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/04/2017
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:11/17/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/20/2017
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:10/28/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/30/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/30/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/05/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/30/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/05/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/06/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/05/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/06/2009
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/05/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/06/2008
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/05/2008
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/06/2007
+Loan Disbursement Date:12/06/2007
+Loan Disbursement Amount:$18,271.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700173
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834023
+Loan Contact Name:MISSOURI HIGHER EDUCATION LOAN AUTH
+Loan Contact Street Address 1:633 SPIRIT DRIVE
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005(1243)
+Loan Contact Phone Number:6365320600
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:951
+Loan Contact Name:EDUCATIONAL CREDIT MANAGEMENT CORP
+Loan Contact Street Address 1:PO BOX 16408
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****7492U18G77778102
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:11/17/2017
+Loan Repayment Begin Date:11/17/2017
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$18,080.00
+Loan Disbursed Amount:$18,080.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$19,112.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$244.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.50%
+Loan Repayment Plan Type Code:J5
+Loan Repayment Plan Type Code Description:POST-REVISED PAY AS YOU EARN ALTERNATIVE PLAN
+Loan Repayment Plan Begin Date:01/02/2020
+Loan Repayment Plan Scheduled Amount:$205.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:12/04/2025
+Loan Cumulative Payment Amount:$685.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$1,032.00
+Net Loan Amount:$18,080.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$11,940.00
+Calculated Combined Aggregate OPB:$11,940.00
+UpdtDt:02/09/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/08/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2017
+Loan Disbursement Date:11/17/2017
+Loan Disbursement Amount:$18,080.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****7492S18G77778102
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:11/17/2017
+Loan Repayment Begin Date:11/17/2017
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$33,991.00
+Loan Disbursed Amount:$33,991.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$34,469.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$441.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.50%
+Loan Repayment Plan Type Code:J5
+Loan Repayment Plan Type Code Description:POST-REVISED PAY AS YOU EARN ALTERNATIVE PLAN
+Loan Repayment Plan Begin Date:01/02/2020
+Loan Repayment Plan Scheduled Amount:$386.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:12/04/2025
+Loan Cumulative Payment Amount:$1,288.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$478.00
+Net Loan Amount:$33,991.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$23,925.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$23,925.00
+UpdtDt:02/09/2023
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/08/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2017
+Loan Disbursement Date:11/17/2017
+Loan Disbursement Amount:$33,991.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Central Arkansas
+Grant Attending School OPEID:00109200
+Grant Award Year:2006 - 2007
+Grant Scheduled Amount:$4,050.00
+Grant Award Amount:$4,050.00
+Grant Disbursed Amount:$3,037.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):74.988%
+Aid Recipient's Total Percent Eligibility Used (TEU):74.988%
+Grant Contact Type:Attending School
+Grant Contact Code:00109200
+Grant Contact Name:University of Central Arkansas
+Grant Contact Street Address 1:201 DONAGHEY AVE, HARRIN HALL SUITE 200
+Grant Contact Street Address 2:
+Grant Contact City:CONWAY
+Grant Contact State Code:AR
+Grant Contact Zip Code:72032
+Phone Number:501-450-3140
+Phone Extension:
+Email Address:KSTUBBS1@UCA.EDU
+Web Site Address:HTTPS://UCA.EDU
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Central Arkansas
+Grant Attending School OPEID:00109200
+Grant Award Year:2005 - 2006
+Grant Scheduled Amount:$1,000.00
+Grant Award Amount:$1,000.00
+Grant Disbursed Amount:$1,000.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00109200
+Grant Contact Name:University of Central Arkansas
+Grant Contact Street Address 1:201 DONAGHEY AVE, HARRIN HALL SUITE 200
+Grant Contact Street Address 2:
+Grant Contact City:CONWAY
+Grant Contact State Code:AR
+Grant Contact Zip Code:72032
+Phone Number:501-450-3140
+Phone Extension:
+Email Address:KSTUBBS1@UCA.EDU
+Web Site Address:HTTPS://UCA.EDU
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Arkansas - Pulaski Technical College
+Grant Attending School OPEID:02075300
+Grant Award Year:2002 - 2003
+Grant Scheduled Amount:$850.00
+Grant Award Amount:$850.00
+Grant Disbursed Amount:$637.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.000%
+Grant Contact Type:Attending School
+Grant Contact Code:02075300
+Grant Contact Name:University of Arkansas - Pulaski Technical College
+Grant Contact Street Address 1:3000 WEST SCENIC DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:NORTH LITTLE ROCK
+Grant Contact State Code:AR
+Grant Contact Zip Code:72118(3347)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Central Arkansas
+Grant Attending School OPEID:00109200
+Grant Award Year:2001 - 2002
+Grant Scheduled Amount:$1,200.00
+Grant Award Amount:$600.00
+Grant Disbursed Amount:$0.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):0.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):50.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00109200
+Grant Contact Name:University of Central Arkansas
+Grant Contact Street Address 1:201 DONAGHEY AVE, HARRIN HALL SUITE 200
+Grant Contact Street Address 2:
+Grant Contact City:CONWAY
+Grant Contact State Code:AR
+Grant Contact Zip Code:72032
+Phone Number:501-450-3140
+Phone Extension:
+Email Address:KSTUBBS1@UCA.EDU
+Web Site Address:HTTPS://UCA.EDU
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Arkansas - Pulaski Technical College
+Grant Attending School OPEID:02075300
+Grant Award Year:2001 - 2002
+Grant Scheduled Amount:$1,200.00
+Grant Award Amount:$1,200.00
+Grant Disbursed Amount:$1,200.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:02075300
+Grant Contact Name:University of Arkansas - Pulaski Technical College
+Grant Contact Street Address 1:3000 WEST SCENIC DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:NORTH LITTLE ROCK
+Grant Contact State Code:AR
+Grant Contact Zip Code:72118(3347)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Central Arkansas
+Grant Attending School OPEID:00109200
+Grant Award Year:2000 - 2001
+Grant Scheduled Amount:$1,150.00
+Grant Award Amount:$1,150.00
+Grant Disbursed Amount:$1,150.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00109200
+Grant Contact Name:University of Central Arkansas
+Grant Contact Street Address 1:201 DONAGHEY AVE, HARRIN HALL SUITE 200
+Grant Contact Street Address 2:
+Grant Contact City:CONWAY
+Grant Contact State Code:AR
+Grant Contact Zip Code:72032
+Phone Number:501-450-3140
+Phone Extension:
+Email Address:KSTUBBS1@UCA.EDU
+Web Site Address:HTTPS://UCA.EDU
+Program School Name:University of Arkansas at Little Rock
+Program School OPEID:00110100
+Program Cip Year:2010
+Program Cip Code:240101
+Program CIP Title:Liberal Arts and Sciences/Liberal Studies.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:05/23/2016
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/04/2017
+Program School Name:University of Arkansas at Little Rock
+Program School OPEID:00110100
+Program Cip Year:2010
+Program Cip Code:430104
+Program CIP Title:Criminal Justice/Safety Studies.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:05/23/2016
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/04/2017
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:08/31/2017
+Program Status Code:Q
+Program Status Code Description:THREE QUARTER TIME
+Program Status Effective Date:09/02/2016
+Program School Name:University of Arkansas at Little Rock
+Program School OPEID:00110100
+Program Cip Year:2010
+Program Cip Code:451101
+Program CIP Title:Sociology.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:05/23/2005
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/04/2017
+Award School Name:University of Arkansas at Little Rock
+Award School OPEID:00110100
+Award Earliest Disbursement Date:08/25/2016
+Award Loan Period Begin Date:08/17/2016
+Award Loan Period End Date:05/12/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Arkansas at Little Rock
+Award School OPEID:00110100
+Award Earliest Disbursement Date:08/25/2016
+Award Loan Period Begin Date:08/17/2016
+Award Loan Period End Date:05/12/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Arkansas at Little Rock
+Enrolled School OPEID:00110100
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/04/2017
+Enrolled School Name:University of Edinburgh
+Enrolled School OPEID:00683900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:09/29/2004
+Enrolled School Name:Hendrix College
+Enrolled School OPEID:00109900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:09/23/2003
+Enrolled School Name:University of Arkansas - Pulaski Technical College
+Enrolled School OPEID:02075300
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/09/2003

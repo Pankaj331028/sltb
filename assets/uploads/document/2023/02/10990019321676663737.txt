@@ -1,0 +1,532 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-17 14:50:21
+Student First Name:SOO
+Student Middle Initial:K
+Student Last Name:UHM
+Student Street Address 1:160 W 71ST ST APT 6U
+Student Street Address 2:
+Student City:NEW YORK
+Student State Code:NY
+Student Country Code:US
+Student Zip Code:10023
+Student Email Address:KYONGEE@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:4437038845
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:4437038845
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:12/11/2019
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2019
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$63,850.00
+Graduate Aggregate Combined Total:$63,850.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$63,850.00
+Aggregate Combined Total (Undergraduate and Graduate):$63,850.00
+Student Total All Loans Outstanding Principal:$98,966.00
+Student Total All Loans Outstanding Interest:$8,575.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$71,750.00
+Total <D2> Outstanding Interest:$7,900.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$27,216.00
+Total <D3> Outstanding Interest:$675.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2759U20E00911001
+Loan Attending School Name:Pacific College of Health and Science - New York
+Loan Attending School OPEID:03027701
+Loan Date:10/16/2019
+Loan Repayment Begin Date:06/12/2020
+Loan Period Begin Date:04/29/2019
+Loan Period End Date:12/15/2019
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,500.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$508.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/22/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$508.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$19,992.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/19/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/12/2020
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/11/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/16/2019
+Loan Disbursement Date:10/16/2019
+Loan Disbursement Amount:$20,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****2759P20E00911001
+Loan Attending School Name:Pacific College of Health and Science
+Loan Attending School OPEID:03027700
+Loan Date:11/06/2019
+Loan Repayment Begin Date:11/06/2019
+Loan Period Begin Date:04/29/2019
+Loan Period End Date:12/15/2019
+Loan Amount:$27,216.00
+Loan Disbursed Amount:$27,216.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$27,216.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$675.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/22/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$27,216.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/19/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2019
+Loan Disbursement Date:11/06/2019
+Loan Disbursement Amount:$27,216.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2759U19G25460001
+Loan Attending School Name:Tri-State College of Acupuncture
+Loan Attending School OPEID:02546000
+Loan Date:10/30/2018
+Loan Repayment Begin Date:06/12/2020
+Loan Period Begin Date:09/04/2018
+Loan Period End Date:06/07/2019
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$10,250.00
+Loan Canceled Amount:$10,250.00
+Loan Canceled Date:08/07/2019
+Loan Outstanding Principal Balance:$10,250.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$926.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.60%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/19/2019
+Loan Repayment Plan Scheduled Amount:$122.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/22/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2019
+Capitalized Interest:$926.00
+Net Loan Amount:$10,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$9,324.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/19/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/12/2020
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/11/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/30/2018
+Loan Disbursement Date:10/30/2018
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2759U18G25460001
+Loan Attending School Name:Tri-State College of Acupuncture
+Loan Attending School OPEID:02546000
+Loan Date:09/27/2017
+Loan Repayment Begin Date:06/12/2020
+Loan Period Begin Date:09/06/2017
+Loan Period End Date:06/27/2018
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,500.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$2,839.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/19/2019
+Loan Repayment Plan Scheduled Amount:$249.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/22/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$2,839.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$17,661.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/19/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/12/2020
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/11/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/27/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/07/2017
+Loan Disbursement Date:01/15/2018
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:09/27/2017
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2759U17G25460001
+Loan Attending School Name:Tri-State College of Acupuncture
+Loan Attending School OPEID:02546000
+Loan Date:09/20/2016
+Loan Repayment Begin Date:06/12/2020
+Loan Period Begin Date:09/07/2016
+Loan Period End Date:06/04/2017
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,500.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$3,627.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.31%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/19/2019
+Loan Repayment Plan Scheduled Amount:$251.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:06/22/2024
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$3,627.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$16,873.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/09/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/15/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/19/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/12/2020
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/11/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/20/2016
+Loan Disbursement Date:01/04/2017
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:09/20/2016
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:Pacific College of Health and Science - New York
+Program School OPEID:03027701
+Program Cip Year:2010
+Program Cip Code:513301
+Program CIP Title:Acupuncture and Oriental Medicine.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:04/29/2019
+Program Published Length in Years:3.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:12/11/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:04/29/2019
+Program School Name:Tri-State College of Acupuncture
+Program School OPEID:02546000
+Program Cip Year:2010
+Program Cip Code:513301
+Program CIP Title:Acupuncture and Oriental Medicine.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:09/07/2016
+Program Published Length in Years:3.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/17/2018
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:09/07/2016
+Award School Name:Pacific College of Health and Science - New York
+Award School OPEID:03027701
+Award Earliest Disbursement Date:11/06/2019
+Award Loan Period Begin Date:04/29/2019
+Award Loan Period End Date:12/15/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Pacific College of Health and Science - New York
+Award School OPEID:03027701
+Award Earliest Disbursement Date:10/16/2019
+Award Loan Period Begin Date:04/29/2019
+Award Loan Period End Date:12/15/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Tri-State College of Acupuncture
+Award School OPEID:02546000
+Award Earliest Disbursement Date:10/30/2018
+Award Loan Period Begin Date:09/04/2018
+Award Loan Period End Date:06/07/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Tri-State College of Acupuncture
+Award School OPEID:02546000
+Award Earliest Disbursement Date:09/27/2017
+Award Loan Period Begin Date:09/06/2017
+Award Loan Period End Date:06/27/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Tri-State College of Acupuncture
+Award School OPEID:02546000
+Award Earliest Disbursement Date:09/20/2016
+Award Loan Period Begin Date:09/07/2016
+Award Loan Period End Date:06/04/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Pacific College of Health and Science - New York
+Enrolled School OPEID:03027701
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/11/2019
+Enrolled School Name:Tri-State College of Acupuncture
+Enrolled School OPEID:02546000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/17/2018

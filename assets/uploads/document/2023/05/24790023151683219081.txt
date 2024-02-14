@@ -1,0 +1,4086 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-05-04 12:46:57
+Student First Name:RANA
+Student Middle Initial:L
+Student Last Name:SINGLETON
+Student Street Address 1:4549 HARVEST WAY
+Student Street Address 2:
+Student City:MONTGOMERY
+Student State Code:AL
+Student Country Code:US
+Student Zip Code:361063134
+Student Email Address:RANA.SINGLETON@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:3342214851
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:3342214851
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:1
+Student Work Phone Number:0000000000
+Student Work Phone Preferred:No
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/03/2019
+Undergraduate Subsidized Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Combined Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Award Year:2014
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$23,000.00
+Undergraduate Aggregate Unsubsidized Total:$34,500.00
+Undergraduate Aggregate Combined Total:$57,500.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:Close to Subsidized Limit
+Graduate Award Year:2019
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$8,500.00
+Graduate Aggregate Unsubsidized Total:$158,000.00
+Graduate Aggregate Combined Total:$166,500.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$31,500.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$192,500.00
+Aggregate Combined Total (Undergraduate and Graduate):$224,000.00
+Student Total All Loans Outstanding Principal:$326,655.00
+Student Total All Loans Outstanding Interest:$44,776.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$31,538.00
+Total <D1> Outstanding Interest:$1,522.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$226,865.00
+Total <D2> Outstanding Interest:$26,150.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$68,252.00
+Total <D3> Outstanding Interest:$17,104.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U19G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:08/13/2018
+Loan Repayment Begin Date:11/04/2019
+Loan Period Begin Date:08/20/2018
+Loan Period End Date:05/03/2019
+Loan Amount:$30,266.00
+Loan Disbursed Amount:$30,266.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$32,360.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$760.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.60%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:HEAL Denial
+Award Year:2019
+Capitalized Interest:$2,094.00
+Net Loan Amount:$30,266.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$30,266.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/04/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/13/2018
+Loan Disbursement Date:01/03/2019
+Loan Disbursement Amount:$13,766.00
+Loan Disbursement Date:08/13/2018
+Loan Disbursement Amount:$16,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P19G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:08/23/2018
+Loan Repayment Begin Date:04/17/2019
+Loan Period Begin Date:08/20/2018
+Loan Period End Date:05/03/2019
+Loan Amount:$13,702.00
+Loan Disbursed Amount:$13,702.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$13,702.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,344.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.60%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2019
+Capitalized Interest:$0.00
+Net Loan Amount:$13,702.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/12/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/12/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/14/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/12/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/17/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/23/2018
+Loan Disbursement Date:04/17/2019
+Loan Disbursement Amount:$1,975.00
+Loan Disbursement Date:01/03/2019
+Loan Disbursement Amount:$6,409.00
+Loan Disbursement Date:08/23/2018
+Loan Disbursement Amount:$5,318.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U18G01009002
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:05/09/2018
+Loan Repayment Begin Date:11/04/2019
+Loan Period Begin Date:05/17/2018
+Loan Period End Date:08/03/2018
+Loan Amount:$4,167.00
+Loan Disbursed Amount:$4,167.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,539.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$96.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:HEAL Denial
+Award Year:2018
+Capitalized Interest:$372.00
+Net Loan Amount:$4,167.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,167.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/04/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/09/2018
+Loan Disbursement Date:05/09/2018
+Loan Disbursement Amount:$4,167.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P18G01009003
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:05/09/2018
+Loan Repayment Begin Date:05/09/2018
+Loan Period Begin Date:05/17/2018
+Loan Period End Date:08/03/2018
+Loan Amount:$8,470.00
+Loan Disbursed Amount:$8,470.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,470.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,094.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$8,470.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/09/2018
+Loan Disbursement Date:05/09/2018
+Loan Disbursement Amount:$8,470.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P18G01009002
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:01/22/2018
+Loan Repayment Begin Date:01/22/2018
+Loan Period Begin Date:01/10/2018
+Loan Period End Date:05/04/2018
+Loan Amount:$2,722.00
+Loan Disbursed Amount:$2,722.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,722.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$407.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$2,722.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/22/2018
+Loan Disbursement Date:01/22/2018
+Loan Disbursement Amount:$2,722.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U18G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:08/14/2017
+Loan Repayment Begin Date:11/04/2019
+Loan Period Begin Date:08/21/2017
+Loan Period End Date:05/04/2018
+Loan Amount:$33,000.00
+Loan Disbursed Amount:$33,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$37,016.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$790.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:HEAL Denial
+Award Year:2018
+Capitalized Interest:$4,016.00
+Net Loan Amount:$33,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$33,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/04/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2017
+Loan Disbursement Date:01/03/2018
+Loan Disbursement Amount:$16,500.00
+Loan Disbursement Date:08/14/2017
+Loan Disbursement Amount:$16,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P18G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:08/28/2017
+Loan Repayment Begin Date:08/28/2017
+Loan Period Begin Date:08/21/2017
+Loan Period End Date:12/15/2017
+Loan Amount:$5,522.00
+Loan Disbursed Amount:$5,522.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,522.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$982.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.00%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2018
+Capitalized Interest:$0.00
+Net Loan Amount:$5,522.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/28/2017
+Loan Disbursement Date:08/28/2017
+Loan Disbursement Amount:$5,522.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P17G01009003
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:01/25/2017
+Loan Repayment Begin Date:01/25/2017
+Loan Period Begin Date:01/11/2017
+Loan Period End Date:05/05/2017
+Loan Amount:$5,900.00
+Loan Disbursed Amount:$5,900.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,900.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,165.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.31%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$5,900.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/25/2017
+Loan Disbursement Date:01/25/2017
+Loan Disbursement Amount:$5,900.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U17G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:08/09/2016
+Loan Repayment Begin Date:11/04/2019
+Loan Period Begin Date:08/16/2016
+Loan Period End Date:05/05/2017
+Loan Amount:$33,000.00
+Loan Disbursed Amount:$33,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$38,315.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$724.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.31%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:HEAL Denial
+Award Year:2017
+Capitalized Interest:$5,315.00
+Net Loan Amount:$33,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$33,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/04/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/09/2016
+Loan Disbursement Date:01/04/2017
+Loan Disbursement Amount:$16,500.00
+Loan Disbursement Date:08/09/2016
+Loan Disbursement Amount:$16,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P17G01009002
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:10/05/2016
+Loan Repayment Begin Date:10/05/2016
+Loan Period Begin Date:08/16/2016
+Loan Period End Date:12/09/2016
+Loan Amount:$1,436.00
+Loan Disbursed Amount:$1,436.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,436.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$311.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.31%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$1,436.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/05/2016
+Loan Disbursement Date:10/05/2016
+Loan Disbursement Amount:$1,436.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P17G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:08/24/2016
+Loan Repayment Begin Date:08/24/2016
+Loan Period Begin Date:08/16/2016
+Loan Period End Date:12/09/2016
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,500.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,008.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.31%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2017
+Capitalized Interest:$0.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/24/2016
+Loan Disbursement Date:08/24/2016
+Loan Disbursement Amount:$4,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U16G01009002
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:06/06/2016
+Loan Repayment Begin Date:11/04/2019
+Loan Period Begin Date:05/19/2016
+Loan Period End Date:08/05/2016
+Loan Amount:$4,167.00
+Loan Disbursed Amount:$4,167.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,997.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$103.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.84%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:HEAL Denial
+Award Year:2016
+Capitalized Interest:$830.00
+Net Loan Amount:$4,167.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,167.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/04/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/06/2016
+Loan Disbursement Date:06/06/2016
+Loan Disbursement Amount:$4,167.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P16G01009002
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:02/08/2016
+Loan Repayment Begin Date:02/08/2016
+Loan Period Begin Date:01/13/2016
+Loan Period End Date:05/06/2016
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,539.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.84%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/08/2016
+Loan Disbursement Date:02/08/2016
+Loan Disbursement Amount:$5,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U16G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:08/10/2015
+Loan Repayment Begin Date:11/04/2019
+Loan Period Begin Date:08/17/2015
+Loan Period End Date:05/06/2016
+Loan Amount:$33,000.00
+Loan Disbursed Amount:$33,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$40,774.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$847.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.84%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:HEAL Denial
+Award Year:2016
+Capitalized Interest:$7,774.00
+Net Loan Amount:$33,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$33,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/04/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/10/2015
+Loan Disbursement Date:01/04/2016
+Loan Disbursement Amount:$16,500.00
+Loan Disbursement Date:08/10/2015
+Loan Disbursement Amount:$16,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P16G01009003
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:04/06/2016
+Loan Repayment Begin Date:04/06/2016
+Loan Period Begin Date:08/17/2015
+Loan Period End Date:05/06/2016
+Loan Amount:$523.00
+Loan Disbursed Amount:$523.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$523.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$140.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.84%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$523.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:04/06/2016
+Loan Disbursement Date:04/06/2016
+Loan Disbursement Amount:$523.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P16G01009001
+Loan Attending School Name:Auburn University
+Loan Attending School OPEID:00100900
+Loan Date:08/26/2015
+Loan Repayment Begin Date:08/26/2015
+Loan Period Begin Date:08/17/2015
+Loan Period End Date:12/11/2015
+Loan Amount:$5,200.00
+Loan Disbursed Amount:$5,200.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,200.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,617.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.84%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$5,200.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/26/2015
+Loan Disbursement Date:08/26/2015
+Loan Disbursement Amount:$5,200.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U15G08310002
+Loan Attending School Name:Auburn University Montgomery
+Loan Attending School OPEID:00831000
+Loan Date:01/26/2015
+Loan Repayment Begin Date:11/04/2019
+Loan Period Begin Date:01/12/2015
+Loan Period End Date:05/12/2015
+Loan Amount:$2,400.00
+Loan Disbursed Amount:$2,400.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,102.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$68.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2015
+Capitalized Interest:$702.00
+Net Loan Amount:$2,400.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,400.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/04/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/26/2015
+Loan Disbursement Date:03/10/2015
+Loan Disbursement Amount:$1,200.00
+Loan Disbursement Date:01/26/2015
+Loan Disbursement Amount:$1,200.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U15G08310001
+Loan Attending School Name:Auburn University Montgomery
+Loan Attending School OPEID:00831000
+Loan Date:01/23/2015
+Loan Repayment Begin Date:11/04/2019
+Loan Period Begin Date:01/12/2015
+Loan Period End Date:05/12/2015
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,757.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$171.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2015
+Capitalized Interest:$1,757.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/04/2019
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/04/2019
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/23/2015
+Loan Disbursement Date:03/10/2015
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:01/23/2015
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S14G01005001
+Loan Attending School Name:Alabama State University
+Loan Attending School OPEID:00100500
+Loan Date:08/22/2013
+Loan Repayment Begin Date:11/07/2017
+Loan Period Begin Date:08/21/2013
+Loan Period End Date:05/08/2014
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/20/2013
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/20/2013
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:3.86%
+Loan Actual Interest Rate:3.86%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/04/2017
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:11/20/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2013
+Loan Disbursement Date:08/22/2013
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U14G01005001
+Loan Attending School Name:Alabama State University
+Loan Attending School OPEID:00100500
+Loan Date:08/22/2013
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/21/2013
+Loan Period End Date:12/12/2013
+Loan Amount:$490.00
+Loan Disbursed Amount:$490.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$505.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$112.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2014
+Capitalized Interest:$15.00
+Net Loan Amount:$490.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$490.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2013
+Loan Disbursement Date:08/22/2013
+Loan Disbursement Amount:$490.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S13G01005001
+Loan Attending School Name:Alabama State University
+Loan Attending School OPEID:00100500
+Loan Date:08/20/2012
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/20/2012
+Loan Period End Date:05/09/2013
+Loan Amount:$2,278.00
+Loan Disbursed Amount:$2,278.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,316.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$71.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$38.00
+Net Loan Amount:$2,278.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,278.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2012
+Loan Disbursement Date:01/09/2013
+Loan Disbursement Amount:$1,139.00
+Loan Disbursement Date:08/20/2012
+Loan Disbursement Amount:$1,139.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U13G01005002
+Loan Attending School Name:Alabama State University
+Loan Attending School OPEID:00100500
+Loan Date:10/10/2012
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/20/2012
+Loan Period End Date:05/09/2013
+Loan Amount:$4,222.00
+Loan Disbursed Amount:$4,222.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,666.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,824.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$444.00
+Net Loan Amount:$4,222.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,222.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/10/2012
+Loan Disbursement Date:01/09/2013
+Loan Disbursement Amount:$2,111.00
+Loan Disbursement Date:10/10/2012
+Loan Disbursement Amount:$2,111.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U13G01005001
+Loan Attending School Name:Alabama State University
+Loan Attending School OPEID:00100500
+Loan Date:08/20/2012
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/20/2012
+Loan Period End Date:05/09/2013
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,660.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$2,603.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$660.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/20/2012
+Loan Disbursement Date:01/09/2013
+Loan Disbursement Amount:$3,000.00
+Loan Disbursement Date:08/20/2012
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S12G01052002
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/16/2011
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/16/2011
+Loan Period End Date:12/14/2011
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$169.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2011
+Loan Disbursement Date:08/16/2011
+Loan Disbursement Amount:$5,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U12G01052005
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:06/07/2012
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/16/2011
+Loan Period End Date:08/06/2012
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,979.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,556.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2012
+Capitalized Interest:$479.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/07/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:01/18/2012
+Loan Disbursement Date:06/07/2012
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U12G01052003
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/16/2011
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/16/2011
+Loan Period End Date:12/14/2011
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,172.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,631.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2012
+Capitalized Interest:$672.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2011
+Loan Disbursement Date:08/16/2011
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P11G01052003
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:05/10/2011
+Loan Repayment Begin Date:05/10/2011
+Loan Period Begin Date:05/10/2011
+Loan Period End Date:08/03/2011
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,313.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,500.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$688.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/13/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/14/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2011
+Loan Disbursement Date:05/10/2011
+Loan Disbursement Amount:$2,625.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S11G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/17/2010
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/17/2010
+Loan Period End Date:08/03/2011
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,500.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$523.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:06/08/2010
+Loan Disbursement Date:05/10/2011
+Loan Disbursement Amount:$2,834.00
+Loan Disbursement Date:01/05/2011
+Loan Disbursement Amount:$2,833.00
+Loan Disbursement Date:08/17/2010
+Loan Disbursement Amount:$2,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U11G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/17/2010
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/17/2010
+Loan Period End Date:08/03/2011
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$14,961.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$5,849.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$2,961.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2010
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:06/08/2010
+Loan Disbursement Date:05/10/2011
+Loan Disbursement Amount:$646.00
+Loan Disbursement Date:01/05/2011
+Loan Disbursement Amount:$4,768.00
+Loan Disbursement Date:08/17/2010
+Loan Disbursement Amount:$6,586.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P11G01052002
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:01/13/2011
+Loan Repayment Begin Date:05/10/2011
+Loan Period Begin Date:08/17/2010
+Loan Period End Date:08/03/2011
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,456.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$2,922.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$1,456.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/13/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/14/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:01/13/2011
+Loan Disbursement Date:05/10/2011
+Loan Disbursement Amount:$304.00
+Loan Disbursement Date:01/13/2011
+Loan Disbursement Amount:$4,696.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****4441P11G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:10/01/2010
+Loan Repayment Begin Date:05/10/2011
+Loan Period Begin Date:08/17/2010
+Loan Period End Date:08/03/2011
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,008.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$3,075.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$508.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/14/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/01/2010
+Loan Disbursement Date:05/10/2011
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:01/05/2011
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:10/01/2010
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U10G01052002
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:06/01/2010
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:05/10/2010
+Loan Period End Date:08/06/2010
+Loan Amount:$1,976.00
+Loan Disbursed Amount:$1,976.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,517.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$984.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fifth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2010
+Capitalized Interest:$541.00
+Net Loan Amount:$1,976.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,976.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/01/2010
+Loan Disbursement Date:06/01/2010
+Loan Disbursement Amount:$1,976.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S10G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/18/2009
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/18/2009
+Loan Period End Date:05/05/2010
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,500.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$279.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.60%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/12/2009
+Loan Disbursement Date:01/06/2010
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/18/2009
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U10G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/18/2009
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/18/2009
+Loan Period End Date:05/05/2010
+Loan Amount:$4,389.00
+Loan Disbursed Amount:$4,389.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,803.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$2,269.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2010
+Capitalized Interest:$1,414.00
+Net Loan Amount:$4,389.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,389.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/12/2009
+Loan Disbursement Date:01/06/2010
+Loan Disbursement Amount:$889.00
+Loan Disbursement Date:08/18/2009
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S09G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/19/2008
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/19/2008
+Loan Period End Date:05/06/2009
+Loan Amount:$2,022.00
+Loan Disbursed Amount:$2,022.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,022.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$109.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$2,022.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,022.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2008
+Loan Disbursement Date:01/07/2009
+Loan Disbursement Amount:$1,011.00
+Loan Disbursement Date:08/19/2008
+Loan Disbursement Amount:$1,011.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U09G01052002
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/19/2008
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/19/2008
+Loan Period End Date:05/06/2009
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,764.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,081.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$764.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2008
+Loan Disbursement Date:01/07/2009
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/19/2008
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U09G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/19/2008
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/19/2008
+Loan Period End Date:05/06/2009
+Loan Amount:$3,478.00
+Loan Disbursed Amount:$3,478.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,807.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$1,879.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$1,329.00
+Net Loan Amount:$3,478.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,478.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2008
+Loan Disbursement Date:01/07/2009
+Loan Disbursement Amount:$1,739.00
+Loan Disbursement Date:08/19/2008
+Loan Disbursement Amount:$1,739.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S08G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/22/2007
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/22/2007
+Loan Period End Date:05/01/2008
+Loan Amount:$555.00
+Loan Disbursed Amount:$555.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$555.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$34.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$555.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$555.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2007
+Loan Disbursement Date:01/07/2008
+Loan Disbursement Amount:$277.00
+Loan Disbursement Date:08/22/2007
+Loan Disbursement Amount:$278.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4441U08G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/22/2007
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/22/2007
+Loan Period End Date:05/01/2008
+Loan Amount:$4,945.00
+Loan Disbursed Amount:$4,945.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,171.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$2,803.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2008
+Capitalized Interest:$2,226.00
+Net Loan Amount:$4,945.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,945.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/22/2007
+Loan Disbursement Date:01/07/2008
+Loan Disbursement Amount:$2,472.00
+Loan Disbursement Date:08/22/2007
+Loan Disbursement Amount:$2,473.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S07G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:09/01/2006
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/22/2006
+Loan Period End Date:08/10/2007
+Loan Amount:$2,332.00
+Loan Disbursed Amount:$2,332.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,332.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$143.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$2,332.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,332.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/01/2006
+Loan Disbursement Date:01/02/2007
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:09/01/2006
+Loan Disbursement Amount:$1,166.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S06G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:08/19/2005
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/18/2005
+Loan Period End Date:08/08/2006
+Loan Amount:$2,188.00
+Loan Disbursed Amount:$2,188.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,188.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$88.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$2,188.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,188.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2005
+Loan Disbursement Date:01/03/2006
+Loan Disbursement Amount:$1,313.00
+Loan Disbursement Date:08/19/2005
+Loan Disbursement Amount:$875.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****4441S05G01052001
+Loan Attending School Name:University of Alabama at Birmingham
+Loan Attending School OPEID:00105200
+Loan Date:09/20/2004
+Loan Repayment Begin Date:06/13/2014
+Loan Period Begin Date:08/19/2004
+Loan Period End Date:05/04/2005
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,625.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$106.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.44%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:08/06/2020
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:03/12/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,625.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:02/13/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/04/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/12/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/30/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/20/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/13/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/13/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/20/2004
+Loan Disbursement Date:12/28/2004
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:09/20/2004
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:Auburn University
+Program School OPEID:00100900
+Program Cip Year:2010
+Program Cip Code:512001
+Program CIP Title:Pharmacy.
+Program Credential Level Code:07
+Program Credential Level Code Description:FIRST PROFESSIONAL DEGREE
+Program Begin Date:08/17/2015
+Program Published Length in Years:5.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/03/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/16/2016
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:05/24/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/17/2015
+Program School Name:Auburn University Montgomery
+Program School OPEID:00831000
+Program Cip Year:2010
+Program Cip Code:131205
+Program CIP Title:Secondary Education and Teaching.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:01/12/2015
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/12/2015
+Program School Name:Auburn University Montgomery
+Program School OPEID:00831000
+Program Cip Year:2010
+Program Cip Code:131205
+Program CIP Title:Secondary Education and Teaching.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:01/12/2015
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/12/2015
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/14/2015
+Program School Name:Auburn University Montgomery
+Program School OPEID:00831000
+Program Cip Year:2010
+Program Cip Code:240199
+Program CIP Title:Liberal Arts and Sciences, General Studies and Humanities, Other.
+Program Credential Level Code:99
+Program Credential Level Code Description:NON-CREDENTIAL PROGRAM (PREP. COURSEWORK / TEACHER CERT.)
+Program Begin Date:08/12/2013
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/12/2015
+Program School Name:Auburn University Montgomery
+Program School OPEID:00831000
+Program Cip Year:2010
+Program Cip Code:320111
+Program CIP Title:Workforce Development and Training.
+Program Credential Level Code:99
+Program Credential Level Code Description:NON-CREDENTIAL PROGRAM (PREP. COURSEWORK / TEACHER CERT.)
+Program Begin Date:08/12/2013
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/12/2015
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:08/23/2018
+Award Loan Period Begin Date:08/20/2018
+Award Loan Period End Date:05/03/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:08/13/2018
+Award Loan Period Begin Date:08/20/2018
+Award Loan Period End Date:05/03/2019
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:05/09/2018
+Award Loan Period Begin Date:05/17/2018
+Award Loan Period End Date:08/03/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:05/09/2018
+Award Loan Period Begin Date:05/17/2018
+Award Loan Period End Date:08/03/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:01/22/2018
+Award Loan Period Begin Date:01/10/2018
+Award Loan Period End Date:05/04/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:08/28/2017
+Award Loan Period Begin Date:08/21/2017
+Award Loan Period End Date:12/15/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:08/14/2017
+Award Loan Period Begin Date:08/21/2017
+Award Loan Period End Date:05/04/2018
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:01/25/2017
+Award Loan Period Begin Date:01/11/2017
+Award Loan Period End Date:05/05/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:08/24/2016
+Award Loan Period Begin Date:08/16/2016
+Award Loan Period End Date:12/09/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:10/05/2016
+Award Loan Period Begin Date:08/16/2016
+Award Loan Period End Date:12/09/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:08/09/2016
+Award Loan Period Begin Date:08/16/2016
+Award Loan Period End Date:05/05/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:06/06/2016
+Award Loan Period Begin Date:05/19/2016
+Award Loan Period End Date:08/05/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:02/08/2016
+Award Loan Period Begin Date:01/13/2016
+Award Loan Period End Date:05/06/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Tennessee Health Science Center
+Award School OPEID:00672500
+Award Earliest Disbursement Date:08/20/2015
+Award Loan Period Begin Date:01/02/2016
+Award Loan Period End Date:06/30/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:08/26/2015
+Award Loan Period Begin Date:08/17/2015
+Award Loan Period End Date:12/11/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:04/06/2016
+Award Loan Period Begin Date:08/17/2015
+Award Loan Period End Date:05/06/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University
+Award School OPEID:00100900
+Award Earliest Disbursement Date:08/10/2015
+Award Loan Period Begin Date:08/17/2015
+Award Loan Period End Date:05/06/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University Montgomery
+Award School OPEID:00831000
+Award Earliest Disbursement Date:01/23/2015
+Award Loan Period Begin Date:01/12/2015
+Award Loan Period End Date:05/12/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Auburn University Montgomery
+Award School OPEID:00831000
+Award Earliest Disbursement Date:01/26/2015
+Award Loan Period Begin Date:01/12/2015
+Award Loan Period End Date:05/12/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Alabama State University
+Award School OPEID:00100500
+Award Earliest Disbursement Date:08/22/2013
+Award Loan Period Begin Date:08/21/2013
+Award Loan Period End Date:05/08/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Alabama State University
+Award School OPEID:00100500
+Award Earliest Disbursement Date:08/22/2013
+Award Loan Period Begin Date:08/21/2013
+Award Loan Period End Date:12/12/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Alabama State University
+Award School OPEID:00100500
+Award Earliest Disbursement Date:08/20/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:05/09/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Alabama State University
+Award School OPEID:00100500
+Award Earliest Disbursement Date:08/20/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:05/09/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Alabama State University
+Award School OPEID:00100500
+Award Earliest Disbursement Date:10/10/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:05/09/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:08/15/2012
+Award Loan Period Begin Date:08/15/2012
+Award Loan Period End Date:05/10/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:08/15/2012
+Award Loan Period Begin Date:08/15/2012
+Award Loan Period End Date:05/10/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:01/09/2012
+Award Loan Period Begin Date:01/09/2012
+Award Loan Period End Date:05/09/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:08/16/2011
+Award Loan Period Begin Date:08/16/2011
+Award Loan Period End Date:08/06/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:08/16/2011
+Award Loan Period Begin Date:08/16/2011
+Award Loan Period End Date:12/14/2011
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:08/16/2011
+Award Loan Period Begin Date:08/16/2011
+Award Loan Period End Date:08/06/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:08/16/2011
+Award Loan Period Begin Date:08/16/2011
+Award Loan Period End Date:05/09/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:08/16/2011
+Award Loan Period Begin Date:08/16/2011
+Award Loan Period End Date:12/14/2011
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Alabama at Birmingham
+Award School OPEID:00105200
+Award Earliest Disbursement Date:06/07/2012
+Award Loan Period Begin Date:08/16/2011
+Award Loan Period End Date:08/06/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Auburn University
+Enrolled School OPEID:00100900
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/03/2019
+Enrolled School Name:Auburn University Montgomery
+Enrolled School OPEID:00831000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/12/2015
+Enrolled School Name:Alabama State University
+Enrolled School OPEID:00100500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/12/2013
+Enrolled School Name:University of Alabama at Birmingham
+Enrolled School OPEID:00105200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:08/15/2012

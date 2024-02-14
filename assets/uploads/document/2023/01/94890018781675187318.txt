@@ -1,0 +1,1466 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-01-31 12:36:49
+Student First Name:TATYANA
+Student Middle Initial:
+Student Last Name:KAB
+Student Street Address 1:551 PAVONIA AVE APT 1
+Student Street Address 2:
+Student City:JERSEY CITY
+Student State Code:NJ
+Student Country Code:US
+Student Zip Code:07306
+Student Email Address:TATYANAKAB@YAHOO.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:3322232498
+Student Home Phone Preferred:Y
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6462964078
+Student Cell Phone Preferred:N
+Student Work Phone Country Code:1
+Student Work Phone Number:7186060195
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:08/12/2011
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2011
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$25,500.00
+Graduate Aggregate Unsubsidized Total:$36,000.00
+Graduate Aggregate Combined Total:$61,500.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$25,500.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$36,000.00
+Aggregate Combined Total (Undergraduate and Graduate):$61,500.00
+Student Total All Loans Outstanding Principal:$290,409.00
+Student Total All Loans Outstanding Interest:$88,175.00
+Student Pell Lifetime Eligibility Used:224.980%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$4,849.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$9,338.00
+Total <D1> Outstanding Interest:$3,490.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$15,340.00
+Total <D2> Outstanding Interest:$5,733.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$67,200.00
+Total <D3> Outstanding Interest:$29,175.00
+Type Code:GB
+Type Description:FFEL PLUS GRADUATE
+Total <GB> Outstanding Principal:$138,706.00
+Total <GB> Outstanding Interest:$38,131.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$21,873.00
+Total <SF> Outstanding Interest:$4,250.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$37,952.00
+Total <SU> Outstanding Interest:$7,396.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****6986S11G10142001
+Loan Attending School Name:Touro University
+Loan Attending School OPEID:01014200
+Loan Date:08/30/2010
+Loan Repayment Begin Date:02/13/2012
+Loan Period Begin Date:08/19/2010
+Loan Period End Date:05/20/2011
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,338.00
+Loan Outstanding Principal Balance as of Date:10/20/2015
+Loan Outstanding Interest Balance:$3,490.00
+Loan Outstanding Interest Balance as of Date:10/20/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/14/2014
+Loan Repayment Plan Scheduled Amount:$110.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/27/2022
+DelinqDate:10/22/2014
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/20/2015
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/13/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/13/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/13/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/30/2010
+Loan Disbursement Date:01/10/2011
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:08/30/2010
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6986U11G10142001
+Loan Attending School Name:Touro University
+Loan Attending School OPEID:01014200
+Loan Date:08/30/2010
+Loan Repayment Begin Date:02/13/2012
+Loan Period Begin Date:08/19/2010
+Loan Period End Date:05/20/2011
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$15,340.00
+Loan Outstanding Principal Balance as of Date:10/20/2015
+Loan Outstanding Interest Balance:$5,733.00
+Loan Outstanding Interest Balance as of Date:10/20/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/14/2014
+Loan Repayment Plan Scheduled Amount:$180.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/27/2022
+DelinqDate:10/22/2014
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/20/2015
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/13/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/13/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/13/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/30/2010
+Loan Disbursement Date:01/10/2011
+Loan Disbursement Amount:$6,000.00
+Loan Disbursement Date:08/30/2010
+Loan Disbursement Amount:$6,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****6986P11G10142002
+Loan Attending School Name:Touro University
+Loan Attending School OPEID:01014200
+Loan Date:08/09/2010
+Loan Repayment Begin Date:01/10/2011
+Loan Period Begin Date:08/19/2010
+Loan Period End Date:05/20/2011
+Loan Amount:$6,542.00
+Loan Disbursed Amount:$6,542.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,715.00
+Loan Outstanding Principal Balance as of Date:10/20/2015
+Loan Outstanding Interest Balance:$3,784.00
+Loan Outstanding Interest Balance as of Date:10/20/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/14/2014
+Loan Repayment Plan Scheduled Amount:$107.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$6,542.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/27/2022
+DelinqDate:10/22/2014
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/20/2015
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/13/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/09/2010
+Loan Disbursement Date:01/10/2011
+Loan Disbursement Amount:$3,271.00
+Loan Disbursement Date:08/09/2010
+Loan Disbursement Amount:$3,271.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****6986P11G10142001
+Loan Attending School Name:Touro University
+Loan Attending School OPEID:01014200
+Loan Date:08/30/2010
+Loan Repayment Begin Date:01/10/2011
+Loan Period Begin Date:08/19/2010
+Loan Period End Date:05/20/2011
+Loan Amount:$44,000.00
+Loan Disbursed Amount:$44,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$58,485.00
+Loan Outstanding Principal Balance as of Date:10/20/2015
+Loan Outstanding Interest Balance:$25,391.00
+Loan Outstanding Interest Balance as of Date:10/20/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/14/2014
+Loan Repayment Plan Scheduled Amount:$720.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:D
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$44,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/27/2022
+DelinqDate:10/22/2014
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/20/2015
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/13/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/10/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/30/2010
+Loan Disbursement Date:01/10/2011
+Loan Disbursement Amount:$22,000.00
+Loan Disbursement Date:08/30/2010
+Loan Disbursement Amount:$22,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:GB
+Loan Type Description:FFEL PLUS GRADUATE
+Loan Award ID:*****6986510010142301
+Loan Attending School Name:Touro University - Touro Law Center
+Loan Attending School OPEID:01014205
+Loan Date:10/21/2009
+Loan Repayment Begin Date:12/30/2009
+Loan Period Begin Date:08/24/2009
+Loan Period End Date:05/20/2010
+Loan Amount:$14,986.00
+Loan Disbursed Amount:$14,986.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$21,614.00
+Loan Outstanding Principal Balance as of Date:10/20/2015
+Loan Outstanding Interest Balance:$10,097.00
+Loan Outstanding Interest Balance as of Date:10/20/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:8.50%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/14/2014
+Loan Repayment Plan Scheduled Amount:$273.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$14,986.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/27/2022
+DelinqDate:10/22/2014
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/20/2015
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/13/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/30/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/21/2009
+Loan Disbursement Date:12/30/2009
+Loan Disbursement Amount:$7,493.00
+Loan Disbursement Date:10/27/2009
+Loan Disbursement Amount:$7,493.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:GB
+Loan Type Description:FFEL PLUS GRADUATE
+Loan Award ID:*****6986510010142300
+Loan Attending School Name:Touro University - Touro Law Center
+Loan Attending School OPEID:01014205
+Loan Date:06/17/2009
+Loan Repayment Begin Date:12/30/2009
+Loan Period Begin Date:08/24/2009
+Loan Period End Date:05/20/2010
+Loan Amount:$30,000.00
+Loan Disbursed Amount:$30,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$43,567.00
+Loan Outstanding Principal Balance as of Date:10/20/2015
+Loan Outstanding Interest Balance:$20,351.00
+Loan Outstanding Interest Balance as of Date:10/20/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:8.50%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/14/2014
+Loan Repayment Plan Scheduled Amount:$550.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$30,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/27/2022
+DelinqDate:10/22/2014
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/20/2015
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/13/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/30/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/17/2009
+Loan Disbursement Date:12/30/2009
+Loan Disbursement Amount:$15,000.00
+Loan Disbursement Date:08/12/2009
+Loan Disbursement Amount:$15,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****6986110010142300
+Loan Attending School Name:Touro University - Touro Law Center
+Loan Attending School OPEID:01014205
+Loan Date:06/16/2009
+Loan Repayment Begin Date:02/13/2012
+Loan Period Begin Date:08/24/2009
+Loan Period End Date:05/20/2010
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,338.00
+Loan Outstanding Principal Balance as of Date:10/20/2015
+Loan Outstanding Interest Balance:$3,490.00
+Loan Outstanding Interest Balance as of Date:10/20/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/14/2014
+Loan Repayment Plan Scheduled Amount:$110.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:11/27/2022
+DelinqDate:10/22/2014
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/20/2015
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/13/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/13/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/13/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/16/2009
+Loan Disbursement Date:12/30/2009
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:08/12/2009
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****6986210010142300
+Loan Attending School Name:Touro University - Touro Law Center
+Loan Attending School OPEID:01014205
+Loan Date:06/16/2009
+Loan Repayment Begin Date:02/13/2012
+Loan Period Begin Date:08/24/2009
+Loan Period End Date:05/20/2010
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$16,272.00
+Loan Outstanding Principal Balance as of Date:10/20/2015
+Loan Outstanding Interest Balance:$6,081.00
+Loan Outstanding Interest Balance as of Date:10/20/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:FF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:09/14/2014
+Loan Repayment Plan Scheduled Amount:$191.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:11/27/2022
+DelinqDate:10/22/2014
+Current Loan Status:DU
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/20/2015
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:07/18/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/13/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/12/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/02/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/13/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/13/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/16/2009
+Loan Disbursement Date:12/30/2009
+Loan Disbursement Amount:$6,000.00
+Loan Disbursement Date:08/12/2009
+Loan Disbursement Amount:$6,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:556
+Loan Contact Name:DEBT MANAGEMENT AND COLLECTIONS SYSTEM
+Loan Contact Street Address 1:DEFAULT RESOLUTION GROUP
+Loan Contact Street Address 2:P.O. BOX 5609
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-621-3115
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://myeddebt.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:GB
+Loan Type Description:FFEL PLUS GRADUATE
+Loan Award ID:*****8000010ZRR9301
+Loan Attending School Name:Touro University - Touro Law Center
+Loan Attending School OPEID:01014205
+Loan Date:09/23/2008
+Loan Repayment Begin Date:01/08/2009
+Loan Period Begin Date:08/18/2008
+Loan Period End Date:05/20/2009
+Loan Amount:$9,145.00
+Loan Disbursed Amount:$9,145.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$17,111.00
+Loan Outstanding Principal Balance as of Date:11/30/2017
+Loan Outstanding Interest Balance:$1,788.00
+Loan Outstanding Interest Balance as of Date:11/30/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.50%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.50%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$9,145.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/12/2017
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/08/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/08/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/08/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/13/2012
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/08/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/23/2008
+Loan Disbursement Date:01/08/2009
+Loan Disbursement Amount:$4,572.00
+Loan Disbursement Date:09/30/2008
+Loan Disbursement Amount:$4,573.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:GB
+Loan Type Description:FFEL PLUS GRADUATE
+Loan Award ID:*****8000010Z4R8W01
+Loan Attending School Name:Touro University - Touro Law Center
+Loan Attending School OPEID:01014205
+Loan Date:07/18/2008
+Loan Repayment Begin Date:01/08/2009
+Loan Period Begin Date:08/18/2008
+Loan Period End Date:05/20/2009
+Loan Amount:$30,000.00
+Loan Disbursed Amount:$30,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$56,414.00
+Loan Outstanding Principal Balance as of Date:11/30/2017
+Loan Outstanding Interest Balance:$5,895.00
+Loan Outstanding Interest Balance as of Date:11/30/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.50%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.50%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$30,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/12/2017
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/08/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/08/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/08/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/13/2012
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/08/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/18/2008
+Loan Disbursement Date:01/08/2009
+Loan Disbursement Amount:$15,000.00
+Loan Disbursement Date:08/06/2008
+Loan Disbursement Amount:$15,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****600002FFS07A01
+Loan Attending School Name:Touro University - Touro Law Center
+Loan Attending School OPEID:01014205
+Loan Date:07/18/2008
+Loan Repayment Begin Date:02/13/2012
+Loan Period Begin Date:08/18/2008
+Loan Period End Date:05/20/2009
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,535.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$760.00
+Loan Outstanding Interest Balance as of Date:01/09/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:DF
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/29/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/08/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/08/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/08/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/13/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/18/2008
+Loan Disbursement Date:01/08/2009
+Loan Disbursement Amount:$4,250.00
+Loan Disbursement Date:08/06/2008
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****600002FFS07A02
+Loan Attending School Name:Touro University - Touro Law Center
+Loan Attending School OPEID:01014205
+Loan Date:07/18/2008
+Loan Repayment Begin Date:02/13/2012
+Loan Period Begin Date:08/18/2008
+Loan Period End Date:05/20/2009
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$21,680.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$1,315.00
+Loan Outstanding Interest Balance as of Date:01/09/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$12,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:DF
+Current Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:12/29/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/08/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/08/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/08/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/08/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/08/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/08/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:08/13/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/18/2008
+Loan Disbursement Date:01/08/2009
+Loan Disbursement Amount:$6,000.00
+Loan Disbursement Date:08/06/2008
+Loan Disbursement Amount:$6,000.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:736
+Loan Contact Name:NEW YORK STATE HIGHER EDUCATION SERVICES
+Loan Contact Street Address 1:HESC
+Loan Contact Street Address 2:99 WASHINGTON AVE.
+Loan Contact City:ALBANY
+Loan Contact State Code:NY
+Loan Contact Zip Code:12255
+Loan Contact Phone Number:888-697-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://hesc.ny.gov
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Queensborough Community College-CUNY
+Grant Attending School OPEID:00269700
+Grant Award Year:2005 - 2006
+Grant Scheduled Amount:$1,800.00
+Grant Award Amount:$1,800.00
+Grant Disbursed Amount:$1,800.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00269700
+Grant Contact Name:Queensborough Community College-CUNY
+Grant Contact Street Address 1:56TH AVENUE & SPRINGFIELD BOULEVARD
+Grant Contact Street Address 2:
+Grant Contact City:BAYSIDE
+Grant Contact State Code:NY
+Grant Contact Zip Code:11364(1497)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Queensborough Community College-CUNY
+Grant Attending School OPEID:00269700
+Grant Award Year:2004 - 2005
+Grant Scheduled Amount:$2,300.00
+Grant Award Amount:$2,300.00
+Grant Disbursed Amount:$862.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):37.500%
+Aid Recipient's Total Percent Eligibility Used (TEU):37.500%
+Grant Contact Type:Attending School
+Grant Contact Code:00269700
+Grant Contact Name:Queensborough Community College-CUNY
+Grant Contact Street Address 1:56TH AVENUE & SPRINGFIELD BOULEVARD
+Grant Contact Street Address 2:
+Grant Contact City:BAYSIDE
+Grant Contact State Code:NY
+Grant Contact Zip Code:11364(1497)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Nassau Community College
+Grant Attending School OPEID:00287300
+Grant Award Year:2003 - 2004
+Grant Scheduled Amount:$2,500.00
+Grant Award Amount:$2,187.00
+Grant Disbursed Amount:$2,187.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):87.480%
+Aid Recipient's Total Percent Eligibility Used (TEU):87.480%
+Grant Contact Type:Attending School
+Grant Contact Code:00287300
+Grant Contact Name:Nassau Community College
+Grant Contact Street Address 1:ONE EDUCATION DRIVE
+Grant Contact Street Address 2:
+Grant Contact City:GARDEN CITY
+Grant Contact State Code:NY
+Grant Contact Zip Code:11550
+Phone Number:516-572-7396
+Phone Extension:7087
+Email Address:Patricia.Noren@ncc.edu
+Web Site Address:
+Enrolled School Name:Touro University
+Enrolled School OPEID:01014200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:08/12/2011
+Enrolled School Name:Touro University - Touro Law Center
+Enrolled School OPEID:01014205
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:08/12/2011

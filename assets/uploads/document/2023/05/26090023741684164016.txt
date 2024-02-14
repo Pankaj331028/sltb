@@ -1,0 +1,971 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-05-08 15:06:12
+Student First Name:CASEY
+Student Middle Initial:A
+Student Last Name:MILLER
+Student Street Address 1:1402 ROUTE 9 S
+Student Street Address 2:LOT 123
+Student City:CAPE MAY CH
+Student State Code:NJ
+Student Country Code:US
+Student Zip Code:082102920
+Student Email Address:SPINACHGRUNDLE@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:6097419332
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6097419332
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:1
+Student Work Phone Number:6094082244
+Student Work Phone Preferred:No
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/02/2014
+Undergraduate Subsidized Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Award Year:2013
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$22,793.00
+Undergraduate Aggregate Unsubsidized Total:$632.00
+Undergraduate Aggregate Combined Total:$23,425.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$22,793.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$632.00
+Aggregate Combined Total (Undergraduate and Graduate):$23,425.00
+Student Total All Loans Outstanding Principal:$25,657.00
+Student Total All Loans Outstanding Interest:$2,721.00
+Student Pell Lifetime Eligibility Used:600.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$18,631.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$18,501.00
+Total <D1> Outstanding Interest:$2,060.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$2,690.00
+Total <D2> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$4,466.00
+Total <SF> Outstanding Interest:$661.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8377S13G01481001
+Loan Attending School Name:Florida Atlantic University
+Loan Attending School OPEID:00148100
+Loan Date:09/01/2012
+Loan Repayment Begin Date:11/03/2014
+Loan Period Begin Date:08/18/2012
+Loan Period End Date:05/03/2013
+Loan Amount:$4,050.00
+Loan Disbursed Amount:$4,050.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,074.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$366.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:02/02/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/02/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/06/2018
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$129.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$166.00
+Net Loan Amount:$4,050.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,991.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:12/04/2016
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/20/2022
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/03/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/01/2012
+Loan Disbursement Date:01/19/2013
+Loan Disbursement Amount:$2,025.00
+Loan Disbursement Date:09/01/2012
+Loan Disbursement Amount:$2,025.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8377U13G01481001
+Loan Attending School Name:Florida Atlantic University
+Loan Attending School OPEID:00148100
+Loan Date:09/01/2012
+Loan Repayment Begin Date:11/03/2014
+Loan Period Begin Date:08/18/2012
+Loan Period End Date:05/03/2013
+Loan Amount:$3,450.00
+Loan Disbursed Amount:$3,450.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,186.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:02/02/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/02/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/15/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$4,025.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$1,502.00
+Net Loan Amount:$3,450.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$435.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:12/04/2016
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/20/2022
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/03/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/01/2012
+Loan Disbursement Date:01/19/2013
+Loan Disbursement Amount:$1,725.00
+Loan Disbursement Date:09/01/2012
+Loan Disbursement Amount:$1,725.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8377S12G01481001
+Loan Attending School Name:Florida Atlantic University
+Loan Attending School OPEID:00148100
+Loan Date:09/03/2011
+Loan Repayment Begin Date:11/03/2014
+Loan Period Begin Date:08/20/2011
+Loan Period End Date:05/04/2012
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,468.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$491.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:02/02/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/02/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/06/2018
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$169.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2012
+Capitalized Interest:$38.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,449.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:12/04/2016
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/20/2022
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/03/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/2011
+Loan Disbursement Date:01/21/2012
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/03/2011
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8377U12G01481001
+Loan Attending School Name:Florida Atlantic University
+Loan Attending School OPEID:00148100
+Loan Date:09/03/2011
+Loan Repayment Begin Date:11/03/2014
+Loan Period Begin Date:08/20/2011
+Loan Period End Date:05/04/2012
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$731.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:02/02/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/02/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/15/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$2,478.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2012
+Capitalized Interest:$1,162.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$150.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:12/04/2016
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/20/2022
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/03/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/2011
+Loan Disbursement Date:01/21/2012
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:09/03/2011
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8377S11G01481001
+Loan Attending School Name:Florida Atlantic University
+Loan Attending School OPEID:00148100
+Loan Date:09/03/2010
+Loan Repayment Begin Date:11/03/2014
+Loan Period Begin Date:08/21/2010
+Loan Period End Date:05/06/2011
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,478.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$651.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:02/02/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/02/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/06/2018
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$189.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$50.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,453.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:12/04/2016
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/20/2022
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/03/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/2010
+Loan Disbursement Date:01/21/2011
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/03/2010
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8377U11G01481001
+Loan Attending School Name:Florida Atlantic University
+Loan Attending School OPEID:00148100
+Loan Date:09/03/2010
+Loan Repayment Begin Date:11/03/2014
+Loan Period Begin Date:08/21/2010
+Loan Period End Date:05/06/2011
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$773.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:02/02/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/02/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/15/2022
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$2,632.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$1,452.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$47.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:12/04/2016
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/20/2022
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/03/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/03/2010
+Loan Disbursement Date:01/21/2011
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:09/03/2010
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8377110001500001
+Loan Attending School Name:Broward College
+Loan Attending School OPEID:00150000
+Loan Date:08/12/2009
+Loan Repayment Begin Date:11/03/2014
+Loan Period Begin Date:08/24/2009
+Loan Period End Date:05/05/2010
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,466.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$661.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.60%
+Loan Repayment Plan Type Code:IB
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:02/02/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/02/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/06/2018
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$173.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2010
+Capitalized Interest:$52.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,440.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:12/04/2016
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/20/2022
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/03/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/2009
+Loan Disbursement Date:01/29/2010
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:09/11/2009
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:P.O. BOX 9635
+Loan Contact Street Address 2:
+Loan Contact City:WILKES-BARRE
+Loan Contact State Code:PA
+Loan Contact Zip Code:18773(9635)
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.salliemae.com
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8377S09G02609001
+Loan Attending School Name:Rowan University
+Loan Attending School OPEID:00260900
+Loan Date:10/07/2008
+Loan Repayment Begin Date:11/03/2014
+Loan Period Begin Date:09/02/2008
+Loan Period End Date:05/09/2009
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,481.00
+Loan Outstanding Principal Balance as of Date:05/01/2023
+Loan Outstanding Interest Balance:$552.00
+Loan Outstanding Interest Balance as of Date:05/01/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:02/02/2017
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:02/02/2018
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:06/06/2018
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$137.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$42.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,460.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/02/2023
+DelinqDate:12/04/2016
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/20/2022
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:05/30/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/03/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/07/2008
+Loan Disbursement Date:01/27/2009
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:10/07/2008
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Florida Atlantic University
+Grant Attending School OPEID:00148100
+Grant Award Year:2013 - 2014
+Grant Scheduled Amount:$5,645.00
+Grant Award Amount:$5,645.00
+Grant Disbursed Amount:$5,645.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00148100
+Grant Contact Name:Florida Atlantic University
+Grant Contact Street Address 1:777 GLADES ROAD
+Grant Contact Street Address 2:
+Grant Contact City:BOCA RATON
+Grant Contact State Code:FL
+Grant Contact Zip Code:33431(6498)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Florida Atlantic University
+Grant Attending School OPEID:00148100
+Grant Award Year:2012 - 2013
+Grant Scheduled Amount:$1,100.00
+Grant Award Amount:$1,100.00
+Grant Disbursed Amount:$1,100.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00148100
+Grant Contact Name:Florida Atlantic University
+Grant Contact Street Address 1:777 GLADES ROAD
+Grant Contact Street Address 2:
+Grant Contact City:BOCA RATON
+Grant Contact State Code:FL
+Grant Contact Zip Code:33431(6498)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Florida Atlantic University
+Grant Attending School OPEID:00148100
+Grant Award Year:2011 - 2012
+Grant Scheduled Amount:$555.00
+Grant Award Amount:$555.00
+Grant Disbursed Amount:$555.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00148100
+Grant Contact Name:Florida Atlantic University
+Grant Contact Street Address 1:777 GLADES ROAD
+Grant Contact Street Address 2:
+Grant Contact City:BOCA RATON
+Grant Contact State Code:FL
+Grant Contact Zip Code:33431(6498)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Florida Atlantic University
+Grant Attending School OPEID:00148100
+Grant Award Year:2010 - 2011
+Grant Scheduled Amount:$3,000.00
+Grant Award Amount:$3,000.00
+Grant Disbursed Amount:$3,000.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00148100
+Grant Contact Name:Florida Atlantic University
+Grant Contact Street Address 1:777 GLADES ROAD
+Grant Contact Street Address 2:
+Grant Contact City:BOCA RATON
+Grant Contact State Code:FL
+Grant Contact Zip Code:33431(6498)
+Phone Number:
+Phone Extension:
+Email Address:
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Broward College
+Grant Attending School OPEID:00150000
+Grant Award Year:2009 - 2010
+Grant Scheduled Amount:$3,200.00
+Grant Award Amount:$3,200.00
+Grant Disbursed Amount:$3,200.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00150000
+Grant Contact Name:Broward College
+Grant Contact Street Address 1:225 E. LAS OLAS BLVD.
+Grant Contact Street Address 2:STUDENT FINANCIAL SERVICES
+Grant Contact City:FORT LAUDERDALE
+Grant Contact State Code:FL
+Grant Contact Zip Code:33301
+Phone Number:954-201-7175
+Phone Extension:
+Email Address:CPHILIPP@BROWARD.EDU
+Web Site Address:
+Grant Type Code:AG
+Grant Type Code Description:ACADEMIC COMPETITIVENESS GRANT
+Grant Attending School Name:Rowan University
+Grant Attending School OPEID:00260900
+Grant Award Year:2008 - 2009
+Grant Scheduled Amount:$750.00
+Grant Award Amount:$750.00
+Grant Disbursed Amount:$750.00
+Grant First Time:No
+Grant Additional Eligibility:N/A
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00260900
+Grant Contact Name:Rowan University
+Grant Contact Street Address 1:201 MULLICA HILL ROAD
+Grant Contact Street Address 2:
+Grant Contact City:GLASSBORO
+Grant Contact State Code:NJ
+Grant Contact Zip Code:08028
+Phone Number:856-256-4281
+Phone Extension:
+Email Address:kovalick@rowan.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Rowan University
+Grant Attending School OPEID:00260900
+Grant Award Year:2008 - 2009
+Grant Scheduled Amount:$4,381.00
+Grant Award Amount:$4,381.00
+Grant Disbursed Amount:$4,381.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00260900
+Grant Contact Name:Rowan University
+Grant Contact Street Address 1:201 MULLICA HILL ROAD
+Grant Contact Street Address 2:
+Grant Contact City:GLASSBORO
+Grant Contact State Code:NJ
+Grant Contact Zip Code:08028
+Phone Number:856-256-4281
+Phone Extension:
+Email Address:kovalick@rowan.edu
+Web Site Address:
+Award School Name:Florida Atlantic University
+Award School OPEID:00148100
+Award Earliest Disbursement Date:09/01/2012
+Award Loan Period Begin Date:08/18/2012
+Award Loan Period End Date:05/03/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Florida Atlantic University
+Award School OPEID:00148100
+Award Earliest Disbursement Date:09/01/2012
+Award Loan Period Begin Date:08/18/2012
+Award Loan Period End Date:05/03/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Florida Atlantic University
+Award School OPEID:00148100
+Award Earliest Disbursement Date:09/03/2011
+Award Loan Period Begin Date:08/20/2011
+Award Loan Period End Date:05/04/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Florida Atlantic University
+Award School OPEID:00148100
+Award Earliest Disbursement Date:09/03/2011
+Award Loan Period Begin Date:08/20/2011
+Award Loan Period End Date:05/04/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Florida Atlantic University
+Enrolled School OPEID:00148100
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/02/2014
+Enrolled School Name:Broward College
+Enrolled School OPEID:00150000
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/05/2010
+Enrolled School Name:Rowan University
+Enrolled School OPEID:00260900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/09/2009

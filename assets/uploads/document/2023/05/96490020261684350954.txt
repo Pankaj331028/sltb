@@ -1,0 +1,3258 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-05-17 15:14:52
+Student First Name:SHARON
+Student Middle Initial:M
+Student Last Name:BURTON
+Student Street Address 1:316 HIGH RIDGE DR
+Student Street Address 2:
+Student City:SEGUIN
+Student State Code:TX
+Student Country Code:US
+Student Zip Code:78155
+Student Email Address:JBURTONMARION@AOL.COM
+Student Home Phone Country Code:
+Student Home Phone Number:2108547896
+Student Home Phone Preferred:
+Student Cell Phone Country Code:1
+Student Cell Phone Number:2108547896
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:11/01/2011
+Undergraduate Subsidized Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Combined Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Award Year:2011
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$23,000.00
+Undergraduate Aggregate Unsubsidized Total:$29,915.00
+Undergraduate Aggregate Combined Total:$52,915.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Award Year:
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$23,000.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$29,915.00
+Aggregate Combined Total (Undergraduate and Graduate):$52,915.00
+Student Total All Loans Outstanding Principal:$64,297.00
+Student Total All Loans Outstanding Interest:$21,337.00
+Student Pell Lifetime Eligibility Used:483.337%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$23,392.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$6,138.00
+Total <D1> Outstanding Interest:$1,471.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$18,707.00
+Total <D2> Outstanding Interest:$6,723.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$5,665.00
+Total <D5> Outstanding Interest:$1,811.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$3,654.00
+Total <D6> Outstanding Interest:$1,178.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$13,903.00
+Total <SF> Outstanding Interest:$4,322.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$16,230.00
+Total <SU> Outstanding Interest:$5,832.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****9302S11G04586002
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:04/13/2011
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:03/23/2011
+Loan Period End Date:11/01/2011
+Loan Amount:$501.00
+Loan Disbursed Amount:$501.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$512.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$123.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$5.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$11.00
+Net Loan Amount:$501.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$501.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/13/2011
+Loan Disbursement Date:09/14/2011
+Loan Disbursement Amount:$167.00
+Loan Disbursement Date:06/29/2011
+Loan Disbursement Amount:$167.00
+Loan Disbursement Date:04/13/2011
+Loan Disbursement Amount:$167.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302U12G04586001
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:10/20/2011
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:03/23/2011
+Loan Period End Date:11/01/2011
+Loan Amount:$436.00
+Loan Disbursed Amount:$436.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$533.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$192.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$5.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$97.00
+Net Loan Amount:$436.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$436.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/20/2011
+Loan Disbursement Date:11/16/2011
+Loan Disbursement Amount:$436.00
+Loan Disbursement Date:10/20/2011
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302U11G04586003
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:04/13/2011
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:03/23/2011
+Loan Period End Date:11/01/2011
+Loan Amount:$8,107.00
+Loan Disbursed Amount:$8,107.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$10,163.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$3,652.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$102.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$2,056.00
+Net Loan Amount:$8,107.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$8,107.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/13/2011
+Loan Disbursement Date:09/14/2011
+Loan Disbursement Amount:$2,703.00
+Loan Disbursement Date:06/29/2011
+Loan Disbursement Amount:$2,702.00
+Loan Disbursement Date:04/13/2011
+Loan Disbursement Amount:$2,702.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****9302S11G04586001
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:08/27/2010
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:07/28/2010
+Loan Period End Date:03/15/2011
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,626.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,348.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$52.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$126.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/2010
+Loan Disbursement Date:01/12/2011
+Loan Disbursement Amount:$1,834.00
+Loan Disbursement Date:10/20/2010
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:08/27/2010
+Loan Disbursement Amount:$1,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302U11G04586002
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:09/29/2010
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:07/28/2010
+Loan Period End Date:03/15/2011
+Loan Amount:$4,081.00
+Loan Disbursed Amount:$3,207.00
+Loan Canceled Amount:$874.00
+Loan Canceled Date:12/03/2011
+Loan Outstanding Principal Balance:$4,196.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,508.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$42.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$989.00
+Net Loan Amount:$3,207.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,207.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/29/2010
+Loan Disbursement Date:01/12/2011
+Loan Disbursement Amount:$487.00
+Loan Disbursement Date:10/20/2010
+Loan Disbursement Amount:$1,360.00
+Loan Disbursement Date:09/29/2010
+Loan Disbursement Amount:$1,360.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302U11G04586001
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:08/27/2010
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:07/28/2010
+Loan Period End Date:03/15/2011
+Loan Amount:$2,919.00
+Loan Disbursed Amount:$2,919.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,815.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,371.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$38.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$896.00
+Net Loan Amount:$2,919.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,919.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/2010
+Loan Disbursement Date:01/12/2011
+Loan Disbursement Amount:$973.00
+Loan Disbursement Date:10/20/2010
+Loan Disbursement Amount:$973.00
+Loan Disbursement Date:08/27/2010
+Loan Disbursement Amount:$973.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****9302110004586300
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:11/04/2009
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:12/02/2009
+Loan Period End Date:07/20/2010
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,499.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,658.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,687.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.60%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$57.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2010
+Capitalized Interest:$158.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,499.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:11/04/2009
+Loan Disbursement Date:05/13/2010
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:03/08/2010
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:03/05/2010
+Loan Disbursement Amount:$1,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302210004586301
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:11/04/2009
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:12/02/2009
+Loan Period End Date:07/20/2010
+Loan Amount:$2,003.00
+Loan Disbursed Amount:$2,004.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,734.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$982.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$29.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2010
+Capitalized Interest:$731.00
+Net Loan Amount:$2,003.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,003.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:11/04/2009
+Loan Disbursement Date:02/25/2010
+Loan Disbursement Amount:$1,002.00
+Loan Disbursement Date:01/28/2010
+Loan Disbursement Amount:$1,002.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302210004586300
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:02/05/2010
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:12/02/2009
+Loan Period End Date:07/20/2010
+Loan Amount:$707.00
+Loan Disbursed Amount:$706.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$963.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$346.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$10.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2010
+Capitalized Interest:$257.00
+Net Loan Amount:$707.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$706.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/05/2010
+Loan Disbursement Date:02/25/2010
+Loan Disbursement Amount:$353.00
+Loan Disbursement Date:02/11/2010
+Loan Disbursement Amount:$353.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:897577
+Loan Contact Name:U.S. DEPT OF EDUCATION/2009-2010 LPCP
+Loan Contact Street Address 1:830 FIRST ST. NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:2023773322
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****9302109004586300
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:03/30/2009
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:04/15/2009
+Loan Period End Date:11/24/2009
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,638.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,482.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$47.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$138.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/30/2009
+Loan Disbursement Date:09/17/2009
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:07/02/2009
+Loan Disbursement Amount:$1,500.00
+Loan Disbursement Date:04/16/2009
+Loan Disbursement Amount:$1,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302209004586300
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:03/30/2009
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:04/15/2009
+Loan Period End Date:11/24/2009
+Loan Amount:$5,079.00
+Loan Disbursed Amount:$5,079.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,183.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$2,581.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$74.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$2,104.00
+Net Loan Amount:$5,079.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,079.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:03/30/2009
+Loan Disbursement Date:09/17/2009
+Loan Disbursement Amount:$1,693.00
+Loan Disbursement Date:07/02/2009
+Loan Disbursement Amount:$1,693.00
+Loan Disbursement Date:04/16/2009
+Loan Disbursement Amount:$1,693.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****9302109004586301
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:09/04/2008
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:08/20/2008
+Loan Period End Date:04/07/2009
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,607.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,153.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$36.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$107.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/04/2008
+Loan Disbursement Date:01/29/2009
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:11/06/2008
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:09/09/2008
+Loan Disbursement Amount:$1,168.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302209004586302
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:09/04/2008
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:08/20/2008
+Loan Period End Date:04/07/2009
+Loan Amount:$3,254.00
+Loan Disbursed Amount:$3,254.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,767.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,713.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$49.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$1,513.00
+Net Loan Amount:$3,254.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,254.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/04/2008
+Loan Disbursement Date:01/29/2009
+Loan Disbursement Amount:$1,084.00
+Loan Disbursement Date:11/06/2008
+Loan Disbursement Amount:$1,084.00
+Loan Disbursement Date:09/09/2008
+Loan Disbursement Amount:$1,086.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9302209004586301
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:02/02/2009
+Loan Repayment Begin Date:05/02/2012
+Loan Period Begin Date:08/20/2008
+Loan Period End Date:04/07/2009
+Loan Amount:$403.00
+Loan Disbursed Amount:$402.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$583.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$210.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$6.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2009
+Capitalized Interest:$180.00
+Net Loan Amount:$403.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$402.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/05/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/02/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/02/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/02/2009
+Loan Disbursement Date:02/09/2009
+Loan Disbursement Amount:$134.00
+Loan Disbursement Date:02/06/2009
+Loan Disbursement Amount:$134.00
+Loan Disbursement Date:02/05/2009
+Loan Disbursement Amount:$134.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Servicer
+Loan Contact Code:700581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://mygreatlakes.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899577
+Loan Contact Name:U.S. DEPT OF ED/2008-2009 LPCP
+Loan Contact Street Address 1:830 FIRST ST., NE
+Loan Contact Street Address 2:
+Loan Contact City:WASHINGTON
+Loan Contact State Code:DC
+Loan Contact Zip Code:20202(0000)
+Loan Contact Phone Number:8004333243
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****60000K0P801J01
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:01/10/2008
+Loan Repayment Begin Date:04/19/2012
+Loan Period Begin Date:01/02/2008
+Loan Period End Date:08/12/2008
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/19/2012
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/19/2012
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:4.50%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:05/03/2012
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/19/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/03/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/10/2008
+Loan Disbursement Date:06/23/2008
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:03/20/2008
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:01/17/2008
+Loan Disbursement Amount:$1,168.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834466
+Loan Contact Name:CONDUIT CITIBANK ELT SLC
+Loan Contact Street Address 1:388 GREENWICH ST
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10013(0000)
+Loan Contact Phone Number:2128165681
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****60000K0P801J02
+Loan Attending School Name:Purdue University Global
+Loan Attending School OPEID:00458600
+Loan Date:01/10/2008
+Loan Repayment Begin Date:04/19/2012
+Loan Period Begin Date:01/02/2008
+Loan Period End Date:08/12/2008
+Loan Amount:$3,802.00
+Loan Disbursed Amount:$3,802.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/19/2012
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/19/2012
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$3,802.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:05/03/2012
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:04/19/2012
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:11/03/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/10/2008
+Loan Disbursement Date:06/23/2008
+Loan Disbursement Amount:$1,267.00
+Loan Disbursement Date:03/20/2008
+Loan Disbursement Amount:$1,267.00
+Loan Disbursement Date:01/17/2008
+Loan Disbursement Amount:$1,268.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700191
+Loan Contact Name:NAVIENT SOLUTIONS, LLC.
+Loan Contact Street Address 1:220 Lasley Ave
+Loan Contact Street Address 2:
+Loan Contact City:Wilkes-Barre
+Loan Contact State Code:PA
+Loan Contact Zip Code:18706
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.navient.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834466
+Loan Contact Name:CONDUIT CITIBANK ELT SLC
+Loan Contact Street Address 1:388 GREENWICH ST
+Loan Contact Street Address 2:
+Loan Contact City:NEW YORK
+Loan Contact State Code:NY
+Loan Contact Zip Code:10013(0000)
+Loan Contact Phone Number:2128165681
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****9302G01
+Loan Attending School Name:Southwest School of Medical Assistants
+Loan Attending School OPEID:01209400
+Loan Date:10/23/1985
+Loan Repayment Begin Date:09/22/1986
+Loan Period Begin Date:10/07/1985
+Loan Period End Date:03/10/1986
+Loan Amount:$2,500.00
+Loan Disbursed Amount:$2,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:04/01/1992
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:04/01/1992
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:8.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:8.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:1986
+Capitalized Interest:$0.00
+Net Loan Amount:$2,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/26/2005
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:04/01/1992
+Loan Disbursement Date:10/29/1985
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:899999
+Loan Contact Name:SLMA/EDUSERV TECHNOLOGIES
+Loan Contact Street Address 1:11600 SALLIE MAE DRIVE (V1254)
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:7039046365
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****9302C12888888300
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:04/18/2012
+Loan Repayment Begin Date:04/18/2012
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$4,806.00
+Loan Disbursed Amount:$4,806.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,665.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,811.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.05%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$57.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2012
+Capitalized Interest:$860.00
+Net Loan Amount:$4,806.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,802.00
+Calculated Combined Aggregate OPB:$3,802.00
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/26/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/26/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/18/2012
+Loan Disbursement Date:04/18/2012
+Loan Disbursement Amount:$4,806.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****9302C12888888301
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:04/18/2012
+Loan Repayment Begin Date:04/18/2012
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,654.00
+Loan Outstanding Principal Balance as of Date:05/02/2023
+Loan Outstanding Interest Balance:$1,178.00
+Loan Outstanding Interest Balance as of Date:05/02/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.05%
+Loan Repayment Plan Type Code:IL
+Loan Repayment Plan Type Code Description:INCOME-BASED REPAYMENT
+Loan Repayment Plan Begin Date:10/13/2019
+Loan Repayment Plan Scheduled Amount:$37.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2012
+Capitalized Interest:$154.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$3,500.00
+UpdtDt:05/07/2023
+DelinqDate:11/25/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/14/2023
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:11/22/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/06/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/26/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/25/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/16/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/16/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/02/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/21/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/20/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/26/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/26/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/18/2012
+Loan Disbursement Date:04/18/2012
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Purdue University Global
+Grant Attending School OPEID:00458600
+Grant Award Year:2011 - 2012
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$5,550.00
+Grant Disbursed Amount:$1,850.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):33.333%
+Aid Recipient's Total Percent Eligibility Used (TEU):33.333%
+Grant Contact Type:Attending School
+Grant Contact Code:00458600
+Grant Contact Name:Purdue University Global
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:
+Phone Extension:
+Email Address:studentrelations@purdueglobal.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Purdue University Global
+Grant Attending School OPEID:00458600
+Grant Award Year:2010 - 2011
+Grant Scheduled Amount:$5,550.00
+Grant Award Amount:$7,863.00
+Grant Disbursed Amount:$7,863.00
+Grant First Time:No
+Grant Additional Eligibility:Yes
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):141.676%
+Aid Recipient's Total Percent Eligibility Used (TEU):141.676%
+Grant Contact Type:Attending School
+Grant Contact Code:00458600
+Grant Contact Name:Purdue University Global
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:
+Phone Extension:
+Email Address:studentrelations@purdueglobal.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Purdue University Global
+Grant Attending School OPEID:00458600
+Grant Award Year:2009 - 2010
+Grant Scheduled Amount:$5,350.00
+Grant Award Amount:$8,025.00
+Grant Disbursed Amount:$8,025.00
+Grant First Time:No
+Grant Additional Eligibility:Yes
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):150.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):150.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00458600
+Grant Contact Name:Purdue University Global
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:
+Phone Extension:
+Email Address:studentrelations@purdueglobal.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Purdue University Global
+Grant Attending School OPEID:00458600
+Grant Award Year:2008 - 2009
+Grant Scheduled Amount:$3,581.00
+Grant Award Amount:$3,581.00
+Grant Disbursed Amount:$2,984.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):83.329%
+Aid Recipient's Total Percent Eligibility Used (TEU):83.329%
+Grant Contact Type:Attending School
+Grant Contact Code:00458600
+Grant Contact Name:Purdue University Global
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:
+Phone Extension:
+Email Address:studentrelations@purdueglobal.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Purdue University Global
+Grant Attending School OPEID:00458600
+Grant Award Year:2007 - 2008
+Grant Scheduled Amount:$3,560.00
+Grant Award Amount:$3,560.00
+Grant Disbursed Amount:$2,670.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00458600
+Grant Contact Name:Purdue University Global
+Grant Contact Street Address 1:
+Grant Contact Street Address 2:
+Grant Contact City:
+Grant Contact State Code:
+Grant Contact Zip Code:
+Phone Number:
+Phone Extension:
+Email Address:studentrelations@purdueglobal.edu
+Web Site Address:
+Award School Name:Purdue University Global
+Award School OPEID:00458600
+Award Earliest Disbursement Date:10/20/2011
+Award Loan Period Begin Date:03/23/2011
+Award Loan Period End Date:11/01/2011
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Purdue University Global
+Enrolled School OPEID:00458600
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:11/01/2011

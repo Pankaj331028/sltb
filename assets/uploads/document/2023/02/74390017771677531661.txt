@@ -1,0 +1,584 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-01-03 18:16:11
+Student First Name:NATHAN
+Student Middle Initial:A
+Student Last Name:HABERMAN
+Student Street Address 1:1221 SW 11TH AVE
+Student Street Address 2:
+Student City:PORTLAND
+Student State Code:OR
+Student Country Code:US
+Student Zip Code:97205
+Student Email Address:NHABERMA@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:8123406609
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:8123406609
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/03/2022
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2021
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$61,500.00
+Graduate Aggregate Combined Total:$61,500.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$61,500.00
+Aggregate Combined Total (Undergraduate and Graduate):$61,500.00
+Student Total All Loans Outstanding Principal:$118,081.00
+Student Total All Loans Outstanding Interest:$929.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$61,500.00
+Total <D2> Outstanding Interest:$490.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$56,581.00
+Total <D3> Outstanding Interest:$439.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7559U22G03197001
+Loan Attending School Name:Lewis & Clark College
+Loan Attending School OPEID:00319700
+Loan Date:06/01/2021
+Loan Repayment Begin Date:11/04/2022
+Loan Period Begin Date:06/01/2021
+Loan Period End Date:05/03/2022
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,500.00
+Loan Outstanding Principal Balance as of Date:11/30/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.30%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/23/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/08/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/01/2021
+Loan Disbursement Date:01/04/2022
+Loan Disbursement Amount:$6,834.00
+Loan Disbursement Date:08/23/2021
+Loan Disbursement Amount:$6,833.00
+Loan Disbursement Date:06/01/2021
+Loan Disbursement Amount:$6,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/HESC-EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7559P22G03197001
+Loan Attending School Name:Lewis & Clark College
+Loan Attending School OPEID:00319700
+Loan Date:06/07/2021
+Loan Repayment Begin Date:01/04/2022
+Loan Period Begin Date:06/01/2021
+Loan Period End Date:05/03/2022
+Loan Amount:$23,111.00
+Loan Disbursed Amount:$23,111.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$23,111.00
+Loan Outstanding Principal Balance as of Date:11/30/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.30%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/23/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$23,111.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/08/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/04/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/07/2021
+Loan Disbursement Date:01/04/2022
+Loan Disbursement Amount:$7,703.00
+Loan Disbursement Date:08/23/2021
+Loan Disbursement Amount:$7,704.00
+Loan Disbursement Date:06/07/2021
+Loan Disbursement Amount:$7,704.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/HESC-EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7559U21G03197001
+Loan Attending School Name:Lewis & Clark College
+Loan Attending School OPEID:00319700
+Loan Date:08/24/2020
+Loan Repayment Begin Date:11/04/2022
+Loan Period Begin Date:08/31/2020
+Loan Period End Date:05/04/2021
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,500.00
+Loan Outstanding Principal Balance as of Date:11/30/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.30%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/23/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/08/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2020
+Loan Disbursement Date:01/04/2021
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/24/2020
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/HESC-EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7559P21G03197001
+Loan Attending School Name:Lewis & Clark College
+Loan Attending School OPEID:00319700
+Loan Date:08/24/2020
+Loan Repayment Begin Date:01/04/2021
+Loan Period Begin Date:08/31/2020
+Loan Period End Date:05/04/2021
+Loan Amount:$17,698.00
+Loan Disbursed Amount:$17,698.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$17,698.00
+Loan Outstanding Principal Balance as of Date:11/30/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.30%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/23/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2021
+Capitalized Interest:$0.00
+Net Loan Amount:$17,698.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/08/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/04/2021
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2020
+Loan Disbursement Date:01/04/2021
+Loan Disbursement Amount:$8,849.00
+Loan Disbursement Date:08/24/2020
+Loan Disbursement Amount:$8,849.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/HESC-EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7559U20G03197001
+Loan Attending School Name:Lewis & Clark College
+Loan Attending School OPEID:00319700
+Loan Date:08/06/2019
+Loan Repayment Begin Date:11/04/2022
+Loan Period Begin Date:08/12/2019
+Loan Period End Date:05/01/2020
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$20,500.00
+Loan Outstanding Principal Balance as of Date:11/30/2022
+Loan Outstanding Interest Balance:$490.00
+Loan Outstanding Interest Balance as of Date:11/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/23/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:12/08/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2022
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/03/2022
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/06/2019
+Loan Disbursement Date:01/06/2020
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/06/2019
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/HESC-EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7559P20G03197001
+Loan Attending School Name:Lewis & Clark College
+Loan Attending School OPEID:00319700
+Loan Date:08/06/2019
+Loan Repayment Begin Date:01/06/2020
+Loan Period Begin Date:08/12/2019
+Loan Period End Date:05/01/2020
+Loan Amount:$15,772.00
+Loan Disbursed Amount:$15,772.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$15,772.00
+Loan Outstanding Principal Balance as of Date:11/30/2022
+Loan Outstanding Interest Balance:$439.00
+Loan Outstanding Interest Balance as of Date:11/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.08%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:09/23/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2020
+Capitalized Interest:$0.00
+Net Loan Amount:$15,772.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:12/08/2022
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/04/2022
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/06/2020
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/06/2019
+Loan Disbursement Date:01/06/2020
+Loan Disbursement Amount:$7,886.00
+Loan Disbursement Date:08/06/2019
+Loan Disbursement Amount:$7,886.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:501
+Loan Contact Name:DEPT OF ED/HESC-EDFINANCIAL
+Loan Contact Street Address 1:P.O. BOX 105193
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348(5193)
+Loan Contact Phone Number:855-337-6884
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.edfinancial.com/dl
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:Lewis & Clark College
+Program School OPEID:00319700
+Program Cip Year:2020
+Program Cip Code:220101
+Program CIP Title:Law.
+Program Credential Level Code:06
+Program Credential Level Code Description:DOCTORAL DEGREE
+Program Begin Date:08/12/2019
+Program Published Length in Years:5.4
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/03/2022
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/12/2019
+Award School Name:Lewis & Clark College
+Award School OPEID:00319700
+Award Earliest Disbursement Date:06/01/2021
+Award Loan Period Begin Date:06/01/2021
+Award Loan Period End Date:05/03/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Lewis & Clark College
+Award School OPEID:00319700
+Award Earliest Disbursement Date:06/07/2021
+Award Loan Period Begin Date:06/01/2021
+Award Loan Period End Date:05/03/2022
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Lewis & Clark College
+Award School OPEID:00319700
+Award Earliest Disbursement Date:08/24/2020
+Award Loan Period Begin Date:08/31/2020
+Award Loan Period End Date:05/04/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Lewis & Clark College
+Award School OPEID:00319700
+Award Earliest Disbursement Date:08/24/2020
+Award Loan Period Begin Date:08/31/2020
+Award Loan Period End Date:05/04/2021
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Lewis & Clark College
+Award School OPEID:00319700
+Award Earliest Disbursement Date:08/06/2019
+Award Loan Period Begin Date:08/12/2019
+Award Loan Period End Date:05/01/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Lewis & Clark College
+Award School OPEID:00319700
+Award Earliest Disbursement Date:08/06/2019
+Award Loan Period Begin Date:08/12/2019
+Award Loan Period End Date:05/01/2020
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Lewis & Clark College
+Enrolled School OPEID:00319700
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/03/2022

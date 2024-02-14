@@ -1,0 +1,1435 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-03-25 09:20:23
+Student First Name:TARA
+Student Middle Initial:L
+Student Last Name:CUNNINGHAM
+Student Street Address 1:16870 W 93RD PL
+Student Street Address 2:APT 17104
+Student City:LENEXA
+Student State Code:KS
+Student Country Code:US
+Student Zip Code:662198108
+Student Email Address:TARACUNNINGHAM08@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:3165195105
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:3165195105
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:8169491269
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:12/19/2014
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2013
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$6,201.00
+Undergraduate Aggregate Unsubsidized Total:$22,799.00
+Undergraduate Aggregate Combined Total:$29,000.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:2015
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$47,411.00
+Graduate Aggregate Combined Total:$47,411.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$6,201.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$70,210.00
+Aggregate Combined Total (Undergraduate and Graduate):$76,411.00
+Student Total All Loans Outstanding Principal:$93,455.00
+Student Total All Loans Outstanding Interest:$23,836.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$6,201.00
+Total <D1> Outstanding Interest:$237.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$82,254.00
+Total <D2> Outstanding Interest:$21,919.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$5,000.00
+Total <D3> Outstanding Interest:$1,680.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U15G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/15/2014
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:12/19/2014
+Loan Amount:$10,720.00
+Loan Disbursed Amount:$10,720.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$11,283.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$2,930.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$10.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$381.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$563.00
+Net Loan Amount:$10,720.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,720.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2014
+Loan Disbursement Date:08/15/2014
+Loan Disbursement Amount:$10,720.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****2129P14G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:05/27/2014
+Loan Repayment Begin Date:05/27/2014
+Loan Period Begin Date:06/03/2014
+Loan Period End Date:07/25/2014
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,000.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$1,680.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.41%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$4.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$187.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/27/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/26/2014
+Loan Disbursement Date:05/27/2014
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U14G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/16/2013
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/26/2013
+Loan Period End Date:05/16/2014
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$22,315.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$4,956.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.41%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$20.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$750.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$1,815.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2013
+Loan Disbursement Date:01/13/2014
+Loan Disbursement Amount:$10,250.00
+Loan Disbursement Date:08/16/2013
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U13G01948003
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:05/28/2013
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:06/04/2013
+Loan Period End Date:07/26/2013
+Loan Amount:$5,250.00
+Loan Disbursed Amount:$5,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,985.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$1,723.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$5.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$194.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$735.00
+Net Loan Amount:$5,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,250.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/28/2013
+Loan Disbursement Date:05/28/2013
+Loan Disbursement Amount:$5,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U13G01948002
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:01/24/2013
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:01/22/2013
+Loan Period End Date:05/17/2013
+Loan Amount:$10,941.00
+Loan Disbursed Amount:$10,941.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,727.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$3,666.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$11.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$432.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:B
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$1,786.00
+Net Loan Amount:$10,941.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,941.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/24/2013
+Loan Disbursement Date:01/24/2013
+Loan Disbursement Amount:$10,941.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U13G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/10/2012
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/20/2012
+Loan Period End Date:12/14/2012
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,388.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$688.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$2.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$68.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$388.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/10/2012
+Loan Disbursement Date:08/10/2012
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2129S12G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/12/2011
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/22/2011
+Loan Period End Date:05/11/2012
+Loan Amount:$701.00
+Loan Disbursed Amount:$701.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$701.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$14.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$1.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$46.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$701.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$701.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/2011
+Loan Disbursement Date:01/09/2012
+Loan Disbursement Amount:$350.00
+Loan Disbursement Date:08/12/2011
+Loan Disbursement Amount:$351.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U12G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/12/2011
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/22/2011
+Loan Period End Date:05/11/2012
+Loan Amount:$6,799.00
+Loan Disbursed Amount:$6,799.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,486.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$2,448.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$7.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$284.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$1,687.00
+Net Loan Amount:$6,799.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,799.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/2011
+Loan Disbursement Date:01/09/2012
+Loan Disbursement Amount:$3,399.00
+Loan Disbursement Date:08/12/2011
+Loan Disbursement Amount:$3,400.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2129S11G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:06/07/2011
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:06/07/2011
+Loan Period End Date:07/29/2011
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,000.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$30.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.50%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$1.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$46.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,000.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/07/2011
+Loan Disbursement Date:06/07/2011
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U11G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/11/2010
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/19/2010
+Loan Period End Date:05/20/2011
+Loan Amount:$6,500.00
+Loan Disbursed Amount:$6,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,553.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$2,469.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$7.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$279.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$2,053.00
+Net Loan Amount:$6,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/11/2010
+Loan Disbursement Date:01/12/2011
+Loan Disbursement Amount:$3,250.00
+Loan Disbursement Date:08/11/2010
+Loan Disbursement Amount:$3,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2129S10G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:06/02/2010
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:06/08/2010
+Loan Period End Date:07/30/2010
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,000.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$40.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.60%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$1.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$46.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$0.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,000.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/02/2010
+Loan Disbursement Date:06/02/2010
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U10G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/12/2009
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/20/2009
+Loan Period End Date:05/14/2010
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,613.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$2,200.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$6.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$245.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2010
+Capitalized Interest:$2,113.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/2009
+Loan Disbursement Date:01/06/2010
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/12/2009
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****2129S09G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/13/2008
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/21/2008
+Loan Period End Date:05/15/2009
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,500.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$153.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$3.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$119.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/13/2008
+Loan Disbursement Date:01/07/2009
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:08/13/2008
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****2129U09G01948001
+Loan Attending School Name:University of Kansas
+Loan Attending School OPEID:00194800
+Loan Date:08/13/2008
+Loan Repayment Begin Date:06/20/2015
+Loan Period Begin Date:08/21/2008
+Loan Period End Date:05/15/2009
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,904.00
+Loan Outstanding Principal Balance as of Date:03/06/2023
+Loan Outstanding Interest Balance:$839.00
+Loan Outstanding Interest Balance as of Date:03/06/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:PA
+Loan Repayment Plan Type Code Description:PAY AS YOU EARN REPAYMENT
+Loan Repayment Plan Begin Date:05/06/2019
+Loan Repayment Plan Scheduled Amount:$2.00
+Loan Repayment Plan IDR Plan Anniversary Date:01/06/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:10/30/2021
+Loan Cumulative Payment Amount:$109.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2009
+Capitalized Interest:$904.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:05/07/2016
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:07/23/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/07/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/02/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/03/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/03/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/20/2015
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/20/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/13/2008
+Loan Disbursement Date:01/07/2009
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/13/2008
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:University of Kansas
+Program School OPEID:00194800
+Program Cip Year:2010
+Program Cip Code:131314
+Program CIP Title:Physical Education Teaching and Coaching.
+Program Credential Level Code:05
+Program Credential Level Code Description:MASTER?S DEGREE
+Program Begin Date:01/17/2013
+Program Published Length in Years:2.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:08/25/2014
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:08/15/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:12/19/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:05/27/2014
+Award Loan Period Begin Date:06/03/2014
+Award Loan Period End Date:07/25/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:08/16/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:05/16/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:05/28/2013
+Award Loan Period Begin Date:06/04/2013
+Award Loan Period End Date:07/26/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:01/24/2013
+Award Loan Period Begin Date:01/22/2013
+Award Loan Period End Date:05/17/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:08/10/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:12/14/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:08/10/2012
+Award Loan Period Begin Date:08/20/2012
+Award Loan Period End Date:12/14/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:08/12/2011
+Award Loan Period Begin Date:08/22/2011
+Award Loan Period End Date:05/11/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:08/12/2011
+Award Loan Period Begin Date:08/22/2011
+Award Loan Period End Date:05/11/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Kansas
+Award School OPEID:00194800
+Award Earliest Disbursement Date:08/12/2011
+Award Loan Period Begin Date:08/22/2011
+Award Loan Period End Date:05/11/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Kansas
+Enrolled School OPEID:00194800
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/19/2014

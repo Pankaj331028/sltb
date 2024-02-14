@@ -1,0 +1,3235 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-06-13 12:23:37
+Student First Name:PRAVEEN
+Student Middle Initial:K
+Student Last Name:NAINA
+Student Street Address 1:1762 N TODD HEDRICK
+Student Street Address 2:LN
+Student City:CLOVIS
+Student State Code:CA
+Student Country Code:US
+Student Zip Code:936195160
+Student Email Address:PKN0018@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:5595452592
+Student Home Phone Preferred:No
+Student Cell Phone Country Code:1
+Student Cell Phone Number:5593918153
+Student Cell Phone Preferred:Yes
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:12/17/2009
+Undergraduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Undergraduate Combined Loan Limit Flag:Close to Subsidized Limit
+Undergraduate Award Year:2013
+Undergraduate Dependency Indicator:Independent
+Undergraduate Aggregate Subsidized Total:$14,735.00
+Undergraduate Aggregate Unsubsidized Total:$34,709.00
+Undergraduate Aggregate Combined Total:$49,444.00
+Graduate Subsidized Loan Limit Flag:No loans for category or NOT E, C, R
+Graduate Combined Loan Limit Flag:Close to Subsidized Limit
+Graduate Award Year:2017
+Graduate Dependency Indicator:Independent
+Graduate Aggregate Subsidized Total:$12,733.00
+Graduate Aggregate Unsubsidized Total:$75,303.00
+Graduate Aggregate Combined Total:$88,036.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$27,468.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$110,012.00
+Aggregate Combined Total (Undergraduate and Graduate):$137,480.00
+Student Total All Loans Outstanding Principal:$491,339.00
+Student Total All Loans Outstanding Interest:$61,851.00
+Student Pell Lifetime Eligibility Used:100.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$4,731.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$14,806.00
+Total <D1> Outstanding Interest:$1,875.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$137,567.00
+Total <D2> Outstanding Interest:$16,165.00
+Type Code:D3
+Type Description:DIRECT PLUS GRADUATE
+Total <D3> Outstanding Principal:$312,135.00
+Total <D3> Outstanding Interest:$42,097.00
+Type Code:D5
+Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Total <D5> Outstanding Principal:$8,736.00
+Total <D5> Outstanding Interest:$394.00
+Type Code:D6
+Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Total <D6> Outstanding Principal:$18,095.00
+Total <D6> Outstanding Interest:$1,320.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$0.00
+Total <SF> Outstanding Interest:$0.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$0.00
+Total <SU> Outstanding Interest:$0.00
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7517P17G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:01/19/2017
+Loan Repayment Begin Date:01/19/2017
+Loan Period Begin Date:01/19/2017
+Loan Period End Date:01/19/2018
+Loan Amount:$43,828.00
+Loan Disbursed Amount:$43,828.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$46,778.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$5,513.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.31%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$534.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2017
+Capitalized Interest:$2,950.00
+Net Loan Amount:$43,828.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/28/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/18/2017
+Loan Disbursement Date:01/19/2017
+Loan Disbursement Amount:$43,828.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U17G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:01/18/2017
+Loan Repayment Begin Date:05/01/2018
+Loan Period Begin Date:01/18/2017
+Loan Period End Date:01/18/2018
+Loan Amount:$13,891.00
+Loan Disbursed Amount:$13,891.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$14,783.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$1,466.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.31%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$160.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2017
+Capitalized Interest:$892.00
+Net Loan Amount:$13,891.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$13,891.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:10/31/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/18/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/26/2016
+Loan Disbursement Date:01/18/2017
+Loan Disbursement Amount:$13,891.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U16G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:08/21/2015
+Loan Repayment Begin Date:09/26/2016
+Loan Period Begin Date:08/21/2015
+Loan Period End Date:08/21/2016
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$23,613.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$2,575.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.84%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$262.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2016
+Capitalized Interest:$3,113.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/26/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2015
+Loan Disbursement Date:08/21/2015
+Loan Disbursement Amount:$20,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7517P16G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:08/21/2015
+Loan Repayment Begin Date:08/21/2015
+Loan Period Begin Date:08/21/2015
+Loan Period End Date:08/21/2016
+Loan Amount:$54,128.00
+Loan Disbursed Amount:$54,128.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$63,439.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$8,105.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.84%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$755.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2016
+Capitalized Interest:$9,311.00
+Net Loan Amount:$54,128.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2015
+Loan Disbursement Date:08/21/2015
+Loan Disbursement Amount:$54,128.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U15G22444002
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:04/24/2015
+Loan Repayment Begin Date:09/26/2016
+Loan Period Begin Date:04/24/2015
+Loan Period End Date:04/24/2016
+Loan Amount:$10,250.00
+Loan Disbursed Amount:$10,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,261.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$1,422.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$139.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2015
+Capitalized Interest:$2,011.00
+Net Loan Amount:$10,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,250.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/26/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/24/2015
+Loan Disbursement Date:04/24/2015
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7517P15G22444002
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:04/24/2015
+Loan Repayment Begin Date:04/24/2015
+Loan Period Begin Date:04/24/2015
+Loan Period End Date:04/24/2016
+Loan Amount:$26,302.00
+Loan Disbursed Amount:$26,302.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$32,027.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$4,313.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.21%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$392.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2015
+Capitalized Interest:$5,725.00
+Net Loan Amount:$26,302.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/24/2015
+Loan Disbursement Date:04/24/2015
+Loan Disbursement Amount:$26,302.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U15G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:02/16/2015
+Loan Repayment Begin Date:02/16/2015
+Loan Period Begin Date:12/29/2014
+Loan Period End Date:04/24/2015
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/31/2015
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/31/2015
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.21%
+Loan Actual Interest Rate:6.21%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:02/28/2015
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/16/2015
+Loan Disbursement Date:02/16/2015
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7517P15G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:02/16/2015
+Loan Repayment Begin Date:02/16/2015
+Loan Period Begin Date:12/29/2014
+Loan Period End Date:04/24/2015
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:09/30/2017
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:09/30/2017
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:7.21%
+Loan Actual Interest Rate:7.21%
+Loan Statutory Interest Rate:7.21%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2017
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2015
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/10/2023
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:02/28/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2015
+Loan Disbursement Date:02/16/2015
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U14G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:01/08/2014
+Loan Repayment Begin Date:11/06/2014
+Loan Period Begin Date:01/08/2014
+Loan Period End Date:01/08/2015
+Loan Amount:$10,250.00
+Loan Disbursed Amount:$10,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$12,725.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$1,285.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.41%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$141.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2014
+Capitalized Interest:$2,475.00
+Net Loan Amount:$10,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$10,250.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/06/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/08/2014
+Loan Disbursement Date:01/08/2014
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7517P14G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:01/08/2014
+Loan Repayment Begin Date:01/08/2014
+Loan Period Begin Date:01/06/2014
+Loan Period End Date:04/25/2014
+Loan Amount:$25,220.00
+Loan Disbursed Amount:$25,220.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$32,186.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$3,853.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.41%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$381.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2014
+Capitalized Interest:$6,966.00
+Net Loan Amount:$25,220.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/08/2014
+Loan Disbursement Date:01/08/2014
+Loan Disbursement Amount:$25,220.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U13G22444002
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:04/26/2013
+Loan Repayment Begin Date:11/06/2014
+Loan Period Begin Date:05/06/2013
+Loan Period End Date:12/21/2013
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$27,594.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$3,505.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$326.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$7,182.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,412.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/06/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/26/2013
+Loan Disbursement Date:04/26/2013
+Loan Disbursement Amount:$20,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7517P13G22444002
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:04/26/2013
+Loan Repayment Begin Date:04/26/2013
+Loan Period Begin Date:05/06/2013
+Loan Period End Date:12/21/2013
+Loan Amount:$47,414.00
+Loan Disbursed Amount:$47,414.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$65,323.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$9,639.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$824.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Second Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$18,148.00
+Net Loan Amount:$47,414.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/27/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/26/2013
+Loan Disbursement Date:04/26/2013
+Loan Disbursement Amount:$47,414.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U13G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:08/24/2012
+Loan Repayment Begin Date:11/06/2014
+Loan Period Begin Date:08/24/2012
+Loan Period End Date:08/24/2013
+Loan Amount:$20,500.00
+Loan Disbursed Amount:$20,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$28,385.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$3,605.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$333.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$8,263.00
+Net Loan Amount:$20,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$20,122.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/06/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/24/2012
+Loan Disbursement Date:08/24/2012
+Loan Disbursement Amount:$20,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7517P13G22444001
+Loan Attending School Name:American University of the Caribbean
+Loan Attending School OPEID:02244400
+Loan Date:08/24/2012
+Loan Repayment Begin Date:08/24/2012
+Loan Period Begin Date:08/24/2012
+Loan Period End Date:08/24/2013
+Loan Amount:$46,306.00
+Loan Disbursed Amount:$46,306.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$65,465.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$9,660.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$826.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2013
+Capitalized Interest:$20,147.00
+Net Loan Amount:$46,306.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/28/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/26/2012
+Loan Disbursement Date:08/24/2012
+Loan Disbursement Amount:$46,306.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****44975751724A *
+Loan Attending School Name:University of North Texas Health Science Center at Fort Worth
+Loan Attending School OPEID:00976800
+Loan Date:09/13/2011
+Loan Repayment Begin Date:02/15/2013
+Loan Period Begin Date:09/01/2011
+Loan Period End Date:06/30/2012
+Loan Amount:$6,000.00
+Loan Disbursed Amount:$6,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/03/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$6,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/07/2022
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:04/01/2022
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:01/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/15/2018
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:06/15/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/15/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/07/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/15/2015
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:06/15/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/15/2014
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:10/15/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/13/2011
+Loan Disbursement Date:01/03/2012
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:09/13/2011
+Loan Disbursement Amount:$4,000.00
+Loan Contact Type:Attending School
+Loan Contact Code:00976800
+Loan Contact Name:University of North Texas Health Science Center at Fort Worth
+Loan Contact Street Address 1:UNIVERSITY OF NORTH TEXAS HEALTH SCIENCE CENTER
+Loan Contact Street Address 2:3500 CAMP BOWIE BLVD.
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76107
+Loan Contact Phone Number:817-735-2522
+Loan Contact Phone Extension:
+Loan Contact Email Address:joseph.sanchez@unthsc.edu
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7517S12G09768001
+Loan Attending School Name:University of North Texas Health Science Center at Fort Worth
+Loan Attending School OPEID:00976800
+Loan Date:06/07/2011
+Loan Repayment Begin Date:11/06/2014
+Loan Period Begin Date:06/07/2011
+Loan Period End Date:06/07/2012
+Loan Amount:$8,500.00
+Loan Disbursed Amount:$8,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,745.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$1,234.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$114.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$1,245.00
+Net Loan Amount:$8,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$8,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/06/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/07/2011
+Loan Disbursement Date:06/07/2011
+Loan Disbursement Amount:$8,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U12G09768001
+Loan Attending School Name:University of North Texas Health Science Center at Fort Worth
+Loan Attending School OPEID:00976800
+Loan Date:06/07/2011
+Loan Repayment Begin Date:11/06/2014
+Loan Period Begin Date:06/07/2011
+Loan Period End Date:06/07/2012
+Loan Amount:$12,000.00
+Loan Disbursed Amount:$12,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$17,465.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$2,213.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$204.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$5,975.00
+Net Loan Amount:$12,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$11,490.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/06/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/06/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/07/2011
+Loan Disbursement Date:06/07/2011
+Loan Disbursement Amount:$12,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7517S11G30908001
+Loan Attending School Name:Lake Erie College of Osteopathic Medicine
+Loan Attending School OPEID:03090800
+Loan Date:09/10/2010
+Loan Repayment Begin Date:03/24/2011
+Loan Period Begin Date:09/10/2010
+Loan Period End Date:09/10/2011
+Loan Amount:$4,250.00
+Loan Disbursed Amount:$4,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,061.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$641.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$60.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$828.00
+Net Loan Amount:$4,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,233.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/14/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/06/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/31/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/24/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/23/2010
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/10/2010
+Loan Disbursement Date:09/10/2010
+Loan Disbursement Amount:$4,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U11G30908001
+Loan Attending School Name:Lake Erie College of Osteopathic Medicine
+Loan Attending School OPEID:03090800
+Loan Date:09/10/2010
+Loan Repayment Begin Date:03/24/2011
+Loan Period Begin Date:09/10/2010
+Loan Period End Date:09/10/2011
+Loan Amount:$499.00
+Loan Disbursed Amount:$499.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$741.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$94.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$9.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$269.00
+Net Loan Amount:$499.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$472.00
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/14/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/06/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/31/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/24/2011
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:09/23/2010
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/10/2010
+Loan Disbursement Date:09/10/2010
+Loan Disbursement Amount:$499.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D3
+Loan Type Description:DIRECT PLUS GRADUATE
+Loan Award ID:*****7517P11G30908001
+Loan Attending School Name:Lake Erie College of Osteopathic Medicine
+Loan Attending School OPEID:03090800
+Loan Date:09/10/2010
+Loan Repayment Begin Date:09/10/2010
+Loan Period Begin Date:09/10/2010
+Loan Period End Date:09/10/2011
+Loan Amount:$4,478.00
+Loan Disbursed Amount:$4,478.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,917.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$1,014.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:04/01/2018
+Loan Repayment Plan Scheduled Amount:$87.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year Graduate
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2011
+Capitalized Interest:$2,770.00
+Net Loan Amount:$4,478.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:06/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:06/17/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:03/18/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:12/29/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/06/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/31/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/15/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/09/2011
+Loan Disbursement Date:09/10/2010
+Loan Disbursement Amount:$4,478.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****70000AF7F06N03
+Loan Attending School Name:California State University, Fresno
+Loan Attending School OPEID:00114700
+Loan Date:07/20/2007
+Loan Repayment Begin Date:02/02/2009
+Loan Period Begin Date:08/27/2007
+Loan Period End Date:05/15/2008
+Loan Amount:$3,221.00
+Loan Disbursed Amount:$3,221.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:03/25/2022
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:03/25/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Fourth Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$3,221.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/22/2023
+DelinqDate:
+Current Loan Status:DN
+Current Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status:DN
+Loan Status Description:DEFAULTED, THEN PAID IN FULL BY CONSOLIDATION
+Loan Status Effective Date:03/25/2022
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:05/02/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/30/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/09/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/14/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/23/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/11/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/31/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/23/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/23/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/23/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/23/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/20/2007
+Loan Disbursement Date:01/03/2008
+Loan Disbursement Amount:$1,611.00
+Loan Disbursement Date:08/14/2007
+Loan Disbursement Amount:$1,610.00
+Loan Contact Type:Current Lender
+Loan Contact Code:833253
+Loan Contact Name:DEUTSCHE BANK ELT NAVIENT & SLM TRUSTS
+Loan Contact Street Address 1:11600 SALLIE MAE DR,DEB SOUTHERLAND
+Loan Contact Street Address 2:
+Loan Contact City:RESTON
+Loan Contact State Code:VA
+Loan Contact Zip Code:20193(0000)
+Loan Contact Phone Number:888-272-5543
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:951
+Loan Contact Name:EDUCATIONAL CREDIT MANAGEMENT CORP
+Loan Contact Street Address 1:PO BOX 16408
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:http://ecmc.org
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****70001003784304
+Loan Attending School Name:California State University, Fresno
+Loan Attending School OPEID:00114700
+Loan Date:08/28/2006
+Loan Repayment Begin Date:02/02/2009
+Loan Period Begin Date:08/28/2006
+Loan Period End Date:05/17/2007
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:08/03/2012
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:08/03/2012
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:09/10/2012
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:08/03/2012
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/31/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/07/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/17/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/08/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/17/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/07/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/17/2010
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/07/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/23/2009
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/28/2006
+Loan Disbursement Date:01/04/2007
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:09/07/2006
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700121
+Loan Contact Name:NELNET LOAN SERVICES INC. (DEN)
+Loan Contact Street Address 1:121 S 13TH ST
+Loan Contact Street Address 2:SUITE 201
+Loan Contact City:LINCOLN
+Loan Contact State Code:NE
+Loan Contact Zip Code:68508
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:706
+Loan Contact Name:ECMC-CA
+Loan Contact Street Address 1:PO BOX 16408.
+Loan Contact Street Address 2:
+Loan Contact City:ST PAUL
+Loan Contact State Code:MN
+Loan Contact Zip Code:55116(0408)
+Loan Contact Phone Number:888-221-3262
+Loan Contact Phone Extension:
+Loan Contact Email Address:customerservice@ecmc.org
+Loan Contact Web Site Address:https://www.ecmc.org/borrowers/index.html
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:833934
+Loan Contact Name:WELLS FARGO BANK ELT NELNET TRUST
+Loan Contact Street Address 1:3015 S PARKER RD
+Loan Contact Street Address 2:STE 400
+Loan Contact City:AURORA
+Loan Contact State Code:CO
+Loan Contact Zip Code:80014
+Loan Contact Phone Number:800-874-3150
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.nelnet.net
+Most Relevant:No
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7517S06G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:09/26/2005
+Loan Repayment Begin Date:07/15/2006
+Loan Period Begin Date:09/26/2005
+Loan Period End Date:06/16/2006
+Loan Amount:$3,667.00
+Loan Disbursed Amount:$3,667.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/15/2006
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/15/2006
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$3,667.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/11/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/15/2006
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/25/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/26/2005
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/09/2005
+Loan Disbursement Date:01/04/2006
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:09/26/2005
+Loan Disbursement Amount:$1,834.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7517S05G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:09/15/2004
+Loan Repayment Begin Date:07/15/2006
+Loan Period Begin Date:09/20/2004
+Loan Period End Date:06/10/2005
+Loan Amount:$4,487.00
+Loan Disbursed Amount:$4,487.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/15/2006
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/15/2006
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$4,487.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/11/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/15/2006
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/25/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/15/2004
+Loan Disbursement Date:03/21/2005
+Loan Disbursement Amount:$820.00
+Loan Disbursement Date:12/27/2004
+Loan Disbursement Amount:$1,833.00
+Loan Disbursement Date:09/15/2004
+Loan Disbursement Amount:$1,834.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****7517S04G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:12/03/2003
+Loan Repayment Begin Date:07/15/2006
+Loan Period Begin Date:09/22/2003
+Loan Period End Date:06/11/2004
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/15/2006
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/15/2006
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Third Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2004
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$0.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:07/11/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/15/2006
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/25/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/03/2003
+Loan Disbursement Date:03/19/2004
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:12/26/2003
+Loan Disbursement Amount:$1,166.00
+Loan Disbursement Date:12/03/2003
+Loan Disbursement Amount:$1,168.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****7517U03G01316101
+Loan Attending School Name:University of California, Riverside
+Loan Attending School OPEID:00131600
+Loan Date:09/16/2002
+Loan Repayment Begin Date:07/15/2006
+Loan Period Begin Date:09/23/2002
+Loan Period End Date:06/13/2003
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:07/15/2006
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:07/15/2006
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:2.36%
+Loan Actual Interest Rate:2.36%
+Loan Statutory Interest Rate:2.36%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:First Year
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2003
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$0.00
+Calculated Combined Aggregate OPB:
+UpdtDt:07/11/2011
+DelinqDate:
+Current Loan Status:PN
+Current Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status:PN
+Loan Status Description:NON-DEFAULTED, PAID IN FULL THROUGH CONSOLIDATION LOAN
+Loan Status Effective Date:07/15/2006
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:03/25/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/16/2002
+Loan Disbursement Date:03/21/2003
+Loan Disbursement Amount:$875.00
+Loan Disbursement Date:01/06/2003
+Loan Disbursement Amount:$875.00
+Loan Disbursement Date:09/16/2002
+Loan Disbursement Amount:$875.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:583
+Loan Contact Name:DIRECT LOAN SERVICING CENTER (ACS)
+Loan Contact Street Address 1:P.O. BOX 5609
+Loan Contact Street Address 2:
+Loan Contact City:GREENVILLE
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403(5609)
+Loan Contact Phone Number:
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****7517U22G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/25/2022
+Loan Repayment Begin Date:03/25/2022
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$4,721.00
+Loan Disbursed Amount:$4,721.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,721.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$4,721.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:06/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/25/2022
+Loan Disbursement Date:03/25/2022
+Loan Disbursement Amount:$4,721.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D5
+Loan Type Description:DIRECT CONSOLIDATED UNSUBSIDIZED
+Loan Award ID:*****7517U06G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:07/13/2006
+Loan Repayment Begin Date:07/13/2006
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$2,666.00
+Loan Disbursed Amount:$2,666.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,015.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$394.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.75%
+Loan Repayment Plan Type Code:CS
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/09/2018
+Loan Repayment Plan Scheduled Amount:$32.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2007
+Capitalized Interest:$1,631.00
+Net Loan Amount:$2,666.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,625.00
+Calculated Combined Aggregate OPB:$2,625.00
+UpdtDt:06/06/2023
+DelinqDate:02/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/16/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/14/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/19/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/06/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/31/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/15/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/28/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/01/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/13/2006
+Loan Disbursement Date:07/13/2006
+Loan Disbursement Amount:$2,666.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****7517S22G77778001
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:03/25/2022
+Loan Repayment Begin Date:03/25/2022
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$4,639.00
+Loan Disbursed Amount:$4,639.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,639.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2022
+Capitalized Interest:$0.00
+Net Loan Amount:$4,639.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,221.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$3,221.00
+UpdtDt:06/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/25/2022
+Loan Disbursement Date:03/25/2022
+Loan Disbursement Amount:$4,639.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D6
+Loan Type Description:DIRECT CONSOLIDATED SUBSIDIZED
+Loan Award ID:*****7517S06G77778101
+Loan Attending School Name:SCHOOL CODE FOR CONSOLIDATION LOANS
+Loan Attending School OPEID:88888800
+Loan Date:07/13/2006
+Loan Repayment Begin Date:07/13/2006
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$11,514.00
+Loan Disbursed Amount:$11,514.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$13,456.00
+Loan Outstanding Principal Balance as of Date:06/05/2023
+Loan Outstanding Interest Balance:$1,320.00
+Loan Outstanding Interest Balance as of Date:06/05/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.75%
+Loan Repayment Plan Type Code:CS
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/09/2018
+Loan Repayment Plan Scheduled Amount:$106.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:Not Available
+Additional Unsubsidized Loan Flag:No Denial
+Award Year:2007
+Capitalized Interest:$2,081.00
+Net Loan Amount:$11,514.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$11,514.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:$11,514.00
+UpdtDt:06/06/2023
+DelinqDate:02/15/2018
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2023
+Loan Status:DU
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:02/16/2019
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:11/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/13/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/31/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/08/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/21/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/04/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/27/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/17/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/19/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/06/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/31/2011
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/15/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/28/2006
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/01/2006
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/13/2006
+Loan Disbursement Date:07/13/2006
+Loan Disbursement Amount:$11,514.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO Box 300001
+Loan Contact Street Address 2:
+Loan Contact City:Greenville
+Loan Contact State Code:TX
+Loan Contact Zip Code:75403
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://www.aidvantage.com
+Most Relevant:Yes
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:California State University, Fresno
+Grant Attending School OPEID:00114700
+Grant Award Year:2008 - 2009
+Grant Scheduled Amount:$4,731.00
+Grant Award Amount:$4,731.00
+Grant Disbursed Amount:$4,731.00
+Grant First Time:Yes
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00114700
+Grant Contact Name:California State University, Fresno
+Grant Contact Street Address 1:5150 NORTH MAPLE AVE JA64
+Grant Contact Street Address 2:
+Grant Contact City:FRESNO
+Grant Contact State Code:CA
+Grant Contact Zip Code:93740(8026)
+Phone Number:559-278-6552
+Phone Extension:
+Email Address:kellyr@csufresno.edu
+Web Site Address:
+Program School Name:American University of the Caribbean
+Program School OPEID:02244400
+Program Cip Year:2010
+Program Cip Code:511201
+Program CIP Title:Medicine.
+Program Credential Level Code:06
+Program Credential Level Code Description:DOCTORAL DEGREE
+Program Begin Date:09/03/2012
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:09/04/2017
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:07/10/2017
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:01/19/2017
+Award Loan Period Begin Date:01/16/2017
+Award Loan Period End Date:09/01/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:01/18/2017
+Award Loan Period Begin Date:01/16/2017
+Award Loan Period End Date:09/01/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:04/22/2016
+Award Loan Period Begin Date:05/02/2016
+Award Loan Period End Date:12/30/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:04/22/2016
+Award Loan Period Begin Date:05/02/2016
+Award Loan Period End Date:12/30/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:08/21/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:04/29/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:08/21/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:04/29/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:04/24/2015
+Award Loan Period Begin Date:04/27/2015
+Award Loan Period End Date:08/21/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:04/24/2015
+Award Loan Period Begin Date:04/27/2015
+Award Loan Period End Date:08/21/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:02/16/2015
+Award Loan Period Begin Date:12/29/2014
+Award Loan Period End Date:04/24/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:02/16/2015
+Award Loan Period Begin Date:12/29/2014
+Award Loan Period End Date:04/24/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:01/08/2014
+Award Loan Period Begin Date:01/06/2014
+Award Loan Period End Date:04/25/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:01/08/2014
+Award Loan Period Begin Date:01/06/2014
+Award Loan Period End Date:04/25/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:04/26/2013
+Award Loan Period Begin Date:05/06/2013
+Award Loan Period End Date:12/21/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:04/26/2013
+Award Loan Period Begin Date:05/06/2013
+Award Loan Period End Date:12/21/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:08/24/2012
+Award Loan Period Begin Date:09/03/2012
+Award Loan Period End Date:04/26/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:American University of the Caribbean
+Award School OPEID:02244400
+Award Earliest Disbursement Date:08/24/2012
+Award Loan Period Begin Date:09/03/2012
+Award Loan Period End Date:04/26/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Texas Health Science Center at Fort Worth
+Award School OPEID:00976800
+Award Earliest Disbursement Date:06/07/2011
+Award Loan Period Begin Date:05/31/2011
+Award Loan Period End Date:05/04/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Texas Health Science Center at Fort Worth
+Award School OPEID:00976800
+Award Earliest Disbursement Date:06/07/2011
+Award Loan Period Begin Date:05/31/2011
+Award Loan Period End Date:05/04/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:American University of the Caribbean
+Enrolled School OPEID:02244400
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:10/30/2017
+Enrolled School Name:University of North Texas Health Science Center at Fort Worth
+Enrolled School OPEID:00976800
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/04/2012
+Enrolled School Name:Lake Erie College of Osteopathic Medicine
+Enrolled School OPEID:03090800
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:09/23/2010
+Enrolled School Name:California State University, Fresno
+Enrolled School OPEID:00114700
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:12/17/2009
+Enrolled School Name:Reedley College
+Enrolled School OPEID:00130800
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:08/19/2009
+Enrolled School Name:University of California, Riverside
+Enrolled School OPEID:00131600
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:03/25/2006

@@ -1,0 +1,660 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-03-08 14:28:02
+Student First Name:CATHERINE
+Student Middle Initial:A
+Student Last Name:KELLY
+Student Street Address 1:4429 BILL GAUSE RD
+Student Street Address 2:
+Student City:MULLINS
+Student State Code:SC
+Student Country Code:US
+Student Zip Code:29574
+Student Email Address:CATKELLY108@GMAIL.COM
+Student Home Phone Country Code:
+Student Home Phone Number:7322983195
+Student Home Phone Preferred:Y
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7322983195
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:05/08/2021
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2016
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$3,474.00
+Undergraduate Aggregate Unsubsidized Total:$1,982.00
+Undergraduate Aggregate Combined Total:$5,456.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$3,474.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$1,982.00
+Aggregate Combined Total (Undergraduate and Graduate):$5,456.00
+Student Total All Loans Outstanding Principal:$5,803.00
+Student Total All Loans Outstanding Interest:$107.00
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$3,514.00
+Total <D0> Outstanding Interest:$46.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$2,289.00
+Total <D2> Outstanding Interest:$61.00
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4863S16G09345001
+Loan Attending School Name:Stockton University
+Loan Attending School OPEID:00934500
+Loan Date:02/04/2016
+Loan Repayment Begin Date:11/11/2016
+Loan Period Begin Date:01/19/2016
+Loan Period End Date:05/09/2016
+Loan Amount:$1,750.00
+Loan Disbursed Amount:$1,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,757.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$23.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:03/19/2020
+Loan Repayment Plan Scheduled Amount:$11.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.4
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/29/2019
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$31.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$20.00
+Net Loan Amount:$1,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,737.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:04/09/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/09/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/11/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/24/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/17/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/06/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/11/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/04/2016
+Loan Disbursement Date:02/04/2016
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4863U16G09345001
+Loan Attending School Name:Stockton University
+Loan Attending School OPEID:00934500
+Loan Date:02/04/2016
+Loan Repayment Begin Date:11/11/2016
+Loan Period Begin Date:01/19/2016
+Loan Period End Date:05/09/2016
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,134.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$30.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:03/19/2020
+Loan Repayment Plan Scheduled Amount:$7.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/29/2019
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$20.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$143.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$991.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:04/09/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/09/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/11/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/24/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/17/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/06/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/11/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:02/04/2016
+Loan Disbursement Date:02/04/2016
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****4863S16G03451001
+Loan Attending School Name:Coastal Carolina University
+Loan Attending School OPEID:00345100
+Loan Date:08/27/2015
+Loan Repayment Begin Date:11/11/2016
+Loan Period Begin Date:08/17/2015
+Loan Period End Date:12/10/2015
+Loan Amount:$1,750.00
+Loan Disbursed Amount:$1,750.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,757.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$23.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:03/19/2020
+Loan Repayment Plan Scheduled Amount:$11.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:0.4
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/29/2019
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$31.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$20.00
+Net Loan Amount:$1,750.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$1,737.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:04/09/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/09/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/11/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/24/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/17/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/06/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/11/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/2015
+Loan Disbursement Date:08/27/2015
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****4863U16G03451001
+Loan Attending School Name:Coastal Carolina University
+Loan Attending School OPEID:00345100
+Loan Date:08/27/2015
+Loan Repayment Begin Date:11/11/2016
+Loan Period Begin Date:08/17/2015
+Loan Period End Date:12/10/2015
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,155.00
+Loan Outstanding Principal Balance as of Date:02/28/2023
+Loan Outstanding Interest Balance:$31.00
+Loan Outstanding Interest Balance as of Date:02/28/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:SG
+Loan Repayment Plan Type Code Description:GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:03/19/2020
+Loan Repayment Plan Scheduled Amount:$7.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/29/2019
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$21.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$164.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$991.00
+Calculated Combined Aggregate OPB:
+UpdtDt:03/07/2023
+DelinqDate:04/09/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/09/2021
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/11/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/24/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/17/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/07/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/28/2019
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/09/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/06/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/11/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/2015
+Loan Disbursement Date:08/27/2015
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:500
+Loan Contact Name:DEPT OF ED/MOHELA
+Loan Contact Street Address 1:633 SPIRIT DR
+Loan Contact Street Address 2:
+Loan Contact City:CHESTERFIELD
+Loan Contact State Code:MO
+Loan Contact Zip Code:63005
+Loan Contact Phone Number:888-866-4352
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.mohela.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Program School Name:Horry - Georgetown Technical College
+Program School OPEID:00492500
+Program Cip Year:2020
+Program Cip Code:240101
+Program CIP Title:Liberal Arts and Sciences/Liberal Studies.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:01/11/2021
+Program Published Length in Years:2.7
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/08/2021
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/11/2021
+Program School Name:Horry - Georgetown Technical College
+Program School OPEID:00492500
+Program Cip Year:2020
+Program Cip Code:030511
+Program CIP Title:Forest Technology/Technician.
+Program Credential Level Code:02
+Program Credential Level Code Description:ASSOCIATE?S DEGREE
+Program Begin Date:08/24/2020
+Program Published Length in Years:2.7
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:05/08/2021
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:08/24/2020
+Program School Name:Horry - Georgetown Technical College
+Program School OPEID:00492500
+Program Cip Year:2020
+Program Cip Code:240102
+Program CIP Title:General Studies.
+Program Credential Level Code:99
+Program Credential Level Code Description:NON-CREDENTIAL PROGRAM (PREP. COURSEWORK / TEACHER CERT.)
+Program Begin Date:08/27/2018
+Program Published Length in Years:3.3
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:11/12/2020
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:08/27/2018
+Program School Name:Coastal Carolina University
+Program School OPEID:00345100
+Program Cip Year:2010
+Program Cip Code:521401
+Program CIP Title:Marketing/Marketing Management, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:03/20/2018
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/16/2019
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:08/21/2019
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:03/27/2019
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/24/2019
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:03/20/2018
+Program School Name:Coastal Carolina University
+Program School OPEID:00345100
+Program Cip Year:2010
+Program Cip Code:520201
+Program CIP Title:Business Administration and Management, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:04/05/2017
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:03/20/2018
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:04/05/2017
+Program School Name:Coastal Carolina University
+Program School OPEID:00345100
+Program Cip Year:2010
+Program Cip Code:240102
+Program CIP Title:General Studies.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:01/09/2017
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:04/05/2017
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/09/2017
+Program School Name:Stockton University
+Program School OPEID:00934500
+Program Cip Year:2010
+Program Cip Code:260202
+Program CIP Title:Biochemistry.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:01/19/2016
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/15/2016
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:09/06/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/19/2016
+Program School Name:Coastal Carolina University
+Program School OPEID:00345100
+Program Cip Year:2010
+Program Cip Code:400501
+Program CIP Title:Chemistry, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:06/16/2015
+Program Published Length in Years:4.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:12/10/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:06/16/2015
+Award School Name:Stockton University
+Award School OPEID:00934500
+Award Earliest Disbursement Date:02/04/2016
+Award Loan Period Begin Date:01/19/2016
+Award Loan Period End Date:05/09/2016
+Award Subsidized Usage:0.4
+Award Subsidy Status:
+Award School Name:Stockton University
+Award School OPEID:00934500
+Award Earliest Disbursement Date:02/04/2016
+Award Loan Period Begin Date:01/19/2016
+Award Loan Period End Date:05/09/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Coastal Carolina University
+Award School OPEID:00345100
+Award Earliest Disbursement Date:08/27/2015
+Award Loan Period Begin Date:08/17/2015
+Award Loan Period End Date:12/10/2015
+Award Subsidized Usage:0.4
+Award Subsidy Status:
+Award School Name:Coastal Carolina University
+Award School OPEID:00345100
+Award Earliest Disbursement Date:08/27/2015
+Award Loan Period Begin Date:08/17/2015
+Award Loan Period End Date:12/10/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Horry - Georgetown Technical College
+Enrolled School OPEID:00492500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/08/2021
+Enrolled School Name:Coastal Carolina University
+Enrolled School OPEID:00345100
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/16/2019
+Enrolled School Name:Stockton University
+Enrolled School OPEID:00934500
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/15/2016

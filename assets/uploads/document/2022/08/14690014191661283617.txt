@@ -1,0 +1,471 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2022-08-23 15:33:46
+Student First Name:JULIA
+Student Middle Initial:A
+Student Last Name:APPLEGATE
+Student Street Address 1:156 BOWLINE RD
+Student Street Address 2:
+Student City:MANAHAWKIN
+Student State Code:NJ
+Student Country Code:US
+Student Zip Code:080501706
+Student Email Address:JULIA.A.APPLEGATE@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:6092769929
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6092769929
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:N
+Student Enrollment Status Code Description:NOT AVAILABLE
+Student Enrollment Status Effective Date:
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$0.00
+Undergraduate Aggregate Unsubsidized Total:$0.00
+Undergraduate Aggregate Combined Total:$0.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$0.00
+Aggregate Combined Total (Undergraduate and Graduate):$0.00
+Student Total All Loans Outstanding Principal:$31,425.00
+Student Total All Loans Outstanding Interest:$14,946.00
+Student Pell Lifetime Eligibility Used:
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:
+Student Total All Grants:$0.00
+Type Code:D4
+Type Description:DIRECT PLUS PARENT
+Total <D4> Outstanding Principal:$31,425.00
+Total <D4> Outstanding Interest:$14,946.00
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****5974P12E01761113
+Loan Attending School Name:Universal Technical Institute - Pennsylvania
+Loan Attending School OPEID:02362002
+Loan Date:01/05/2012
+Loan Repayment Begin Date:04/18/2012
+Loan Period Begin Date:01/03/2012
+Loan Period End Date:07/27/2012
+Loan Amount:$12,826.00
+Loan Disbursed Amount:$12,826.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$13,936.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$6,756.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:10/21/2018
+Loan Repayment Plan Scheduled Amount:$125.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/11/2022
+Loan Next Payment Due Date:05/24/2014
+Loan Cumulative Payment Amount:$1.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$1,177.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/16/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:06/28/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/24/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/24/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/28/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/18/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/24/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/25/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/01/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/24/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/24/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/24/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/24/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/24/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/24/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/22/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/20/2012
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/05/2012
+Loan Disbursement Date:04/18/2012
+Loan Disbursement Amount:$6,413.00
+Loan Disbursement Date:01/12/2012
+Loan Disbursement Amount:$2,500.00
+Loan Disbursement Date:01/05/2012
+Loan Disbursement Amount:$3,913.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****5974P11E01761122
+Loan Attending School Name:Universal Technical Institute - Pennsylvania
+Loan Attending School OPEID:02362002
+Loan Date:04/21/2011
+Loan Repayment Begin Date:12/13/2011
+Loan Period Begin Date:04/18/2011
+Loan Period End Date:12/23/2011
+Loan Amount:$7,971.00
+Loan Disbursed Amount:$7,971.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,570.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$4,032.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:10/21/2018
+Loan Repayment Plan Scheduled Amount:$76.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/11/2022
+Loan Next Payment Due Date:05/24/2014
+Loan Cumulative Payment Amount:$1.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$710.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/16/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:06/28/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/24/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/24/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/28/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/18/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/05/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/24/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/25/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/01/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/24/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/24/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/24/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/24/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/24/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/24/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/24/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/24/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/24/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/13/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/21/2011
+Loan Disbursement Date:12/13/2011
+Loan Disbursement Amount:$285.00
+Loan Disbursement Date:09/14/2011
+Loan Disbursement Amount:$3,843.00
+Loan Disbursement Date:04/21/2011
+Loan Disbursement Amount:$3,843.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D4
+Loan Type Description:DIRECT PLUS PARENT
+Loan Award ID:*****5974P11E01761011
+Loan Attending School Name:Universal Technical Institute - Pennsylvania
+Loan Attending School OPEID:02362002
+Loan Date:09/15/2010
+Loan Repayment Begin Date:01/05/2011
+Loan Period Begin Date:09/13/2010
+Loan Period End Date:04/15/2011
+Loan Amount:$8,706.00
+Loan Disbursed Amount:$8,706.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,919.00
+Loan Outstanding Principal Balance as of Date:08/08/2022
+Loan Outstanding Interest Balance:$4,158.00
+Loan Outstanding Interest Balance as of Date:08/08/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:7.90%
+Loan Repayment Plan Type Code:EG
+Loan Repayment Plan Type Code Description:EXTENDED GRADUATED REPAYMENT
+Loan Repayment Plan Begin Date:10/21/2018
+Loan Repayment Plan Scheduled Amount:$79.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:07/11/2022
+Loan Next Payment Due Date:05/24/2014
+Loan Cumulative Payment Amount:$1.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$720.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:08/16/2022
+DelinqDate:
+Current Loan Status:BK
+Current Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status:BK
+Loan Status Description:BANKRUPTCY CLAIM, ACTIVE
+Loan Status Effective Date:06/28/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/24/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/24/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/28/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/18/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/05/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/24/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:04/01/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/24/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/25/2016
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/01/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/24/2015
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2015
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:05/24/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/24/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/24/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2013
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/24/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:09/24/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/24/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/24/2012
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/24/2012
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/05/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/15/2010
+Loan Disbursement Date:01/05/2011
+Loan Disbursement Amount:$4,353.00
+Loan Disbursement Date:09/15/2010
+Loan Disbursement Amount:$4,353.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:578
+Loan Contact Name:DEPT OF ED/AIDVANTAGE
+Loan Contact Street Address 1:PO BOX 740351
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30348
+Loan Contact Phone Number:800-722-1300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:http://www.aidvantage.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:

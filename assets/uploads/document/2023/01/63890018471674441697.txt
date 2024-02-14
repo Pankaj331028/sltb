@@ -1,0 +1,1461 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-01-22 21:41:22
+Student First Name:JUSTIN
+Student Middle Initial:T
+Student Last Name:RUOFF
+Student Street Address 1:1121 LEWIS AVE
+Student Street Address 2:
+Student City:JEANNETTE
+Student State Code:PA
+Student Country Code:US
+Student Zip Code:15644
+Student Email Address:JRUOFF32@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:7247572661
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7247572661
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:1
+Student Work Phone Number:7247572661
+Student Work Phone Preferred:N
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:W
+Student Enrollment Status Code Description:WITHDRAWN
+Student Enrollment Status Effective Date:04/30/2016
+Undergraduate Subsidized Loan Limit Flag:C
+Undergraduate Combined Loan Limit Flag:C
+Undergraduate Award Year:2016
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$22,000.00
+Undergraduate Aggregate Unsubsidized Total:$32,000.00
+Undergraduate Aggregate Combined Total:$54,000.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$22,000.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$32,000.00
+Aggregate Combined Total (Undergraduate and Graduate):$54,000.00
+Student Total All Loans Outstanding Principal:$67,493.00
+Student Total All Loans Outstanding Interest:$891.00
+Student Pell Lifetime Eligibility Used:175.012%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$9,112.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$23,132.00
+Total <D1> Outstanding Interest:$78.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$41,681.00
+Total <D2> Outstanding Interest:$176.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$2,680.00
+Total <PU> Outstanding Interest:$637.00
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****9434S16G03379001
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/21/2015
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/31/2015
+Loan Period End Date:04/30/2016
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,743.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$20.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$15.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$34.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$243.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2015
+Loan Disbursement Date:12/28/2015
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/21/2015
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9434U16G03379001
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/21/2015
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/31/2015
+Loan Period End Date:04/30/2016
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,969.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$29.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$21.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$46.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:5
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$969.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2015
+Loan Disbursement Date:12/28/2015
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:08/21/2015
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****9434916003379602
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/21/2015
+Loan Repayment Begin Date:03/01/2017
+Loan Period Begin Date:08/01/2015
+Loan Period End Date:12/31/2015
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$1,914.00
+Loan Outstanding Principal Balance as of Date:04/06/2022
+Loan Outstanding Interest Balance:$455.00
+Loan Outstanding Interest Balance as of Date:04/06/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:5.00%
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/06/2022
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/20/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/01/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2022
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/01/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:07/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/21/2015
+Loan Disbursement Date:01/05/2016
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/21/2015
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:529
+Loan Contact Name:DEPT OF ED/ECSI FEDERAL PERKINS SERVICER
+Loan Contact Street Address 1:ECSI FEDERAL PERKINS LOAN SERVICER
+Loan Contact Street Address 2:P.O. BOX 836
+Loan Contact City:CORAOPOLIS
+Loan Contact State Code:PA
+Loan Contact Zip Code:15108
+Loan Contact Phone Number:866-313-3797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://efpls.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****9434S15G03379001
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/15/2014
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:04/25/2015
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,762.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$22.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$35.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$262.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2014
+Loan Disbursement Date:12/26/2014
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/15/2014
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9434U15G03379001
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/15/2014
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:04/25/2015
+Loan Amount:$7,000.00
+Loan Disbursed Amount:$7,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$8,418.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$32.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$23.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$51.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$1,418.00
+Net Loan Amount:$7,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$7,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2014
+Loan Disbursement Date:12/26/2014
+Loan Disbursement Amount:$3,500.00
+Loan Disbursement Date:08/15/2014
+Loan Disbursement Amount:$3,500.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9434U14G03379002
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:05/15/2014
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:05/05/2014
+Loan Period End Date:08/09/2014
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$5,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,923.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$20.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$33.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:P
+Award Year:2014
+Capitalized Interest:$923.00
+Net Loan Amount:$5,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$5,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/15/2014
+Loan Disbursement Date:05/15/2014
+Loan Disbursement Amount:$5,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****9434S14G03379001
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/16/2013
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/26/2013
+Loan Period End Date:04/26/2014
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,832.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$19.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$33.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$332.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2013
+Loan Disbursement Date:12/27/2013
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/16/2013
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9434U14G03379001
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/16/2013
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/26/2013
+Loan Period End Date:04/26/2014
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,416.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$8.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$7.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$13.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$416.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2013
+Loan Disbursement Date:12/27/2013
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/16/2013
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****9434914003379601
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/16/2013
+Loan Repayment Begin Date:03/01/2017
+Loan Period Begin Date:08/01/2013
+Loan Period End Date:12/31/2013
+Loan Amount:$800.00
+Loan Disbursed Amount:$800.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$766.00
+Loan Outstanding Principal Balance as of Date:04/06/2022
+Loan Outstanding Interest Balance:$182.00
+Loan Outstanding Interest Balance as of Date:04/06/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:5.00%
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:04/06/2022
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$0.00
+Net Loan Amount:$800.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/20/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2023
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/01/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/01/2022
+Loan Status:DF
+Loan Status Description:DEFAULTED, UNRESOLVED
+Loan Status Effective Date:10/01/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/01/2017
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:01/01/2014
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/16/2013
+Loan Disbursement Date:12/27/2013
+Loan Disbursement Amount:$400.00
+Loan Disbursement Date:08/16/2013
+Loan Disbursement Amount:$400.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:529
+Loan Contact Name:DEPT OF ED/ECSI FEDERAL PERKINS SERVICER
+Loan Contact Street Address 1:ECSI FEDERAL PERKINS LOAN SERVICER
+Loan Contact Street Address 2:P.O. BOX 836
+Loan Contact City:CORAOPOLIS
+Loan Contact State Code:PA
+Loan Contact Zip Code:15108
+Loan Contact Phone Number:866-313-3797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://efpls.ed.gov/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****9434S13G03379001
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/27/2012
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/27/2012
+Loan Period End Date:04/27/2013
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,795.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$17.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.40%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$16.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$31.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$295.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/2012
+Loan Disbursement Date:12/28/2012
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/27/2012
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9434U13G03379001
+Loan Attending School Name:University of Pittsburgh
+Loan Attending School OPEID:00337900
+Loan Date:08/27/2012
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/27/2012
+Loan Period End Date:04/27/2013
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,913.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$15.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$8.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$21.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$913.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$2,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/27/2012
+Loan Disbursement Date:12/28/2012
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/27/2012
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9434U12G10176001
+Loan Attending School Name:Westmoreland County Community College
+Loan Attending School OPEID:01017600
+Loan Date:12/01/2011
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/18/2011
+Loan Period End Date:05/02/2012
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,844.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$35.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$18.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$51.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$2,344.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/01/2011
+Loan Disbursement Date:01/27/2012
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:12/01/2011
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****9434U11G10176001
+Loan Attending School Name:Westmoreland County Community College
+Loan Attending School OPEID:01017600
+Loan Date:09/09/2010
+Loan Repayment Begin Date:11/01/2016
+Loan Period Begin Date:08/19/2010
+Loan Period End Date:05/04/2011
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,198.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$37.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:I5
+Loan Repayment Plan Type Code Description:REVISED PAY AS YOU EARN PLAN
+Loan Repayment Plan Begin Date:12/22/2019
+Loan Repayment Plan Scheduled Amount:$19.00
+Loan Repayment Plan IDR Plan Anniversary Date:08/24/2023
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/03/2020
+Loan Next Payment Due Date:09/30/2023
+Loan Cumulative Payment Amount:$53.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$2,698.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,500.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/09/2023
+DelinqDate:02/04/2020
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/16/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/12/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/20/2016
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/14/2016
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/01/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/01/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/09/2010
+Loan Disbursement Date:01/27/2011
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:11/23/2010
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:581
+Loan Contact Name:DEPT OF ED/GREAT LAKES
+Loan Contact Street Address 1:P.O. BOX 790321
+Loan Contact Street Address 2:
+Loan Contact City:ST. LOUIS
+Loan Contact State Code:MO
+Loan Contact Zip Code:63179(0321)
+Loan Contact Phone Number:800-236-4300
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:https://mygreatlakes.org
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Pittsburgh
+Grant Attending School OPEID:00337900
+Grant Award Year:2015 - 2016
+Grant Scheduled Amount:$5,775.00
+Grant Award Amount:$5,775.00
+Grant Disbursed Amount:$4,332.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):75.013%
+Aid Recipient's Total Percent Eligibility Used (TEU):75.013%
+Grant Contact Type:Attending School
+Grant Contact Code:00337900
+Grant Contact Name:University of Pittsburgh
+Grant Contact Street Address 1:127 THACKERAY HALL
+Grant Contact Street Address 2:UNIVERSITY COLLECTIONS
+Grant Contact City:PITTSBURGH
+Grant Contact State Code:PA
+Grant Contact Zip Code:15260
+Phone Number:412-624-7560
+Phone Extension:
+Email Address:jstumme@cfo.pitt.edu
+Web Site Address:http://www.oafa.pitt.edu
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Pittsburgh
+Grant Attending School OPEID:00337900
+Grant Award Year:2014 - 2015
+Grant Scheduled Amount:$4,780.00
+Grant Award Amount:$4,780.00
+Grant Disbursed Amount:$4,780.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00337900
+Grant Contact Name:University of Pittsburgh
+Grant Contact Street Address 1:127 THACKERAY HALL
+Grant Contact Street Address 2:UNIVERSITY COLLECTIONS
+Grant Contact City:PITTSBURGH
+Grant Contact State Code:PA
+Grant Contact Zip Code:15260
+Phone Number:412-624-7560
+Phone Extension:
+Email Address:jstumme@cfo.pitt.edu
+Web Site Address:http://www.oafa.pitt.edu
+Program School Name:University of Pittsburgh
+Program School OPEID:00337900
+Program Cip Year:2010
+Program Cip Code:110701
+Program CIP Title:Computer Science.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:12/19/2013
+Program Published Length in Years:6.9
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:W
+Program Status Code Description:WITHDRAWN
+Program Status Effective Date:04/30/2016
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:01/06/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/31/2015
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:05/04/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:01/05/2015
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:08/21/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:04/30/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:08/21/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:04/30/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:08/15/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:04/25/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:08/15/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:04/25/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:05/15/2014
+Award Loan Period Begin Date:05/05/2014
+Award Loan Period End Date:08/09/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:08/16/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:04/26/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:08/16/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:04/26/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:08/27/2012
+Award Loan Period Begin Date:08/27/2012
+Award Loan Period End Date:04/27/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Pittsburgh
+Award School OPEID:00337900
+Award Earliest Disbursement Date:08/27/2012
+Award Loan Period Begin Date:08/27/2012
+Award Loan Period End Date:04/27/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Westmoreland County Community College
+Award School OPEID:01017600
+Award Earliest Disbursement Date:12/01/2011
+Award Loan Period Begin Date:08/18/2011
+Award Loan Period End Date:05/02/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Pittsburgh
+Enrolled School OPEID:00337900
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:04/30/2016
+Enrolled School Name:Westmoreland County Community College
+Enrolled School OPEID:01017600
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/01/2012
